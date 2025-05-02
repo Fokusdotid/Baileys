@@ -1,11 +1,24 @@
 import { Boom } from '@hapi/boom'
 import NodeCache from '@cacheable/node-cache'
 import readline from 'readline'
-import makeWASocket, { AnyMessageContent, BinaryInfo, delay, DisconnectReason, downloadAndProcessHistorySyncNotification, encodeWAM, fetchLatestBaileysVersion, getAggregateVotesInPollMessage, getHistoryMsg, isJidNewsletter, makeCacheableSignalKeyStore, proto, useMultiFileAuthState, WAMessageContent, WAMessageKey } from '../src'
+import makeWASocket, {
+	AnyMessageContent,
+	BinaryInfo, delay,
+	DisconnectReason,
+	encodeWAM, fetchLatestBaileysVersion,
+	getAggregateVotesInPollMessage,
+	getContentType, getHistoryMsg,
+	isJidNewsletter, jidNormalizedUser,
+	makeCacheableSignalKeyStore, proto,
+	useMultiFileAuthState, WAMessageContent,
+	WAMessageKey, WAMessageStubType,
+	generateWAMessageFromContent,
+} from '../src'
 //import MAIN_LOGGER from '../src/Utils/logger'
 import open from 'open'
 import fs from 'fs'
 import P from 'pino'
+import { format } from 'util'
 
 const logger = P({ timestamp: () => `,"time":"${new Date().toJSON()}"` }, P.destination('./wa-logs.txt'))
 logger.level = 'trace'
@@ -39,6 +52,7 @@ const startSock = async() => {
 			/** caching makes the store faster to send/recv messages */
 			keys: makeCacheableSignalKeyStore(state.keys, logger),
 		},
+		syncFullHistory: false,
 		msgRetryCounterCache,
 		generateHighQualityLinkPreview: true,
 		// ignore all broadcast messages -- to receive the same
@@ -74,7 +88,7 @@ const startSock = async() => {
 		console.log(`Pairing code: ${code}`)
 	}
 
-	const sendMessageWTyping = async(msg: AnyMessageContent, jid: string) => {
+	const sendMessageWTyping = async(jid: string, msg: AnyMessageContent, options?: object) => {
 		await sock.presenceSubscribe(jid)
 		await delay(500)
 
@@ -83,7 +97,7 @@ const startSock = async() => {
 
 		await sock.sendPresenceUpdate('paused', jid)
 
-		await sock.sendMessage(jid, msg)
+		await sock.sendMessage(jid, msg, options)
 	}
 
 	// the process function lets you process all events that just occurred
@@ -167,82 +181,89 @@ const startSock = async() => {
 
 			// received a new message
 			if(events['messages.upsert']) {
-				const upsert = events['messages.upsert']
-				console.log('recv messages ', JSON.stringify(upsert, undefined, 2))
+				const upsert = events['messages.upsert'];
+				let m = upsert.messages[upsert.messages.length - 1];
+				m = proto.WebMessageInfo.fromObject(m);
+				const senderKeyDistributionMessage = m.message?.senderKeyDistributionMessage?.groupId;
+				const chat = jidNormalizedUser(m.key?.remoteJid || (senderKeyDistributionMessage !== "status@broadcast" && senderKeyDistributionMessage) || '');
+				const mtype = m.message && getContentType(m.message) || m.message && Object.keys(m.message)[0] || '';
+				const msg = !m.message ? null : /viewOnceMessage/.test(mtype) ? m.message[Object.keys(m.message)[0]] : m.message[mtype];
+				const body = typeof msg === "string" ? msg : msg && 'text' in msg && msg.text ? msg.text : msg && 'caption' in msg && msg.caption ? msg.caption : msg && 'contentText' in msg && msg.contentText ? msg.contentText : '';
+				if (m.messageStubType) {
+					console.log({
+						messageStubType: WAMessageStubType[m.messageStubType],
+						messageStubParameters: m.messageStubParameters,
+						participant: m.participant
+					})
+				};
 
-				if(upsert.type === 'notify') {
-					for (const msg of upsert.messages) {
-						//TODO: More built-in implementation of this
-						/* if (
-							msg.message?.protocolMessage?.type ===
-							proto.Message.ProtocolMessage.Type.HISTORY_SYNC_NOTIFICATION
-						  ) {
-							const historySyncNotification = getHistoryMsg(msg.message)
-							if (
-							  historySyncNotification?.syncType ==
-							  proto.HistorySync.HistorySyncType.ON_DEMAND
-							) {
-							  const { messages } =
-								await downloadAndProcessHistorySyncNotification(
-								  historySyncNotification,
-								  {}
-								)
+				const str2Regex = (str: string) => str.replace(/[|\\{}()[\]^$+*?.]/g, '\\$&');
+				const customPrefix = /^×?> /;
+				const prefix = new RegExp('^([' + ('‎/!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + '])');
+				const match = (customPrefix.test(body) ? [[customPrefix.exec(body), customPrefix]].find(p => p[1]) : [[prefix.exec(body), prefix]].find(p => p[1])) || '';
+				const usedPrefix = (match[0] || match[1] || '')[0] || '';
+				const noPrefix = body.replace(usedPrefix, '');
+				let [command, ...args] = noPrefix.trim().split` `.filter(v => v);
+				args = args || [];
+				let _args = noPrefix.trim().split` `.slice(1);
+				let text = _args.join` `;
+				command = (command || '').toLowerCase();
+				if (!usedPrefix) return;
+				console.log(`[Message]: ${m.pushName} > ${usedPrefix + command}`);
+				switch(command) {
+					case "tes":
+					case "test":
+						const msg = generateWAMessageFromContent(chat, {
+							interactiveMessage: proto.Message.InteractiveMessage.create({
+								body: { text: "Halo" },
+								footer: { text: "FOOTER" },
+								header: { title: "PILIH DISINI", hasMediaAttachment: false },
+								nativeFlowMessage: {
+									buttons: [
+										{ name: "quick_reply", buttonParamsJson: JSON.stringify({ display_text: "Button 1", id: ".ping" }) },
+										{ name: "quick_reply", buttonParamsJson: JSON.stringify({ display_text: "Button 2", id: ".ping" }) }
+									]
+								}
+							})
+						}, {
+							userJid: m.key.participant || ""
+						});
 
-
-								const chatId = onDemandMap.get(
-									historySyncNotification!.peerDataRequestSessionId!
-								)
-
-								console.log(messages)
-
-							  onDemandMap.delete(
-								historySyncNotification!.peerDataRequestSessionId!
-							  )
-
-							  /*
-								// 50 messages is the limit imposed by whatsapp
-								//TODO: Add ratelimit of 7200 seconds
-								//TODO: Max retries 10
-								const messageId = await sock.fetchMessageHistory(
-									50,
-									oldestMessageKey,
-									oldestMessageTimestamp
-								)
-								onDemandMap.set(messageId, chatId)
-							}
-						  } */
-
-						if (msg.message?.conversation || msg.message?.extendedTextMessage?.text) {
-							const text = msg.message?.conversation || msg.message?.extendedTextMessage?.text
-							if (text == "requestPlaceholder" && !upsert.requestId) {
-								const messageId = await sock.requestPlaceholderResend(msg.key)
-								console.log('requested placeholder resync, id=', messageId)
-							} else if (upsert.requestId) {
-								console.log('Message received from phone, id=', upsert.requestId, msg)
-							}
-
-							// go to an old chat and send this
-							if (text == "onDemandHistSync") {
-								const messageId = await sock.fetchMessageHistory(50, msg.key, msg.messageTimestamp!)
-								console.log('requested on-demand sync, id=', messageId)
-							}
-						}
-
-						if(!msg.key.fromMe && doReplies && !isJidNewsletter(msg.key?.remoteJid!)) {
-
-							console.log('replying to', msg.key.remoteJid)
-							await sock!.readMessages([msg.key])
-							await sendMessageWTyping({ text: 'Hello there!' }, msg.key.remoteJid!)
-						}
-					}
+						await sock.relayMessage(chat, msg.message!, { messageId: msg.key.id! });
+						await sendMessageWTyping(chat, { text: format(JSON.stringify(msg, null, 4)) }, { quoted: m });
+						break;
+					case "ping":
+						await sendMessageWTyping(chat, { text: "OKE" }, { quoted: m });
+						break;
+					default:
+						if (customPrefix.test(body)) {
+							let i = 15;
+							let _return;
+							let _syntax;
+							let _text = (/^(×>)/.test(usedPrefix) ? 'return ' : '') + noPrefix;
+							try {
+								// @ts-ignore
+								let exec = new (async () => { }).constructor('print', 'm', 'sock', 'chat', 'process', 'args', 'require', _text);
+								_return = await exec.call(sock, (...args) => {
+									if (--i < 1) return;
+									return sendMessageWTyping(chat, { text: format(...args) }, { quoted: m });
+								}, m, sock, chat, process, args, require);
+							} catch (e) {
+								_return = e;
+							} finally {
+								await sock.sendMessage(chat, { text: format(_return) }, { quoted: m });
+							};
+						};
 				}
-			}
+			};
 
 			// messages updated like status delivered, message deleted etc.
 			if(events['messages.update']) {
+				/*
 				console.log(
 					JSON.stringify(events['messages.update'], undefined, 2)
 				)
+				*/
 
 				for(const { key, update } of events['messages.update']) {
 					if(update.pollUpdates) {
@@ -258,22 +279,6 @@ const startSock = async() => {
 						}
 					}
 				}
-			}
-
-			if(events['message-receipt.update']) {
-				console.log(events['message-receipt.update'])
-			}
-
-			if(events['messages.reaction']) {
-				console.log(events['messages.reaction'])
-			}
-
-			if(events['presence.update']) {
-				console.log(events['presence.update'])
-			}
-
-			if(events['chats.update']) {
-				console.log(events['chats.update'])
 			}
 
 			if(events['contacts.update']) {

@@ -62,7 +62,7 @@ type ViewOnce = {
 }
 
 type Editable = {
-  edit?: WAMessageKey
+    edit?: WAMessageKey
 }
 type WithDimensions = {
     width?: number
@@ -139,7 +139,7 @@ export type WASendableProduct = Omit<proto.Message.ProductMessage.IProductSnapsh
 
 export type AnyRegularMessageContent = (
     ({
-	    text: string
+        text: string
         linkPreview?: WAUrlInfo | null
     }
     & Mentionable & Contextable & Editable)
@@ -239,7 +239,7 @@ export type MessageGenerationOptionsFromContent = MiscMessageGenerationOptions &
 export type WAMediaUploadFunction = (readStream: Readable, opts: { fileEncSha256B64: string, mediaType: MediaType, timeoutMs?: number }) => Promise<{ mediaUrl: string, directPath: string }>
 
 export type MediaGenerationOptions = {
-	logger?: ILogger
+    logger?: ILogger
     mediaTypeOverride?: MediaType
     upload: WAMediaUploadFunction
     /** cache media so it does not have to be uploaded again */
@@ -254,7 +254,7 @@ export type MediaGenerationOptions = {
     font?: number
 }
 export type MessageContentGenerationOptions = MediaGenerationOptions & {
-	getUrlInfo?: (text: string) => Promise<WAUrlInfo | undefined>
+    getUrlInfo?: (text: string) => Promise<WAUrlInfo | undefined>
     getProfilePicUrl?: (jid: string, type: 'image' | 'preview') => Promise<string | undefined>
 }
 export type MessageGenerationOptions = MessageContentGenerationOptions & MessageGenerationOptionsFromContent
