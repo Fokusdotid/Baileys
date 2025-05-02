@@ -613,7 +613,6 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 
 				logger.debug({ msgId }, `sending message to ${participants.length} devices`)
 
-				console.log(message)
 				await sendNode(stanza)
 			}
 		)
