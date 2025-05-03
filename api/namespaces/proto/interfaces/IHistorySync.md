@@ -1,6 +1,6 @@
 # Interface: IHistorySync
 
-Defined in: [WAProto/index.d.ts:14334](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14334)
+Defined in: [WAProto/index.d.ts:14334](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14334)
 
 Properties of a HistorySync.
 
@@ -10,7 +10,7 @@ Properties of a HistorySync.
 
 > `optional` **aiWaitListState**: `null` \| [`BotAIWaitListState`](../namespaces/HistorySync/enumerations/BotAIWaitListState.md)
 
-Defined in: [WAProto/index.d.ts:14373](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14373)
+Defined in: [WAProto/index.d.ts:14373](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14373)
 
 HistorySync aiWaitListState
 
@@ -20,7 +20,7 @@ HistorySync aiWaitListState
 
 > `optional` **callLogRecords**: `null` \| [`ICallLogRecord`](ICallLogRecord.md)[]
 
-Defined in: [WAProto/index.d.ts:14370](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14370)
+Defined in: [WAProto/index.d.ts:14370](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14370)
 
 HistorySync callLogRecords
 
@@ -30,7 +30,7 @@ HistorySync callLogRecords
 
 > `optional` **chunkOrder**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14346](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14346)
+Defined in: [WAProto/index.d.ts:14346](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14346)
 
 HistorySync chunkOrder
 
@@ -40,7 +40,7 @@ HistorySync chunkOrder
 
 > `optional` **companionMetaNonce**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14379](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14379)
+Defined in: [WAProto/index.d.ts:14379](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14379)
 
 HistorySync companionMetaNonce
 
@@ -50,7 +50,7 @@ HistorySync companionMetaNonce
 
 > `optional` **conversations**: `null` \| [`IConversation`](IConversation.md)[]
 
-Defined in: [WAProto/index.d.ts:14340](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14340)
+Defined in: [WAProto/index.d.ts:14340](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14340)
 
 HistorySync conversations
 
@@ -60,7 +60,7 @@ HistorySync conversations
 
 > `optional` **globalSettings**: `null` \| [`IGlobalSettings`](IGlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:14355](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14355)
+Defined in: [WAProto/index.d.ts:14355](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14355)
 
 HistorySync globalSettings
 
@@ -70,7 +70,7 @@ HistorySync globalSettings
 
 > `optional` **pastParticipants**: `null` \| [`IPastParticipants`](IPastParticipants.md)[]
 
-Defined in: [WAProto/index.d.ts:14367](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14367)
+Defined in: [WAProto/index.d.ts:14367](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14367)
 
 HistorySync pastParticipants
 
@@ -80,7 +80,7 @@ HistorySync pastParticipants
 
 > `optional` **phoneNumberToLidMappings**: `null` \| [`IPhoneNumberToLIDMapping`](IPhoneNumberToLIDMapping.md)[]
 
-Defined in: [WAProto/index.d.ts:14376](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14376)
+Defined in: [WAProto/index.d.ts:14376](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14376)
 
 HistorySync phoneNumberToLidMappings
 
@@ -90,7 +90,7 @@ HistorySync phoneNumberToLidMappings
 
 > `optional` **progress**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14349](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14349)
+Defined in: [WAProto/index.d.ts:14349](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14349)
 
 HistorySync progress
 
@@ -100,7 +100,7 @@ HistorySync progress
 
 > `optional` **pushnames**: `null` \| [`IPushname`](IPushname.md)[]
 
-Defined in: [WAProto/index.d.ts:14352](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14352)
+Defined in: [WAProto/index.d.ts:14352](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14352)
 
 HistorySync pushnames
 
@@ -110,7 +110,7 @@ HistorySync pushnames
 
 > `optional` **recentStickers**: `null` \| [`IStickerMetadata`](IStickerMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:14364](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14364)
+Defined in: [WAProto/index.d.ts:14364](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14364)
 
 HistorySync recentStickers
 
@@ -120,7 +120,7 @@ HistorySync recentStickers
 
 > `optional` **shareableChatIdentifierEncryptionKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14382](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14382)
+Defined in: [WAProto/index.d.ts:14382](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14382)
 
 HistorySync shareableChatIdentifierEncryptionKey
 
@@ -130,7 +130,7 @@ HistorySync shareableChatIdentifierEncryptionKey
 
 > `optional` **statusV3Messages**: `null` \| [`IWebMessageInfo`](IWebMessageInfo.md)[]
 
-Defined in: [WAProto/index.d.ts:14343](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14343)
+Defined in: [WAProto/index.d.ts:14343](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14343)
 
 HistorySync statusV3Messages
 
@@ -140,7 +140,7 @@ HistorySync statusV3Messages
 
 > **syncType**: [`HistorySyncType`](../namespaces/HistorySync/enumerations/HistorySyncType.md)
 
-Defined in: [WAProto/index.d.ts:14337](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14337)
+Defined in: [WAProto/index.d.ts:14337](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14337)
 
 HistorySync syncType
 
@@ -150,7 +150,7 @@ HistorySync syncType
 
 > `optional` **threadDsTimeframeOffset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14361](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14361)
+Defined in: [WAProto/index.d.ts:14361](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14361)
 
 HistorySync threadDsTimeframeOffset
 
@@ -160,6 +160,6 @@ HistorySync threadDsTimeframeOffset
 
 > `optional` **threadIdUserSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14358](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14358)
+Defined in: [WAProto/index.d.ts:14358](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L14358)
 
 HistorySync threadIdUserSecret

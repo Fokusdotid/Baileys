@@ -2,7 +2,7 @@
 
 > **Event**: `object`
 
-Defined in: [src/WAM/constants.ts:15355](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAM/constants.ts#L15355)
+Defined in: [src/WAM/constants.ts:15355](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/WAM/constants.ts#L15355)
 
 ## Type declaration
 

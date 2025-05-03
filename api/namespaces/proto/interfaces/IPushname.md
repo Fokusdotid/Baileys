@@ -1,6 +1,6 @@
 # Interface: IPushname
 
-Defined in: [WAProto/index.d.ts:37566](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37566)
+Defined in: [WAProto/index.d.ts:37566](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37566)
 
 Properties of a Pushname.
 
@@ -10,7 +10,7 @@ Properties of a Pushname.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37569](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37569)
+Defined in: [WAProto/index.d.ts:37569](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37569)
 
 Pushname id
 
@@ -20,6 +20,6 @@ Pushname id
 
 > `optional` **pushname**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37572](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37572)
+Defined in: [WAProto/index.d.ts:37572](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37572)
 
 Pushname pushname

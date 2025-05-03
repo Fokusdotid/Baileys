@@ -2,4 +2,4 @@
 
 > **WAMessage**: [`IWebMessageInfo`](../namespaces/proto/interfaces/IWebMessageInfo.md)
 
-Defined in: [src/Types/Message.ts:12](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/Types/Message.ts#L12)
+Defined in: [src/Types/Message.ts:12](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/Message.ts#L12)

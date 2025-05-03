@@ -1,6 +1,6 @@
 # Class: WamoUserIdentifierAction
 
-Defined in: [WAProto/index.d.ts:46680](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46680)
+Defined in: [WAProto/index.d.ts:46680](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46680)
 
 Represents a WamoUserIdentifierAction.
 
@@ -14,7 +14,7 @@ Represents a WamoUserIdentifierAction.
 
 > **new WamoUserIdentifierAction**(`properties`?): [`WamoUserIdentifierAction`](WamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:46686](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46686)
+Defined in: [WAProto/index.d.ts:46686](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46686)
 
 Constructs a new WamoUserIdentifierAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **identifier**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46689](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46689)
+Defined in: [WAProto/index.d.ts:46689](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46689)
 
 WamoUserIdentifierAction identifier.
 
@@ -50,7 +50,7 @@ WamoUserIdentifierAction identifier.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46759](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46759)
+Defined in: [WAProto/index.d.ts:46759](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46759)
 
 Converts this WamoUserIdentifierAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WamoUserIdentifierAction`](WamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:46696](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46696)
+Defined in: [WAProto/index.d.ts:46696](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46696)
 
 Creates a new WamoUserIdentifierAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ WamoUserIdentifierAction instance
 
 > `static` **decode**(`reader`, `length`?): [`WamoUserIdentifierAction`](WamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:46722](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46722)
+Defined in: [WAProto/index.d.ts:46722](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46722)
 
 Decodes a WamoUserIdentifierAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WamoUserIdentifierAction`](WamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:46731](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46731)
+Defined in: [WAProto/index.d.ts:46731](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46731)
 
 Decodes a WamoUserIdentifierAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46704](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46704)
+Defined in: [WAProto/index.d.ts:46704](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46704)
 
 Encodes the specified WamoUserIdentifierAction message. Does not implicitly [verify](WamoUserIdentifierAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46712](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46712)
+Defined in: [WAProto/index.d.ts:46712](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46712)
 
 Encodes the specified WamoUserIdentifierAction message, length delimited. Does not implicitly [verify](WamoUserIdentifierAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WamoUserIdentifierAction`](WamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:46745](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46745)
+Defined in: [WAProto/index.d.ts:46745](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46745)
 
 Creates a WamoUserIdentifierAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ WamoUserIdentifierAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46766](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46766)
+Defined in: [WAProto/index.d.ts:46766](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46766)
 
 Gets the default type url for WamoUserIdentifierAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46753](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46753)
+Defined in: [WAProto/index.d.ts:46753](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46753)
 
 Creates a plain object from a WamoUserIdentifierAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46738](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L46738)
+Defined in: [WAProto/index.d.ts:46738](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L46738)
 
 Verifies a WamoUserIdentifierAction message.
 

@@ -1,6 +1,6 @@
 # Class: ADVSignedDeviceIdentity
 
-Defined in: [WAProto/index.d.ts:271](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L271)
+Defined in: [WAProto/index.d.ts:271](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L271)
 
 Represents a ADVSignedDeviceIdentity.
 
@@ -14,7 +14,7 @@ Represents a ADVSignedDeviceIdentity.
 
 > **new ADVSignedDeviceIdentity**(`properties`?): [`ADVSignedDeviceIdentity`](ADVSignedDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:277](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L277)
+Defined in: [WAProto/index.d.ts:277](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L277)
 
 Constructs a new ADVSignedDeviceIdentity.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:286](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L286)
+Defined in: [WAProto/index.d.ts:286](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L286)
 
 ADVSignedDeviceIdentity accountSignature.
 
@@ -50,7 +50,7 @@ ADVSignedDeviceIdentity accountSignature.
 
 > `optional` **accountSignatureKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:283](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L283)
+Defined in: [WAProto/index.d.ts:283](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L283)
 
 ADVSignedDeviceIdentity accountSignatureKey.
 
@@ -64,7 +64,7 @@ ADVSignedDeviceIdentity accountSignatureKey.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:280](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L280)
+Defined in: [WAProto/index.d.ts:280](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L280)
 
 ADVSignedDeviceIdentity details.
 
@@ -78,7 +78,7 @@ ADVSignedDeviceIdentity details.
 
 > `optional` **deviceSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:289](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L289)
+Defined in: [WAProto/index.d.ts:289](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L289)
 
 ADVSignedDeviceIdentity deviceSignature.
 
@@ -92,7 +92,7 @@ ADVSignedDeviceIdentity deviceSignature.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:359](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L359)
+Defined in: [WAProto/index.d.ts:359](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L359)
 
 Converts this ADVSignedDeviceIdentity to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ADVSignedDeviceIdentity`](ADVSignedDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:296](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L296)
+Defined in: [WAProto/index.d.ts:296](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L296)
 
 Creates a new ADVSignedDeviceIdentity instance using the specified properties.
 
@@ -132,7 +132,7 @@ ADVSignedDeviceIdentity instance
 
 > `static` **decode**(`reader`, `length`?): [`ADVSignedDeviceIdentity`](ADVSignedDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:322](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L322)
+Defined in: [WAProto/index.d.ts:322](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L322)
 
 Decodes a ADVSignedDeviceIdentity message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ADVSignedDeviceIdentity`](ADVSignedDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:331](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L331)
+Defined in: [WAProto/index.d.ts:331](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L331)
 
 Decodes a ADVSignedDeviceIdentity message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:304](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L304)
+Defined in: [WAProto/index.d.ts:304](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L304)
 
 Encodes the specified ADVSignedDeviceIdentity message. Does not implicitly [verify](ADVSignedDeviceIdentity.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:312](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L312)
+Defined in: [WAProto/index.d.ts:312](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L312)
 
 Encodes the specified ADVSignedDeviceIdentity message, length delimited. Does not implicitly [verify](ADVSignedDeviceIdentity.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ADVSignedDeviceIdentity`](ADVSignedDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:345](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L345)
+Defined in: [WAProto/index.d.ts:345](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L345)
 
 Creates a ADVSignedDeviceIdentity message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ ADVSignedDeviceIdentity
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:366](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L366)
+Defined in: [WAProto/index.d.ts:366](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L366)
 
 Gets the default type url for ADVSignedDeviceIdentity
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:353](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L353)
+Defined in: [WAProto/index.d.ts:353](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L353)
 
 Creates a plain object from a ADVSignedDeviceIdentity message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:338](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L338)
+Defined in: [WAProto/index.d.ts:338](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L338)
 
 Verifies a ADVSignedDeviceIdentity message.
 

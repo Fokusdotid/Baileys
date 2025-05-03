@@ -1,6 +1,6 @@
 # Enumeration: CallType
 
-Defined in: [WAProto/index.d.ts:19638](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19638)
+Defined in: [WAProto/index.d.ts:19638](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19638)
 
 CallType enum.
 
@@ -10,7 +10,7 @@ CallType enum.
 
 > **REGULAR**: `0`
 
-Defined in: [WAProto/index.d.ts:19639](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19639)
+Defined in: [WAProto/index.d.ts:19639](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19639)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:19639](https://github.com/Fokusdotid/Baileys/blo
 
 > **SCHEDULED\_CALL**: `1`
 
-Defined in: [WAProto/index.d.ts:19640](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19640)
+Defined in: [WAProto/index.d.ts:19640](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19640)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:19640](https://github.com/Fokusdotid/Baileys/blo
 
 > **VOICE\_CHAT**: `2`
 
-Defined in: [WAProto/index.d.ts:19641](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19641)
+Defined in: [WAProto/index.d.ts:19641](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19641)

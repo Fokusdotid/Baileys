@@ -1,6 +1,6 @@
 # Enumeration: ImagineType
 
-Defined in: [WAProto/index.d.ts:3731](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3731)
+Defined in: [WAProto/index.d.ts:3731](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3731)
 
 ImagineType enum.
 
@@ -10,7 +10,7 @@ ImagineType enum.
 
 > **EDIT**: `4`
 
-Defined in: [WAProto/index.d.ts:3736](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3736)
+Defined in: [WAProto/index.d.ts:3736](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3736)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:3736](https://github.com/Fokusdotid/Baileys/blob
 
 > **FLASH**: `3`
 
-Defined in: [WAProto/index.d.ts:3735](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3735)
+Defined in: [WAProto/index.d.ts:3735](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3735)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:3735](https://github.com/Fokusdotid/Baileys/blob
 
 > **IMAGINE**: `1`
 
-Defined in: [WAProto/index.d.ts:3733](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3733)
+Defined in: [WAProto/index.d.ts:3733](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3733)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:3733](https://github.com/Fokusdotid/Baileys/blob
 
 > **MEMU**: `2`
 
-Defined in: [WAProto/index.d.ts:3734](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3734)
+Defined in: [WAProto/index.d.ts:3734](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3734)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:3734](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:3732](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3732)
+Defined in: [WAProto/index.d.ts:3732](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3732)

@@ -1,6 +1,6 @@
 # Interface: IADVSignedKeyIndexList
 
-Defined in: [WAProto/index.d.ts:479](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L479)
+Defined in: [WAProto/index.d.ts:479](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L479)
 
 Properties of a ADVSignedKeyIndexList.
 
@@ -10,7 +10,7 @@ Properties of a ADVSignedKeyIndexList.
 
 > `optional` **accountSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:485](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L485)
+Defined in: [WAProto/index.d.ts:485](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L485)
 
 ADVSignedKeyIndexList accountSignature
 
@@ -20,7 +20,7 @@ ADVSignedKeyIndexList accountSignature
 
 > `optional` **accountSignatureKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:488](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L488)
+Defined in: [WAProto/index.d.ts:488](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L488)
 
 ADVSignedKeyIndexList accountSignatureKey
 
@@ -30,6 +30,6 @@ ADVSignedKeyIndexList accountSignatureKey
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:482](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L482)
+Defined in: [WAProto/index.d.ts:482](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L482)
 
 ADVSignedKeyIndexList details

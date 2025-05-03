@@ -2,7 +2,7 @@
 
 > **isJidGroup**(`jid`): `undefined` \| `boolean`
 
-Defined in: [src/WABinary/jid-utils.ts:58](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WABinary/jid-utils.ts#L58)
+Defined in: [src/WABinary/jid-utils.ts:58](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/WABinary/jid-utils.ts#L58)
 
 is the jid a group
 

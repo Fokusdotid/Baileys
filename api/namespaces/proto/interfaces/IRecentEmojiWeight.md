@@ -1,6 +1,6 @@
 # Interface: IRecentEmojiWeight
 
-Defined in: [WAProto/index.d.ts:37790](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37790)
+Defined in: [WAProto/index.d.ts:37790](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37790)
 
 Properties of a RecentEmojiWeight.
 
@@ -10,7 +10,7 @@ Properties of a RecentEmojiWeight.
 
 > `optional` **emoji**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37793](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37793)
+Defined in: [WAProto/index.d.ts:37793](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37793)
 
 RecentEmojiWeight emoji
 
@@ -20,6 +20,6 @@ RecentEmojiWeight emoji
 
 > `optional` **weight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37796](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L37796)
+Defined in: [WAProto/index.d.ts:37796](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L37796)
 
 RecentEmojiWeight weight

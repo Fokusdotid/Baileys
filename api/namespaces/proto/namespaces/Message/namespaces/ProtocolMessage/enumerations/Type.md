@@ -1,6 +1,6 @@
 # Enumeration: Type
 
-Defined in: [WAProto/index.d.ts:30200](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30200)
+Defined in: [WAProto/index.d.ts:30200](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30200)
 
 Type enum.
 
@@ -10,7 +10,7 @@ Type enum.
 
 > **APP\_STATE\_FATAL\_EXCEPTION\_NOTIFICATION**: `10`
 
-Defined in: [WAProto/index.d.ts:30209](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30209)
+Defined in: [WAProto/index.d.ts:30209](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30209)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:30209](https://github.com/Fokusdotid/Baileys/blo
 
 > **APP\_STATE\_SYNC\_KEY\_REQUEST**: `7`
 
-Defined in: [WAProto/index.d.ts:30206](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30206)
+Defined in: [WAProto/index.d.ts:30206](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30206)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:30206](https://github.com/Fokusdotid/Baileys/blo
 
 > **APP\_STATE\_SYNC\_KEY\_SHARE**: `6`
 
-Defined in: [WAProto/index.d.ts:30205](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30205)
+Defined in: [WAProto/index.d.ts:30205](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30205)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:30205](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_MESSAGE**: `19`
 
-Defined in: [WAProto/index.d.ts:30215](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30215)
+Defined in: [WAProto/index.d.ts:30215](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30215)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:30215](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_MEMU\_ONBOARDING\_MESSAGE**: `24`
 
-Defined in: [WAProto/index.d.ts:30220](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30220)
+Defined in: [WAProto/index.d.ts:30220](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30220)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:30220](https://github.com/Fokusdotid/Baileys/blo
 
 > **CLOUD\_API\_THREAD\_CONTROL\_NOTIFICATION**: `21`
 
-Defined in: [WAProto/index.d.ts:30217](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30217)
+Defined in: [WAProto/index.d.ts:30217](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30217)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:30217](https://github.com/Fokusdotid/Baileys/blo
 
 > **EPHEMERAL\_SETTING**: `3`
 
-Defined in: [WAProto/index.d.ts:30202](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30202)
+Defined in: [WAProto/index.d.ts:30202](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30202)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [WAProto/index.d.ts:30202](https://github.com/Fokusdotid/Baileys/blo
 
 > **EPHEMERAL\_SYNC\_RESPONSE**: `4`
 
-Defined in: [WAProto/index.d.ts:30203](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30203)
+Defined in: [WAProto/index.d.ts:30203](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30203)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [WAProto/index.d.ts:30203](https://github.com/Fokusdotid/Baileys/blo
 
 > **HISTORY\_SYNC\_NOTIFICATION**: `5`
 
-Defined in: [WAProto/index.d.ts:30204](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30204)
+Defined in: [WAProto/index.d.ts:30204](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30204)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [WAProto/index.d.ts:30204](https://github.com/Fokusdotid/Baileys/blo
 
 > **INITIAL\_SECURITY\_NOTIFICATION\_SETTING\_SYNC**: `9`
 
-Defined in: [WAProto/index.d.ts:30208](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30208)
+Defined in: [WAProto/index.d.ts:30208](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30208)
 
 ***
 
@@ -90,7 +90,7 @@ Defined in: [WAProto/index.d.ts:30208](https://github.com/Fokusdotid/Baileys/blo
 
 > **LID\_MIGRATION\_MAPPING\_SYNC**: `22`
 
-Defined in: [WAProto/index.d.ts:30218](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30218)
+Defined in: [WAProto/index.d.ts:30218](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30218)
 
 ***
 
@@ -98,7 +98,7 @@ Defined in: [WAProto/index.d.ts:30218](https://github.com/Fokusdotid/Baileys/blo
 
 > **LIMIT\_SHARING**: `27`
 
-Defined in: [WAProto/index.d.ts:30223](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30223)
+Defined in: [WAProto/index.d.ts:30223](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30223)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [WAProto/index.d.ts:30223](https://github.com/Fokusdotid/Baileys/blo
 
 > **MEDIA\_NOTIFY\_MESSAGE**: `20`
 
-Defined in: [WAProto/index.d.ts:30216](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30216)
+Defined in: [WAProto/index.d.ts:30216](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30216)
 
 ***
 
@@ -114,7 +114,7 @@ Defined in: [WAProto/index.d.ts:30216](https://github.com/Fokusdotid/Baileys/blo
 
 > **MESSAGE\_EDIT**: `14`
 
-Defined in: [WAProto/index.d.ts:30211](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30211)
+Defined in: [WAProto/index.d.ts:30211](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30211)
 
 ***
 
@@ -122,7 +122,7 @@ Defined in: [WAProto/index.d.ts:30211](https://github.com/Fokusdotid/Baileys/blo
 
 > **MSG\_FANOUT\_BACKFILL\_REQUEST**: `8`
 
-Defined in: [WAProto/index.d.ts:30207](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30207)
+Defined in: [WAProto/index.d.ts:30207](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30207)
 
 ***
 
@@ -130,7 +130,7 @@ Defined in: [WAProto/index.d.ts:30207](https://github.com/Fokusdotid/Baileys/blo
 
 > **PEER\_DATA\_OPERATION\_REQUEST\_MESSAGE**: `16`
 
-Defined in: [WAProto/index.d.ts:30212](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30212)
+Defined in: [WAProto/index.d.ts:30212](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30212)
 
 ***
 
@@ -138,7 +138,7 @@ Defined in: [WAProto/index.d.ts:30212](https://github.com/Fokusdotid/Baileys/blo
 
 > **PEER\_DATA\_OPERATION\_REQUEST\_RESPONSE\_MESSAGE**: `17`
 
-Defined in: [WAProto/index.d.ts:30213](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30213)
+Defined in: [WAProto/index.d.ts:30213](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30213)
 
 ***
 
@@ -146,7 +146,7 @@ Defined in: [WAProto/index.d.ts:30213](https://github.com/Fokusdotid/Baileys/blo
 
 > **REMINDER\_MESSAGE**: `23`
 
-Defined in: [WAProto/index.d.ts:30219](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30219)
+Defined in: [WAProto/index.d.ts:30219](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30219)
 
 ***
 
@@ -154,7 +154,7 @@ Defined in: [WAProto/index.d.ts:30219](https://github.com/Fokusdotid/Baileys/blo
 
 > **REQUEST\_WELCOME\_MESSAGE**: `18`
 
-Defined in: [WAProto/index.d.ts:30214](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30214)
+Defined in: [WAProto/index.d.ts:30214](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30214)
 
 ***
 
@@ -162,7 +162,7 @@ Defined in: [WAProto/index.d.ts:30214](https://github.com/Fokusdotid/Baileys/blo
 
 > **REVOKE**: `0`
 
-Defined in: [WAProto/index.d.ts:30201](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30201)
+Defined in: [WAProto/index.d.ts:30201](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30201)
 
 ***
 
@@ -170,7 +170,7 @@ Defined in: [WAProto/index.d.ts:30201](https://github.com/Fokusdotid/Baileys/blo
 
 > **SHARE\_PHONE\_NUMBER**: `11`
 
-Defined in: [WAProto/index.d.ts:30210](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30210)
+Defined in: [WAProto/index.d.ts:30210](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30210)
 
 ***
 
@@ -178,7 +178,7 @@ Defined in: [WAProto/index.d.ts:30210](https://github.com/Fokusdotid/Baileys/blo
 
 > **STATUS\_MENTION\_MESSAGE**: `25`
 
-Defined in: [WAProto/index.d.ts:30221](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30221)
+Defined in: [WAProto/index.d.ts:30221](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30221)
 
 ***
 
@@ -186,4 +186,4 @@ Defined in: [WAProto/index.d.ts:30221](https://github.com/Fokusdotid/Baileys/blo
 
 > **STOP\_GENERATION\_MESSAGE**: `26`
 
-Defined in: [WAProto/index.d.ts:30222](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L30222)
+Defined in: [WAProto/index.d.ts:30222](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L30222)

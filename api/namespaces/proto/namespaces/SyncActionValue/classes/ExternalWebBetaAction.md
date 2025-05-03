@@ -1,6 +1,6 @@
 # Class: ExternalWebBetaAction
 
-Defined in: [WAProto/index.d.ts:42468](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42468)
+Defined in: [WAProto/index.d.ts:42468](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42468)
 
 Represents an ExternalWebBetaAction.
 
@@ -14,7 +14,7 @@ Represents an ExternalWebBetaAction.
 
 > **new ExternalWebBetaAction**(`properties`?): [`ExternalWebBetaAction`](ExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:42474](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42474)
+Defined in: [WAProto/index.d.ts:42474](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42474)
 
 Constructs a new ExternalWebBetaAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isOptIn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42477](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42477)
+Defined in: [WAProto/index.d.ts:42477](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42477)
 
 ExternalWebBetaAction isOptIn.
 
@@ -50,7 +50,7 @@ ExternalWebBetaAction isOptIn.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42547](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42547)
+Defined in: [WAProto/index.d.ts:42547](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42547)
 
 Converts this ExternalWebBetaAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ExternalWebBetaAction`](ExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:42484](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42484)
+Defined in: [WAProto/index.d.ts:42484](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42484)
 
 Creates a new ExternalWebBetaAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ ExternalWebBetaAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ExternalWebBetaAction`](ExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:42510](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42510)
+Defined in: [WAProto/index.d.ts:42510](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42510)
 
 Decodes an ExternalWebBetaAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ExternalWebBetaAction`](ExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:42519](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42519)
+Defined in: [WAProto/index.d.ts:42519](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42519)
 
 Decodes an ExternalWebBetaAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42492](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42492)
+Defined in: [WAProto/index.d.ts:42492](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42492)
 
 Encodes the specified ExternalWebBetaAction message. Does not implicitly [verify](ExternalWebBetaAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42500](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42500)
+Defined in: [WAProto/index.d.ts:42500](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42500)
 
 Encodes the specified ExternalWebBetaAction message, length delimited. Does not implicitly [verify](ExternalWebBetaAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ExternalWebBetaAction`](ExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:42533](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42533)
+Defined in: [WAProto/index.d.ts:42533](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42533)
 
 Creates an ExternalWebBetaAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ExternalWebBetaAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42554](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42554)
+Defined in: [WAProto/index.d.ts:42554](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42554)
 
 Gets the default type url for ExternalWebBetaAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42541](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42541)
+Defined in: [WAProto/index.d.ts:42541](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42541)
 
 Creates a plain object from an ExternalWebBetaAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42526](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L42526)
+Defined in: [WAProto/index.d.ts:42526](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42526)
 
 Verifies an ExternalWebBetaAction message.
 

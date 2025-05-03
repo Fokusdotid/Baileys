@@ -2,7 +2,7 @@
 
 > **generateThumbnail**(`file`, `mediaType`, `options`): `Promise`\<\{ `originalImageDimensions`: `undefined` \| \{ `height`: `number`; `width`: `number`; \}; `thumbnail`: `undefined` \| `string`; \}\>
 
-Defined in: [src/Utils/messages-media.ts:289](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/Utils/messages-media.ts#L289)
+Defined in: [src/Utils/messages-media.ts:289](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Utils/messages-media.ts#L289)
 
 generates a thumbnail for a given media, if required
 

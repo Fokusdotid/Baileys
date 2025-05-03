@@ -1,6 +1,6 @@
 # Interface: ICall
 
-Defined in: [WAProto/index.d.ts:19273](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19273)
+Defined in: [WAProto/index.d.ts:19273](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19273)
 
 Properties of a Call.
 
@@ -10,7 +10,7 @@ Properties of a Call.
 
 > `optional` **callKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19276](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19276)
+Defined in: [WAProto/index.d.ts:19276](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19276)
 
 Call callKey
 
@@ -20,7 +20,7 @@ Call callKey
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19282](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19282)
+Defined in: [WAProto/index.d.ts:19282](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19282)
 
 Call conversionData
 
@@ -30,7 +30,7 @@ Call conversionData
 
 > `optional` **conversionDelaySeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:19285](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19285)
+Defined in: [WAProto/index.d.ts:19285](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19285)
 
 Call conversionDelaySeconds
 
@@ -40,7 +40,7 @@ Call conversionDelaySeconds
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19279](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19279)
+Defined in: [WAProto/index.d.ts:19279](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19279)
 
 Call conversionSource
 
@@ -50,7 +50,7 @@ Call conversionSource
 
 > `optional` **ctwaPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19291](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19291)
+Defined in: [WAProto/index.d.ts:19291](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19291)
 
 Call ctwaPayload
 
@@ -60,6 +60,6 @@ Call ctwaPayload
 
 > `optional` **ctwaSignals**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19288](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L19288)
+Defined in: [WAProto/index.d.ts:19288](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L19288)
 
 Call ctwaSignals

@@ -1,6 +1,6 @@
 # Interface: IDeviceSentMessage
 
-Defined in: [WAProto/index.d.ts:20389](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L20389)
+Defined in: [WAProto/index.d.ts:20389](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L20389)
 
 Properties of a DeviceSentMessage.
 
@@ -10,7 +10,7 @@ Properties of a DeviceSentMessage.
 
 > `optional` **destinationJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20392](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L20392)
+Defined in: [WAProto/index.d.ts:20392](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L20392)
 
 DeviceSentMessage destinationJid
 
@@ -20,7 +20,7 @@ DeviceSentMessage destinationJid
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:20395](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L20395)
+Defined in: [WAProto/index.d.ts:20395](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L20395)
 
 DeviceSentMessage message
 
@@ -30,6 +30,6 @@ DeviceSentMessage message
 
 > `optional` **phash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20398](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L20398)
+Defined in: [WAProto/index.d.ts:20398](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L20398)
 
 DeviceSentMessage phash

@@ -1,6 +1,6 @@
 # Interface: IKeyExchangeMessage
 
-Defined in: [WAProto/index.d.ts:15469](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15469)
+Defined in: [WAProto/index.d.ts:15469](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15469)
 
 Properties of a KeyExchangeMessage.
 
@@ -10,7 +10,7 @@ Properties of a KeyExchangeMessage.
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15475](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15475)
+Defined in: [WAProto/index.d.ts:15475](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15475)
 
 KeyExchangeMessage baseKey
 
@@ -20,7 +20,7 @@ KeyExchangeMessage baseKey
 
 > `optional` **baseKeySignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15484](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15484)
+Defined in: [WAProto/index.d.ts:15484](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15484)
 
 KeyExchangeMessage baseKeySignature
 
@@ -30,7 +30,7 @@ KeyExchangeMessage baseKeySignature
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15472](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15472)
+Defined in: [WAProto/index.d.ts:15472](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15472)
 
 KeyExchangeMessage id
 
@@ -40,7 +40,7 @@ KeyExchangeMessage id
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15481](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15481)
+Defined in: [WAProto/index.d.ts:15481](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15481)
 
 KeyExchangeMessage identityKey
 
@@ -50,6 +50,6 @@ KeyExchangeMessage identityKey
 
 > `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15478](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L15478)
+Defined in: [WAProto/index.d.ts:15478](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L15478)
 
 KeyExchangeMessage ratchetKey

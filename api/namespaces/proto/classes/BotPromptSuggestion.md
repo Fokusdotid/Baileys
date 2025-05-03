@@ -1,6 +1,6 @@
 # Class: BotPromptSuggestion
 
-Defined in: [WAProto/index.d.ts:5399](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5399)
+Defined in: [WAProto/index.d.ts:5399](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5399)
 
 Represents a BotPromptSuggestion.
 
@@ -14,7 +14,7 @@ Represents a BotPromptSuggestion.
 
 > **new BotPromptSuggestion**(`properties`?): [`BotPromptSuggestion`](BotPromptSuggestion.md)
 
-Defined in: [WAProto/index.d.ts:5405](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5405)
+Defined in: [WAProto/index.d.ts:5405](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5405)
 
 Constructs a new BotPromptSuggestion.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **prompt**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5408](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5408)
+Defined in: [WAProto/index.d.ts:5408](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5408)
 
 BotPromptSuggestion prompt.
 
@@ -50,7 +50,7 @@ BotPromptSuggestion prompt.
 
 > `optional` **promptId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5411](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5411)
+Defined in: [WAProto/index.d.ts:5411](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5411)
 
 BotPromptSuggestion promptId.
 
@@ -64,7 +64,7 @@ BotPromptSuggestion promptId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5481](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5481)
+Defined in: [WAProto/index.d.ts:5481](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5481)
 
 Converts this BotPromptSuggestion to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPromptSuggestion`](BotPromptSuggestion.md)
 
-Defined in: [WAProto/index.d.ts:5418](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5418)
+Defined in: [WAProto/index.d.ts:5418](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5418)
 
 Creates a new BotPromptSuggestion instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotPromptSuggestion instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPromptSuggestion`](BotPromptSuggestion.md)
 
-Defined in: [WAProto/index.d.ts:5444](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5444)
+Defined in: [WAProto/index.d.ts:5444](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5444)
 
 Decodes a BotPromptSuggestion message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPromptSuggestion`](BotPromptSuggestion.md)
 
-Defined in: [WAProto/index.d.ts:5453](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5453)
+Defined in: [WAProto/index.d.ts:5453](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5453)
 
 Decodes a BotPromptSuggestion message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5426](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5426)
+Defined in: [WAProto/index.d.ts:5426](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5426)
 
 Encodes the specified BotPromptSuggestion message. Does not implicitly [verify](BotPromptSuggestion.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5434](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5434)
+Defined in: [WAProto/index.d.ts:5434](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5434)
 
 Encodes the specified BotPromptSuggestion message, length delimited. Does not implicitly [verify](BotPromptSuggestion.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPromptSuggestion`](BotPromptSuggestion.md)
 
-Defined in: [WAProto/index.d.ts:5467](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5467)
+Defined in: [WAProto/index.d.ts:5467](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5467)
 
 Creates a BotPromptSuggestion message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotPromptSuggestion
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5488](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5488)
+Defined in: [WAProto/index.d.ts:5488](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5488)
 
 Gets the default type url for BotPromptSuggestion
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5475](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5475)
+Defined in: [WAProto/index.d.ts:5475](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5475)
 
 Creates a plain object from a BotPromptSuggestion message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5460](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5460)
+Defined in: [WAProto/index.d.ts:5460](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5460)
 
 Verifies a BotPromptSuggestion message.
 

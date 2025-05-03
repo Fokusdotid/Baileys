@@ -1,6 +1,6 @@
 # Interface: IPollUpdate
 
-Defined in: [WAProto/index.d.ts:36749](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36749)
+Defined in: [WAProto/index.d.ts:36749](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36749)
 
 Properties of a PollUpdate.
 
@@ -10,7 +10,7 @@ Properties of a PollUpdate.
 
 > `optional` **pollUpdateMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:36752](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36752)
+Defined in: [WAProto/index.d.ts:36752](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36752)
 
 PollUpdate pollUpdateMessageKey
 
@@ -20,7 +20,7 @@ PollUpdate pollUpdateMessageKey
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36758](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36758)
+Defined in: [WAProto/index.d.ts:36758](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36758)
 
 PollUpdate senderTimestampMs
 
@@ -30,7 +30,7 @@ PollUpdate senderTimestampMs
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36761](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36761)
+Defined in: [WAProto/index.d.ts:36761](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36761)
 
 PollUpdate serverTimestampMs
 
@@ -40,7 +40,7 @@ PollUpdate serverTimestampMs
 
 > `optional` **unread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:36764](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36764)
+Defined in: [WAProto/index.d.ts:36764](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36764)
 
 PollUpdate unread
 
@@ -50,6 +50,6 @@ PollUpdate unread
 
 > `optional` **vote**: `null` \| [`IPollVoteMessage`](../namespaces/Message/interfaces/IPollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:36755](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36755)
+Defined in: [WAProto/index.d.ts:36755](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36755)
 
 PollUpdate vote

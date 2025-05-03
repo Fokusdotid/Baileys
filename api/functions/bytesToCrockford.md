@@ -2,7 +2,7 @@
 
 > **bytesToCrockford**(`buffer`): `string`
 
-Defined in: [src/Utils/generics.ts:432](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/Utils/generics.ts#L432)
+Defined in: [src/Utils/generics.ts:432](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Utils/generics.ts#L432)
 
 ## Parameters
 

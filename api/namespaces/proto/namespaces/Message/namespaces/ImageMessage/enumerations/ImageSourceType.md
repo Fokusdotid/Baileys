@@ -1,6 +1,6 @@
 # Enumeration: ImageSourceType
 
-Defined in: [WAProto/index.d.ts:23111](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L23111)
+Defined in: [WAProto/index.d.ts:23111](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L23111)
 
 ImageSourceType enum.
 
@@ -10,7 +10,7 @@ ImageSourceType enum.
 
 > **AI\_GENERATED**: `1`
 
-Defined in: [WAProto/index.d.ts:23113](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L23113)
+Defined in: [WAProto/index.d.ts:23113](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L23113)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:23113](https://github.com/Fokusdotid/Baileys/blo
 
 > **AI\_MODIFIED**: `2`
 
-Defined in: [WAProto/index.d.ts:23114](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L23114)
+Defined in: [WAProto/index.d.ts:23114](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L23114)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:23114](https://github.com/Fokusdotid/Baileys/blo
 
 > **RASTERIZED\_TEXT\_STATUS**: `3`
 
-Defined in: [WAProto/index.d.ts:23115](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L23115)
+Defined in: [WAProto/index.d.ts:23115](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L23115)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:23115](https://github.com/Fokusdotid/Baileys/blo
 
 > **USER\_IMAGE**: `0`
 
-Defined in: [WAProto/index.d.ts:23112](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L23112)
+Defined in: [WAProto/index.d.ts:23112](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L23112)

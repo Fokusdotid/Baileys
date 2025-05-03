@@ -1,6 +1,6 @@
 # Interface: IShopMessage
 
-Defined in: [WAProto/index.d.ts:24136](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24136)
+Defined in: [WAProto/index.d.ts:24136](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24136)
 
 Properties of a ShopMessage.
 
@@ -10,7 +10,7 @@ Properties of a ShopMessage.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24139](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24139)
+Defined in: [WAProto/index.d.ts:24139](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24139)
 
 ShopMessage id
 
@@ -20,7 +20,7 @@ ShopMessage id
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24145](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24145)
+Defined in: [WAProto/index.d.ts:24145](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24145)
 
 ShopMessage messageVersion
 
@@ -30,6 +30,6 @@ ShopMessage messageVersion
 
 > `optional` **surface**: `null` \| [`Surface`](../namespaces/ShopMessage/enumerations/Surface.md)
 
-Defined in: [WAProto/index.d.ts:24142](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24142)
+Defined in: [WAProto/index.d.ts:24142](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24142)
 
 ShopMessage surface

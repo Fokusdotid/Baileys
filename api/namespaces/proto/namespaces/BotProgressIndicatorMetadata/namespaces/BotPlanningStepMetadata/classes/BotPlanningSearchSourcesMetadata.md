@@ -1,6 +1,6 @@
 # Class: BotPlanningSearchSourcesMetadata
 
-Defined in: [WAProto/index.d.ts:5272](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5272)
+Defined in: [WAProto/index.d.ts:5272](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5272)
 
 Represents a BotPlanningSearchSourcesMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotPlanningSearchSourcesMetadata.
 
 > **new BotPlanningSearchSourcesMetadata**(`properties`?): [`BotPlanningSearchSourcesMetadata`](BotPlanningSearchSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5278](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5278)
+Defined in: [WAProto/index.d.ts:5278](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5278)
 
 Constructs a new BotPlanningSearchSourcesMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **provider**: `null` \| [`BotPlanningSearchSourceProvider`](../namespaces/BotPlanningSearchSourcesMetadata/enumerations/BotPlanningSearchSourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:5284](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5284)
+Defined in: [WAProto/index.d.ts:5284](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5284)
 
 BotPlanningSearchSourcesMetadata provider.
 
@@ -50,7 +50,7 @@ BotPlanningSearchSourcesMetadata provider.
 
 > `optional` **sourceTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5281](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5281)
+Defined in: [WAProto/index.d.ts:5281](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5281)
 
 BotPlanningSearchSourcesMetadata sourceTitle.
 
@@ -64,7 +64,7 @@ BotPlanningSearchSourcesMetadata sourceTitle.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5287](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5287)
+Defined in: [WAProto/index.d.ts:5287](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5287)
 
 BotPlanningSearchSourcesMetadata sourceUrl.
 
@@ -78,7 +78,7 @@ BotPlanningSearchSourcesMetadata sourceUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5357](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5357)
+Defined in: [WAProto/index.d.ts:5357](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5357)
 
 Converts this BotPlanningSearchSourcesMetadata to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPlanningSearchSourcesMetadata`](BotPlanningSearchSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5294](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5294)
+Defined in: [WAProto/index.d.ts:5294](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5294)
 
 Creates a new BotPlanningSearchSourcesMetadata instance using the specified properties.
 
@@ -118,7 +118,7 @@ BotPlanningSearchSourcesMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPlanningSearchSourcesMetadata`](BotPlanningSearchSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5320](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5320)
+Defined in: [WAProto/index.d.ts:5320](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5320)
 
 Decodes a BotPlanningSearchSourcesMetadata message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPlanningSearchSourcesMetadata`](BotPlanningSearchSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5329](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5329)
+Defined in: [WAProto/index.d.ts:5329](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5329)
 
 Decodes a BotPlanningSearchSourcesMetadata message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5302](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5302)
+Defined in: [WAProto/index.d.ts:5302](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5302)
 
 Encodes the specified BotPlanningSearchSourcesMetadata message. Does not implicitly [verify](BotPlanningSearchSourcesMetadata.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5310](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5310)
+Defined in: [WAProto/index.d.ts:5310](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5310)
 
 Encodes the specified BotPlanningSearchSourcesMetadata message, length delimited. Does not implicitly [verify](BotPlanningSearchSourcesMetadata.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPlanningSearchSourcesMetadata`](BotPlanningSearchSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5343](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5343)
+Defined in: [WAProto/index.d.ts:5343](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5343)
 
 Creates a BotPlanningSearchSourcesMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ BotPlanningSearchSourcesMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5364](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5364)
+Defined in: [WAProto/index.d.ts:5364](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5364)
 
 Gets the default type url for BotPlanningSearchSourcesMetadata
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5351](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5351)
+Defined in: [WAProto/index.d.ts:5351](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5351)
 
 Creates a plain object from a BotPlanningSearchSourcesMetadata message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5336](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5336)
+Defined in: [WAProto/index.d.ts:5336](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5336)
 
 Verifies a BotPlanningSearchSourcesMetadata message.
 

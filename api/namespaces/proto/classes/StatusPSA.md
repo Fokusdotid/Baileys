@@ -1,6 +1,6 @@
 # Class: StatusPSA
 
-Defined in: [WAProto/index.d.ts:40146](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40146)
+Defined in: [WAProto/index.d.ts:40146](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40146)
 
 Represents a StatusPSA.
 
@@ -14,7 +14,7 @@ Represents a StatusPSA.
 
 > **new StatusPSA**(`properties`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:40152](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40152)
+Defined in: [WAProto/index.d.ts:40152](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40152)
 
 Constructs a new StatusPSA.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **campaignExpirationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40158](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40158)
+Defined in: [WAProto/index.d.ts:40158](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40158)
 
 StatusPSA campaignExpirationTimestamp.
 
@@ -50,7 +50,7 @@ StatusPSA campaignExpirationTimestamp.
 
 > **campaignId**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40155](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40155)
+Defined in: [WAProto/index.d.ts:40155](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40155)
 
 StatusPSA campaignId.
 
@@ -64,7 +64,7 @@ StatusPSA campaignId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40228](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40228)
+Defined in: [WAProto/index.d.ts:40228](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40228)
 
 Converts this StatusPSA to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:40165](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40165)
+Defined in: [WAProto/index.d.ts:40165](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40165)
 
 Creates a new StatusPSA instance using the specified properties.
 
@@ -104,7 +104,7 @@ StatusPSA instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:40191](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40191)
+Defined in: [WAProto/index.d.ts:40191](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40191)
 
 Decodes a StatusPSA message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:40200](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40200)
+Defined in: [WAProto/index.d.ts:40200](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40200)
 
 Decodes a StatusPSA message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40173](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40173)
+Defined in: [WAProto/index.d.ts:40173](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40173)
 
 Encodes the specified StatusPSA message. Does not implicitly [verify](StatusPSA.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40181](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40181)
+Defined in: [WAProto/index.d.ts:40181](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40181)
 
 Encodes the specified StatusPSA message, length delimited. Does not implicitly [verify](StatusPSA.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:40214](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40214)
+Defined in: [WAProto/index.d.ts:40214](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40214)
 
 Creates a StatusPSA message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ StatusPSA
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40235](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40235)
+Defined in: [WAProto/index.d.ts:40235](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40235)
 
 Gets the default type url for StatusPSA
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40222](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40222)
+Defined in: [WAProto/index.d.ts:40222](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40222)
 
 Creates a plain object from a StatusPSA message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40207](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L40207)
+Defined in: [WAProto/index.d.ts:40207](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L40207)
 
 Verifies a StatusPSA message.
 

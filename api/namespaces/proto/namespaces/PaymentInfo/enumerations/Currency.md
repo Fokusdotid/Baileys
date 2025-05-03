@@ -1,6 +1,6 @@
 # Enumeration: Currency
 
-Defined in: [WAProto/index.d.ts:36032](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36032)
+Defined in: [WAProto/index.d.ts:36032](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36032)
 
 Currency enum.
 
@@ -10,7 +10,7 @@ Currency enum.
 
 > **INR**: `1`
 
-Defined in: [WAProto/index.d.ts:36034](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36034)
+Defined in: [WAProto/index.d.ts:36034](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36034)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:36034](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN\_CURRENCY**: `0`
 
-Defined in: [WAProto/index.d.ts:36033](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L36033)
+Defined in: [WAProto/index.d.ts:36033](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L36033)

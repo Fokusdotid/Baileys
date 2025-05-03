@@ -1,6 +1,6 @@
 # Enumeration: TrafficAnonymization
 
-Defined in: [WAProto/index.d.ts:8315](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8315)
+Defined in: [WAProto/index.d.ts:8315](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8315)
 
 TrafficAnonymization enum.
 
@@ -10,7 +10,7 @@ TrafficAnonymization enum.
 
 > **OFF**: `0`
 
-Defined in: [WAProto/index.d.ts:8316](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8316)
+Defined in: [WAProto/index.d.ts:8316](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8316)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:8316](https://github.com/Fokusdotid/Baileys/blob
 
 > **STANDARD**: `1`
 
-Defined in: [WAProto/index.d.ts:8317](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8317)
+Defined in: [WAProto/index.d.ts:8317](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8317)

@@ -1,6 +1,6 @@
 # Enumeration: Surface
 
-Defined in: [WAProto/index.d.ts:24247](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24247)
+Defined in: [WAProto/index.d.ts:24247](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24247)
 
 Surface enum.
 
@@ -10,7 +10,7 @@ Surface enum.
 
 > **FB**: `1`
 
-Defined in: [WAProto/index.d.ts:24249](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24249)
+Defined in: [WAProto/index.d.ts:24249](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24249)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:24249](https://github.com/Fokusdotid/Baileys/blo
 
 > **IG**: `2`
 
-Defined in: [WAProto/index.d.ts:24250](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24250)
+Defined in: [WAProto/index.d.ts:24250](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24250)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:24250](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN\_SURFACE**: `0`
 
-Defined in: [WAProto/index.d.ts:24248](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24248)
+Defined in: [WAProto/index.d.ts:24248](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24248)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:24248](https://github.com/Fokusdotid/Baileys/blo
 
 > **WA**: `3`
 
-Defined in: [WAProto/index.d.ts:24251](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24251)
+Defined in: [WAProto/index.d.ts:24251](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L24251)

@@ -1,6 +1,6 @@
 # Enumeration: StatusNotificationType
 
-Defined in: [WAProto/index.d.ts:31357](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L31357)
+Defined in: [WAProto/index.d.ts:31357](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L31357)
 
 StatusNotificationType enum.
 
@@ -10,7 +10,7 @@ StatusNotificationType enum.
 
 > **STATUS\_ADD\_YOURS**: `1`
 
-Defined in: [WAProto/index.d.ts:31359](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L31359)
+Defined in: [WAProto/index.d.ts:31359](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L31359)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:31359](https://github.com/Fokusdotid/Baileys/blo
 
 > **STATUS\_RESHARE**: `2`
 
-Defined in: [WAProto/index.d.ts:31360](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L31360)
+Defined in: [WAProto/index.d.ts:31360](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L31360)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:31360](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:31358](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L31358)
+Defined in: [WAProto/index.d.ts:31358](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L31358)

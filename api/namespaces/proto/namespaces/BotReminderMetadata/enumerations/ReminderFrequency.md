@@ -1,6 +1,6 @@
 # Enumeration: ReminderFrequency
 
-Defined in: [WAProto/index.d.ts:5720](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5720)
+Defined in: [WAProto/index.d.ts:5720](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5720)
 
 ReminderFrequency enum.
 
@@ -10,7 +10,7 @@ ReminderFrequency enum.
 
 > **BIWEEKLY**: `4`
 
-Defined in: [WAProto/index.d.ts:5724](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5724)
+Defined in: [WAProto/index.d.ts:5724](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5724)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5724](https://github.com/Fokusdotid/Baileys/blob
 
 > **DAILY**: `2`
 
-Defined in: [WAProto/index.d.ts:5722](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5722)
+Defined in: [WAProto/index.d.ts:5722](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5722)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5722](https://github.com/Fokusdotid/Baileys/blob
 
 > **MONTHLY**: `5`
 
-Defined in: [WAProto/index.d.ts:5725](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5725)
+Defined in: [WAProto/index.d.ts:5725](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5725)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:5725](https://github.com/Fokusdotid/Baileys/blob
 
 > **ONCE**: `1`
 
-Defined in: [WAProto/index.d.ts:5721](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5721)
+Defined in: [WAProto/index.d.ts:5721](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5721)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:5721](https://github.com/Fokusdotid/Baileys/blob
 
 > **WEEKLY**: `3`
 
-Defined in: [WAProto/index.d.ts:5723](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5723)
+Defined in: [WAProto/index.d.ts:5723](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5723)

@@ -1,6 +1,6 @@
 # Enumeration: DNSResolutionMethod
 
-Defined in: [WAProto/index.d.ts:8041](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8041)
+Defined in: [WAProto/index.d.ts:8041](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8041)
 
 DNSResolutionMethod enum.
 
@@ -10,7 +10,7 @@ DNSResolutionMethod enum.
 
 > **FALLBACK**: `4`
 
-Defined in: [WAProto/index.d.ts:8046](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8046)
+Defined in: [WAProto/index.d.ts:8046](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8046)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8046](https://github.com/Fokusdotid/Baileys/blob
 
 > **GOOGLE**: `1`
 
-Defined in: [WAProto/index.d.ts:8043](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8043)
+Defined in: [WAProto/index.d.ts:8043](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8043)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:8043](https://github.com/Fokusdotid/Baileys/blob
 
 > **HARDCODED**: `2`
 
-Defined in: [WAProto/index.d.ts:8044](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8044)
+Defined in: [WAProto/index.d.ts:8044](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8044)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:8044](https://github.com/Fokusdotid/Baileys/blob
 
 > **MNS**: `5`
 
-Defined in: [WAProto/index.d.ts:8047](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8047)
+Defined in: [WAProto/index.d.ts:8047](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8047)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:8047](https://github.com/Fokusdotid/Baileys/blob
 
 > **OVERRIDE**: `3`
 
-Defined in: [WAProto/index.d.ts:8045](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8045)
+Defined in: [WAProto/index.d.ts:8045](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8045)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:8045](https://github.com/Fokusdotid/Baileys/blob
 
 > **SYSTEM**: `0`
 
-Defined in: [WAProto/index.d.ts:8042](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8042)
+Defined in: [WAProto/index.d.ts:8042](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L8042)

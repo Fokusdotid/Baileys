@@ -1,6 +1,6 @@
 # Class: BotReminderMetadata
 
-Defined in: [WAProto/index.d.ts:5608](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5608)
+Defined in: [WAProto/index.d.ts:5608](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5608)
 
 Represents a BotReminderMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotReminderMetadata.
 
 > **new BotReminderMetadata**(`properties`?): [`BotReminderMetadata`](BotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5614](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5614)
+Defined in: [WAProto/index.d.ts:5614](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5614)
 
 Constructs a new BotReminderMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **action**: `null` \| [`ReminderAction`](../namespaces/BotReminderMetadata/enumerations/ReminderAction.md)
 
-Defined in: [WAProto/index.d.ts:5620](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5620)
+Defined in: [WAProto/index.d.ts:5620](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5620)
 
 BotReminderMetadata action.
 
@@ -50,7 +50,7 @@ BotReminderMetadata action.
 
 > `optional` **frequency**: `null` \| [`ReminderFrequency`](../namespaces/BotReminderMetadata/enumerations/ReminderFrequency.md)
 
-Defined in: [WAProto/index.d.ts:5629](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5629)
+Defined in: [WAProto/index.d.ts:5629](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5629)
 
 BotReminderMetadata frequency.
 
@@ -64,7 +64,7 @@ BotReminderMetadata frequency.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5623](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5623)
+Defined in: [WAProto/index.d.ts:5623](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5623)
 
 BotReminderMetadata name.
 
@@ -78,7 +78,7 @@ BotReminderMetadata name.
 
 > `optional` **nextTriggerTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:5626](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5626)
+Defined in: [WAProto/index.d.ts:5626](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5626)
 
 BotReminderMetadata nextTriggerTimestamp.
 
@@ -92,7 +92,7 @@ BotReminderMetadata nextTriggerTimestamp.
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:5617](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5617)
+Defined in: [WAProto/index.d.ts:5617](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5617)
 
 BotReminderMetadata requestMessageKey.
 
@@ -106,7 +106,7 @@ BotReminderMetadata requestMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5699](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5699)
+Defined in: [WAProto/index.d.ts:5699](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5699)
 
 Converts this BotReminderMetadata to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotReminderMetadata`](BotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5636](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5636)
+Defined in: [WAProto/index.d.ts:5636](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5636)
 
 Creates a new BotReminderMetadata instance using the specified properties.
 
@@ -146,7 +146,7 @@ BotReminderMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotReminderMetadata`](BotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5662](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5662)
+Defined in: [WAProto/index.d.ts:5662](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5662)
 
 Decodes a BotReminderMetadata message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotReminderMetadata`](BotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5671](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5671)
+Defined in: [WAProto/index.d.ts:5671](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5671)
 
 Decodes a BotReminderMetadata message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5644](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5644)
+Defined in: [WAProto/index.d.ts:5644](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5644)
 
 Encodes the specified BotReminderMetadata message. Does not implicitly [verify](BotReminderMetadata.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5652](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5652)
+Defined in: [WAProto/index.d.ts:5652](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5652)
 
 Encodes the specified BotReminderMetadata message, length delimited. Does not implicitly [verify](BotReminderMetadata.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotReminderMetadata`](BotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5685](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5685)
+Defined in: [WAProto/index.d.ts:5685](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5685)
 
 Creates a BotReminderMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ BotReminderMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5706](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5706)
+Defined in: [WAProto/index.d.ts:5706](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5706)
 
 Gets the default type url for BotReminderMetadata
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5693](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5693)
+Defined in: [WAProto/index.d.ts:5693](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5693)
 
 Creates a plain object from a BotReminderMetadata message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5678](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L5678)
+Defined in: [WAProto/index.d.ts:5678](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5678)
 
 Verifies a BotReminderMetadata message.
 

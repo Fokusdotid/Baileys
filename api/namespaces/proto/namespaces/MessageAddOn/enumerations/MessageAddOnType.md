@@ -1,6 +1,6 @@
 # Enumeration: MessageAddOnType
 
-Defined in: [WAProto/index.d.ts:33000](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33000)
+Defined in: [WAProto/index.d.ts:33000](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33000)
 
 MessageAddOnType enum.
 
@@ -10,7 +10,7 @@ MessageAddOnType enum.
 
 > **EVENT\_RESPONSE**: `2`
 
-Defined in: [WAProto/index.d.ts:33003](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33003)
+Defined in: [WAProto/index.d.ts:33003](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33003)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:33003](https://github.com/Fokusdotid/Baileys/blo
 
 > **PIN\_IN\_CHAT**: `4`
 
-Defined in: [WAProto/index.d.ts:33005](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33005)
+Defined in: [WAProto/index.d.ts:33005](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33005)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:33005](https://github.com/Fokusdotid/Baileys/blo
 
 > **POLL\_UPDATE**: `3`
 
-Defined in: [WAProto/index.d.ts:33004](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33004)
+Defined in: [WAProto/index.d.ts:33004](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33004)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:33004](https://github.com/Fokusdotid/Baileys/blo
 
 > **REACTION**: `1`
 
-Defined in: [WAProto/index.d.ts:33002](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33002)
+Defined in: [WAProto/index.d.ts:33002](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33002)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:33002](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNDEFINED**: `0`
 
-Defined in: [WAProto/index.d.ts:33001](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33001)
+Defined in: [WAProto/index.d.ts:33001](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L33001)

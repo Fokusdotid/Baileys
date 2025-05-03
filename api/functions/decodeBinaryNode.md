@@ -2,7 +2,7 @@
 
 > **decodeBinaryNode**(`buff`): `Promise`\<[`BinaryNode`](../type-aliases/BinaryNode.md)\>
 
-Defined in: [src/WABinary/decode.ts:271](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WABinary/decode.ts#L271)
+Defined in: [src/WABinary/decode.ts:271](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/WABinary/decode.ts#L271)
 
 ## Parameters
 

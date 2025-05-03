@@ -1,6 +1,6 @@
 # Interface: IExternalBlobReference
 
-Defined in: [WAProto/index.d.ts:13232](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13232)
+Defined in: [WAProto/index.d.ts:13232](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13232)
 
 Properties of an ExternalBlobReference.
 
@@ -10,7 +10,7 @@ Properties of an ExternalBlobReference.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13238](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13238)
+Defined in: [WAProto/index.d.ts:13238](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13238)
 
 ExternalBlobReference directPath
 
@@ -20,7 +20,7 @@ ExternalBlobReference directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13250](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13250)
+Defined in: [WAProto/index.d.ts:13250](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13250)
 
 ExternalBlobReference fileEncSha256
 
@@ -30,7 +30,7 @@ ExternalBlobReference fileEncSha256
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13247](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13247)
+Defined in: [WAProto/index.d.ts:13247](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13247)
 
 ExternalBlobReference fileSha256
 
@@ -40,7 +40,7 @@ ExternalBlobReference fileSha256
 
 > `optional` **fileSizeBytes**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13244](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13244)
+Defined in: [WAProto/index.d.ts:13244](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13244)
 
 ExternalBlobReference fileSizeBytes
 
@@ -50,7 +50,7 @@ ExternalBlobReference fileSizeBytes
 
 > `optional` **handle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13241](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13241)
+Defined in: [WAProto/index.d.ts:13241](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13241)
 
 ExternalBlobReference handle
 
@@ -60,6 +60,6 @@ ExternalBlobReference handle
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13235](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13235)
+Defined in: [WAProto/index.d.ts:13235](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L13235)
 
 ExternalBlobReference mediaKey

@@ -2,7 +2,7 @@
 
 > **getBinaryNodeChildBuffer**(`node`, `childTag`): `undefined` \| `Uint8Array`\<`ArrayBufferLike`\> \| `Buffer`\<`ArrayBufferLike`\>
 
-Defined in: [src/WABinary/generic-utils.ts:29](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WABinary/generic-utils.ts#L29)
+Defined in: [src/WABinary/generic-utils.ts:29](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/WABinary/generic-utils.ts#L29)
 
 ## Parameters
 

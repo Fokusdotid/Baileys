@@ -1,6 +1,6 @@
 # Class: MessageAddOn
 
-Defined in: [WAProto/index.d.ts:32887](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32887)
+Defined in: [WAProto/index.d.ts:32887](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32887)
 
 Represents a MessageAddOn.
 
@@ -14,7 +14,7 @@ Represents a MessageAddOn.
 
 > **new MessageAddOn**(`properties`?): [`MessageAddOn`](MessageAddOn.md)
 
-Defined in: [WAProto/index.d.ts:32893](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32893)
+Defined in: [WAProto/index.d.ts:32893](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32893)
 
 Constructs a new MessageAddOn.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **addOnContextInfo**: `null` \| [`IMessageAddOnContextInfo`](../interfaces/IMessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32911](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32911)
+Defined in: [WAProto/index.d.ts:32911](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32911)
 
 MessageAddOn addOnContextInfo.
 
@@ -50,7 +50,7 @@ MessageAddOn addOnContextInfo.
 
 > `optional` **legacyMessage**: `null` \| [`ILegacyMessage`](../interfaces/ILegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:32917](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32917)
+Defined in: [WAProto/index.d.ts:32917](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32917)
 
 MessageAddOn legacyMessage.
 
@@ -64,7 +64,7 @@ MessageAddOn legacyMessage.
 
 > `optional` **messageAddOn**: `null` \| [`IMessage`](../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:32899](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32899)
+Defined in: [WAProto/index.d.ts:32899](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32899)
 
 MessageAddOn messageAddOn.
 
@@ -78,7 +78,7 @@ MessageAddOn messageAddOn.
 
 > `optional` **messageAddOnKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:32914](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32914)
+Defined in: [WAProto/index.d.ts:32914](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32914)
 
 MessageAddOn messageAddOnKey.
 
@@ -92,7 +92,7 @@ MessageAddOn messageAddOnKey.
 
 > `optional` **messageAddOnType**: `null` \| [`MessageAddOnType`](../namespaces/MessageAddOn/enumerations/MessageAddOnType.md)
 
-Defined in: [WAProto/index.d.ts:32896](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32896)
+Defined in: [WAProto/index.d.ts:32896](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32896)
 
 MessageAddOn messageAddOnType.
 
@@ -106,7 +106,7 @@ MessageAddOn messageAddOnType.
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32902](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32902)
+Defined in: [WAProto/index.d.ts:32902](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32902)
 
 MessageAddOn senderTimestampMs.
 
@@ -120,7 +120,7 @@ MessageAddOn senderTimestampMs.
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32905](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32905)
+Defined in: [WAProto/index.d.ts:32905](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32905)
 
 MessageAddOn serverTimestampMs.
 
@@ -134,7 +134,7 @@ MessageAddOn serverTimestampMs.
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:32908](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32908)
+Defined in: [WAProto/index.d.ts:32908](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32908)
 
 MessageAddOn status.
 
@@ -148,7 +148,7 @@ MessageAddOn status.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32987](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32987)
+Defined in: [WAProto/index.d.ts:32987](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32987)
 
 Converts this MessageAddOn to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageAddOn`](MessageAddOn.md)
 
-Defined in: [WAProto/index.d.ts:32924](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32924)
+Defined in: [WAProto/index.d.ts:32924](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32924)
 
 Creates a new MessageAddOn instance using the specified properties.
 
@@ -188,7 +188,7 @@ MessageAddOn instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageAddOn`](MessageAddOn.md)
 
-Defined in: [WAProto/index.d.ts:32950](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32950)
+Defined in: [WAProto/index.d.ts:32950](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32950)
 
 Decodes a MessageAddOn message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageAddOn`](MessageAddOn.md)
 
-Defined in: [WAProto/index.d.ts:32959](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32959)
+Defined in: [WAProto/index.d.ts:32959](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32959)
 
 Decodes a MessageAddOn message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32932](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32932)
+Defined in: [WAProto/index.d.ts:32932](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32932)
 
 Encodes the specified MessageAddOn message. Does not implicitly [verify](MessageAddOn.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32940](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32940)
+Defined in: [WAProto/index.d.ts:32940](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32940)
 
 Encodes the specified MessageAddOn message, length delimited. Does not implicitly [verify](MessageAddOn.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageAddOn`](MessageAddOn.md)
 
-Defined in: [WAProto/index.d.ts:32973](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32973)
+Defined in: [WAProto/index.d.ts:32973](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32973)
 
 Creates a MessageAddOn message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ MessageAddOn
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32994](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32994)
+Defined in: [WAProto/index.d.ts:32994](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32994)
 
 Gets the default type url for MessageAddOn
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32981](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32981)
+Defined in: [WAProto/index.d.ts:32981](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32981)
 
 Creates a plain object from a MessageAddOn message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32966](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L32966)
+Defined in: [WAProto/index.d.ts:32966](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L32966)
 
 Verifies a MessageAddOn message.
 
