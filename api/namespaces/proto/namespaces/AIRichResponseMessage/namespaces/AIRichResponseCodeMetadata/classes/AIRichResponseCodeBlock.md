@@ -1,6 +1,6 @@
 # Class: AIRichResponseCodeBlock
 
-Defined in: [WAProto/index.d.ts:911](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L911)
+Defined in: [WAProto/index.d.ts:911](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L911)
 
 Represents a AIRichResponseCodeBlock.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseCodeBlock.
 
 > **new AIRichResponseCodeBlock**(`properties`?): [`AIRichResponseCodeBlock`](AIRichResponseCodeBlock.md)
 
-Defined in: [WAProto/index.d.ts:917](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L917)
+Defined in: [WAProto/index.d.ts:917](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L917)
 
 Constructs a new AIRichResponseCodeBlock.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **codeContent**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:923](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L923)
+Defined in: [WAProto/index.d.ts:923](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L923)
 
 AIRichResponseCodeBlock codeContent.
 
@@ -50,7 +50,7 @@ AIRichResponseCodeBlock codeContent.
 
 > `optional` **highlightType**: `null` \| [`AIRichResponseCodeHighlightType`](../enumerations/AIRichResponseCodeHighlightType.md)
 
-Defined in: [WAProto/index.d.ts:920](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L920)
+Defined in: [WAProto/index.d.ts:920](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L920)
 
 AIRichResponseCodeBlock highlightType.
 
@@ -64,7 +64,7 @@ AIRichResponseCodeBlock highlightType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:993](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L993)
+Defined in: [WAProto/index.d.ts:993](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L993)
 
 Converts this AIRichResponseCodeBlock to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseCodeBlock`](AIRichResponseCodeBlock.md)
 
-Defined in: [WAProto/index.d.ts:930](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L930)
+Defined in: [WAProto/index.d.ts:930](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L930)
 
 Creates a new AIRichResponseCodeBlock instance using the specified properties.
 
@@ -104,7 +104,7 @@ AIRichResponseCodeBlock instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseCodeBlock`](AIRichResponseCodeBlock.md)
 
-Defined in: [WAProto/index.d.ts:956](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L956)
+Defined in: [WAProto/index.d.ts:956](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L956)
 
 Decodes a AIRichResponseCodeBlock message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseCodeBlock`](AIRichResponseCodeBlock.md)
 
-Defined in: [WAProto/index.d.ts:965](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L965)
+Defined in: [WAProto/index.d.ts:965](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L965)
 
 Decodes a AIRichResponseCodeBlock message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:938](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L938)
+Defined in: [WAProto/index.d.ts:938](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L938)
 
 Encodes the specified AIRichResponseCodeBlock message. Does not implicitly [verify](AIRichResponseCodeBlock.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:946](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L946)
+Defined in: [WAProto/index.d.ts:946](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L946)
 
 Encodes the specified AIRichResponseCodeBlock message, length delimited. Does not implicitly [verify](AIRichResponseCodeBlock.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseCodeBlock`](AIRichResponseCodeBlock.md)
 
-Defined in: [WAProto/index.d.ts:979](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L979)
+Defined in: [WAProto/index.d.ts:979](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L979)
 
 Creates a AIRichResponseCodeBlock message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AIRichResponseCodeBlock
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1000](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L1000)
+Defined in: [WAProto/index.d.ts:1000](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L1000)
 
 Gets the default type url for AIRichResponseCodeBlock
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:987](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L987)
+Defined in: [WAProto/index.d.ts:987](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L987)
 
 Creates a plain object from a AIRichResponseCodeBlock message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:972](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L972)
+Defined in: [WAProto/index.d.ts:972](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L972)
 
 Verifies a AIRichResponseCodeBlock message.
 

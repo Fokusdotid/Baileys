@@ -1,6 +1,6 @@
 # Interface: IMoney
 
-Defined in: [WAProto/index.d.ts:33637](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L33637)
+Defined in: [WAProto/index.d.ts:33637](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33637)
 
 Properties of a Money.
 
@@ -10,7 +10,7 @@ Properties of a Money.
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33646](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L33646)
+Defined in: [WAProto/index.d.ts:33646](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33646)
 
 Money currencyCode
 
@@ -20,7 +20,7 @@ Money currencyCode
 
 > `optional` **offset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33643](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L33643)
+Defined in: [WAProto/index.d.ts:33643](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33643)
 
 Money offset
 
@@ -30,6 +30,6 @@ Money offset
 
 > `optional` **value**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33640](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L33640)
+Defined in: [WAProto/index.d.ts:33640](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L33640)
 
 Money value

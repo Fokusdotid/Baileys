@@ -1,6 +1,6 @@
 # Interface: IHydratedURLButton
 
-Defined in: [WAProto/index.d.ts:14970](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L14970)
+Defined in: [WAProto/index.d.ts:14970](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14970)
 
 Properties of a HydratedURLButton.
 
@@ -10,7 +10,7 @@ Properties of a HydratedURLButton.
 
 > `optional` **consentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14979](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L14979)
+Defined in: [WAProto/index.d.ts:14979](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14979)
 
 HydratedURLButton consentedUsersUrl
 
@@ -20,7 +20,7 @@ HydratedURLButton consentedUsersUrl
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14973](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L14973)
+Defined in: [WAProto/index.d.ts:14973](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14973)
 
 HydratedURLButton displayText
 
@@ -30,7 +30,7 @@ HydratedURLButton displayText
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14976](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L14976)
+Defined in: [WAProto/index.d.ts:14976](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14976)
 
 HydratedURLButton url
 
@@ -40,6 +40,6 @@ HydratedURLButton url
 
 > `optional` **webviewPresentation**: `null` \| [`WebviewPresentationType`](../namespaces/HydratedURLButton/enumerations/WebviewPresentationType.md)
 
-Defined in: [WAProto/index.d.ts:14982](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L14982)
+Defined in: [WAProto/index.d.ts:14982](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L14982)
 
 HydratedURLButton webviewPresentation

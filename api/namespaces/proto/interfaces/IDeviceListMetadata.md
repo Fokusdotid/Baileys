@@ -1,6 +1,6 @@
 # Interface: IDeviceListMetadata
 
-Defined in: [WAProto/index.d.ts:11621](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11621)
+Defined in: [WAProto/index.d.ts:11621](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11621)
 
 Properties of a DeviceListMetadata.
 
@@ -10,7 +10,7 @@ Properties of a DeviceListMetadata.
 
 > `optional` **receiverAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:11636](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11636)
+Defined in: [WAProto/index.d.ts:11636](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11636)
 
 DeviceListMetadata receiverAccountType
 
@@ -20,7 +20,7 @@ DeviceListMetadata receiverAccountType
 
 > `optional` **recipientKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:11639](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11639)
+Defined in: [WAProto/index.d.ts:11639](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11639)
 
 DeviceListMetadata recipientKeyHash
 
@@ -30,7 +30,7 @@ DeviceListMetadata recipientKeyHash
 
 > `optional` **recipientKeyIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:11645](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11645)
+Defined in: [WAProto/index.d.ts:11645](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11645)
 
 DeviceListMetadata recipientKeyIndexes
 
@@ -40,7 +40,7 @@ DeviceListMetadata recipientKeyIndexes
 
 > `optional` **recipientTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11642](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11642)
+Defined in: [WAProto/index.d.ts:11642](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11642)
 
 DeviceListMetadata recipientTimestamp
 
@@ -50,7 +50,7 @@ DeviceListMetadata recipientTimestamp
 
 > `optional` **senderAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:11633](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11633)
+Defined in: [WAProto/index.d.ts:11633](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11633)
 
 DeviceListMetadata senderAccountType
 
@@ -60,7 +60,7 @@ DeviceListMetadata senderAccountType
 
 > `optional` **senderKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:11624](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11624)
+Defined in: [WAProto/index.d.ts:11624](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11624)
 
 DeviceListMetadata senderKeyHash
 
@@ -70,7 +70,7 @@ DeviceListMetadata senderKeyHash
 
 > `optional` **senderKeyIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:11630](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11630)
+Defined in: [WAProto/index.d.ts:11630](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11630)
 
 DeviceListMetadata senderKeyIndexes
 
@@ -80,6 +80,6 @@ DeviceListMetadata senderKeyIndexes
 
 > `optional` **senderTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11627](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L11627)
+Defined in: [WAProto/index.d.ts:11627](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L11627)
 
 DeviceListMetadata senderTimestamp

@@ -2,7 +2,7 @@
 
 > **getKeyAuthor**(`key`, `meId`): `string`
 
-Defined in: [src/Utils/generics.ts:55](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Utils/generics.ts#L55)
+Defined in: [src/Utils/generics.ts:55](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/Utils/generics.ts#L55)
 
 ## Parameters
 

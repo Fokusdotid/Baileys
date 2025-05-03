@@ -1,6 +1,6 @@
 # Interface: ILocaleSetting
 
-Defined in: [WAProto/index.d.ts:43192](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L43192)
+Defined in: [WAProto/index.d.ts:43192](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L43192)
 
 Properties of a LocaleSetting.
 
@@ -10,6 +10,6 @@ Properties of a LocaleSetting.
 
 > `optional` **locale**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43195](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L43195)
+Defined in: [WAProto/index.d.ts:43195](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L43195)
 
 LocaleSetting locale

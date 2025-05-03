@@ -1,6 +1,6 @@
 # Class: USyncUser
 
-Defined in: [src/WAUSync/USyncUser.ts:1](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L1)
+Defined in: [src/WAUSync/USyncUser.ts:1](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L1)
 
 ## Constructors
 
@@ -18,7 +18,7 @@ Defined in: [src/WAUSync/USyncUser.ts:1](https://github.com/Fokusdotid/Baileys/b
 
 > **id**: `string`
 
-Defined in: [src/WAUSync/USyncUser.ts:2](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L2)
+Defined in: [src/WAUSync/USyncUser.ts:2](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L2)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [src/WAUSync/USyncUser.ts:2](https://github.com/Fokusdotid/Baileys/b
 
 > **lid**: `string`
 
-Defined in: [src/WAUSync/USyncUser.ts:3](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L3)
+Defined in: [src/WAUSync/USyncUser.ts:3](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [src/WAUSync/USyncUser.ts:3](https://github.com/Fokusdotid/Baileys/b
 
 > **personaId**: `string`
 
-Defined in: [src/WAUSync/USyncUser.ts:6](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L6)
+Defined in: [src/WAUSync/USyncUser.ts:6](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L6)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [src/WAUSync/USyncUser.ts:6](https://github.com/Fokusdotid/Baileys/b
 
 > **phone**: `string`
 
-Defined in: [src/WAUSync/USyncUser.ts:4](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L4)
+Defined in: [src/WAUSync/USyncUser.ts:4](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L4)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [src/WAUSync/USyncUser.ts:4](https://github.com/Fokusdotid/Baileys/b
 
 > **type**: `string`
 
-Defined in: [src/WAUSync/USyncUser.ts:5](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L5)
+Defined in: [src/WAUSync/USyncUser.ts:5](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L5)
 
 ## Methods
 
@@ -58,7 +58,7 @@ Defined in: [src/WAUSync/USyncUser.ts:5](https://github.com/Fokusdotid/Baileys/b
 
 > **withId**(`id`): [`USyncUser`](USyncUser.md)
 
-Defined in: [src/WAUSync/USyncUser.ts:8](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L8)
+Defined in: [src/WAUSync/USyncUser.ts:8](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L8)
 
 #### Parameters
 
@@ -76,7 +76,7 @@ Defined in: [src/WAUSync/USyncUser.ts:8](https://github.com/Fokusdotid/Baileys/b
 
 > **withLid**(`lid`): [`USyncUser`](USyncUser.md)
 
-Defined in: [src/WAUSync/USyncUser.ts:13](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L13)
+Defined in: [src/WAUSync/USyncUser.ts:13](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L13)
 
 #### Parameters
 
@@ -94,7 +94,7 @@ Defined in: [src/WAUSync/USyncUser.ts:13](https://github.com/Fokusdotid/Baileys/
 
 > **withPersonaId**(`personaId`): [`USyncUser`](USyncUser.md)
 
-Defined in: [src/WAUSync/USyncUser.ts:28](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L28)
+Defined in: [src/WAUSync/USyncUser.ts:28](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L28)
 
 #### Parameters
 
@@ -112,7 +112,7 @@ Defined in: [src/WAUSync/USyncUser.ts:28](https://github.com/Fokusdotid/Baileys/
 
 > **withPhone**(`phone`): [`USyncUser`](USyncUser.md)
 
-Defined in: [src/WAUSync/USyncUser.ts:18](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L18)
+Defined in: [src/WAUSync/USyncUser.ts:18](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L18)
 
 #### Parameters
 
@@ -130,7 +130,7 @@ Defined in: [src/WAUSync/USyncUser.ts:18](https://github.com/Fokusdotid/Baileys/
 
 > **withType**(`type`): [`USyncUser`](USyncUser.md)
 
-Defined in: [src/WAUSync/USyncUser.ts:23](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/USyncUser.ts#L23)
+Defined in: [src/WAUSync/USyncUser.ts:23](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/WAUSync/USyncUser.ts#L23)
 
 #### Parameters
 

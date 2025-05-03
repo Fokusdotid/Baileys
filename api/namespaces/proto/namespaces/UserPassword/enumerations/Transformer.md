@@ -1,6 +1,6 @@
 # Enumeration: Transformer
 
-Defined in: [WAProto/index.d.ts:48511](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48511)
+Defined in: [WAProto/index.d.ts:48511](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48511)
 
 Transformer enum.
 
@@ -10,7 +10,7 @@ Transformer enum.
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:48512](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48512)
+Defined in: [WAProto/index.d.ts:48512](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48512)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:48512](https://github.com/Fokusdotid/Baileys/blo
 
 > **PBKDF2\_HMAC\_SHA384**: `2`
 
-Defined in: [WAProto/index.d.ts:48514](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48514)
+Defined in: [WAProto/index.d.ts:48514](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48514)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:48514](https://github.com/Fokusdotid/Baileys/blo
 
 > **PBKDF2\_HMAC\_SHA512**: `1`
 
-Defined in: [WAProto/index.d.ts:48513](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48513)
+Defined in: [WAProto/index.d.ts:48513](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48513)

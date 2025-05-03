@@ -1,6 +1,6 @@
 # Class: UserAgent
 
-Defined in: [WAProto/index.d.ts:8373](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8373)
+Defined in: [WAProto/index.d.ts:8373](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8373)
 
 Represents a UserAgent.
 
@@ -14,7 +14,7 @@ Represents a UserAgent.
 
 > **new UserAgent**(`properties`?): [`UserAgent`](UserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8379](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8379)
+Defined in: [WAProto/index.d.ts:8379](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8379)
 
 Constructs a new UserAgent.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **appVersion**: `null` \| [`IAppVersion`](../namespaces/UserAgent/interfaces/IAppVersion.md)
 
-Defined in: [WAProto/index.d.ts:8385](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8385)
+Defined in: [WAProto/index.d.ts:8385](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8385)
 
 UserAgent appVersion.
 
@@ -50,7 +50,7 @@ UserAgent appVersion.
 
 > `optional` **device**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8400](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8400)
+Defined in: [WAProto/index.d.ts:8400](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8400)
 
 UserAgent device.
 
@@ -64,7 +64,7 @@ UserAgent device.
 
 > `optional` **deviceBoard**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8418](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8418)
+Defined in: [WAProto/index.d.ts:8418](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8418)
 
 UserAgent deviceBoard.
 
@@ -78,7 +78,7 @@ UserAgent deviceBoard.
 
 > `optional` **deviceExpId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8421](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8421)
+Defined in: [WAProto/index.d.ts:8421](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8421)
 
 UserAgent deviceExpId.
 
@@ -92,7 +92,7 @@ UserAgent deviceExpId.
 
 > `optional` **deviceModelType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8427](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8427)
+Defined in: [WAProto/index.d.ts:8427](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8427)
 
 UserAgent deviceModelType.
 
@@ -106,7 +106,7 @@ UserAgent deviceModelType.
 
 > `optional` **deviceType**: `null` \| [`DeviceType`](../namespaces/UserAgent/enumerations/DeviceType.md)
 
-Defined in: [WAProto/index.d.ts:8424](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8424)
+Defined in: [WAProto/index.d.ts:8424](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8424)
 
 UserAgent deviceType.
 
@@ -120,7 +120,7 @@ UserAgent deviceType.
 
 > `optional` **localeCountryIso31661Alpha2**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8415](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8415)
+Defined in: [WAProto/index.d.ts:8415](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8415)
 
 UserAgent localeCountryIso31661Alpha2.
 
@@ -134,7 +134,7 @@ UserAgent localeCountryIso31661Alpha2.
 
 > `optional` **localeLanguageIso6391**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8412](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8412)
+Defined in: [WAProto/index.d.ts:8412](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8412)
 
 UserAgent localeLanguageIso6391.
 
@@ -148,7 +148,7 @@ UserAgent localeLanguageIso6391.
 
 > `optional` **manufacturer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8397](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8397)
+Defined in: [WAProto/index.d.ts:8397](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8397)
 
 UserAgent manufacturer.
 
@@ -162,7 +162,7 @@ UserAgent manufacturer.
 
 > `optional` **mcc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8388](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8388)
+Defined in: [WAProto/index.d.ts:8388](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8388)
 
 UserAgent mcc.
 
@@ -176,7 +176,7 @@ UserAgent mcc.
 
 > `optional` **mnc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8391](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8391)
+Defined in: [WAProto/index.d.ts:8391](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8391)
 
 UserAgent mnc.
 
@@ -190,7 +190,7 @@ UserAgent mnc.
 
 > `optional` **osBuildNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8403](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8403)
+Defined in: [WAProto/index.d.ts:8403](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8403)
 
 UserAgent osBuildNumber.
 
@@ -204,7 +204,7 @@ UserAgent osBuildNumber.
 
 > `optional` **osVersion**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8394](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8394)
+Defined in: [WAProto/index.d.ts:8394](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8394)
 
 UserAgent osVersion.
 
@@ -218,7 +218,7 @@ UserAgent osVersion.
 
 > `optional` **phoneId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8406](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8406)
+Defined in: [WAProto/index.d.ts:8406](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8406)
 
 UserAgent phoneId.
 
@@ -232,7 +232,7 @@ UserAgent phoneId.
 
 > `optional` **platform**: `null` \| [`Platform`](../namespaces/UserAgent/enumerations/Platform.md)
 
-Defined in: [WAProto/index.d.ts:8382](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8382)
+Defined in: [WAProto/index.d.ts:8382](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8382)
 
 UserAgent platform.
 
@@ -246,7 +246,7 @@ UserAgent platform.
 
 > `optional` **releaseChannel**: `null` \| [`ReleaseChannel`](../namespaces/UserAgent/enumerations/ReleaseChannel.md)
 
-Defined in: [WAProto/index.d.ts:8409](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8409)
+Defined in: [WAProto/index.d.ts:8409](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8409)
 
 UserAgent releaseChannel.
 
@@ -260,7 +260,7 @@ UserAgent releaseChannel.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8497](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8497)
+Defined in: [WAProto/index.d.ts:8497](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8497)
 
 Converts this UserAgent to JSON.
 
@@ -276,7 +276,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UserAgent`](UserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8434](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8434)
+Defined in: [WAProto/index.d.ts:8434](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8434)
 
 Creates a new UserAgent instance using the specified properties.
 
@@ -300,7 +300,7 @@ UserAgent instance
 
 > `static` **decode**(`reader`, `length`?): [`UserAgent`](UserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8460](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8460)
+Defined in: [WAProto/index.d.ts:8460](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8460)
 
 Decodes a UserAgent message from the specified reader or buffer.
 
@@ -338,7 +338,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UserAgent`](UserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8469](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8469)
+Defined in: [WAProto/index.d.ts:8469](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8469)
 
 Decodes a UserAgent message from the specified reader or buffer, length delimited.
 
@@ -370,7 +370,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8442](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8442)
+Defined in: [WAProto/index.d.ts:8442](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8442)
 
 Encodes the specified UserAgent message. Does not implicitly [verify](UserAgent.md#verify) messages.
 
@@ -400,7 +400,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8450](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8450)
+Defined in: [WAProto/index.d.ts:8450](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8450)
 
 Encodes the specified UserAgent message, length delimited. Does not implicitly [verify](UserAgent.md#verify) messages.
 
@@ -430,7 +430,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UserAgent`](UserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8483](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8483)
+Defined in: [WAProto/index.d.ts:8483](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8483)
 
 Creates a UserAgent message from a plain object. Also converts values to their respective internal types.
 
@@ -452,7 +452,7 @@ UserAgent
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8504](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8504)
+Defined in: [WAProto/index.d.ts:8504](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8504)
 
 Gets the default type url for UserAgent
 
@@ -476,7 +476,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8491](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8491)
+Defined in: [WAProto/index.d.ts:8491](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8491)
 
 Creates a plain object from a UserAgent message. Also converts values to other types if specified.
 
@@ -506,7 +506,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8476](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8476)
+Defined in: [WAProto/index.d.ts:8476](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L8476)
 
 Verifies a UserAgent message.
 

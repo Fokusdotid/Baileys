@@ -1,6 +1,6 @@
 # Enumeration: HostStorageType
 
-Defined in: [WAProto/index.d.ts:3363](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3363)
+Defined in: [WAProto/index.d.ts:3363](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3363)
 
 HostStorageType enum.
 
@@ -10,7 +10,7 @@ HostStorageType enum.
 
 > **FACEBOOK**: `1`
 
-Defined in: [WAProto/index.d.ts:3365](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3365)
+Defined in: [WAProto/index.d.ts:3365](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3365)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:3365](https://github.com/Fokusdotid/Baileys/blob
 
 > **ON\_PREMISE**: `0`
 
-Defined in: [WAProto/index.d.ts:3364](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3364)
+Defined in: [WAProto/index.d.ts:3364](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3364)

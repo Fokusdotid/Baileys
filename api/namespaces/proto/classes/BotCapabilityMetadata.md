@@ -1,6 +1,6 @@
 # Class: BotCapabilityMetadata
 
-Defined in: [WAProto/index.d.ts:3505](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3505)
+Defined in: [WAProto/index.d.ts:3505](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3505)
 
 Represents a BotCapabilityMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotCapabilityMetadata.
 
 > **new BotCapabilityMetadata**(`properties`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3511](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3511)
+Defined in: [WAProto/index.d.ts:3511](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3511)
 
 Constructs a new BotCapabilityMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **capabilities**: [`BotCapabilityType`](../namespaces/BotCapabilityMetadata/enumerations/BotCapabilityType.md)[]
 
-Defined in: [WAProto/index.d.ts:3514](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3514)
+Defined in: [WAProto/index.d.ts:3514](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3514)
 
 BotCapabilityMetadata capabilities.
 
@@ -50,7 +50,7 @@ BotCapabilityMetadata capabilities.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3584](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3584)
+Defined in: [WAProto/index.d.ts:3584](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3584)
 
 Converts this BotCapabilityMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3521](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3521)
+Defined in: [WAProto/index.d.ts:3521](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3521)
 
 Creates a new BotCapabilityMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotCapabilityMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3547](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3547)
+Defined in: [WAProto/index.d.ts:3547](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3547)
 
 Decodes a BotCapabilityMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3556](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3556)
+Defined in: [WAProto/index.d.ts:3556](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3556)
 
 Decodes a BotCapabilityMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3529](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3529)
+Defined in: [WAProto/index.d.ts:3529](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3529)
 
 Encodes the specified BotCapabilityMetadata message. Does not implicitly [verify](BotCapabilityMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3537](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3537)
+Defined in: [WAProto/index.d.ts:3537](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3537)
 
 Encodes the specified BotCapabilityMetadata message, length delimited. Does not implicitly [verify](BotCapabilityMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3570](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3570)
+Defined in: [WAProto/index.d.ts:3570](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3570)
 
 Creates a BotCapabilityMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotCapabilityMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3591](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3591)
+Defined in: [WAProto/index.d.ts:3591](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3591)
 
 Gets the default type url for BotCapabilityMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3578](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3578)
+Defined in: [WAProto/index.d.ts:3578](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3578)
 
 Creates a plain object from a BotCapabilityMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3563](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L3563)
+Defined in: [WAProto/index.d.ts:3563](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L3563)
 
 Verifies a BotCapabilityMetadata message.
 

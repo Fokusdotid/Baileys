@@ -1,6 +1,6 @@
 # Class: NativeFlowResponseMessage
 
-Defined in: [WAProto/index.d.ts:24496](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24496)
+Defined in: [WAProto/index.d.ts:24496](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24496)
 
 Represents a NativeFlowResponseMessage.
 
@@ -14,7 +14,7 @@ Represents a NativeFlowResponseMessage.
 
 > **new NativeFlowResponseMessage**(`properties`?): [`NativeFlowResponseMessage`](NativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24502](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24502)
+Defined in: [WAProto/index.d.ts:24502](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24502)
 
 Constructs a new NativeFlowResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24505](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24505)
+Defined in: [WAProto/index.d.ts:24505](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24505)
 
 NativeFlowResponseMessage name.
 
@@ -50,7 +50,7 @@ NativeFlowResponseMessage name.
 
 > `optional` **paramsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24508](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24508)
+Defined in: [WAProto/index.d.ts:24508](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24508)
 
 NativeFlowResponseMessage paramsJson.
 
@@ -64,7 +64,7 @@ NativeFlowResponseMessage paramsJson.
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24511](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24511)
+Defined in: [WAProto/index.d.ts:24511](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24511)
 
 NativeFlowResponseMessage version.
 
@@ -78,7 +78,7 @@ NativeFlowResponseMessage version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24581](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24581)
+Defined in: [WAProto/index.d.ts:24581](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24581)
 
 Converts this NativeFlowResponseMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NativeFlowResponseMessage`](NativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24518](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24518)
+Defined in: [WAProto/index.d.ts:24518](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24518)
 
 Creates a new NativeFlowResponseMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ NativeFlowResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`NativeFlowResponseMessage`](NativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24544](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24544)
+Defined in: [WAProto/index.d.ts:24544](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24544)
 
 Decodes a NativeFlowResponseMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NativeFlowResponseMessage`](NativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24553](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24553)
+Defined in: [WAProto/index.d.ts:24553](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24553)
 
 Decodes a NativeFlowResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24526](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24526)
+Defined in: [WAProto/index.d.ts:24526](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24526)
 
 Encodes the specified NativeFlowResponseMessage message. Does not implicitly [verify](NativeFlowResponseMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24534](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24534)
+Defined in: [WAProto/index.d.ts:24534](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24534)
 
 Encodes the specified NativeFlowResponseMessage message, length delimited. Does not implicitly [verify](NativeFlowResponseMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NativeFlowResponseMessage`](NativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24567](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24567)
+Defined in: [WAProto/index.d.ts:24567](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24567)
 
 Creates a NativeFlowResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ NativeFlowResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24588](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24588)
+Defined in: [WAProto/index.d.ts:24588](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24588)
 
 Gets the default type url for NativeFlowResponseMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24575](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24575)
+Defined in: [WAProto/index.d.ts:24575](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24575)
 
 Creates a plain object from a NativeFlowResponseMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24560](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24560)
+Defined in: [WAProto/index.d.ts:24560](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L24560)
 
 Verifies a NativeFlowResponseMessage message.
 

@@ -1,6 +1,6 @@
 # Interface: IGroupParticipant
 
-Defined in: [WAProto/index.d.ts:13788](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L13788)
+Defined in: [WAProto/index.d.ts:13788](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13788)
 
 Properties of a GroupParticipant.
 
@@ -10,7 +10,7 @@ Properties of a GroupParticipant.
 
 > `optional` **rank**: `null` \| [`Rank`](../namespaces/GroupParticipant/enumerations/Rank.md)
 
-Defined in: [WAProto/index.d.ts:13794](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L13794)
+Defined in: [WAProto/index.d.ts:13794](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13794)
 
 GroupParticipant rank
 
@@ -20,6 +20,6 @@ GroupParticipant rank
 
 > **userJid**: `string`
 
-Defined in: [WAProto/index.d.ts:13791](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L13791)
+Defined in: [WAProto/index.d.ts:13791](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L13791)
 
 GroupParticipant userJid

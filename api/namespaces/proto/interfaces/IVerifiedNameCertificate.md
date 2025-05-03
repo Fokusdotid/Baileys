@@ -1,6 +1,6 @@
 # Interface: IVerifiedNameCertificate
 
-Defined in: [WAProto/index.d.ts:48858](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48858)
+Defined in: [WAProto/index.d.ts:48858](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48858)
 
 Properties of a VerifiedNameCertificate.
 
@@ -10,7 +10,7 @@ Properties of a VerifiedNameCertificate.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48861](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48861)
+Defined in: [WAProto/index.d.ts:48861](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48861)
 
 VerifiedNameCertificate details
 
@@ -20,7 +20,7 @@ VerifiedNameCertificate details
 
 > `optional` **serverSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48867](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48867)
+Defined in: [WAProto/index.d.ts:48867](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48867)
 
 VerifiedNameCertificate serverSignature
 
@@ -30,6 +30,6 @@ VerifiedNameCertificate serverSignature
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48864](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48864)
+Defined in: [WAProto/index.d.ts:48864](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/WAProto/index.d.ts#L48864)
 
 VerifiedNameCertificate signature

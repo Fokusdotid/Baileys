@@ -2,7 +2,7 @@
 
 > **MessageUpsertType**: `"append"` \| `"notify"`
 
-Defined in: [src/Types/Message.ts:290](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Types/Message.ts#L290)
+Defined in: [src/Types/Message.ts:290](https://github.com/Fokusdotid/Baileys/blob/e5a24e138f3b69cf124e0406999e537d5c9a6c18/src/Types/Message.ts#L290)
 
 Type of message upsert
 1. notify => notify the user, this message was just received
