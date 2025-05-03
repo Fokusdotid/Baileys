@@ -1,6 +1,6 @@
 # Interface: ILabelEditAction
 
-Defined in: [WAProto/index.d.ts:42949](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42949)
+Defined in: [WAProto/index.d.ts:42949](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42949)
 
 Properties of a LabelEditAction.
 
@@ -10,7 +10,7 @@ Properties of a LabelEditAction.
 
 > `optional` **color**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42955](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42955)
+Defined in: [WAProto/index.d.ts:42955](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42955)
 
 LabelEditAction color
 
@@ -20,7 +20,7 @@ LabelEditAction color
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42961](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42961)
+Defined in: [WAProto/index.d.ts:42961](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42961)
 
 LabelEditAction deleted
 
@@ -30,7 +30,7 @@ LabelEditAction deleted
 
 > `optional` **isActive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42967](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42967)
+Defined in: [WAProto/index.d.ts:42967](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42967)
 
 LabelEditAction isActive
 
@@ -40,7 +40,7 @@ LabelEditAction isActive
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42952](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42952)
+Defined in: [WAProto/index.d.ts:42952](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42952)
 
 LabelEditAction name
 
@@ -50,7 +50,7 @@ LabelEditAction name
 
 > `optional` **orderIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42964](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42964)
+Defined in: [WAProto/index.d.ts:42964](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42964)
 
 LabelEditAction orderIndex
 
@@ -60,7 +60,7 @@ LabelEditAction orderIndex
 
 > `optional` **predefinedId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42958](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42958)
+Defined in: [WAProto/index.d.ts:42958](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42958)
 
 LabelEditAction predefinedId
 
@@ -70,6 +70,6 @@ LabelEditAction predefinedId
 
 > `optional` **type**: `null` \| [`ListType`](../namespaces/LabelEditAction/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:42970](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L42970)
+Defined in: [WAProto/index.d.ts:42970](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42970)
 
 LabelEditAction type

@@ -1,6 +1,6 @@
 # Enumeration: AccountType
 
-Defined in: [WAProto/index.d.ts:3101](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3101)
+Defined in: [WAProto/index.d.ts:3101](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L3101)
 
 AccountType enum.
 
@@ -10,4 +10,4 @@ AccountType enum.
 
 > **ENTERPRISE**: `0`
 
-Defined in: [WAProto/index.d.ts:3102](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L3102)
+Defined in: [WAProto/index.d.ts:3102](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L3102)

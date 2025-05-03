@@ -1,6 +1,6 @@
 # Interface: IDataSharingContext
 
-Defined in: [WAProto/index.d.ts:9966](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L9966)
+Defined in: [WAProto/index.d.ts:9966](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L9966)
 
 Properties of a DataSharingContext.
 
@@ -10,7 +10,7 @@ Properties of a DataSharingContext.
 
 > `optional` **encryptedSignalTokenConsented**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9972](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L9972)
+Defined in: [WAProto/index.d.ts:9972](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L9972)
 
 DataSharingContext encryptedSignalTokenConsented
 
@@ -20,7 +20,7 @@ DataSharingContext encryptedSignalTokenConsented
 
 > `optional` **parameters**: `null` \| [`IParameters`](../namespaces/DataSharingContext/interfaces/IParameters.md)[]
 
-Defined in: [WAProto/index.d.ts:9975](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L9975)
+Defined in: [WAProto/index.d.ts:9975](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L9975)
 
 DataSharingContext parameters
 
@@ -30,6 +30,6 @@ DataSharingContext parameters
 
 > `optional` **showMmDisclosure**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9969](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L9969)
+Defined in: [WAProto/index.d.ts:9969](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L9969)
 
 DataSharingContext showMmDisclosure

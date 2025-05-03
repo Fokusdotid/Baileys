@@ -1,6 +1,6 @@
 # Class: DeviceProps
 
-Defined in: [WAProto/index.d.ts:11779](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11779)
+Defined in: [WAProto/index.d.ts:11779](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11779)
 
 Represents a DeviceProps.
 
@@ -14,7 +14,7 @@ Represents a DeviceProps.
 
 > **new DeviceProps**(`properties`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:11785](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11785)
+Defined in: [WAProto/index.d.ts:11785](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11785)
 
 Constructs a new DeviceProps.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **historySyncConfig**: `null` \| [`IHistorySyncConfig`](../namespaces/DeviceProps/interfaces/IHistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:11800](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11800)
+Defined in: [WAProto/index.d.ts:11800](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11800)
 
 DeviceProps historySyncConfig.
 
@@ -50,7 +50,7 @@ DeviceProps historySyncConfig.
 
 > `optional` **os**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11788](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11788)
+Defined in: [WAProto/index.d.ts:11788](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11788)
 
 DeviceProps os.
 
@@ -64,7 +64,7 @@ DeviceProps os.
 
 > `optional` **platformType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:11794](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11794)
+Defined in: [WAProto/index.d.ts:11794](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11794)
 
 DeviceProps platformType.
 
@@ -78,7 +78,7 @@ DeviceProps platformType.
 
 > `optional` **requireFullSync**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11797](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11797)
+Defined in: [WAProto/index.d.ts:11797](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11797)
 
 DeviceProps requireFullSync.
 
@@ -92,7 +92,7 @@ DeviceProps requireFullSync.
 
 > `optional` **version**: `null` \| [`IAppVersion`](../namespaces/DeviceProps/interfaces/IAppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11791](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11791)
+Defined in: [WAProto/index.d.ts:11791](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11791)
 
 DeviceProps version.
 
@@ -106,7 +106,7 @@ DeviceProps version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11870](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11870)
+Defined in: [WAProto/index.d.ts:11870](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11870)
 
 Converts this DeviceProps to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:11807](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11807)
+Defined in: [WAProto/index.d.ts:11807](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11807)
 
 Creates a new DeviceProps instance using the specified properties.
 
@@ -146,7 +146,7 @@ DeviceProps instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:11833](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11833)
+Defined in: [WAProto/index.d.ts:11833](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11833)
 
 Decodes a DeviceProps message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:11842](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11842)
+Defined in: [WAProto/index.d.ts:11842](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11842)
 
 Decodes a DeviceProps message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11815](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11815)
+Defined in: [WAProto/index.d.ts:11815](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11815)
 
 Encodes the specified DeviceProps message. Does not implicitly [verify](DeviceProps.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11823](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11823)
+Defined in: [WAProto/index.d.ts:11823](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11823)
 
 Encodes the specified DeviceProps message, length delimited. Does not implicitly [verify](DeviceProps.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:11856](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11856)
+Defined in: [WAProto/index.d.ts:11856](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11856)
 
 Creates a DeviceProps message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ DeviceProps
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11877](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11877)
+Defined in: [WAProto/index.d.ts:11877](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11877)
 
 Gets the default type url for DeviceProps
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11864](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11864)
+Defined in: [WAProto/index.d.ts:11864](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11864)
 
 Creates a plain object from a DeviceProps message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11849](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L11849)
+Defined in: [WAProto/index.d.ts:11849](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L11849)
 
 Verifies a DeviceProps message.
 

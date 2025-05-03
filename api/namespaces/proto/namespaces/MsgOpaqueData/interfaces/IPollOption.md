@@ -1,6 +1,6 @@
 # Interface: IPollOption
 
-Defined in: [WAProto/index.d.ts:34201](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34201)
+Defined in: [WAProto/index.d.ts:34201](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34201)
 
 Properties of a PollOption.
 
@@ -10,7 +10,7 @@ Properties of a PollOption.
 
 > `optional` **hash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34207](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34207)
+Defined in: [WAProto/index.d.ts:34207](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34207)
 
 PollOption hash
 
@@ -20,6 +20,6 @@ PollOption hash
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34204](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34204)
+Defined in: [WAProto/index.d.ts:34204](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34204)
 
 PollOption name

@@ -1,6 +1,6 @@
 # Interface: IEventLocation
 
-Defined in: [WAProto/index.d.ts:34067](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34067)
+Defined in: [WAProto/index.d.ts:34067](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34067)
 
 Properties of an EventLocation.
 
@@ -10,7 +10,7 @@ Properties of an EventLocation.
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34079](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34079)
+Defined in: [WAProto/index.d.ts:34079](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34079)
 
 EventLocation address
 
@@ -20,7 +20,7 @@ EventLocation address
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34070](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34070)
+Defined in: [WAProto/index.d.ts:34070](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34070)
 
 EventLocation degreesLatitude
 
@@ -30,7 +30,7 @@ EventLocation degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34073](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34073)
+Defined in: [WAProto/index.d.ts:34073](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34073)
 
 EventLocation degreesLongitude
 
@@ -40,7 +40,7 @@ EventLocation degreesLongitude
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34085](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34085)
+Defined in: [WAProto/index.d.ts:34085](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34085)
 
 EventLocation jpegThumbnail
 
@@ -50,7 +50,7 @@ EventLocation jpegThumbnail
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34076](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34076)
+Defined in: [WAProto/index.d.ts:34076](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34076)
 
 EventLocation name
 
@@ -60,6 +60,6 @@ EventLocation name
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34082](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L34082)
+Defined in: [WAProto/index.d.ts:34082](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L34082)
 
 EventLocation url

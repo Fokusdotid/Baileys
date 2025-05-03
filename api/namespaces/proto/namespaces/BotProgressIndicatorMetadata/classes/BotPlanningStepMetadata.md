@@ -1,6 +1,6 @@
 # Class: BotPlanningStepMetadata
 
-Defined in: [WAProto/index.d.ts:5152](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5152)
+Defined in: [WAProto/index.d.ts:5152](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5152)
 
 Represents a BotPlanningStepMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotPlanningStepMetadata.
 
 > **new BotPlanningStepMetadata**(`properties`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5158](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5158)
+Defined in: [WAProto/index.d.ts:5158](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5158)
 
 Constructs a new BotPlanningStepMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isEnhancedSearch**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:5176](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5176)
+Defined in: [WAProto/index.d.ts:5176](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5176)
 
 BotPlanningStepMetadata isEnhancedSearch.
 
@@ -50,7 +50,7 @@ BotPlanningStepMetadata isEnhancedSearch.
 
 > `optional` **isReasoning**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:5173](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5173)
+Defined in: [WAProto/index.d.ts:5173](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5173)
 
 BotPlanningStepMetadata isReasoning.
 
@@ -64,7 +64,7 @@ BotPlanningStepMetadata isReasoning.
 
 > **sourcesMetadata**: [`IBotPlanningSearchSourcesMetadata`](../namespaces/BotPlanningStepMetadata/interfaces/IBotPlanningSearchSourcesMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5167](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5167)
+Defined in: [WAProto/index.d.ts:5167](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5167)
 
 BotPlanningStepMetadata sourcesMetadata.
 
@@ -78,7 +78,7 @@ BotPlanningStepMetadata sourcesMetadata.
 
 > `optional` **status**: `null` \| [`PlanningStepStatus`](../namespaces/BotPlanningStepMetadata/enumerations/PlanningStepStatus.md)
 
-Defined in: [WAProto/index.d.ts:5170](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5170)
+Defined in: [WAProto/index.d.ts:5170](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5170)
 
 BotPlanningStepMetadata status.
 
@@ -92,7 +92,7 @@ BotPlanningStepMetadata status.
 
 > `optional` **statusBody**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5164](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5164)
+Defined in: [WAProto/index.d.ts:5164](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5164)
 
 BotPlanningStepMetadata statusBody.
 
@@ -106,7 +106,7 @@ BotPlanningStepMetadata statusBody.
 
 > `optional` **statusTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5161](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5161)
+Defined in: [WAProto/index.d.ts:5161](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5161)
 
 BotPlanningStepMetadata statusTitle.
 
@@ -120,7 +120,7 @@ BotPlanningStepMetadata statusTitle.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5246](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5246)
+Defined in: [WAProto/index.d.ts:5246](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5246)
 
 Converts this BotPlanningStepMetadata to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5183](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5183)
+Defined in: [WAProto/index.d.ts:5183](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5183)
 
 Creates a new BotPlanningStepMetadata instance using the specified properties.
 
@@ -160,7 +160,7 @@ BotPlanningStepMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5209](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5209)
+Defined in: [WAProto/index.d.ts:5209](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5209)
 
 Decodes a BotPlanningStepMetadata message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5218](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5218)
+Defined in: [WAProto/index.d.ts:5218](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5218)
 
 Decodes a BotPlanningStepMetadata message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5191](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5191)
+Defined in: [WAProto/index.d.ts:5191](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5191)
 
 Encodes the specified BotPlanningStepMetadata message. Does not implicitly [verify](BotPlanningStepMetadata.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5199](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5199)
+Defined in: [WAProto/index.d.ts:5199](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5199)
 
 Encodes the specified BotPlanningStepMetadata message, length delimited. Does not implicitly [verify](BotPlanningStepMetadata.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5232](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5232)
+Defined in: [WAProto/index.d.ts:5232](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5232)
 
 Creates a BotPlanningStepMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ BotPlanningStepMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5253](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5253)
+Defined in: [WAProto/index.d.ts:5253](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5253)
 
 Gets the default type url for BotPlanningStepMetadata
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5240](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5240)
+Defined in: [WAProto/index.d.ts:5240](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5240)
 
 Creates a plain object from a BotPlanningStepMetadata message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5225](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L5225)
+Defined in: [WAProto/index.d.ts:5225](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L5225)
 
 Verifies a BotPlanningStepMetadata message.
 

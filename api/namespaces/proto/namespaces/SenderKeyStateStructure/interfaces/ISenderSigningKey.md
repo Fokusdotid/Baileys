@@ -1,6 +1,6 @@
 # Interface: ISenderSigningKey
 
-Defined in: [WAProto/index.d.ts:38852](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L38852)
+Defined in: [WAProto/index.d.ts:38852](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L38852)
 
 Properties of a SenderSigningKey.
 
@@ -10,7 +10,7 @@ Properties of a SenderSigningKey.
 
 > `optional` **private**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38858](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L38858)
+Defined in: [WAProto/index.d.ts:38858](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L38858)
 
 SenderSigningKey private
 
@@ -20,6 +20,6 @@ SenderSigningKey private
 
 > `optional` **public**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38855](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L38855)
+Defined in: [WAProto/index.d.ts:38855](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L38855)
 
 SenderSigningKey public

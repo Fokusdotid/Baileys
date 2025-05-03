@@ -1,6 +1,6 @@
 # Enumeration: PairedMediaType
 
-Defined in: [WAProto/index.d.ts:10787](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10787)
+Defined in: [WAProto/index.d.ts:10787](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10787)
 
 PairedMediaType enum.
 
@@ -10,7 +10,7 @@ PairedMediaType enum.
 
 > **HD\_IMAGE\_CHILD**: `4`
 
-Defined in: [WAProto/index.d.ts:10792](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10792)
+Defined in: [WAProto/index.d.ts:10792](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10792)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:10792](https://github.com/Fokusdotid/Baileys/blo
 
 > **HD\_VIDEO\_CHILD**: `2`
 
-Defined in: [WAProto/index.d.ts:10790](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10790)
+Defined in: [WAProto/index.d.ts:10790](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10790)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:10790](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOT\_PAIRED\_MEDIA**: `0`
 
-Defined in: [WAProto/index.d.ts:10788](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10788)
+Defined in: [WAProto/index.d.ts:10788](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10788)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:10788](https://github.com/Fokusdotid/Baileys/blo
 
 > **SD\_IMAGE\_PARENT**: `3`
 
-Defined in: [WAProto/index.d.ts:10791](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10791)
+Defined in: [WAProto/index.d.ts:10791](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10791)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:10791](https://github.com/Fokusdotid/Baileys/blo
 
 > **SD\_VIDEO\_PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:10789](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L10789)
+Defined in: [WAProto/index.d.ts:10789](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10789)

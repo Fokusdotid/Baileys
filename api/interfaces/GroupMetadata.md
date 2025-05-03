@@ -1,6 +1,6 @@
 # Interface: GroupMetadata
 
-Defined in: [src/Types/GroupMetadata.ts:11](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L11)
+Defined in: [src/Types/GroupMetadata.ts:11](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L11)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/GroupMetadata.ts:11](https://github.com/Fokusdotid/Bailey
 
 > **addressingMode**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:14](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L14)
+Defined in: [src/Types/GroupMetadata.ts:14](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L14)
 
 group uses 'lid' or 'pn' to send messages
 
@@ -18,7 +18,7 @@ group uses 'lid' or 'pn' to send messages
 
 > `optional` **announce**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:30](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L30)
+Defined in: [src/Types/GroupMetadata.ts:30](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L30)
 
 is set when the group only allows admins to write messages
 
@@ -28,7 +28,7 @@ is set when the group only allows admins to write messages
 
 > `optional` **author**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:46](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L46)
+Defined in: [src/Types/GroupMetadata.ts:46](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L46)
 
 the person who added you to group or changed some setting in group
 
@@ -38,7 +38,7 @@ the person who added you to group or changed some setting in group
 
 > `optional` **creation**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:21](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L21)
+Defined in: [src/Types/GroupMetadata.ts:21](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L21)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/Types/GroupMetadata.ts:21](https://github.com/Fokusdotid/Bailey
 
 > `optional` **desc**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:22](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L22)
+Defined in: [src/Types/GroupMetadata.ts:22](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L22)
 
 ***
 
@@ -54,7 +54,7 @@ Defined in: [src/Types/GroupMetadata.ts:22](https://github.com/Fokusdotid/Bailey
 
 > `optional` **descId**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:24](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L24)
+Defined in: [src/Types/GroupMetadata.ts:24](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L24)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/Types/GroupMetadata.ts:24](https://github.com/Fokusdotid/Bailey
 
 > `optional` **descOwner**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:23](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L23)
+Defined in: [src/Types/GroupMetadata.ts:23](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L23)
 
 ***
 
@@ -70,7 +70,7 @@ Defined in: [src/Types/GroupMetadata.ts:23](https://github.com/Fokusdotid/Bailey
 
 > `optional` **ephemeralDuration**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:43](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L43)
+Defined in: [src/Types/GroupMetadata.ts:43](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L43)
 
 ***
 
@@ -78,7 +78,7 @@ Defined in: [src/Types/GroupMetadata.ts:43](https://github.com/Fokusdotid/Bailey
 
 > **id**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:12](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L12)
+Defined in: [src/Types/GroupMetadata.ts:12](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L12)
 
 ***
 
@@ -86,7 +86,7 @@ Defined in: [src/Types/GroupMetadata.ts:12](https://github.com/Fokusdotid/Bailey
 
 > `optional` **inviteCode**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:44](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L44)
+Defined in: [src/Types/GroupMetadata.ts:44](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L44)
 
 ***
 
@@ -94,7 +94,7 @@ Defined in: [src/Types/GroupMetadata.ts:44](https://github.com/Fokusdotid/Bailey
 
 > `optional` **isCommunity**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:36](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L36)
+Defined in: [src/Types/GroupMetadata.ts:36](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L36)
 
 is this a community
 
@@ -104,7 +104,7 @@ is this a community
 
 > `optional` **isCommunityAnnounce**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:38](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L38)
+Defined in: [src/Types/GroupMetadata.ts:38](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L38)
 
 is this the announce of a community
 
@@ -114,7 +114,7 @@ is this the announce of a community
 
 > `optional` **joinApprovalMode**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:34](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L34)
+Defined in: [src/Types/GroupMetadata.ts:34](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L34)
 
 Request approval to join the group
 
@@ -124,7 +124,7 @@ Request approval to join the group
 
 > `optional` **linkedParent**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:26](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L26)
+Defined in: [src/Types/GroupMetadata.ts:26](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L26)
 
 if this group is part of a community, it returns the jid of the community to which it belongs
 
@@ -134,7 +134,7 @@ if this group is part of a community, it returns the jid of the community to whi
 
 > `optional` **memberAddMode**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:32](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L32)
+Defined in: [src/Types/GroupMetadata.ts:32](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L32)
 
 is set when the group also allows members to add participants
 
@@ -144,7 +144,7 @@ is set when the group also allows members to add participants
 
 > **owner**: `undefined` \| `string`
 
-Defined in: [src/Types/GroupMetadata.ts:15](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L15)
+Defined in: [src/Types/GroupMetadata.ts:15](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L15)
 
 ***
 
@@ -152,7 +152,7 @@ Defined in: [src/Types/GroupMetadata.ts:15](https://github.com/Fokusdotid/Bailey
 
 > **participants**: [`GroupParticipant`](../type-aliases/GroupParticipant.md)[]
 
-Defined in: [src/Types/GroupMetadata.ts:42](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L42)
+Defined in: [src/Types/GroupMetadata.ts:42](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L42)
 
 ***
 
@@ -160,7 +160,7 @@ Defined in: [src/Types/GroupMetadata.ts:42](https://github.com/Fokusdotid/Bailey
 
 > `optional` **restrict**: `boolean`
 
-Defined in: [src/Types/GroupMetadata.ts:28](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L28)
+Defined in: [src/Types/GroupMetadata.ts:28](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L28)
 
 is set when the group only allows admins to change group settings
 
@@ -170,7 +170,7 @@ is set when the group only allows admins to change group settings
 
 > `optional` **size**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:40](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L40)
+Defined in: [src/Types/GroupMetadata.ts:40](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L40)
 
 number of group participants
 
@@ -180,7 +180,7 @@ number of group participants
 
 > **subject**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:16](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L16)
+Defined in: [src/Types/GroupMetadata.ts:16](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L16)
 
 ***
 
@@ -188,7 +188,7 @@ Defined in: [src/Types/GroupMetadata.ts:16](https://github.com/Fokusdotid/Bailey
 
 > `optional` **subjectOwner**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:18](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L18)
+Defined in: [src/Types/GroupMetadata.ts:18](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L18)
 
 group subject owner
 
@@ -198,6 +198,6 @@ group subject owner
 
 > `optional` **subjectTime**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:20](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Types/GroupMetadata.ts#L20)
+Defined in: [src/Types/GroupMetadata.ts:20](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/GroupMetadata.ts#L20)
 
 group subject modification date

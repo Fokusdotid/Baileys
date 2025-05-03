@@ -1,6 +1,6 @@
 # Enumeration: Initiator
 
-Defined in: [WAProto/index.d.ts:12326](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L12326)
+Defined in: [WAProto/index.d.ts:12326](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L12326)
 
 Initiator enum.
 
@@ -10,7 +10,7 @@ Initiator enum.
 
 > **BIZ\_UPGRADE\_FB\_HOSTING**: `3`
 
-Defined in: [WAProto/index.d.ts:12330](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L12330)
+Defined in: [WAProto/index.d.ts:12330](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L12330)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12330](https://github.com/Fokusdotid/Baileys/blo
 
 > **CHANGED\_IN\_CHAT**: `0`
 
-Defined in: [WAProto/index.d.ts:12327](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L12327)
+Defined in: [WAProto/index.d.ts:12327](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L12327)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:12327](https://github.com/Fokusdotid/Baileys/blo
 
 > **INITIATED\_BY\_ME**: `1`
 
-Defined in: [WAProto/index.d.ts:12328](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L12328)
+Defined in: [WAProto/index.d.ts:12328](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L12328)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:12328](https://github.com/Fokusdotid/Baileys/blo
 
 > **INITIATED\_BY\_OTHER**: `2`
 
-Defined in: [WAProto/index.d.ts:12329](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L12329)
+Defined in: [WAProto/index.d.ts:12329](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L12329)

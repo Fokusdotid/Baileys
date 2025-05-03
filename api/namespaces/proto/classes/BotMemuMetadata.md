@@ -1,6 +1,6 @@
 # Class: BotMemuMetadata
 
-Defined in: [WAProto/index.d.ts:4311](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4311)
+Defined in: [WAProto/index.d.ts:4311](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4311)
 
 Represents a BotMemuMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMemuMetadata.
 
 > **new BotMemuMetadata**(`properties`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4317](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4317)
+Defined in: [WAProto/index.d.ts:4317](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4317)
 
 Constructs a new BotMemuMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **faceImages**: [`IBotMediaMetadata`](../interfaces/IBotMediaMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:4320](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4320)
+Defined in: [WAProto/index.d.ts:4320](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4320)
 
 BotMemuMetadata faceImages.
 
@@ -50,7 +50,7 @@ BotMemuMetadata faceImages.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4390](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4390)
+Defined in: [WAProto/index.d.ts:4390](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4390)
 
 Converts this BotMemuMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4327](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4327)
+Defined in: [WAProto/index.d.ts:4327](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4327)
 
 Creates a new BotMemuMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotMemuMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4353](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4353)
+Defined in: [WAProto/index.d.ts:4353](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4353)
 
 Decodes a BotMemuMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4362](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4362)
+Defined in: [WAProto/index.d.ts:4362](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4362)
 
 Decodes a BotMemuMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4335](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4335)
+Defined in: [WAProto/index.d.ts:4335](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4335)
 
 Encodes the specified BotMemuMetadata message. Does not implicitly [verify](BotMemuMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4343](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4343)
+Defined in: [WAProto/index.d.ts:4343](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4343)
 
 Encodes the specified BotMemuMetadata message, length delimited. Does not implicitly [verify](BotMemuMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4376](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4376)
+Defined in: [WAProto/index.d.ts:4376](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4376)
 
 Creates a BotMemuMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotMemuMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4397](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4397)
+Defined in: [WAProto/index.d.ts:4397](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4397)
 
 Gets the default type url for BotMemuMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4384](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4384)
+Defined in: [WAProto/index.d.ts:4384](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4384)
 
 Creates a plain object from a BotMemuMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4369](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L4369)
+Defined in: [WAProto/index.d.ts:4369](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L4369)
 
 Verifies a BotMemuMetadata message.
 

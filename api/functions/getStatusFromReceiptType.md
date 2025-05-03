@@ -2,7 +2,7 @@
 
 > **getStatusFromReceiptType**(`type`): [`Status`](../namespaces/proto/namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [src/Utils/generics.ts:329](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/src/Utils/generics.ts#L329)
+Defined in: [src/Utils/generics.ts:329](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Utils/generics.ts#L329)
 
 Given a type of receipt, returns what the new status of the message should be
 

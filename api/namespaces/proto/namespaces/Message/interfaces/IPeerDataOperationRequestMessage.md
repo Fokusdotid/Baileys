@@ -1,6 +1,6 @@
 # Interface: IPeerDataOperationRequestMessage
 
-Defined in: [WAProto/index.d.ts:26879](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26879)
+Defined in: [WAProto/index.d.ts:26879](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26879)
 
 Properties of a PeerDataOperationRequestMessage.
 
@@ -10,7 +10,7 @@ Properties of a PeerDataOperationRequestMessage.
 
 > `optional` **fullHistorySyncOnDemandRequest**: `null` \| [`IFullHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IFullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:26897](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26897)
+Defined in: [WAProto/index.d.ts:26897](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26897)
 
 PeerDataOperationRequestMessage fullHistorySyncOnDemandRequest
 
@@ -20,7 +20,7 @@ PeerDataOperationRequestMessage fullHistorySyncOnDemandRequest
 
 > `optional` **historySyncOnDemandRequest**: `null` \| [`IHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:26891](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26891)
+Defined in: [WAProto/index.d.ts:26891](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26891)
 
 PeerDataOperationRequestMessage historySyncOnDemandRequest
 
@@ -30,7 +30,7 @@ PeerDataOperationRequestMessage historySyncOnDemandRequest
 
 > `optional` **peerDataOperationRequestType**: `null` \| [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
 
-Defined in: [WAProto/index.d.ts:26882](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26882)
+Defined in: [WAProto/index.d.ts:26882](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26882)
 
 PeerDataOperationRequestMessage peerDataOperationRequestType
 
@@ -40,7 +40,7 @@ PeerDataOperationRequestMessage peerDataOperationRequestType
 
 > `optional` **placeholderMessageResendRequest**: `null` \| [`IPlaceholderMessageResendRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IPlaceholderMessageResendRequest.md)[]
 
-Defined in: [WAProto/index.d.ts:26894](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26894)
+Defined in: [WAProto/index.d.ts:26894](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26894)
 
 PeerDataOperationRequestMessage placeholderMessageResendRequest
 
@@ -50,7 +50,7 @@ PeerDataOperationRequestMessage placeholderMessageResendRequest
 
 > `optional` **requestStickerReupload**: `null` \| [`IRequestStickerReupload`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestStickerReupload.md)[]
 
-Defined in: [WAProto/index.d.ts:26885](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26885)
+Defined in: [WAProto/index.d.ts:26885](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26885)
 
 PeerDataOperationRequestMessage requestStickerReupload
 
@@ -60,6 +60,6 @@ PeerDataOperationRequestMessage requestStickerReupload
 
 > `optional` **requestUrlPreview**: `null` \| [`IRequestUrlPreview`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestUrlPreview.md)[]
 
-Defined in: [WAProto/index.d.ts:26888](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L26888)
+Defined in: [WAProto/index.d.ts:26888](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L26888)
 
 PeerDataOperationRequestMessage requestUrlPreview

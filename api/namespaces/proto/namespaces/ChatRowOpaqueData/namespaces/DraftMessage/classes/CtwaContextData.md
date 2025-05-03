@@ -1,6 +1,6 @@
 # Class: CtwaContextData
 
-Defined in: [WAProto/index.d.ts:7177](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7177)
+Defined in: [WAProto/index.d.ts:7177](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7177)
 
 Represents a CtwaContextData.
 
@@ -14,7 +14,7 @@ Represents a CtwaContextData.
 
 > **new CtwaContextData**(`properties`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7183](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7183)
+Defined in: [WAProto/index.d.ts:7183](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7183)
 
 Constructs a new CtwaContextData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7189](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7189)
+Defined in: [WAProto/index.d.ts:7189](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7189)
 
 CtwaContextData conversionData.
 
@@ -50,7 +50,7 @@ CtwaContextData conversionData.
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7186](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7186)
+Defined in: [WAProto/index.d.ts:7186](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7186)
 
 CtwaContextData conversionSource.
 
@@ -64,7 +64,7 @@ CtwaContextData conversionSource.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7204](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7204)
+Defined in: [WAProto/index.d.ts:7204](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7204)
 
 CtwaContextData description.
 
@@ -78,7 +78,7 @@ CtwaContextData description.
 
 > `optional` **isSuspiciousLink**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7219](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7219)
+Defined in: [WAProto/index.d.ts:7219](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7219)
 
 CtwaContextData isSuspiciousLink.
 
@@ -92,7 +92,7 @@ CtwaContextData isSuspiciousLink.
 
 > `optional` **mediaType**: `null` \| [`ContextInfoExternalAdReplyInfoMediaType`](../namespaces/CtwaContextData/enumerations/ContextInfoExternalAdReplyInfoMediaType.md)
 
-Defined in: [WAProto/index.d.ts:7213](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7213)
+Defined in: [WAProto/index.d.ts:7213](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7213)
 
 CtwaContextData mediaType.
 
@@ -106,7 +106,7 @@ CtwaContextData mediaType.
 
 > `optional` **mediaUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7216](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7216)
+Defined in: [WAProto/index.d.ts:7216](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7216)
 
 CtwaContextData mediaUrl.
 
@@ -120,7 +120,7 @@ CtwaContextData mediaUrl.
 
 > `optional` **sourceId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7195](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7195)
+Defined in: [WAProto/index.d.ts:7195](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7195)
 
 CtwaContextData sourceId.
 
@@ -134,7 +134,7 @@ CtwaContextData sourceId.
 
 > `optional` **sourceType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7198](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7198)
+Defined in: [WAProto/index.d.ts:7198](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7198)
 
 CtwaContextData sourceType.
 
@@ -148,7 +148,7 @@ CtwaContextData sourceType.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7192](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7192)
+Defined in: [WAProto/index.d.ts:7192](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7192)
 
 CtwaContextData sourceUrl.
 
@@ -162,7 +162,7 @@ CtwaContextData sourceUrl.
 
 > `optional` **thumbnail**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7207](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7207)
+Defined in: [WAProto/index.d.ts:7207](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7207)
 
 CtwaContextData thumbnail.
 
@@ -176,7 +176,7 @@ CtwaContextData thumbnail.
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7210](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7210)
+Defined in: [WAProto/index.d.ts:7210](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7210)
 
 CtwaContextData thumbnailUrl.
 
@@ -190,7 +190,7 @@ CtwaContextData thumbnailUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7201](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7201)
+Defined in: [WAProto/index.d.ts:7201](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7201)
 
 CtwaContextData title.
 
@@ -204,7 +204,7 @@ CtwaContextData title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7289](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7289)
+Defined in: [WAProto/index.d.ts:7289](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7289)
 
 Converts this CtwaContextData to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7226](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7226)
+Defined in: [WAProto/index.d.ts:7226](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7226)
 
 Creates a new CtwaContextData instance using the specified properties.
 
@@ -244,7 +244,7 @@ CtwaContextData instance
 
 > `static` **decode**(`reader`, `length`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7252](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7252)
+Defined in: [WAProto/index.d.ts:7252](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7252)
 
 Decodes a CtwaContextData message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7261](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7261)
+Defined in: [WAProto/index.d.ts:7261](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7261)
 
 Decodes a CtwaContextData message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7234](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7234)
+Defined in: [WAProto/index.d.ts:7234](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7234)
 
 Encodes the specified CtwaContextData message. Does not implicitly [verify](CtwaContextData.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7242](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7242)
+Defined in: [WAProto/index.d.ts:7242](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7242)
 
 Encodes the specified CtwaContextData message, length delimited. Does not implicitly [verify](CtwaContextData.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7275](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7275)
+Defined in: [WAProto/index.d.ts:7275](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7275)
 
 Creates a CtwaContextData message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ CtwaContextData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7296](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7296)
+Defined in: [WAProto/index.d.ts:7296](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7296)
 
 Gets the default type url for CtwaContextData
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7283](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7283)
+Defined in: [WAProto/index.d.ts:7283](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7283)
 
 Creates a plain object from a CtwaContextData message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7268](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L7268)
+Defined in: [WAProto/index.d.ts:7268](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7268)
 
 Verifies a CtwaContextData message.
 

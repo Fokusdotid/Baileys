@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseLatexExpression
 
-Defined in: [WAProto/index.d.ts:1909](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1909)
+Defined in: [WAProto/index.d.ts:1909](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1909)
 
 Properties of a AIRichResponseLatexExpression.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseLatexExpression.
 
 > `optional` **fontHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1924](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1924)
+Defined in: [WAProto/index.d.ts:1924](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1924)
 
 AIRichResponseLatexExpression fontHeight
 
@@ -20,7 +20,7 @@ AIRichResponseLatexExpression fontHeight
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1921](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1921)
+Defined in: [WAProto/index.d.ts:1921](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1921)
 
 AIRichResponseLatexExpression height
 
@@ -30,7 +30,7 @@ AIRichResponseLatexExpression height
 
 > `optional` **latexExpression**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1912](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1912)
+Defined in: [WAProto/index.d.ts:1912](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1912)
 
 AIRichResponseLatexExpression latexExpression
 
@@ -40,7 +40,7 @@ AIRichResponseLatexExpression latexExpression
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1915](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1915)
+Defined in: [WAProto/index.d.ts:1915](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1915)
 
 AIRichResponseLatexExpression url
 
@@ -50,6 +50,6 @@ AIRichResponseLatexExpression url
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1918](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L1918)
+Defined in: [WAProto/index.d.ts:1918](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1918)
 
 AIRichResponseLatexExpression width

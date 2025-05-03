@@ -1,6 +1,6 @@
 # Interface: IRequestStickerReupload
 
-Defined in: [WAProto/index.d.ts:27335](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L27335)
+Defined in: [WAProto/index.d.ts:27335](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L27335)
 
 Properties of a RequestStickerReupload.
 
@@ -10,6 +10,6 @@ Properties of a RequestStickerReupload.
 
 > `optional` **fileSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27338](https://github.com/Fokusdotid/Baileys/blob/d7495b24bcd136e35724329fba661cfcc0bc8eed/WAProto/index.d.ts#L27338)
+Defined in: [WAProto/index.d.ts:27338](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L27338)
 
 RequestStickerReupload fileSha256
