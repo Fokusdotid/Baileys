@@ -568,6 +568,10 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 
 					logger.debug({ jid }, 'adding device identity')
 				}
+				
+				if(additionalNodes && additionalNodes.length > 0) {
+					(stanza.content as BinaryNode[]).push(...additionalNodes)
+				}
 
 				const buttonType = getButtonType(message)
 				if(buttonType) {
@@ -583,7 +587,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 					logger.debug({ jid }, 'adding bussines node')
 				}
 
-				if(message?.interactiveMessage?.nativeFlowMessage) {
+				if((isJidGroup(jid) || isJidUser(jid)) && (message?.interactiveMessage || message?.templateMessage || message?.buttonsMessage)) {
 					if(!stanza.content || !Array.isArray(stanza.content)) {
 						stanza.content = []
 					}
@@ -605,10 +609,6 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 							}]
 						}]
 					})
-				}
-
-				if(additionalNodes && additionalNodes.length > 0) {
-					(stanza.content as BinaryNode[]).push(...additionalNodes)
 				}
 
 				logger.debug({ msgId }, `sending message to ${participants.length} devices`)
