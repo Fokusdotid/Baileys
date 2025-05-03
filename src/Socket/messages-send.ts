@@ -587,7 +587,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 					logger.debug({ jid }, 'adding bussines node')
 				}
 
-				if((isJidGroup(jid) || isJidUser(jid)) && (message?.interactiveMessage || message?.templateMessage || message?.buttonsMessage)) {
+				if((isJidGroup(jid) || isJidUser(jid)) && (message?.viewOnceMessage || message?.viewOnceMessageV2 || message?.viewOnceMessageV2Extension || message?.interactiveMessage || message?.templateMessage || message?.buttonsMessage)) {
 					if(!stanza.content || !Array.isArray(stanza.content)) {
 						stanza.content = []
 					}
