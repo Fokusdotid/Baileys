@@ -1,6 +1,6 @@
 # Enumeration: ReleaseChannel
 
-Defined in: [WAProto/index.d.ts:8680](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L8680)
+Defined in: [WAProto/index.d.ts:8680](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8680)
 
 ReleaseChannel enum.
 
@@ -10,7 +10,7 @@ ReleaseChannel enum.
 
 > **ALPHA**: `2`
 
-Defined in: [WAProto/index.d.ts:8683](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L8683)
+Defined in: [WAProto/index.d.ts:8683](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8683)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8683](https://github.com/Fokusdotid/Baileys/blob
 
 > **BETA**: `1`
 
-Defined in: [WAProto/index.d.ts:8682](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L8682)
+Defined in: [WAProto/index.d.ts:8682](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8682)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:8682](https://github.com/Fokusdotid/Baileys/blob
 
 > **DEBUG**: `3`
 
-Defined in: [WAProto/index.d.ts:8684](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L8684)
+Defined in: [WAProto/index.d.ts:8684](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8684)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:8684](https://github.com/Fokusdotid/Baileys/blob
 
 > **RELEASE**: `0`
 
-Defined in: [WAProto/index.d.ts:8681](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L8681)
+Defined in: [WAProto/index.d.ts:8681](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L8681)

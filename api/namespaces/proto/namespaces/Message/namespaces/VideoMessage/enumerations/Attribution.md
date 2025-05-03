@@ -1,6 +1,6 @@
 # Enumeration: Attribution
 
-Defined in: [WAProto/index.d.ts:32850](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L32850)
+Defined in: [WAProto/index.d.ts:32850](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L32850)
 
 Attribution enum.
 
@@ -10,7 +10,7 @@ Attribution enum.
 
 > **GIPHY**: `1`
 
-Defined in: [WAProto/index.d.ts:32852](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L32852)
+Defined in: [WAProto/index.d.ts:32852](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L32852)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:32852](https://github.com/Fokusdotid/Baileys/blo
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:32851](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L32851)
+Defined in: [WAProto/index.d.ts:32851](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L32851)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:32851](https://github.com/Fokusdotid/Baileys/blo
 
 > **TENOR**: `2`
 
-Defined in: [WAProto/index.d.ts:32853](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L32853)
+Defined in: [WAProto/index.d.ts:32853](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L32853)

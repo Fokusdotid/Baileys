@@ -1,6 +1,6 @@
 # Interface: IPrimaryFeature
 
-Defined in: [WAProto/index.d.ts:44586](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L44586)
+Defined in: [WAProto/index.d.ts:44586](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L44586)
 
 Properties of a PrimaryFeature.
 
@@ -10,6 +10,6 @@ Properties of a PrimaryFeature.
 
 > `optional` **flags**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:44589](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L44589)
+Defined in: [WAProto/index.d.ts:44589](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L44589)
 
 PrimaryFeature flags

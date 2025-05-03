@@ -1,6 +1,6 @@
 # Interface: IButtonsMessage
 
-Defined in: [WAProto/index.d.ts:18653](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18653)
+Defined in: [WAProto/index.d.ts:18653](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18653)
 
 Properties of a ButtonsMessage.
 
@@ -10,7 +10,7 @@ Properties of a ButtonsMessage.
 
 > `optional` **buttons**: `null` \| [`IButton`](../namespaces/ButtonsMessage/interfaces/IButton.md)[]
 
-Defined in: [WAProto/index.d.ts:18665](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18665)
+Defined in: [WAProto/index.d.ts:18665](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18665)
 
 ButtonsMessage buttons
 
@@ -20,7 +20,7 @@ ButtonsMessage buttons
 
 > `optional` **contentText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18656](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18656)
+Defined in: [WAProto/index.d.ts:18656](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18656)
 
 ButtonsMessage contentText
 
@@ -30,7 +30,7 @@ ButtonsMessage contentText
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:18662](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18662)
+Defined in: [WAProto/index.d.ts:18662](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18662)
 
 ButtonsMessage contextInfo
 
@@ -40,7 +40,7 @@ ButtonsMessage contextInfo
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:18674](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18674)
+Defined in: [WAProto/index.d.ts:18674](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18674)
 
 ButtonsMessage documentMessage
 
@@ -50,7 +50,7 @@ ButtonsMessage documentMessage
 
 > `optional` **footerText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18659](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18659)
+Defined in: [WAProto/index.d.ts:18659](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18659)
 
 ButtonsMessage footerText
 
@@ -60,7 +60,7 @@ ButtonsMessage footerText
 
 > `optional` **headerType**: `null` \| [`HeaderType`](../namespaces/ButtonsMessage/enumerations/HeaderType.md)
 
-Defined in: [WAProto/index.d.ts:18668](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18668)
+Defined in: [WAProto/index.d.ts:18668](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18668)
 
 ButtonsMessage headerType
 
@@ -70,7 +70,7 @@ ButtonsMessage headerType
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:18677](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18677)
+Defined in: [WAProto/index.d.ts:18677](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18677)
 
 ButtonsMessage imageMessage
 
@@ -80,7 +80,7 @@ ButtonsMessage imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:18683](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18683)
+Defined in: [WAProto/index.d.ts:18683](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18683)
 
 ButtonsMessage locationMessage
 
@@ -90,7 +90,7 @@ ButtonsMessage locationMessage
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18671](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18671)
+Defined in: [WAProto/index.d.ts:18671](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18671)
 
 ButtonsMessage text
 
@@ -100,6 +100,6 @@ ButtonsMessage text
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:18680](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L18680)
+Defined in: [WAProto/index.d.ts:18680](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L18680)
 
 ButtonsMessage videoMessage

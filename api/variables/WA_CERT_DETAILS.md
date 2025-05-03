@@ -2,7 +2,7 @@
 
 > `const` **WA\_CERT\_DETAILS**: `object`
 
-Defined in: [src/Defaults/index.ts:26](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/Defaults/index.ts#L26)
+Defined in: [src/Defaults/index.ts:26](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Defaults/index.ts#L26)
 
 ## Type declaration
 

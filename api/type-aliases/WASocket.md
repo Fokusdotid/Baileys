@@ -2,4 +2,4 @@
 
 > **WASocket**: `ReturnType`\<*typeof* [`makeWASocket`](../functions/makeWASocket.md)\>
 
-Defined in: [src/index.ts:11](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/index.ts#L11)
+Defined in: [src/index.ts:11](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/index.ts#L11)

@@ -1,6 +1,6 @@
 # Interface: IInteractiveMessage
 
-Defined in: [WAProto/index.d.ts:23217](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23217)
+Defined in: [WAProto/index.d.ts:23217](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23217)
 
 Properties of an InteractiveMessage.
 
@@ -10,7 +10,7 @@ Properties of an InteractiveMessage.
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:23223](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23223)
+Defined in: [WAProto/index.d.ts:23223](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23223)
 
 InteractiveMessage body
 
@@ -20,7 +20,7 @@ InteractiveMessage body
 
 > `optional` **carouselMessage**: `null` \| [`ICarouselMessage`](../namespaces/InteractiveMessage/interfaces/ICarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23244](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23244)
+Defined in: [WAProto/index.d.ts:23244](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23244)
 
 InteractiveMessage carouselMessage
 
@@ -30,7 +30,7 @@ InteractiveMessage carouselMessage
 
 > `optional` **collectionMessage**: `null` \| [`ICollectionMessage`](../namespaces/InteractiveMessage/interfaces/ICollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:23238](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23238)
+Defined in: [WAProto/index.d.ts:23238](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23238)
 
 InteractiveMessage collectionMessage
 
@@ -40,7 +40,7 @@ InteractiveMessage collectionMessage
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:23229](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23229)
+Defined in: [WAProto/index.d.ts:23229](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23229)
 
 InteractiveMessage contextInfo
 
@@ -50,7 +50,7 @@ InteractiveMessage contextInfo
 
 > `optional` **footer**: `null` \| [`IFooter`](../namespaces/InteractiveMessage/interfaces/IFooter.md)
 
-Defined in: [WAProto/index.d.ts:23226](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23226)
+Defined in: [WAProto/index.d.ts:23226](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23226)
 
 InteractiveMessage footer
 
@@ -60,7 +60,7 @@ InteractiveMessage footer
 
 > `optional` **header**: `null` \| [`IHeader`](../namespaces/InteractiveMessage/interfaces/IHeader.md)
 
-Defined in: [WAProto/index.d.ts:23220](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23220)
+Defined in: [WAProto/index.d.ts:23220](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23220)
 
 InteractiveMessage header
 
@@ -70,7 +70,7 @@ InteractiveMessage header
 
 > `optional` **nativeFlowMessage**: `null` \| [`INativeFlowMessage`](../namespaces/InteractiveMessage/interfaces/INativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:23241](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23241)
+Defined in: [WAProto/index.d.ts:23241](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23241)
 
 InteractiveMessage nativeFlowMessage
 
@@ -80,7 +80,7 @@ InteractiveMessage nativeFlowMessage
 
 > `optional` **shopStorefrontMessage**: `null` \| [`IShopMessage`](../namespaces/InteractiveMessage/interfaces/IShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:23235](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23235)
+Defined in: [WAProto/index.d.ts:23235](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23235)
 
 InteractiveMessage shopStorefrontMessage
 
@@ -90,6 +90,6 @@ InteractiveMessage shopStorefrontMessage
 
 > `optional` **urlTrackingMap**: `null` \| [`IUrlTrackingMap`](../../../interfaces/IUrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:23232](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L23232)
+Defined in: [WAProto/index.d.ts:23232](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L23232)
 
 InteractiveMessage urlTrackingMap

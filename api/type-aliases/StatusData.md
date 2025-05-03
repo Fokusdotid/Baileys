@@ -2,7 +2,7 @@
 
 > **StatusData**: `object`
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:4](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/WAUSync/Protocols/USyncStatusProtocol.ts#L4)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:4](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WAUSync/Protocols/USyncStatusProtocol.ts#L4)
 
 ## Type declaration
 

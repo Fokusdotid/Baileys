@@ -1,6 +1,6 @@
 # Class: AlbumMessage
 
-Defined in: [WAProto/index.d.ts:17360](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17360)
+Defined in: [WAProto/index.d.ts:17360](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17360)
 
 Represents an AlbumMessage.
 
@@ -14,7 +14,7 @@ Represents an AlbumMessage.
 
 > **new AlbumMessage**(`properties`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17366](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17366)
+Defined in: [WAProto/index.d.ts:17366](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17366)
 
 Constructs a new AlbumMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:17375](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17375)
+Defined in: [WAProto/index.d.ts:17375](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17375)
 
 AlbumMessage contextInfo.
 
@@ -50,7 +50,7 @@ AlbumMessage contextInfo.
 
 > `optional` **expectedImageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17369](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17369)
+Defined in: [WAProto/index.d.ts:17369](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17369)
 
 AlbumMessage expectedImageCount.
 
@@ -64,7 +64,7 @@ AlbumMessage expectedImageCount.
 
 > `optional` **expectedVideoCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17372](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17372)
+Defined in: [WAProto/index.d.ts:17372](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17372)
 
 AlbumMessage expectedVideoCount.
 
@@ -78,7 +78,7 @@ AlbumMessage expectedVideoCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17445](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17445)
+Defined in: [WAProto/index.d.ts:17445](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17445)
 
 Converts this AlbumMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17382](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17382)
+Defined in: [WAProto/index.d.ts:17382](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17382)
 
 Creates a new AlbumMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ AlbumMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17408](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17408)
+Defined in: [WAProto/index.d.ts:17408](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17408)
 
 Decodes an AlbumMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17417](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17417)
+Defined in: [WAProto/index.d.ts:17417](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17417)
 
 Decodes an AlbumMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17390](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17390)
+Defined in: [WAProto/index.d.ts:17390](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17390)
 
 Encodes the specified AlbumMessage message. Does not implicitly [verify](AlbumMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17398](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17398)
+Defined in: [WAProto/index.d.ts:17398](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17398)
 
 Encodes the specified AlbumMessage message, length delimited. Does not implicitly [verify](AlbumMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17431](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17431)
+Defined in: [WAProto/index.d.ts:17431](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17431)
 
 Creates an AlbumMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AlbumMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17452](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17452)
+Defined in: [WAProto/index.d.ts:17452](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17452)
 
 Gets the default type url for AlbumMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17439](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17439)
+Defined in: [WAProto/index.d.ts:17439](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17439)
 
 Creates a plain object from an AlbumMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17424](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L17424)
+Defined in: [WAProto/index.d.ts:17424](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L17424)
 
 Verifies an AlbumMessage message.
 

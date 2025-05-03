@@ -2,4 +2,4 @@
 
 > **WAMessageCursor**: \{ `before`: [`WAMessageKey`](WAMessageKey.md) \| `undefined`; \} \| \{ `after`: [`WAMessageKey`](WAMessageKey.md) \| `undefined`; \}
 
-Defined in: [src/Types/Message.ts:273](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/Types/Message.ts#L273)
+Defined in: [src/Types/Message.ts:296](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Types/Message.ts#L296)

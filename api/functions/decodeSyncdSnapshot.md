@@ -2,7 +2,7 @@
 
 > **decodeSyncdSnapshot**(`name`, `snapshot`, `getAppStateSyncKey`, `minimumVersionNumber`, `validateMacs`): `Promise`\<\{ `mutationMap`: [`ChatMutationMap`](../type-aliases/ChatMutationMap.md); `state`: [`LTHashState`](../type-aliases/LTHashState.md); \}\>
 
-Defined in: [src/Utils/chat-utils.ts:357](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/Utils/chat-utils.ts#L357)
+Defined in: [src/Utils/chat-utils.ts:357](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Utils/chat-utils.ts#L357)
 
 ## Parameters
 

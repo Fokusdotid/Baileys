@@ -1,6 +1,6 @@
 # Interface: ILabelReorderingAction
 
-Defined in: [WAProto/index.d.ts:43095](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L43095)
+Defined in: [WAProto/index.d.ts:43095](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L43095)
 
 Properties of a LabelReorderingAction.
 
@@ -10,6 +10,6 @@ Properties of a LabelReorderingAction.
 
 > `optional` **sortedLabelIds**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:43098](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L43098)
+Defined in: [WAProto/index.d.ts:43098](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L43098)
 
 LabelReorderingAction sortedLabelIds

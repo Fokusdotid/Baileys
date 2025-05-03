@@ -1,6 +1,6 @@
 # Class: EventAdditionalMetadata
 
-Defined in: [WAProto/index.d.ts:12924](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12924)
+Defined in: [WAProto/index.d.ts:12924](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12924)
 
 Represents an EventAdditionalMetadata.
 
@@ -14,7 +14,7 @@ Represents an EventAdditionalMetadata.
 
 > **new EventAdditionalMetadata**(`properties`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:12930](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12930)
+Defined in: [WAProto/index.d.ts:12930](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12930)
 
 Constructs a new EventAdditionalMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isStale**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12933](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12933)
+Defined in: [WAProto/index.d.ts:12933](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12933)
 
 EventAdditionalMetadata isStale.
 
@@ -50,7 +50,7 @@ EventAdditionalMetadata isStale.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13003](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L13003)
+Defined in: [WAProto/index.d.ts:13003](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L13003)
 
 Converts this EventAdditionalMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:12940](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12940)
+Defined in: [WAProto/index.d.ts:12940](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12940)
 
 Creates a new EventAdditionalMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ EventAdditionalMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:12966](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12966)
+Defined in: [WAProto/index.d.ts:12966](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12966)
 
 Decodes an EventAdditionalMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:12975](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12975)
+Defined in: [WAProto/index.d.ts:12975](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12975)
 
 Decodes an EventAdditionalMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12948](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12948)
+Defined in: [WAProto/index.d.ts:12948](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12948)
 
 Encodes the specified EventAdditionalMetadata message. Does not implicitly [verify](EventAdditionalMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12956](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12956)
+Defined in: [WAProto/index.d.ts:12956](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12956)
 
 Encodes the specified EventAdditionalMetadata message, length delimited. Does not implicitly [verify](EventAdditionalMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:12989](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12989)
+Defined in: [WAProto/index.d.ts:12989](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12989)
 
 Creates an EventAdditionalMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ EventAdditionalMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13010](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L13010)
+Defined in: [WAProto/index.d.ts:13010](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L13010)
 
 Gets the default type url for EventAdditionalMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12997](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12997)
+Defined in: [WAProto/index.d.ts:12997](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12997)
 
 Creates a plain object from an EventAdditionalMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12982](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12982)
+Defined in: [WAProto/index.d.ts:12982](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12982)
 
 Verifies an EventAdditionalMetadata message.
 

@@ -1,6 +1,6 @@
 # Interface: ISenderChainKey
 
-Defined in: [WAProto/index.d.ts:38646](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38646)
+Defined in: [WAProto/index.d.ts:38646](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38646)
 
 Properties of a SenderChainKey.
 
@@ -10,7 +10,7 @@ Properties of a SenderChainKey.
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38649](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38649)
+Defined in: [WAProto/index.d.ts:38649](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38649)
 
 SenderChainKey iteration
 
@@ -20,6 +20,6 @@ SenderChainKey iteration
 
 > `optional` **seed**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38652](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38652)
+Defined in: [WAProto/index.d.ts:38652](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38652)
 
 SenderChainKey seed

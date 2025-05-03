@@ -1,6 +1,6 @@
 # Class: Option
 
-Defined in: [WAProto/index.d.ts:28858](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28858)
+Defined in: [WAProto/index.d.ts:28858](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28858)
 
 Represents an Option.
 
@@ -14,7 +14,7 @@ Represents an Option.
 
 > **new Option**(`properties`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:28864](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28864)
+Defined in: [WAProto/index.d.ts:28864](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28864)
 
 Constructs a new Option.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **optionHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28870](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28870)
+Defined in: [WAProto/index.d.ts:28870](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28870)
 
 Option optionHash.
 
@@ -50,7 +50,7 @@ Option optionHash.
 
 > `optional` **optionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28867](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28867)
+Defined in: [WAProto/index.d.ts:28867](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28867)
 
 Option optionName.
 
@@ -64,7 +64,7 @@ Option optionName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28940](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28940)
+Defined in: [WAProto/index.d.ts:28940](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28940)
 
 Converts this Option to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:28877](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28877)
+Defined in: [WAProto/index.d.ts:28877](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28877)
 
 Creates a new Option instance using the specified properties.
 
@@ -104,7 +104,7 @@ Option instance
 
 > `static` **decode**(`reader`, `length`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:28903](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28903)
+Defined in: [WAProto/index.d.ts:28903](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28903)
 
 Decodes an Option message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:28912](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28912)
+Defined in: [WAProto/index.d.ts:28912](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28912)
 
 Decodes an Option message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28885](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28885)
+Defined in: [WAProto/index.d.ts:28885](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28885)
 
 Encodes the specified Option message. Does not implicitly [verify](Option.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28893](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28893)
+Defined in: [WAProto/index.d.ts:28893](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28893)
 
 Encodes the specified Option message, length delimited. Does not implicitly [verify](Option.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:28926](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28926)
+Defined in: [WAProto/index.d.ts:28926](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28926)
 
 Creates an Option message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Option
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28947](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28947)
+Defined in: [WAProto/index.d.ts:28947](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28947)
 
 Gets the default type url for Option
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28934](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28934)
+Defined in: [WAProto/index.d.ts:28934](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28934)
 
 Creates a plain object from an Option message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28919](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28919)
+Defined in: [WAProto/index.d.ts:28919](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28919)
 
 Verifies an Option message.
 

@@ -1,6 +1,6 @@
 # Class: RecordStructure
 
-Defined in: [WAProto/index.d.ts:37903](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37903)
+Defined in: [WAProto/index.d.ts:37903](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37903)
 
 Represents a RecordStructure.
 
@@ -14,7 +14,7 @@ Represents a RecordStructure.
 
 > **new RecordStructure**(`properties`?): [`RecordStructure`](RecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:37909](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37909)
+Defined in: [WAProto/index.d.ts:37909](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37909)
 
 Constructs a new RecordStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currentSession**: `null` \| [`ISessionStructure`](../interfaces/ISessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:37912](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37912)
+Defined in: [WAProto/index.d.ts:37912](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37912)
 
 RecordStructure currentSession.
 
@@ -50,7 +50,7 @@ RecordStructure currentSession.
 
 > **previousSessions**: [`ISessionStructure`](../interfaces/ISessionStructure.md)[]
 
-Defined in: [WAProto/index.d.ts:37915](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37915)
+Defined in: [WAProto/index.d.ts:37915](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37915)
 
 RecordStructure previousSessions.
 
@@ -64,7 +64,7 @@ RecordStructure previousSessions.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37985](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37985)
+Defined in: [WAProto/index.d.ts:37985](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37985)
 
 Converts this RecordStructure to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RecordStructure`](RecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:37922](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37922)
+Defined in: [WAProto/index.d.ts:37922](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37922)
 
 Creates a new RecordStructure instance using the specified properties.
 
@@ -104,7 +104,7 @@ RecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`RecordStructure`](RecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:37948](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37948)
+Defined in: [WAProto/index.d.ts:37948](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37948)
 
 Decodes a RecordStructure message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RecordStructure`](RecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:37957](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37957)
+Defined in: [WAProto/index.d.ts:37957](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37957)
 
 Decodes a RecordStructure message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37930](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37930)
+Defined in: [WAProto/index.d.ts:37930](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37930)
 
 Encodes the specified RecordStructure message. Does not implicitly [verify](RecordStructure.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37938](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37938)
+Defined in: [WAProto/index.d.ts:37938](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37938)
 
 Encodes the specified RecordStructure message, length delimited. Does not implicitly [verify](RecordStructure.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RecordStructure`](RecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:37971](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37971)
+Defined in: [WAProto/index.d.ts:37971](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37971)
 
 Creates a RecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ RecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37992](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37992)
+Defined in: [WAProto/index.d.ts:37992](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37992)
 
 Gets the default type url for RecordStructure
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37979](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37979)
+Defined in: [WAProto/index.d.ts:37979](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37979)
 
 Creates a plain object from a RecordStructure message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37964](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37964)
+Defined in: [WAProto/index.d.ts:37964](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37964)
 
 Verifies a RecordStructure message.
 

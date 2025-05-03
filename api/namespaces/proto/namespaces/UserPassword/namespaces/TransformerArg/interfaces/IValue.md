@@ -1,6 +1,6 @@
 # Interface: IValue
 
-Defined in: [WAProto/index.d.ts:48623](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48623)
+Defined in: [WAProto/index.d.ts:48623](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48623)
 
 Properties of a Value.
 
@@ -10,7 +10,7 @@ Properties of a Value.
 
 > `optional` **asBlob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48626](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48626)
+Defined in: [WAProto/index.d.ts:48626](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48626)
 
 Value asBlob
 
@@ -20,6 +20,6 @@ Value asBlob
 
 > `optional` **asUnsignedInteger**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48629](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48629)
+Defined in: [WAProto/index.d.ts:48629](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48629)
 
 Value asUnsignedInteger

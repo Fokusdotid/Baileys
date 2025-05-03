@@ -2,7 +2,7 @@
 
 > **FullJid**: [`JidWithDevice`](JidWithDevice.md) & `object`
 
-Defined in: [src/WABinary/jid-utils.ts:15](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/WABinary/jid-utils.ts#L15)
+Defined in: [src/WABinary/jid-utils.ts:15](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WABinary/jid-utils.ts#L15)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Interface: IReportable
 
-Defined in: [WAProto/index.d.ts:37996](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37996)
+Defined in: [WAProto/index.d.ts:37996](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37996)
 
 Properties of a Reportable.
 
@@ -10,7 +10,7 @@ Properties of a Reportable.
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38002](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38002)
+Defined in: [WAProto/index.d.ts:38002](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38002)
 
 Reportable maxVersion
 
@@ -20,7 +20,7 @@ Reportable maxVersion
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37999](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L37999)
+Defined in: [WAProto/index.d.ts:37999](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L37999)
 
 Reportable minVersion
 
@@ -30,7 +30,7 @@ Reportable minVersion
 
 > `optional` **never**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:38008](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38008)
+Defined in: [WAProto/index.d.ts:38008](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38008)
 
 Reportable never
 
@@ -40,6 +40,6 @@ Reportable never
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38005](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L38005)
+Defined in: [WAProto/index.d.ts:38005](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L38005)
 
 Reportable notReportableMinVersion

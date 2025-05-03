@@ -2,4 +2,4 @@
 
 > **BinaryNodeAttributes**: [`BinaryNode`](BinaryNode.md)\[`"attrs"`\]
 
-Defined in: [src/WABinary/types.ts:14](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/WABinary/types.ts#L14)
+Defined in: [src/WABinary/types.ts:14](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/WABinary/types.ts#L14)

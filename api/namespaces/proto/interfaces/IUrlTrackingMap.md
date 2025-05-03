@@ -1,6 +1,6 @@
 # Interface: IUrlTrackingMap
 
-Defined in: [WAProto/index.d.ts:48173](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48173)
+Defined in: [WAProto/index.d.ts:48173](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48173)
 
 Properties of an UrlTrackingMap.
 
@@ -10,6 +10,6 @@ Properties of an UrlTrackingMap.
 
 > `optional` **urlTrackingMapElements**: `null` \| [`IUrlTrackingMapElement`](../namespaces/UrlTrackingMap/interfaces/IUrlTrackingMapElement.md)[]
 
-Defined in: [WAProto/index.d.ts:48176](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48176)
+Defined in: [WAProto/index.d.ts:48176](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48176)
 
 UrlTrackingMap urlTrackingMapElements

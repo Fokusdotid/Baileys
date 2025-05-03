@@ -1,6 +1,6 @@
 # Interface: IEmbeddedContent
 
-Defined in: [WAProto/index.d.ts:12345](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12345)
+Defined in: [WAProto/index.d.ts:12345](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12345)
 
 Properties of an EmbeddedContent.
 
@@ -10,7 +10,7 @@ Properties of an EmbeddedContent.
 
 > `optional` **embeddedMessage**: `null` \| [`IEmbeddedMessage`](IEmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12348](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12348)
+Defined in: [WAProto/index.d.ts:12348](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12348)
 
 EmbeddedContent embeddedMessage
 
@@ -20,6 +20,6 @@ EmbeddedContent embeddedMessage
 
 > `optional` **embeddedMusic**: `null` \| [`IEmbeddedMusic`](IEmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12351](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L12351)
+Defined in: [WAProto/index.d.ts:12351](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L12351)
 
 EmbeddedContent embeddedMusic

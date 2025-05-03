@@ -1,6 +1,6 @@
 # Enumeration: LocalChatState
 
-Defined in: [WAProto/index.d.ts:30672](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L30672)
+Defined in: [WAProto/index.d.ts:30672](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L30672)
 
 LocalChatState enum.
 
@@ -10,7 +10,7 @@ LocalChatState enum.
 
 > **EMPTY**: `0`
 
-Defined in: [WAProto/index.d.ts:30673](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L30673)
+Defined in: [WAProto/index.d.ts:30673](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L30673)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:30673](https://github.com/Fokusdotid/Baileys/blo
 
 > **NON\_EMPTY**: `1`
 
-Defined in: [WAProto/index.d.ts:30674](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L30674)
+Defined in: [WAProto/index.d.ts:30674](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L30674)

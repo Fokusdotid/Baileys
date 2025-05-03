@@ -1,6 +1,6 @@
 # Interface: IWamoUserIdentifierAction
 
-Defined in: [WAProto/index.d.ts:46673](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L46673)
+Defined in: [WAProto/index.d.ts:46673](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L46673)
 
 Properties of a WamoUserIdentifierAction.
 
@@ -10,6 +10,6 @@ Properties of a WamoUserIdentifierAction.
 
 > `optional` **identifier**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46676](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L46676)
+Defined in: [WAProto/index.d.ts:46676](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L46676)
 
 WamoUserIdentifierAction identifier

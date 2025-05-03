@@ -2,4 +2,4 @@
 
 > **MediaType**: keyof *typeof* [`MEDIA_HKDF_KEY_MAPPING`](../variables/MEDIA_HKDF_KEY_MAPPING.md)
 
-Defined in: [src/Types/Message.ts:89](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/Types/Message.ts#L89)
+Defined in: [src/Types/Message.ts:112](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Types/Message.ts#L112)

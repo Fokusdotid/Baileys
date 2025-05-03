@@ -2,7 +2,7 @@
 
 > **Chat**: [`IConversation`](../namespaces/proto/interfaces/IConversation.md) & `object`
 
-Defined in: [src/Types/Chat.ts:52](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/src/Types/Chat.ts#L52)
+Defined in: [src/Types/Chat.ts:52](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/src/Types/Chat.ts#L52)
 
 ## Type declaration
 

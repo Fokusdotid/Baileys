@@ -1,6 +1,6 @@
 # Class: ShopMessage
 
-Defined in: [WAProto/index.d.ts:24149](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24149)
+Defined in: [WAProto/index.d.ts:24149](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24149)
 
 Represents a ShopMessage.
 
@@ -14,7 +14,7 @@ Represents a ShopMessage.
 
 > **new ShopMessage**(`properties`?): [`ShopMessage`](ShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:24155](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24155)
+Defined in: [WAProto/index.d.ts:24155](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24155)
 
 Constructs a new ShopMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24158](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24158)
+Defined in: [WAProto/index.d.ts:24158](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24158)
 
 ShopMessage id.
 
@@ -50,7 +50,7 @@ ShopMessage id.
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24164](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24164)
+Defined in: [WAProto/index.d.ts:24164](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24164)
 
 ShopMessage messageVersion.
 
@@ -64,7 +64,7 @@ ShopMessage messageVersion.
 
 > `optional` **surface**: `null` \| [`Surface`](../namespaces/ShopMessage/enumerations/Surface.md)
 
-Defined in: [WAProto/index.d.ts:24161](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24161)
+Defined in: [WAProto/index.d.ts:24161](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24161)
 
 ShopMessage surface.
 
@@ -78,7 +78,7 @@ ShopMessage surface.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24234](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24234)
+Defined in: [WAProto/index.d.ts:24234](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24234)
 
 Converts this ShopMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ShopMessage`](ShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:24171](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24171)
+Defined in: [WAProto/index.d.ts:24171](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24171)
 
 Creates a new ShopMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ ShopMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ShopMessage`](ShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:24197](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24197)
+Defined in: [WAProto/index.d.ts:24197](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24197)
 
 Decodes a ShopMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ShopMessage`](ShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:24206](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24206)
+Defined in: [WAProto/index.d.ts:24206](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24206)
 
 Decodes a ShopMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24179](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24179)
+Defined in: [WAProto/index.d.ts:24179](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24179)
 
 Encodes the specified ShopMessage message. Does not implicitly [verify](ShopMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24187](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24187)
+Defined in: [WAProto/index.d.ts:24187](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24187)
 
 Encodes the specified ShopMessage message, length delimited. Does not implicitly [verify](ShopMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ShopMessage`](ShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:24220](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24220)
+Defined in: [WAProto/index.d.ts:24220](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24220)
 
 Creates a ShopMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ShopMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24241](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24241)
+Defined in: [WAProto/index.d.ts:24241](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24241)
 
 Gets the default type url for ShopMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24228](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24228)
+Defined in: [WAProto/index.d.ts:24228](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24228)
 
 Creates a plain object from a ShopMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24213](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L24213)
+Defined in: [WAProto/index.d.ts:24213](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L24213)
 
 Verifies a ShopMessage message.
 

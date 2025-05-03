@@ -1,6 +1,6 @@
 # Interface: IPlaceholderMessage
 
-Defined in: [WAProto/index.d.ts:28595](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28595)
+Defined in: [WAProto/index.d.ts:28595](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28595)
 
 Properties of a PlaceholderMessage.
 
@@ -10,6 +10,6 @@ Properties of a PlaceholderMessage.
 
 > `optional` **type**: `null` \| [`MASK_LINKED_DEVICES`](../namespaces/PlaceholderMessage/enumerations/PlaceholderType.md#mask_linked_devices)
 
-Defined in: [WAProto/index.d.ts:28598](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L28598)
+Defined in: [WAProto/index.d.ts:28598](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L28598)
 
 PlaceholderMessage type

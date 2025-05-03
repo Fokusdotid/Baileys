@@ -1,6 +1,6 @@
 # Class: UrlTrackingMap
 
-Defined in: [WAProto/index.d.ts:48180](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48180)
+Defined in: [WAProto/index.d.ts:48180](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48180)
 
 Represents an UrlTrackingMap.
 
@@ -14,7 +14,7 @@ Represents an UrlTrackingMap.
 
 > **new UrlTrackingMap**(`properties`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:48186](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48186)
+Defined in: [WAProto/index.d.ts:48186](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48186)
 
 Constructs a new UrlTrackingMap.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **urlTrackingMapElements**: [`IUrlTrackingMapElement`](../namespaces/UrlTrackingMap/interfaces/IUrlTrackingMapElement.md)[]
 
-Defined in: [WAProto/index.d.ts:48189](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48189)
+Defined in: [WAProto/index.d.ts:48189](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48189)
 
 UrlTrackingMap urlTrackingMapElements.
 
@@ -50,7 +50,7 @@ UrlTrackingMap urlTrackingMapElements.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48259](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48259)
+Defined in: [WAProto/index.d.ts:48259](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48259)
 
 Converts this UrlTrackingMap to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:48196](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48196)
+Defined in: [WAProto/index.d.ts:48196](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48196)
 
 Creates a new UrlTrackingMap instance using the specified properties.
 
@@ -90,7 +90,7 @@ UrlTrackingMap instance
 
 > `static` **decode**(`reader`, `length`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:48222](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48222)
+Defined in: [WAProto/index.d.ts:48222](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48222)
 
 Decodes an UrlTrackingMap message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:48231](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48231)
+Defined in: [WAProto/index.d.ts:48231](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48231)
 
 Decodes an UrlTrackingMap message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48204](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48204)
+Defined in: [WAProto/index.d.ts:48204](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48204)
 
 Encodes the specified UrlTrackingMap message. Does not implicitly [verify](UrlTrackingMap.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48212](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48212)
+Defined in: [WAProto/index.d.ts:48212](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48212)
 
 Encodes the specified UrlTrackingMap message, length delimited. Does not implicitly [verify](UrlTrackingMap.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:48245](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48245)
+Defined in: [WAProto/index.d.ts:48245](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48245)
 
 Creates an UrlTrackingMap message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UrlTrackingMap
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48266](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48266)
+Defined in: [WAProto/index.d.ts:48266](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48266)
 
 Gets the default type url for UrlTrackingMap
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48253](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48253)
+Defined in: [WAProto/index.d.ts:48253](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48253)
 
 Creates a plain object from an UrlTrackingMap message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48238](https://github.com/Fokusdotid/Baileys/blob/4aa08196a497251af5be42856601e02d8a85cce8/WAProto/index.d.ts#L48238)
+Defined in: [WAProto/index.d.ts:48238](https://github.com/Fokusdotid/Baileys/blob/c0c23ce3104b65dfcc64246c9ee8a49ef38993b5/WAProto/index.d.ts#L48238)
 
 Verifies an UrlTrackingMap message.
 
