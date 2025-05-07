@@ -437,6 +437,19 @@ export const generateWAMessageContent = async(
 				type: proto.Message.ButtonsResponseMessage.Type.DISPLAY_TEXT,
 			}
 			break
+		case 'interactive':
+			m.interactiveResponseMessage = {
+				body: {
+					text: message.buttonReply.text,
+					format: proto.Message.InteractiveResponseMessage.Body.Format.EXTENSIONS_1
+				},
+				nativeFlowResponseMessage: {
+					name: message.buttonReply.nativeFlow.name,
+					paramsJson: message.buttonReply.nativeFlow.paramsJson,
+					version: message.buttonReply.nativeFlow.version
+				}
+			}
+			break
 		}
 	} else if('ptv' in message && message.ptv) {
 		const { videoMessage } = await prepareWAMessageMedia(
@@ -563,6 +576,36 @@ export const generateWAMessageContent = async(
 		}
 	}
 	
+	if('interactiveButtons' in message && !!message.interactiveButtons) {
+		const interactiveMessage: proto.Message.IInteractiveMessage = {
+			nativeFlowMessage: WAProto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
+				buttons: message.interactiveButtons
+			})
+		};
+
+		if('text' in message) {
+			interactiveMessage.body = { text: message.text }
+		} else {
+			if('caption' in message && !!message.caption) {
+				interactiveMessage.body = { text: message.caption }
+			}
+
+			interactiveMessage.header = {
+				title: message.title,
+				subtitle: message.subtitle,
+				hasMediaAttachment: message.media! || message.hasMediaAttachment! || false
+			}
+
+			Object.assign(interactiveMessage.header, m)
+		}
+		
+		if('footer' in message && !!message.footer) {
+			interactiveMessage.footer = { text: message.footer }
+		}
+		
+		m = { interactiveMessage }
+	}
+
 	if('sections' in message && !!message.sections) {
 		const listMessage: proto.Message.IListMessage = {
 			sections: message.sections,

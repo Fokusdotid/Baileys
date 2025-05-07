@@ -4,7 +4,7 @@ import { Boom } from '@hapi/boom'
 import { proto } from '../../WAProto'
 import { DEFAULT_CACHE_TTLS, WA_DEFAULT_EPHEMERAL } from '../Defaults'
 import { AnyMessageContent, MediaConnInfo, MessageReceiptType, MessageRelayOptions, MiscMessageGenerationOptions, SocketConfig, WAMessageKey } from '../Types'
-import { aggregateMessageKeysNotFromMe, assertMediaContent, bindWaitForEvent, decryptMediaRetryData, encodeSignedDeviceIdentity, encodeWAMessage, encryptMediaRetryRequest, extractDeviceJids, generateMessageIDV2, generateWAMessage, getStatusCodeForMediaRetry, getUrlFromDirectPath, getWAUploadToServer, normalizeMessageContent, parseAndInjectE2ESessions, unixTimestampSeconds } from '../Utils'
+import { aggregateMessageKeysNotFromMe, assertMediaContent, bindWaitForEvent, decryptMediaRetryData, encodeSignedDeviceIdentity, encodeWAMessage, encryptMediaRetryRequest, extractDeviceJids, generateMessageIDV2, generateWAMessage, getStatusCodeForMediaRetry, getUrlFromDirectPath, getWAUploadToServer, normalizeMessageContent, getContentType, parseAndInjectE2ESessions, unixTimestampSeconds } from '../Utils'
 import { getUrlInfo } from '../Utils/link-preview'
 import { areJidsSameUser, BinaryNode, BinaryNodeAttributes, getBinaryNodeChild, getBinaryNodeChildren, isJidGroup, isJidUser, jidDecode, jidEncode, jidNormalizedUser, JidWithDevice, S_WHATSAPP_NET } from '../WABinary'
 import { USyncQuery, USyncUser } from '../WAUSync'
@@ -337,6 +337,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 		const isGroup = server === 'g.us'
 		const isStatus = jid === statusJid
 		const isLid = server === 'lid'
+		const isPrivate = server === 's.whatsapp.net'
 
 		msgId = msgId || generateMessageIDV2(sock.user?.id)
 		useUserDevicesCache = useUserDevicesCache !== false
@@ -568,33 +569,17 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 
 					logger.debug({ jid }, 'adding device identity')
 				}
-				
+
 				if(additionalNodes && additionalNodes.length > 0) {
 					(stanza.content as BinaryNode[]).push(...additionalNodes)
 				}
 
-				const buttonType = getButtonType(message)
-				if(buttonType) {
-					(stanza.content as BinaryNode[]).push({
+				const content = normalizeMessageContent(message)!
+				const contentType = getContentType(content)!
+				if((isJidGroup(jid) || isJidUser(jid)) && (contentType === 'interactiveMessage' || contentType === 'buttonsMessage')) {
+					const nativeNode = {
 						tag: 'biz',
-						attrs: {},
-						content: [{
-							tag: buttonType,
-							attrs: getButtonArgs(message)
-						}]
-					})
-
-					logger.debug({ jid }, 'adding bussines node')
-				}
-
-				if((isJidGroup(jid) || isJidUser(jid)) && (message?.viewOnceMessage || message?.viewOnceMessageV2 || message?.viewOnceMessageV2Extension || message?.interactiveMessage || message?.templateMessage || message?.buttonsMessage)) {
-					if(!stanza.content || !Array.isArray(stanza.content)) {
-						stanza.content = []
-					}
-
-					stanza.content.push({
-						tag: 'biz',
-						attrs: {},
+						attrs: { },
 						content: [{
 							tag: 'interactive',
 							attrs: {
@@ -608,7 +593,44 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 								}
 							}]
 						}]
+					}
+
+					const additionalNativeNode = getNativeNode(additionalNodes)
+					if(additionalNativeNode && additionalNodes && additionalNodes.length > 0) {
+						(stanza.content as BinaryNode[]).push(...additionalNativeNode)
+					} else {
+						(stanza.content as BinaryNode[]).push(nativeNode)
+					}
+				}
+
+				if(isPrivate) {
+					const botNode = {
+						tag: 'bot',
+						attrs: {
+							biz_bot: '1'
+						}
+					}
+
+					const botNodes = getBotNode(additionalNodes)
+					if(botNodes && additionalNodes && additionalNodes.length > 0) {
+						(stanza.content as BinaryNode[]).push(...botNodes)
+					} else {
+						(stanza.content as BinaryNode[]).push(botNode)
+					}
+				}
+
+				const buttonType = getButtonType(message)
+				if(buttonType) {
+					(stanza.content as BinaryNode[]).push({
+						tag: 'biz',
+						attrs: { },
+						content: [{
+							tag: buttonType,
+							attrs: getButtonArgs(message)
+						}]
 					})
+
+					logger.debug({ jid }, 'adding bussines node')
 				}
 
 				logger.debug({ msgId }, `sending message to ${participants.length} devices`)
@@ -619,18 +641,49 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 
 		return msgId
 	}
-
+	
+	const getNativeNode = (content) => {
+		if(Array.isArray(content)) {
+			return content!.filter(item => {
+				if(item!.tag === 'biz' && (item!.content && item.content!.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1'))) {
+					return !1;
+				}
+				
+				return !0;
+			})
+		} else {
+			return content
+		}
+	}
+	
+	const getBotNode = (content) => {
+		if(Array.isArray(content)) {
+			return content!.filter(item => {
+				if(item!.tag === 'biz' && (item!.content && item.content!.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1'))) {
+					return !1;
+				}
+				
+				return !0;
+			})
+		} else {
+			return content
+		}
+	}
 
 	const getMessageType = (message: proto.IMessage) => {
-		if(message.pollCreationMessage || message.pollCreationMessageV2 || message.pollCreationMessageV3) {
+		if(message.viewOnceMessage) {
+			return getMessageType(message.viewOnceMessage.message!)
+		} else if(message.pollCreationMessage || message.pollCreationMessageV2 || message.pollCreationMessageV3) {
 			return 'poll'
+		} else {
+			return 'text'
 		}
-
-		return 'text'
 	}
 
 	const getMediaType = (message: proto.IMessage) => {
-		if(message.imageMessage) {
+		if(message.viewOnceMessage) {
+			return getMediaType(message.viewOnceMessage.message!)
+		} if(message.imageMessage) {
 			return 'image'
 		} else if(message.videoMessage) {
 			return message.videoMessage.gifPlayback ? 'gif' : 'video'
@@ -664,16 +717,9 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 	}
 
 	const getButtonType = (message: proto.IMessage) => {
-		if(message.buttonsMessage) {
-			return 'buttons'
-		} else if(message.buttonsResponseMessage) {
-			return 'buttons_response'
-		} else if(message.interactiveResponseMessage) {
-			return 'interactive_response'
-		} else if(message.listMessage) {
+		const msg = normalizeMessageContent(message)!
+		if(msg.listMessage) {
 			return 'list'
-		} else if(message.listResponseMessage) {
-			return 'list_response'
 		}
 	}
 
@@ -842,6 +888,9 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 						...options,
 					}
 				)
+	
+				// Custom By Fokus ID
+				const isAiMsg = 'ai' in content && !!content.ai
 				const isDeleteMsg = 'delete' in content && !!content.delete
 				const isEditMsg = 'edit' in content && !!content.edit
 				const isPinMsg = 'pin' in content && !!content.pin
@@ -867,10 +916,21 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 							polltype: 'creation'
 						},
 					} as BinaryNode)
+				} else if(isAiMsg) {
+					additionalNodes.push({
+						tag: 'bot',
+						attrs: {
+							biz_bot: '1'
+						}
+					} as BinaryNode)
 				}
 
 				if('cachedGroupMetadata' in options) {
 					console.warn('cachedGroupMetadata in sendMessage are deprecated, now cachedGroupMetadata is part of the socket config.')
+				}
+				
+				if('additionalNodes' in options && options.additionalNodes) {
+					additionalNodes.push({ ...options.additionalNodes } as BinaryNode)
 				}
 
 				await relayMessage(jid, fullMsg.message!, { messageId: fullMsg.key.id!, useCachedGroupMetadata: options.useCachedGroupMetadata, additionalAttributes, statusJidList: options.statusJidList, additionalNodes })

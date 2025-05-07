@@ -15,6 +15,7 @@ import makeWASocket, {
 	generateWAMessageFromContent,
 } from '../src'
 //import MAIN_LOGGER from '../src/Utils/logger'
+import * as Baileys from "../src"
 import open from 'open'
 import fs from 'fs'
 import P from 'pino'
@@ -75,6 +76,7 @@ const startSock = async() => {
 					}
 				};
 			};
+			console.log("patchMessageBeforeSending:", JSON.stringify(message, null, 2))
 
 			return message;
 		}
@@ -184,6 +186,7 @@ const startSock = async() => {
 				const upsert = events['messages.upsert'];
 				let m = upsert.messages[upsert.messages.length - 1];
 				m = proto.WebMessageInfo.fromObject(m);
+				console.log("m:", JSON.stringify(m, null, 2));
 				const senderKeyDistributionMessage = m.message?.senderKeyDistributionMessage?.groupId;
 				const chat = jidNormalizedUser(m.key?.remoteJid || (senderKeyDistributionMessage !== "status@broadcast" && senderKeyDistributionMessage) || '');
 				const mtype = m.message && getContentType(m.message) || m.message && Object.keys(m.message)[0] || '';
@@ -243,11 +246,11 @@ const startSock = async() => {
 							let _text = (/^(×>)/.test(usedPrefix) ? 'return ' : '') + noPrefix;
 							try {
 								// @ts-ignore
-								let exec = new (async () => { }).constructor('print', 'm', 'sock', 'chat', 'process', 'args', 'require', _text);
+								let exec = new (async () => { }).constructor('print', 'm', 'sock', 'chat', 'process', 'args', 'require', "Baileys", _text);
 								_return = await exec.call(sock, (...args) => {
 									if (--i < 1) return;
 									return sendMessageWTyping(chat, { text: format(...args) }, { quoted: m });
-								}, m, sock, chat, process, args, require);
+								}, m, sock, chat, process, args, require, Baileys);
 							} catch (e) {
 								_return = e;
 							} finally {

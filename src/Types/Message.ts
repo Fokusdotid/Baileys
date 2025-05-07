@@ -70,6 +70,15 @@ type WithDimensions = {
     height?: number
 }
 
+type Interactiveable = {
+	/** Interactive Buttons of the Interactive Message */
+	interactiveButtons?: proto.Message.InteractiveMessage.NativeFlowMessage.NativeFlowButton[]
+	title?: string
+	subtitle?: string
+	media?: boolean
+	hasMediaAttachment?: boolean
+}
+
 type Buttonable = {
 	/** add buttons to the message  */
 	buttons?: proto.Message.ButtonsMessage.IButton[]
@@ -115,7 +124,7 @@ export type AnyMediaMessageContent = (
         image: WAMediaUpload
         caption?: string
         jpegThumbnail?: string
-    } & Mentionable & Contextable & WithDimensions & Buttonable & Templatable)
+    } & Mentionable & Contextable & WithDimensions & Interactiveable & Buttonable & Templatable)
     | ({
         video: WAMediaUpload
         caption?: string
@@ -123,7 +132,7 @@ export type AnyMediaMessageContent = (
         jpegThumbnail?: string
         /** if set to true, will send as a `video note` */
         ptv?: boolean
-    } & Mentionable & Contextable & WithDimensions & Buttonable & Templatable)
+    } & Mentionable & Contextable & WithDimensions & Interactiveable & Buttonable & Templatable)
     | {
         audio: WAMediaUpload
         /** if set to true, will send as a `voice note` */
@@ -139,13 +148,15 @@ export type AnyMediaMessageContent = (
         mimetype: string
         fileName?: string
         caption?: string
-    } & Contextable & Buttonable & Templatable))
+    } & Contextable & Interactiveable & Buttonable & Templatable))
     & { mimetype?: string } & Editable
 
 export type ButtonReplyInfo = {
     displayText: string
     id: string
     index: number
+    text: string
+    nativeFlow: proto.Message.InteractiveResponseMessage.NativeFlowResponseMessage
 }
 
 export type GroupInviteInfo = {
@@ -165,7 +176,7 @@ export type AnyRegularMessageContent = (
         text: string
         linkPreview?: WAUrlInfo | null
     }
-    & Mentionable & Contextable & Editable & Buttonable & Listable & Templatable)
+    & Mentionable & Contextable & Editable & Interactiveable & Buttonable & Listable & Templatable)
     | AnyMediaMessageContent
     | ({
         poll: PollMessageOptions
@@ -182,7 +193,7 @@ export type AnyRegularMessageContent = (
     | { react: proto.Message.IReactionMessage }
     | {
         buttonReply: ButtonReplyInfo
-        type: 'template' | 'plain'
+        type: 'template' | 'plain' | 'interactive'
     }
     | {
         groupInvite: GroupInviteInfo
