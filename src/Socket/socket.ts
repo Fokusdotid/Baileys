@@ -487,8 +487,19 @@ export const makeSocket = (config: SocketConfig) => {
 		end(new Boom(msg || 'Intentional Logout', { statusCode: DisconnectReason.loggedOut }))
 	}
 
-	const requestPairingCode = async(phoneNumber: string): Promise<string> => {
+	const requestPairingCode = async(phoneNumber: string, customCode?: string): Promise<string> => {
 		authState.creds.pairingCode = bytesToCrockford(randomBytes(5))
+
+		if (customCode) {
+			if (!/^[a-zA-Z0-9]{8}$/.test(customCode)) {
+				logger.warn('❌ Invalid custom pairing code. It must be exactly 8 alphanumeric characters.')
+				logger.warn('⚠️ Regenerating new code..')
+				customCode = bytesToCrockford(randomBytes(5));
+			}
+			
+			authState.creds.pairingCode = customCode
+		}
+
 		authState.creds.me = {
 			id: jidEncode(phoneNumber, 's.whatsapp.net'),
 			name: '~'
