@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseSubMessage
 
-Defined in: [WAProto/index.d.ts:2288](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2288)
+Defined in: [WAProto/index.d.ts:2288](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2288)
 
 Properties of a AIRichResponseSubMessage.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseSubMessage.
 
 > `optional` **codeMetadata**: `null` \| [`IAIRichResponseCodeMetadata`](IAIRichResponseCodeMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2303](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2303)
+Defined in: [WAProto/index.d.ts:2303](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2303)
 
 AIRichResponseSubMessage codeMetadata
 
@@ -20,7 +20,7 @@ AIRichResponseSubMessage codeMetadata
 
 > `optional` **contentItemsMetadata**: `null` \| [`IAIRichResponseContentItemsMetadata`](IAIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2318](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2318)
+Defined in: [WAProto/index.d.ts:2318](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2318)
 
 AIRichResponseSubMessage contentItemsMetadata
 
@@ -30,7 +30,7 @@ AIRichResponseSubMessage contentItemsMetadata
 
 > `optional` **dynamicMetadata**: `null` \| [`IAIRichResponseDynamicMetadata`](IAIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2309](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2309)
+Defined in: [WAProto/index.d.ts:2309](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2309)
 
 AIRichResponseSubMessage dynamicMetadata
 
@@ -40,7 +40,7 @@ AIRichResponseSubMessage dynamicMetadata
 
 > `optional` **gridImageMetadata**: `null` \| [`IAIRichResponseGridImageMetadata`](IAIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2294](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2294)
+Defined in: [WAProto/index.d.ts:2294](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2294)
 
 AIRichResponseSubMessage gridImageMetadata
 
@@ -50,7 +50,7 @@ AIRichResponseSubMessage gridImageMetadata
 
 > `optional` **imageMetadata**: `null` \| [`IAIRichResponseInlineImageMetadata`](IAIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2300](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2300)
+Defined in: [WAProto/index.d.ts:2300](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2300)
 
 AIRichResponseSubMessage imageMetadata
 
@@ -60,7 +60,7 @@ AIRichResponseSubMessage imageMetadata
 
 > `optional` **latexMetadata**: `null` \| [`IAIRichResponseLatexMetadata`](IAIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2312](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2312)
+Defined in: [WAProto/index.d.ts:2312](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2312)
 
 AIRichResponseSubMessage latexMetadata
 
@@ -70,7 +70,7 @@ AIRichResponseSubMessage latexMetadata
 
 > `optional` **mapMetadata**: `null` \| [`IAIRichResponseMapMetadata`](IAIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2315](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2315)
+Defined in: [WAProto/index.d.ts:2315](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2315)
 
 AIRichResponseSubMessage mapMetadata
 
@@ -80,7 +80,7 @@ AIRichResponseSubMessage mapMetadata
 
 > `optional` **messageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2297](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2297)
+Defined in: [WAProto/index.d.ts:2297](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2297)
 
 AIRichResponseSubMessage messageText
 
@@ -90,7 +90,7 @@ AIRichResponseSubMessage messageText
 
 > `optional` **messageType**: `null` \| [`AIRichResponseSubMessageType`](../enumerations/AIRichResponseSubMessageType.md)
 
-Defined in: [WAProto/index.d.ts:2291](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2291)
+Defined in: [WAProto/index.d.ts:2291](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2291)
 
 AIRichResponseSubMessage messageType
 
@@ -100,6 +100,6 @@ AIRichResponseSubMessage messageType
 
 > `optional` **tableMetadata**: `null` \| [`IAIRichResponseTableMetadata`](IAIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2306](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2306)
+Defined in: [WAProto/index.d.ts:2306](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2306)
 
 AIRichResponseSubMessage tableMetadata

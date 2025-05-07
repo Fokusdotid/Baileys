@@ -1,6 +1,6 @@
 # Class: LIDMigration
 
-Defined in: [WAProto/index.d.ts:11427](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11427)
+Defined in: [WAProto/index.d.ts:11427](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11427)
 
 Represents a LIDMigration.
 
@@ -14,7 +14,7 @@ Represents a LIDMigration.
 
 > **new LIDMigration**(`properties`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11433](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11433)
+Defined in: [WAProto/index.d.ts:11433](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11433)
 
 Constructs a new LIDMigration.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatDbMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11436](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11436)
+Defined in: [WAProto/index.d.ts:11436](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11436)
 
 LIDMigration chatDbMigrationTimestamp.
 
@@ -50,7 +50,7 @@ LIDMigration chatDbMigrationTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11506](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11506)
+Defined in: [WAProto/index.d.ts:11506](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11506)
 
 Converts this LIDMigration to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11443](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11443)
+Defined in: [WAProto/index.d.ts:11443](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11443)
 
 Creates a new LIDMigration instance using the specified properties.
 
@@ -90,7 +90,7 @@ LIDMigration instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11469](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11469)
+Defined in: [WAProto/index.d.ts:11469](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11469)
 
 Decodes a LIDMigration message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11478](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11478)
+Defined in: [WAProto/index.d.ts:11478](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11478)
 
 Decodes a LIDMigration message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11451](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11451)
+Defined in: [WAProto/index.d.ts:11451](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11451)
 
 Encodes the specified LIDMigration message. Does not implicitly [verify](LIDMigration.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11459](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11459)
+Defined in: [WAProto/index.d.ts:11459](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11459)
 
 Encodes the specified LIDMigration message, length delimited. Does not implicitly [verify](LIDMigration.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11492](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11492)
+Defined in: [WAProto/index.d.ts:11492](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11492)
 
 Creates a LIDMigration message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LIDMigration
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11513](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11513)
+Defined in: [WAProto/index.d.ts:11513](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11513)
 
 Gets the default type url for LIDMigration
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11500](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11500)
+Defined in: [WAProto/index.d.ts:11500](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11500)
 
 Creates a plain object from a LIDMigration message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11485](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11485)
+Defined in: [WAProto/index.d.ts:11485](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11485)
 
 Verifies a LIDMigration message.
 

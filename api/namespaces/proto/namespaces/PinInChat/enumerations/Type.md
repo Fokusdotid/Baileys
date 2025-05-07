@@ -1,6 +1,6 @@
 # Enumeration: Type
 
-Defined in: [WAProto/index.d.ts:36426](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L36426)
+Defined in: [WAProto/index.d.ts:36426](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36426)
 
 Type enum.
 
@@ -10,7 +10,7 @@ Type enum.
 
 > **PIN\_FOR\_ALL**: `1`
 
-Defined in: [WAProto/index.d.ts:36428](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L36428)
+Defined in: [WAProto/index.d.ts:36428](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36428)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:36428](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN\_TYPE**: `0`
 
-Defined in: [WAProto/index.d.ts:36427](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L36427)
+Defined in: [WAProto/index.d.ts:36427](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36427)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:36427](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNPIN\_FOR\_ALL**: `2`
 
-Defined in: [WAProto/index.d.ts:36429](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L36429)
+Defined in: [WAProto/index.d.ts:36429](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36429)

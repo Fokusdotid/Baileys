@@ -1,6 +1,6 @@
 # Interface: IChatAssignmentOpenedStatusAction
 
-Defined in: [WAProto/index.d.ts:41534](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41534)
+Defined in: [WAProto/index.d.ts:41534](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L41534)
 
 Properties of a ChatAssignmentOpenedStatusAction.
 
@@ -10,6 +10,6 @@ Properties of a ChatAssignmentOpenedStatusAction.
 
 > `optional` **chatOpened**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41537](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41537)
+Defined in: [WAProto/index.d.ts:41537](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L41537)
 
 ChatAssignmentOpenedStatusAction chatOpened

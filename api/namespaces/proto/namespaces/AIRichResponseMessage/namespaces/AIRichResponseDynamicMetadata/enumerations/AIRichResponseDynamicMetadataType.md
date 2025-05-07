@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseDynamicMetadataType
 
-Defined in: [WAProto/index.d.ts:1459](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1459)
+Defined in: [WAProto/index.d.ts:1459](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1459)
 
 AIRichResponseDynamicMetadataType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseDynamicMetadataType enum.
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_GIF**: `2`
 
-Defined in: [WAProto/index.d.ts:1462](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1462)
+Defined in: [WAProto/index.d.ts:1462](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1462)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1462](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_IMAGE**: `1`
 
-Defined in: [WAProto/index.d.ts:1461](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1461)
+Defined in: [WAProto/index.d.ts:1461](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1461)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:1461](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:1460](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1460)
+Defined in: [WAProto/index.d.ts:1460](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1460)

@@ -1,6 +1,6 @@
 # Class: PrivacySettingDisableLinkPreviewsAction
 
-Defined in: [WAProto/index.d.ts:44787](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44787)
+Defined in: [WAProto/index.d.ts:44787](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44787)
 
 Represents a PrivacySettingDisableLinkPreviewsAction.
 
@@ -14,7 +14,7 @@ Represents a PrivacySettingDisableLinkPreviewsAction.
 
 > **new PrivacySettingDisableLinkPreviewsAction**(`properties`?): [`PrivacySettingDisableLinkPreviewsAction`](PrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:44793](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44793)
+Defined in: [WAProto/index.d.ts:44793](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44793)
 
 Constructs a new PrivacySettingDisableLinkPreviewsAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isPreviewsDisabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44796](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44796)
+Defined in: [WAProto/index.d.ts:44796](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44796)
 
 PrivacySettingDisableLinkPreviewsAction isPreviewsDisabled.
 
@@ -50,7 +50,7 @@ PrivacySettingDisableLinkPreviewsAction isPreviewsDisabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44866](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44866)
+Defined in: [WAProto/index.d.ts:44866](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44866)
 
 Converts this PrivacySettingDisableLinkPreviewsAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrivacySettingDisableLinkPreviewsAction`](PrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:44803](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44803)
+Defined in: [WAProto/index.d.ts:44803](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44803)
 
 Creates a new PrivacySettingDisableLinkPreviewsAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrivacySettingDisableLinkPreviewsAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PrivacySettingDisableLinkPreviewsAction`](PrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:44829](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44829)
+Defined in: [WAProto/index.d.ts:44829](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44829)
 
 Decodes a PrivacySettingDisableLinkPreviewsAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrivacySettingDisableLinkPreviewsAction`](PrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:44838](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44838)
+Defined in: [WAProto/index.d.ts:44838](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44838)
 
 Decodes a PrivacySettingDisableLinkPreviewsAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44811](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44811)
+Defined in: [WAProto/index.d.ts:44811](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44811)
 
 Encodes the specified PrivacySettingDisableLinkPreviewsAction message. Does not implicitly [verify](PrivacySettingDisableLinkPreviewsAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44819](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44819)
+Defined in: [WAProto/index.d.ts:44819](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44819)
 
 Encodes the specified PrivacySettingDisableLinkPreviewsAction message, length delimited. Does not implicitly [verify](PrivacySettingDisableLinkPreviewsAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrivacySettingDisableLinkPreviewsAction`](PrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:44852](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44852)
+Defined in: [WAProto/index.d.ts:44852](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44852)
 
 Creates a PrivacySettingDisableLinkPreviewsAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrivacySettingDisableLinkPreviewsAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44873](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44873)
+Defined in: [WAProto/index.d.ts:44873](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44873)
 
 Gets the default type url for PrivacySettingDisableLinkPreviewsAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44860](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44860)
+Defined in: [WAProto/index.d.ts:44860](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44860)
 
 Creates a plain object from a PrivacySettingDisableLinkPreviewsAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44845](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44845)
+Defined in: [WAProto/index.d.ts:44845](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L44845)
 
 Verifies a PrivacySettingDisableLinkPreviewsAction message.
 

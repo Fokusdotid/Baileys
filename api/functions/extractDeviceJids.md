@@ -2,7 +2,7 @@
 
 > **extractDeviceJids**(`result`, `myJid`, `excludeZeroDevices`): [`JidWithDevice`](../type-aliases/JidWithDevice.md)[]
 
-Defined in: [src/Utils/signal.ts:118](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Utils/signal.ts#L118)
+Defined in: [src/Utils/signal.ts:118](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/signal.ts#L118)
 
 ## Parameters
 

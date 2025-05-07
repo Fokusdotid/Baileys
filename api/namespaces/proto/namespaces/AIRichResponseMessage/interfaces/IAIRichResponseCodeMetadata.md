@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseCodeMetadata
 
-Defined in: [WAProto/index.d.ts:796](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L796)
+Defined in: [WAProto/index.d.ts:796](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L796)
 
 Properties of a AIRichResponseCodeMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseCodeMetadata.
 
 > `optional` **codeBlocks**: `null` \| [`IAIRichResponseCodeBlock`](../namespaces/AIRichResponseCodeMetadata/interfaces/IAIRichResponseCodeBlock.md)[]
 
-Defined in: [WAProto/index.d.ts:802](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L802)
+Defined in: [WAProto/index.d.ts:802](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L802)
 
 AIRichResponseCodeMetadata codeBlocks
 
@@ -20,6 +20,6 @@ AIRichResponseCodeMetadata codeBlocks
 
 > `optional` **codeLanguage**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:799](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L799)
+Defined in: [WAProto/index.d.ts:799](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L799)
 
 AIRichResponseCodeMetadata codeLanguage

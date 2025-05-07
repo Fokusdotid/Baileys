@@ -2,7 +2,7 @@
 
 > **isJidBroadcast**(`jid`): `undefined` \| `boolean`
 
-Defined in: [src/WABinary/jid-utils.ts:56](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/WABinary/jid-utils.ts#L56)
+Defined in: [src/WABinary/jid-utils.ts:56](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/WABinary/jid-utils.ts#L56)
 
 is the jid a broadcast
 

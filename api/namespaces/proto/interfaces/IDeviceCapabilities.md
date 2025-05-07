@@ -1,6 +1,6 @@
 # Interface: IDeviceCapabilities
 
-Defined in: [WAProto/index.d.ts:11308](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11308)
+Defined in: [WAProto/index.d.ts:11308](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11308)
 
 Properties of a DeviceCapabilities.
 
@@ -10,7 +10,7 @@ Properties of a DeviceCapabilities.
 
 > `optional` **chatLockSupportLevel**: `null` \| [`ChatLockSupportLevel`](../namespaces/DeviceCapabilities/enumerations/ChatLockSupportLevel.md)
 
-Defined in: [WAProto/index.d.ts:11311](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11311)
+Defined in: [WAProto/index.d.ts:11311](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11311)
 
 DeviceCapabilities chatLockSupportLevel
 
@@ -20,6 +20,6 @@ DeviceCapabilities chatLockSupportLevel
 
 > `optional` **lidMigration**: `null` \| [`ILIDMigration`](../namespaces/DeviceCapabilities/interfaces/ILIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:11314](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L11314)
+Defined in: [WAProto/index.d.ts:11314](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L11314)
 
 DeviceCapabilities lidMigration

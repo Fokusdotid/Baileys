@@ -1,6 +1,6 @@
 # Interface: IConfig
 
-Defined in: [WAProto/index.d.ts:9284](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L9284)
+Defined in: [WAProto/index.d.ts:9284](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9284)
 
 Properties of a Config.
 
@@ -10,7 +10,7 @@ Properties of a Config.
 
 > `optional` **field**: `null` \| \{\}
 
-Defined in: [WAProto/index.d.ts:9287](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L9287)
+Defined in: [WAProto/index.d.ts:9287](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9287)
 
 Config field
 
@@ -20,6 +20,6 @@ Config field
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9290](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L9290)
+Defined in: [WAProto/index.d.ts:9290](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9290)
 
 Config version

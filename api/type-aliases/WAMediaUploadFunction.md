@@ -2,7 +2,7 @@
 
 > **WAMediaUploadFunction**: (`readStream`, `opts`) => `Promise`\<\{ `directPath`: `string`; `mediaUrl`: `string`; \}\>
 
-Defined in: [src/Types/Message.ts:262](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/Message.ts#L262)
+Defined in: [src/Types/Message.ts:273](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/Message.ts#L273)
 
 ## Parameters
 

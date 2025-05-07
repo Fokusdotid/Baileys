@@ -2,7 +2,7 @@
 
 > **initAuthCreds**(): [`AuthenticationCreds`](../type-aliases/AuthenticationCreds.md)
 
-Defined in: [src/Utils/auth-utils.ts:195](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Utils/auth-utils.ts#L195)
+Defined in: [src/Utils/auth-utils.ts:195](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/auth-utils.ts#L195)
 
 ## Returns
 

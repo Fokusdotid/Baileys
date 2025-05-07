@@ -1,6 +1,6 @@
 # Enumeration: EditType
 
-Defined in: [WAProto/index.d.ts:30903](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L30903)
+Defined in: [WAProto/index.d.ts:30903](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L30903)
 
 EditType enum.
 
@@ -10,7 +10,7 @@ EditType enum.
 
 > **CANCEL**: `1`
 
-Defined in: [WAProto/index.d.ts:30905](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L30905)
+Defined in: [WAProto/index.d.ts:30905](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L30905)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:30905](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:30904](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L30904)
+Defined in: [WAProto/index.d.ts:30904](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L30904)

@@ -1,6 +1,6 @@
 # Class: SyncdVersion
 
-Defined in: [WAProto/index.d.ts:47550](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47550)
+Defined in: [WAProto/index.d.ts:47550](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47550)
 
 Represents a SyncdVersion.
 
@@ -14,7 +14,7 @@ Represents a SyncdVersion.
 
 > **new SyncdVersion**(`properties`?): [`SyncdVersion`](SyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47556](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47556)
+Defined in: [WAProto/index.d.ts:47556](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47556)
 
 Constructs a new SyncdVersion.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **version**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:47559](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47559)
+Defined in: [WAProto/index.d.ts:47559](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47559)
 
 SyncdVersion version.
 
@@ -50,7 +50,7 @@ SyncdVersion version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47629](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47629)
+Defined in: [WAProto/index.d.ts:47629](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47629)
 
 Converts this SyncdVersion to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdVersion`](SyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47566](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47566)
+Defined in: [WAProto/index.d.ts:47566](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47566)
 
 Creates a new SyncdVersion instance using the specified properties.
 
@@ -90,7 +90,7 @@ SyncdVersion instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdVersion`](SyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47592](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47592)
+Defined in: [WAProto/index.d.ts:47592](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47592)
 
 Decodes a SyncdVersion message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdVersion`](SyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47601](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47601)
+Defined in: [WAProto/index.d.ts:47601](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47601)
 
 Decodes a SyncdVersion message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47574](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47574)
+Defined in: [WAProto/index.d.ts:47574](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47574)
 
 Encodes the specified SyncdVersion message. Does not implicitly [verify](SyncdVersion.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47582](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47582)
+Defined in: [WAProto/index.d.ts:47582](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47582)
 
 Encodes the specified SyncdVersion message, length delimited. Does not implicitly [verify](SyncdVersion.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdVersion`](SyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47615](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47615)
+Defined in: [WAProto/index.d.ts:47615](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47615)
 
 Creates a SyncdVersion message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SyncdVersion
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47636](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47636)
+Defined in: [WAProto/index.d.ts:47636](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47636)
 
 Gets the default type url for SyncdVersion
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47623](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47623)
+Defined in: [WAProto/index.d.ts:47623](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47623)
 
 Creates a plain object from a SyncdVersion message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47608](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47608)
+Defined in: [WAProto/index.d.ts:47608](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47608)
 
 Verifies a SyncdVersion message.
 

@@ -1,6 +1,6 @@
 # Interface: IPatchDebugData
 
-Defined in: [WAProto/index.d.ts:35407](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35407)
+Defined in: [WAProto/index.d.ts:35407](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35407)
 
 Properties of a PatchDebugData.
 
@@ -10,7 +10,7 @@ Properties of a PatchDebugData.
 
 > `optional` **collectionName**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35419](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35419)
+Defined in: [WAProto/index.d.ts:35419](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35419)
 
 PatchDebugData collectionName
 
@@ -20,7 +20,7 @@ PatchDebugData collectionName
 
 > `optional` **currentLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35410](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35410)
+Defined in: [WAProto/index.d.ts:35410](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35410)
 
 PatchDebugData currentLthash
 
@@ -30,7 +30,7 @@ PatchDebugData currentLthash
 
 > `optional` **firstFourBytesFromAHashOfSnapshotMacKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35422](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35422)
+Defined in: [WAProto/index.d.ts:35422](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35422)
 
 PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey
 
@@ -40,7 +40,7 @@ PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey
 
 > `optional` **isSenderPrimary**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35440](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35440)
+Defined in: [WAProto/index.d.ts:35440](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35440)
 
 PatchDebugData isSenderPrimary
 
@@ -50,7 +50,7 @@ PatchDebugData isSenderPrimary
 
 > `optional` **newLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35413](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35413)
+Defined in: [WAProto/index.d.ts:35413](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35413)
 
 PatchDebugData newLthash
 
@@ -60,7 +60,7 @@ PatchDebugData newLthash
 
 > `optional` **newLthashSubtract**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35425](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35425)
+Defined in: [WAProto/index.d.ts:35425](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35425)
 
 PatchDebugData newLthashSubtract
 
@@ -70,7 +70,7 @@ PatchDebugData newLthashSubtract
 
 > `optional` **numberAdd**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35428](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35428)
+Defined in: [WAProto/index.d.ts:35428](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35428)
 
 PatchDebugData numberAdd
 
@@ -80,7 +80,7 @@ PatchDebugData numberAdd
 
 > `optional` **numberOverride**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35434](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35434)
+Defined in: [WAProto/index.d.ts:35434](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35434)
 
 PatchDebugData numberOverride
 
@@ -90,7 +90,7 @@ PatchDebugData numberOverride
 
 > `optional` **numberRemove**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35431](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35431)
+Defined in: [WAProto/index.d.ts:35431](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35431)
 
 PatchDebugData numberRemove
 
@@ -100,7 +100,7 @@ PatchDebugData numberRemove
 
 > `optional` **patchVersion**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35416](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35416)
+Defined in: [WAProto/index.d.ts:35416](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35416)
 
 PatchDebugData patchVersion
 
@@ -110,6 +110,6 @@ PatchDebugData patchVersion
 
 > `optional` **senderPlatform**: `null` \| [`Platform`](../namespaces/PatchDebugData/enumerations/Platform.md)
 
-Defined in: [WAProto/index.d.ts:35437](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L35437)
+Defined in: [WAProto/index.d.ts:35437](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L35437)
 
 PatchDebugData senderPlatform

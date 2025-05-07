@@ -1,6 +1,6 @@
 # Interface: IParameters
 
-Defined in: [WAProto/index.d.ts:10077](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10077)
+Defined in: [WAProto/index.d.ts:10077](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10077)
 
 Properties of a Parameters.
 
@@ -10,7 +10,7 @@ Properties of a Parameters.
 
 > `optional` **contents**: `null` \| [`IParameters`](IParameters.md)
 
-Defined in: [WAProto/index.d.ts:10092](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10092)
+Defined in: [WAProto/index.d.ts:10092](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10092)
 
 Parameters contents
 
@@ -20,7 +20,7 @@ Parameters contents
 
 > `optional` **floatData**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10089](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10089)
+Defined in: [WAProto/index.d.ts:10089](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10089)
 
 Parameters floatData
 
@@ -30,7 +30,7 @@ Parameters floatData
 
 > `optional` **intData**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10086](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10086)
+Defined in: [WAProto/index.d.ts:10086](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10086)
 
 Parameters intData
 
@@ -40,7 +40,7 @@ Parameters intData
 
 > `optional` **key**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10080](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10080)
+Defined in: [WAProto/index.d.ts:10080](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10080)
 
 Parameters key
 
@@ -50,6 +50,6 @@ Parameters key
 
 > `optional` **stringData**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10083](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10083)
+Defined in: [WAProto/index.d.ts:10083](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L10083)
 
 Parameters stringData

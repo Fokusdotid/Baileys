@@ -2,7 +2,7 @@
 
 > **MessageRelayOptions**: `MinimalRelayOptions` & `object`
 
-Defined in: [src/Types/Message.ts:228](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/Message.ts#L228)
+Defined in: [src/Types/Message.ts:239](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/Message.ts#L239)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Interface: ISyncdSnapshot
 
-Defined in: [WAProto/index.d.ts:47331](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47331)
+Defined in: [WAProto/index.d.ts:47331](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47331)
 
 Properties of a SyncdSnapshot.
 
@@ -10,7 +10,7 @@ Properties of a SyncdSnapshot.
 
 > `optional` **keyId**: `null` \| [`IKeyId`](IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:47343](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47343)
+Defined in: [WAProto/index.d.ts:47343](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47343)
 
 SyncdSnapshot keyId
 
@@ -20,7 +20,7 @@ SyncdSnapshot keyId
 
 > `optional` **mac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:47340](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47340)
+Defined in: [WAProto/index.d.ts:47340](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47340)
 
 SyncdSnapshot mac
 
@@ -30,7 +30,7 @@ SyncdSnapshot mac
 
 > `optional` **records**: `null` \| [`ISyncdRecord`](ISyncdRecord.md)[]
 
-Defined in: [WAProto/index.d.ts:47337](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47337)
+Defined in: [WAProto/index.d.ts:47337](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47337)
 
 SyncdSnapshot records
 
@@ -40,6 +40,6 @@ SyncdSnapshot records
 
 > `optional` **version**: `null` \| [`ISyncdVersion`](ISyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47334](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L47334)
+Defined in: [WAProto/index.d.ts:47334](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47334)
 
 SyncdSnapshot version

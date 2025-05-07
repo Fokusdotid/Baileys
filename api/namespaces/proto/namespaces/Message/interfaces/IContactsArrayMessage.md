@@ -1,6 +1,6 @@
 # Interface: IContactsArrayMessage
 
-Defined in: [WAProto/index.d.ts:20183](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L20183)
+Defined in: [WAProto/index.d.ts:20183](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20183)
 
 Properties of a ContactsArrayMessage.
 
@@ -10,7 +10,7 @@ Properties of a ContactsArrayMessage.
 
 > `optional` **contacts**: `null` \| [`IContactMessage`](IContactMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:20189](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L20189)
+Defined in: [WAProto/index.d.ts:20189](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20189)
 
 ContactsArrayMessage contacts
 
@@ -20,7 +20,7 @@ ContactsArrayMessage contacts
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20192](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L20192)
+Defined in: [WAProto/index.d.ts:20192](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20192)
 
 ContactsArrayMessage contextInfo
 
@@ -30,6 +30,6 @@ ContactsArrayMessage contextInfo
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20186](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L20186)
+Defined in: [WAProto/index.d.ts:20186](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20186)
 
 ContactsArrayMessage displayName

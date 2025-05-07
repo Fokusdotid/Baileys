@@ -2,7 +2,7 @@
 
 > **updateMessageWithPollUpdate**(`msg`, `update`): `void`
 
-Defined in: [src/Utils/messages.ts:824](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Utils/messages.ts#L824)
+Defined in: [src/Utils/messages.ts:867](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/messages.ts#L867)
 
 Update the message with a new poll update
 

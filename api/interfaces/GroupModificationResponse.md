@@ -1,6 +1,6 @@
 # Interface: GroupModificationResponse
 
-Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/GroupMetadata.ts#L56)
+Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/GroupMetadata.ts#L56)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Bailey
 
 > `optional` **participants**: `object`
 
-Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/GroupMetadata.ts#L58)
+Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/GroupMetadata.ts#L58)
 
 #### Index Signature
 
@@ -20,4 +20,4 @@ Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/Bailey
 
 > **status**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:57](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/GroupMetadata.ts#L57)
+Defined in: [src/Types/GroupMetadata.ts:57](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/GroupMetadata.ts#L57)

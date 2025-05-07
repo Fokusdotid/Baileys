@@ -1,6 +1,6 @@
 # Interface: INotificationMessageInfo
 
-Defined in: [WAProto/index.d.ts:34835](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L34835)
+Defined in: [WAProto/index.d.ts:34835](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L34835)
 
 Properties of a NotificationMessageInfo.
 
@@ -10,7 +10,7 @@ Properties of a NotificationMessageInfo.
 
 > `optional` **key**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:34838](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L34838)
+Defined in: [WAProto/index.d.ts:34838](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L34838)
 
 NotificationMessageInfo key
 
@@ -20,7 +20,7 @@ NotificationMessageInfo key
 
 > `optional` **message**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:34841](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L34841)
+Defined in: [WAProto/index.d.ts:34841](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L34841)
 
 NotificationMessageInfo message
 
@@ -30,7 +30,7 @@ NotificationMessageInfo message
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:34844](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L34844)
+Defined in: [WAProto/index.d.ts:34844](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L34844)
 
 NotificationMessageInfo messageTimestamp
 
@@ -40,6 +40,6 @@ NotificationMessageInfo messageTimestamp
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34847](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L34847)
+Defined in: [WAProto/index.d.ts:34847](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L34847)
 
 NotificationMessageInfo participant

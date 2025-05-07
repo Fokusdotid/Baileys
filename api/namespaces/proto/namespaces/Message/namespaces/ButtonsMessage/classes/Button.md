@@ -1,6 +1,6 @@
 # Class: Button
 
-Defined in: [WAProto/index.d.ts:18825](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18825)
+Defined in: [WAProto/index.d.ts:18825](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18825)
 
 Represents a Button.
 
@@ -14,7 +14,7 @@ Represents a Button.
 
 > **new Button**(`properties`?): [`Button`](Button.md)
 
-Defined in: [WAProto/index.d.ts:18831](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18831)
+Defined in: [WAProto/index.d.ts:18831](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18831)
 
 Constructs a new Button.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **buttonId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18834](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18834)
+Defined in: [WAProto/index.d.ts:18834](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18834)
 
 Button buttonId.
 
@@ -50,7 +50,7 @@ Button buttonId.
 
 > `optional` **buttonText**: `null` \| [`IButtonText`](../namespaces/Button/interfaces/IButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18837](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18837)
+Defined in: [WAProto/index.d.ts:18837](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18837)
 
 Button buttonText.
 
@@ -64,7 +64,7 @@ Button buttonText.
 
 > `optional` **nativeFlowInfo**: `null` \| [`INativeFlowInfo`](../namespaces/Button/interfaces/INativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:18843](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18843)
+Defined in: [WAProto/index.d.ts:18843](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18843)
 
 Button nativeFlowInfo.
 
@@ -78,7 +78,7 @@ Button nativeFlowInfo.
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/Button/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:18840](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18840)
+Defined in: [WAProto/index.d.ts:18840](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18840)
 
 Button type.
 
@@ -92,7 +92,7 @@ Button type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18913](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18913)
+Defined in: [WAProto/index.d.ts:18913](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18913)
 
 Converts this Button to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Button`](Button.md)
 
-Defined in: [WAProto/index.d.ts:18850](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18850)
+Defined in: [WAProto/index.d.ts:18850](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18850)
 
 Creates a new Button instance using the specified properties.
 
@@ -132,7 +132,7 @@ Button instance
 
 > `static` **decode**(`reader`, `length`?): [`Button`](Button.md)
 
-Defined in: [WAProto/index.d.ts:18876](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18876)
+Defined in: [WAProto/index.d.ts:18876](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18876)
 
 Decodes a Button message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Button`](Button.md)
 
-Defined in: [WAProto/index.d.ts:18885](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18885)
+Defined in: [WAProto/index.d.ts:18885](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18885)
 
 Decodes a Button message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18858](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18858)
+Defined in: [WAProto/index.d.ts:18858](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18858)
 
 Encodes the specified Button message. Does not implicitly [verify](Button.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18866](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18866)
+Defined in: [WAProto/index.d.ts:18866](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18866)
 
 Encodes the specified Button message, length delimited. Does not implicitly [verify](Button.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Button`](Button.md)
 
-Defined in: [WAProto/index.d.ts:18899](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18899)
+Defined in: [WAProto/index.d.ts:18899](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18899)
 
 Creates a Button message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Button
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18920](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18920)
+Defined in: [WAProto/index.d.ts:18920](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18920)
 
 Gets the default type url for Button
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18907](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18907)
+Defined in: [WAProto/index.d.ts:18907](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18907)
 
 Creates a plain object from a Button message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18892](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L18892)
+Defined in: [WAProto/index.d.ts:18892](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L18892)
 
 Verifies a Button message.
 
