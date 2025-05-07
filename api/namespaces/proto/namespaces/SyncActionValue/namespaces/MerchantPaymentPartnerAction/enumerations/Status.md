@@ -1,6 +1,6 @@
 # Enumeration: Status
 
-Defined in: [WAProto/index.d.ts:43844](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43844)
+Defined in: [WAProto/index.d.ts:43844](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43844)
 
 Status enum.
 
@@ -10,7 +10,7 @@ Status enum.
 
 > **ACTIVE**: `0`
 
-Defined in: [WAProto/index.d.ts:43845](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43845)
+Defined in: [WAProto/index.d.ts:43845](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43845)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:43845](https://github.com/Fokusdotid/Baileys/blo
 
 > **INACTIVE**: `1`
 
-Defined in: [WAProto/index.d.ts:43846](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43846)
+Defined in: [WAProto/index.d.ts:43846](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43846)

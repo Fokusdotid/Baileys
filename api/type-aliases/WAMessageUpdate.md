@@ -2,7 +2,7 @@
 
 > **WAMessageUpdate**: `object`
 
-Defined in: [src/Types/Message.ts:294](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Types/Message.ts#L294)
+Defined in: [src/Types/Message.ts:294](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Types/Message.ts#L294)
 
 ## Type declaration
 

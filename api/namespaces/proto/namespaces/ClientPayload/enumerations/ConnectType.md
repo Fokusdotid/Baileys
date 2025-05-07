@@ -1,6 +1,6 @@
 # Enumeration: ConnectType
 
-Defined in: [WAProto/index.d.ts:7917](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7917)
+Defined in: [WAProto/index.d.ts:7917](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7917)
 
 ConnectType enum.
 
@@ -10,7 +10,7 @@ ConnectType enum.
 
 > **CELLULAR\_1XRTT**: `109`
 
-Defined in: [WAProto/index.d.ts:7929](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7929)
+Defined in: [WAProto/index.d.ts:7929](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7929)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:7929](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_CDMA**: `108`
 
-Defined in: [WAProto/index.d.ts:7928](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7928)
+Defined in: [WAProto/index.d.ts:7928](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7928)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:7928](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_EDGE**: `100`
 
-Defined in: [WAProto/index.d.ts:7920](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7920)
+Defined in: [WAProto/index.d.ts:7920](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7920)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:7920](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_EHRPD**: `110`
 
-Defined in: [WAProto/index.d.ts:7930](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7930)
+Defined in: [WAProto/index.d.ts:7930](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7930)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:7930](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_EVDO**: `103`
 
-Defined in: [WAProto/index.d.ts:7923](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7923)
+Defined in: [WAProto/index.d.ts:7923](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7923)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:7923](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_GPRS**: `104`
 
-Defined in: [WAProto/index.d.ts:7924](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7924)
+Defined in: [WAProto/index.d.ts:7924](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7924)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:7924](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_HSDPA**: `105`
 
-Defined in: [WAProto/index.d.ts:7925](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7925)
+Defined in: [WAProto/index.d.ts:7925](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7925)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [WAProto/index.d.ts:7925](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_HSPA**: `107`
 
-Defined in: [WAProto/index.d.ts:7927](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7927)
+Defined in: [WAProto/index.d.ts:7927](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7927)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [WAProto/index.d.ts:7927](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_HSPAP**: `112`
 
-Defined in: [WAProto/index.d.ts:7932](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7932)
+Defined in: [WAProto/index.d.ts:7932](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7932)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [WAProto/index.d.ts:7932](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_HSUPA**: `106`
 
-Defined in: [WAProto/index.d.ts:7926](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7926)
+Defined in: [WAProto/index.d.ts:7926](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7926)
 
 ***
 
@@ -90,7 +90,7 @@ Defined in: [WAProto/index.d.ts:7926](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_IDEN**: `101`
 
-Defined in: [WAProto/index.d.ts:7921](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7921)
+Defined in: [WAProto/index.d.ts:7921](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7921)
 
 ***
 
@@ -98,7 +98,7 @@ Defined in: [WAProto/index.d.ts:7921](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_LTE**: `111`
 
-Defined in: [WAProto/index.d.ts:7931](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7931)
+Defined in: [WAProto/index.d.ts:7931](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7931)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [WAProto/index.d.ts:7931](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_UMTS**: `102`
 
-Defined in: [WAProto/index.d.ts:7922](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7922)
+Defined in: [WAProto/index.d.ts:7922](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7922)
 
 ***
 
@@ -114,7 +114,7 @@ Defined in: [WAProto/index.d.ts:7922](https://github.com/Fokusdotid/Baileys/blob
 
 > **CELLULAR\_UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:7918](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7918)
+Defined in: [WAProto/index.d.ts:7918](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7918)
 
 ***
 
@@ -122,4 +122,4 @@ Defined in: [WAProto/index.d.ts:7918](https://github.com/Fokusdotid/Baileys/blob
 
 > **WIFI\_UNKNOWN**: `1`
 
-Defined in: [WAProto/index.d.ts:7919](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L7919)
+Defined in: [WAProto/index.d.ts:7919](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L7919)

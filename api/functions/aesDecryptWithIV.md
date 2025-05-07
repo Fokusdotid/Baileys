@@ -2,7 +2,7 @@
 
 > **aesDecryptWithIV**(`buffer`, `key`, `IV`): `Buffer`\<`ArrayBuffer`\>
 
-Defined in: [src/Utils/crypto.ts:95](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Utils/crypto.ts#L95)
+Defined in: [src/Utils/crypto.ts:95](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Utils/crypto.ts#L95)
 
 decrypt AES 256 CBC
 

@@ -1,6 +1,6 @@
 # Class: Message
 
-Defined in: [WAProto/index.d.ts:17012](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17012)
+Defined in: [WAProto/index.d.ts:17012](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17012)
 
 Represents a Message.
 
@@ -14,7 +14,7 @@ Represents a Message.
 
 > **new Message**(`properties`?): [`Message`](Message.md)
 
-Defined in: [WAProto/index.d.ts:17018](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17018)
+Defined in: [WAProto/index.d.ts:17018](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17018)
 
 Constructs a new Message.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **albumMessage**: `null` \| [`IAlbumMessage`](../namespaces/Message/interfaces/IAlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:17225](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17225)
+Defined in: [WAProto/index.d.ts:17225](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17225)
 
 Message albumMessage.
 
@@ -50,7 +50,7 @@ Message albumMessage.
 
 > `optional` **associatedChildMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17243](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17243)
+Defined in: [WAProto/index.d.ts:17243](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17243)
 
 Message associatedChildMessage.
 
@@ -64,7 +64,7 @@ Message associatedChildMessage.
 
 > `optional` **audioMessage**: `null` \| [`IAudioMessage`](../namespaces/Message/interfaces/IAudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:17042](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17042)
+Defined in: [WAProto/index.d.ts:17042](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17042)
 
 Message audioMessage.
 
@@ -78,7 +78,7 @@ Message audioMessage.
 
 > `optional` **bcallMessage**: `null` \| [`IBCallMessage`](../namespaces/Message/interfaces/IBCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:17201](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17201)
+Defined in: [WAProto/index.d.ts:17201](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17201)
 
 Message bcallMessage.
 
@@ -92,7 +92,7 @@ Message bcallMessage.
 
 > `optional` **botInvokeMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17189](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17189)
+Defined in: [WAProto/index.d.ts:17189](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17189)
 
 Message botInvokeMessage.
 
@@ -106,7 +106,7 @@ Message botInvokeMessage.
 
 > `optional` **buttonsMessage**: `null` \| [`IButtonsMessage`](../namespaces/Message/interfaces/IButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:17120](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17120)
+Defined in: [WAProto/index.d.ts:17120](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17120)
 
 Message buttonsMessage.
 
@@ -120,7 +120,7 @@ Message buttonsMessage.
 
 > `optional` **buttonsResponseMessage**: `null` \| [`IButtonsResponseMessage`](../namespaces/Message/interfaces/IButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17123](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17123)
+Defined in: [WAProto/index.d.ts:17123](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17123)
 
 Message buttonsResponseMessage.
 
@@ -134,7 +134,7 @@ Message buttonsResponseMessage.
 
 > `optional` **call**: `null` \| [`ICall`](../namespaces/Message/interfaces/ICall.md)
 
-Defined in: [WAProto/index.d.ts:17048](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17048)
+Defined in: [WAProto/index.d.ts:17048](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17048)
 
 Message call.
 
@@ -148,7 +148,7 @@ Message call.
 
 > `optional` **callLogMesssage**: `null` \| [`ICallLogMessage`](../namespaces/Message/interfaces/ICallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:17192](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17192)
+Defined in: [WAProto/index.d.ts:17192](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17192)
 
 Message callLogMesssage.
 
@@ -162,7 +162,7 @@ Message callLogMesssage.
 
 > `optional` **cancelPaymentRequestMessage**: `null` \| [`ICancelPaymentRequestMessage`](../namespaces/Message/interfaces/ICancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:17078](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17078)
+Defined in: [WAProto/index.d.ts:17078](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17078)
 
 Message cancelPaymentRequestMessage.
 
@@ -176,7 +176,7 @@ Message cancelPaymentRequestMessage.
 
 > `optional` **chat**: `null` \| [`IChat`](../namespaces/Message/interfaces/IChat.md)
 
-Defined in: [WAProto/index.d.ts:17051](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17051)
+Defined in: [WAProto/index.d.ts:17051](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17051)
 
 Message chat.
 
@@ -190,7 +190,7 @@ Message chat.
 
 > `optional` **commentMessage**: `null` \| [`ICommentMessage`](../namespaces/Message/interfaces/ICommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17213](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17213)
+Defined in: [WAProto/index.d.ts:17213](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17213)
 
 Message commentMessage.
 
@@ -204,7 +204,7 @@ Message commentMessage.
 
 > `optional` **contactMessage**: `null` \| [`IContactMessage`](../namespaces/Message/interfaces/IContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:17030](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17030)
+Defined in: [WAProto/index.d.ts:17030](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17030)
 
 Message contactMessage.
 
@@ -218,7 +218,7 @@ Message contactMessage.
 
 > `optional` **contactsArrayMessage**: `null` \| [`IContactsArrayMessage`](../namespaces/Message/interfaces/IContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:17057](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17057)
+Defined in: [WAProto/index.d.ts:17057](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17057)
 
 Message contactsArrayMessage.
 
@@ -232,7 +232,7 @@ Message contactsArrayMessage.
 
 > `optional` **conversation**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17021](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17021)
+Defined in: [WAProto/index.d.ts:17021](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17021)
 
 Message conversation.
 
@@ -246,7 +246,7 @@ Message conversation.
 
 > `optional` **declinePaymentRequestMessage**: `null` \| [`IDeclinePaymentRequestMessage`](../namespaces/Message/interfaces/IDeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:17075](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17075)
+Defined in: [WAProto/index.d.ts:17075](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17075)
 
 Message declinePaymentRequestMessage.
 
@@ -260,7 +260,7 @@ Message declinePaymentRequestMessage.
 
 > `optional` **deviceSentMessage**: `null` \| [`IDeviceSentMessage`](../namespaces/Message/interfaces/IDeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17096](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17096)
+Defined in: [WAProto/index.d.ts:17096](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17096)
 
 Message deviceSentMessage.
 
@@ -274,7 +274,7 @@ Message deviceSentMessage.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../namespaces/Message/interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17039](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17039)
+Defined in: [WAProto/index.d.ts:17039](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17039)
 
 Message documentMessage.
 
@@ -288,7 +288,7 @@ Message documentMessage.
 
 > `optional` **documentWithCaptionMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17150](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17150)
+Defined in: [WAProto/index.d.ts:17150](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17150)
 
 Message documentWithCaptionMessage.
 
@@ -302,7 +302,7 @@ Message documentWithCaptionMessage.
 
 > `optional` **editedMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17162](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17162)
+Defined in: [WAProto/index.d.ts:17162](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17162)
 
 Message editedMessage.
 
@@ -316,7 +316,7 @@ Message editedMessage.
 
 > `optional` **encCommentMessage**: `null` \| [`IEncCommentMessage`](../namespaces/Message/interfaces/IEncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17198](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17198)
+Defined in: [WAProto/index.d.ts:17198](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17198)
 
 Message encCommentMessage.
 
@@ -330,7 +330,7 @@ Message encCommentMessage.
 
 > `optional` **encEventResponseMessage**: `null` \| [`IEncEventResponseMessage`](../namespaces/Message/interfaces/IEncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17210](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17210)
+Defined in: [WAProto/index.d.ts:17210](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17210)
 
 Message encEventResponseMessage.
 
@@ -344,7 +344,7 @@ Message encEventResponseMessage.
 
 > `optional` **encReactionMessage**: `null` \| [`IEncReactionMessage`](../namespaces/Message/interfaces/IEncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:17159](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17159)
+Defined in: [WAProto/index.d.ts:17159](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17159)
 
 Message encReactionMessage.
 
@@ -358,7 +358,7 @@ Message encReactionMessage.
 
 > `optional` **ephemeralMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17114](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17114)
+Defined in: [WAProto/index.d.ts:17114](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17114)
 
 Message ephemeralMessage.
 
@@ -372,7 +372,7 @@ Message ephemeralMessage.
 
 > `optional` **eventCoverImage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17228](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17228)
+Defined in: [WAProto/index.d.ts:17228](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17228)
 
 Message eventCoverImage.
 
@@ -386,7 +386,7 @@ Message eventCoverImage.
 
 > `optional` **eventMessage**: `null` \| [`IEventMessage`](../namespaces/Message/interfaces/IEventMessage.md)
 
-Defined in: [WAProto/index.d.ts:17207](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17207)
+Defined in: [WAProto/index.d.ts:17207](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17207)
 
 Message eventMessage.
 
@@ -400,7 +400,7 @@ Message eventMessage.
 
 > `optional` **extendedTextMessage**: `null` \| [`IExtendedTextMessage`](../namespaces/Message/interfaces/IExtendedTextMessage.md)
 
-Defined in: [WAProto/index.d.ts:17036](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17036)
+Defined in: [WAProto/index.d.ts:17036](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17036)
 
 Message extendedTextMessage.
 
@@ -414,7 +414,7 @@ Message extendedTextMessage.
 
 > `optional` **fastRatchetKeySenderKeyDistributionMessage**: `null` \| [`ISenderKeyDistributionMessage`](../namespaces/Message/interfaces/ISenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:17063](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17063)
+Defined in: [WAProto/index.d.ts:17063](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17063)
 
 Message fastRatchetKeySenderKeyDistributionMessage.
 
@@ -428,7 +428,7 @@ Message fastRatchetKeySenderKeyDistributionMessage.
 
 > `optional` **groupInviteMessage**: `null` \| [`IGroupInviteMessage`](../namespaces/Message/interfaces/IGroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:17087](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17087)
+Defined in: [WAProto/index.d.ts:17087](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17087)
 
 Message groupInviteMessage.
 
@@ -442,7 +442,7 @@ Message groupInviteMessage.
 
 > `optional` **groupMentionedMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17174](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17174)
+Defined in: [WAProto/index.d.ts:17174](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17174)
 
 Message groupMentionedMessage.
 
@@ -456,7 +456,7 @@ Message groupMentionedMessage.
 
 > `optional` **groupStatusMentionMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17246](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17246)
+Defined in: [WAProto/index.d.ts:17246](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17246)
 
 Message groupStatusMentionMessage.
 
@@ -470,7 +470,7 @@ Message groupStatusMentionMessage.
 
 > `optional` **groupStatusMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17258](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17258)
+Defined in: [WAProto/index.d.ts:17258](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17258)
 
 Message groupStatusMessage.
 
@@ -484,7 +484,7 @@ Message groupStatusMessage.
 
 > `optional` **highlyStructuredMessage**: `null` \| [`IHighlyStructuredMessage`](../namespaces/Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:17060](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17060)
+Defined in: [WAProto/index.d.ts:17060](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17060)
 
 Message highlyStructuredMessage.
 
@@ -498,7 +498,7 @@ Message highlyStructuredMessage.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../namespaces/Message/interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:17027](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17027)
+Defined in: [WAProto/index.d.ts:17027](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17027)
 
 Message imageMessage.
 
@@ -512,7 +512,7 @@ Message imageMessage.
 
 > `optional` **interactiveMessage**: `null` \| [`IInteractiveMessage`](../namespaces/Message/interfaces/IInteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:17129](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17129)
+Defined in: [WAProto/index.d.ts:17129](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17129)
 
 Message interactiveMessage.
 
@@ -526,7 +526,7 @@ Message interactiveMessage.
 
 > `optional` **interactiveResponseMessage**: `null` \| [`IInteractiveResponseMessage`](../namespaces/Message/interfaces/IInteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17138](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17138)
+Defined in: [WAProto/index.d.ts:17138](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17138)
 
 Message interactiveResponseMessage.
 
@@ -540,7 +540,7 @@ Message interactiveResponseMessage.
 
 > `optional` **invoiceMessage**: `null` \| [`IInvoiceMessage`](../namespaces/Message/interfaces/IInvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:17117](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17117)
+Defined in: [WAProto/index.d.ts:17117](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17117)
 
 Message invoiceMessage.
 
@@ -554,7 +554,7 @@ Message invoiceMessage.
 
 > `optional` **keepInChatMessage**: `null` \| [`IKeepInChatMessage`](../namespaces/Message/interfaces/IKeepInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:17147](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17147)
+Defined in: [WAProto/index.d.ts:17147](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17147)
 
 Message keepInChatMessage.
 
@@ -568,7 +568,7 @@ Message keepInChatMessage.
 
 > `optional` **listMessage**: `null` \| [`IListMessage`](../namespaces/Message/interfaces/IListMessage.md)
 
-Defined in: [WAProto/index.d.ts:17102](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17102)
+Defined in: [WAProto/index.d.ts:17102](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17102)
 
 Message listMessage.
 
@@ -582,7 +582,7 @@ Message listMessage.
 
 > `optional` **listResponseMessage**: `null` \| [`IListResponseMessage`](../namespaces/Message/interfaces/IListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17111](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17111)
+Defined in: [WAProto/index.d.ts:17111](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17111)
 
 Message listResponseMessage.
 
@@ -596,7 +596,7 @@ Message listResponseMessage.
 
 > `optional` **liveLocationMessage**: `null` \| [`ILiveLocationMessage`](../namespaces/Message/interfaces/ILiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17069](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17069)
+Defined in: [WAProto/index.d.ts:17069](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17069)
 
 Message liveLocationMessage.
 
@@ -610,7 +610,7 @@ Message liveLocationMessage.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../namespaces/Message/interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17033](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17033)
+Defined in: [WAProto/index.d.ts:17033](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17033)
 
 Message locationMessage.
 
@@ -624,7 +624,7 @@ Message locationMessage.
 
 > `optional` **lottieStickerMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17204](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17204)
+Defined in: [WAProto/index.d.ts:17204](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17204)
 
 Message lottieStickerMessage.
 
@@ -638,7 +638,7 @@ Message lottieStickerMessage.
 
 > `optional` **messageContextInfo**: `null` \| [`IMessageContextInfo`](../interfaces/IMessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:17099](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17099)
+Defined in: [WAProto/index.d.ts:17099](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17099)
 
 Message messageContextInfo.
 
@@ -652,7 +652,7 @@ Message messageContextInfo.
 
 > `optional` **messageHistoryBundle**: `null` \| [`IMessageHistoryBundle`](../namespaces/Message/interfaces/IMessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:17195](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17195)
+Defined in: [WAProto/index.d.ts:17195](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17195)
 
 Message messageHistoryBundle.
 
@@ -666,7 +666,7 @@ Message messageHistoryBundle.
 
 > `optional` **newsletterAdminInviteMessage**: `null` \| [`INewsletterAdminInviteMessage`](../namespaces/Message/interfaces/INewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:17216](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17216)
+Defined in: [WAProto/index.d.ts:17216](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17216)
 
 Message newsletterAdminInviteMessage.
 
@@ -680,7 +680,7 @@ Message newsletterAdminInviteMessage.
 
 > `optional` **orderMessage**: `null` \| [`IOrderMessage`](../namespaces/Message/interfaces/IOrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:17108](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17108)
+Defined in: [WAProto/index.d.ts:17108](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17108)
 
 Message orderMessage.
 
@@ -694,7 +694,7 @@ Message orderMessage.
 
 > `optional` **paymentInviteMessage**: `null` \| [`IPaymentInviteMessage`](../namespaces/Message/interfaces/IPaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:17126](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17126)
+Defined in: [WAProto/index.d.ts:17126](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17126)
 
 Message paymentInviteMessage.
 
@@ -708,7 +708,7 @@ Message paymentInviteMessage.
 
 > `optional` **pinInChatMessage**: `null` \| [`IPinInChatMessage`](../namespaces/Message/interfaces/IPinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:17177](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17177)
+Defined in: [WAProto/index.d.ts:17177](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17177)
 
 Message pinInChatMessage.
 
@@ -722,7 +722,7 @@ Message pinInChatMessage.
 
 > `optional` **placeholderMessage**: `null` \| [`IPlaceholderMessage`](../namespaces/Message/interfaces/IPlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:17219](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17219)
+Defined in: [WAProto/index.d.ts:17219](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17219)
 
 Message placeholderMessage.
 
@@ -736,7 +736,7 @@ Message placeholderMessage.
 
 > `optional` **pollCreationMessage**: `null` \| [`IPollCreationMessage`](../namespaces/Message/interfaces/IPollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17141](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17141)
+Defined in: [WAProto/index.d.ts:17141](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17141)
 
 Message pollCreationMessage.
 
@@ -750,7 +750,7 @@ Message pollCreationMessage.
 
 > `optional` **pollCreationMessageV2**: `null` \| [`IPollCreationMessage`](../namespaces/Message/interfaces/IPollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17168](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17168)
+Defined in: [WAProto/index.d.ts:17168](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17168)
 
 Message pollCreationMessageV2.
 
@@ -764,7 +764,7 @@ Message pollCreationMessageV2.
 
 > `optional` **pollCreationMessageV3**: `null` \| [`IPollCreationMessage`](../namespaces/Message/interfaces/IPollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17180](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17180)
+Defined in: [WAProto/index.d.ts:17180](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17180)
 
 Message pollCreationMessageV3.
 
@@ -778,7 +778,7 @@ Message pollCreationMessageV3.
 
 > `optional` **pollCreationMessageV4**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17249](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17249)
+Defined in: [WAProto/index.d.ts:17249](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17249)
 
 Message pollCreationMessageV4.
 
@@ -792,7 +792,7 @@ Message pollCreationMessageV4.
 
 > `optional` **pollCreationMessageV5**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17252](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17252)
+Defined in: [WAProto/index.d.ts:17252](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17252)
 
 Message pollCreationMessageV5.
 
@@ -806,7 +806,7 @@ Message pollCreationMessageV5.
 
 > `optional` **pollCreationOptionImageMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17240](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17240)
+Defined in: [WAProto/index.d.ts:17240](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17240)
 
 Message pollCreationOptionImageMessage.
 
@@ -820,7 +820,7 @@ Message pollCreationOptionImageMessage.
 
 > `optional` **pollResultSnapshotMessage**: `null` \| [`IPollResultSnapshotMessage`](../namespaces/Message/interfaces/IPollResultSnapshotMessage.md)
 
-Defined in: [WAProto/index.d.ts:17237](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17237)
+Defined in: [WAProto/index.d.ts:17237](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17237)
 
 Message pollResultSnapshotMessage.
 
@@ -834,7 +834,7 @@ Message pollResultSnapshotMessage.
 
 > `optional` **pollUpdateMessage**: `null` \| [`IPollUpdateMessage`](../namespaces/Message/interfaces/IPollUpdateMessage.md)
 
-Defined in: [WAProto/index.d.ts:17144](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17144)
+Defined in: [WAProto/index.d.ts:17144](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17144)
 
 Message pollUpdateMessage.
 
@@ -848,7 +848,7 @@ Message pollUpdateMessage.
 
 > `optional` **productMessage**: `null` \| [`IProductMessage`](../namespaces/Message/interfaces/IProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:17093](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17093)
+Defined in: [WAProto/index.d.ts:17093](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17093)
 
 Message productMessage.
 
@@ -862,7 +862,7 @@ Message productMessage.
 
 > `optional` **protocolMessage**: `null` \| [`IProtocolMessage`](../namespaces/Message/interfaces/IProtocolMessage.md)
 
-Defined in: [WAProto/index.d.ts:17054](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17054)
+Defined in: [WAProto/index.d.ts:17054](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17054)
 
 Message protocolMessage.
 
@@ -876,7 +876,7 @@ Message protocolMessage.
 
 > `optional` **ptvMessage**: `null` \| [`IVideoMessage`](../namespaces/Message/interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:17186](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17186)
+Defined in: [WAProto/index.d.ts:17186](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17186)
 
 Message ptvMessage.
 
@@ -890,7 +890,7 @@ Message ptvMessage.
 
 > `optional` **reactionMessage**: `null` \| [`IReactionMessage`](../namespaces/Message/interfaces/IReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:17132](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17132)
+Defined in: [WAProto/index.d.ts:17132](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17132)
 
 Message reactionMessage.
 
@@ -904,7 +904,7 @@ Message reactionMessage.
 
 > `optional` **requestPaymentMessage**: `null` \| [`IRequestPaymentMessage`](../namespaces/Message/interfaces/IRequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17072](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17072)
+Defined in: [WAProto/index.d.ts:17072](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17072)
 
 Message requestPaymentMessage.
 
@@ -918,7 +918,7 @@ Message requestPaymentMessage.
 
 > `optional` **requestPhoneNumberMessage**: `null` \| [`IRequestPhoneNumberMessage`](../namespaces/Message/interfaces/IRequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:17153](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17153)
+Defined in: [WAProto/index.d.ts:17153](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17153)
 
 Message requestPhoneNumberMessage.
 
@@ -932,7 +932,7 @@ Message requestPhoneNumberMessage.
 
 > `optional` **richResponseMessage**: `null` \| [`IAIRichResponseMessage`](../interfaces/IAIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17261](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17261)
+Defined in: [WAProto/index.d.ts:17261](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17261)
 
 Message richResponseMessage.
 
@@ -946,7 +946,7 @@ Message richResponseMessage.
 
 > `optional` **scheduledCallCreationMessage**: `null` \| [`IScheduledCallCreationMessage`](../namespaces/Message/interfaces/IScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17171](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17171)
+Defined in: [WAProto/index.d.ts:17171](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17171)
 
 Message scheduledCallCreationMessage.
 
@@ -960,7 +960,7 @@ Message scheduledCallCreationMessage.
 
 > `optional` **scheduledCallEditMessage**: `null` \| [`IScheduledCallEditMessage`](../namespaces/Message/interfaces/IScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:17183](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17183)
+Defined in: [WAProto/index.d.ts:17183](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17183)
 
 Message scheduledCallEditMessage.
 
@@ -974,7 +974,7 @@ Message scheduledCallEditMessage.
 
 > `optional` **secretEncryptedMessage**: `null` \| [`ISecretEncryptedMessage`](../namespaces/Message/interfaces/ISecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:17222](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17222)
+Defined in: [WAProto/index.d.ts:17222](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17222)
 
 Message secretEncryptedMessage.
 
@@ -988,7 +988,7 @@ Message secretEncryptedMessage.
 
 > `optional` **senderKeyDistributionMessage**: `null` \| [`ISenderKeyDistributionMessage`](../namespaces/Message/interfaces/ISenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:17024](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17024)
+Defined in: [WAProto/index.d.ts:17024](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17024)
 
 Message senderKeyDistributionMessage.
 
@@ -1002,7 +1002,7 @@ Message senderKeyDistributionMessage.
 
 > `optional` **sendPaymentMessage**: `null` \| [`ISendPaymentMessage`](../namespaces/Message/interfaces/ISendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:17066](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17066)
+Defined in: [WAProto/index.d.ts:17066](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17066)
 
 Message sendPaymentMessage.
 
@@ -1016,7 +1016,7 @@ Message sendPaymentMessage.
 
 > `optional` **statusAddYours**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17255](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17255)
+Defined in: [WAProto/index.d.ts:17255](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17255)
 
 Message statusAddYours.
 
@@ -1030,7 +1030,7 @@ Message statusAddYours.
 
 > `optional` **statusMentionMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17234](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17234)
+Defined in: [WAProto/index.d.ts:17234](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17234)
 
 Message statusMentionMessage.
 
@@ -1044,7 +1044,7 @@ Message statusMentionMessage.
 
 > `optional` **statusNotificationMessage**: `null` \| [`IStatusNotificationMessage`](../namespaces/Message/interfaces/IStatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:17264](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17264)
+Defined in: [WAProto/index.d.ts:17264](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17264)
 
 Message statusNotificationMessage.
 
@@ -1058,7 +1058,7 @@ Message statusNotificationMessage.
 
 > `optional` **stickerMessage**: `null` \| [`IStickerMessage`](../namespaces/Message/interfaces/IStickerMessage.md)
 
-Defined in: [WAProto/index.d.ts:17084](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17084)
+Defined in: [WAProto/index.d.ts:17084](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17084)
 
 Message stickerMessage.
 
@@ -1072,7 +1072,7 @@ Message stickerMessage.
 
 > `optional` **stickerPackMessage**: `null` \| [`IStickerPackMessage`](../namespaces/Message/interfaces/IStickerPackMessage.md)
 
-Defined in: [WAProto/index.d.ts:17231](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17231)
+Defined in: [WAProto/index.d.ts:17231](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17231)
 
 Message stickerPackMessage.
 
@@ -1086,7 +1086,7 @@ Message stickerPackMessage.
 
 > `optional` **stickerSyncRmrMessage**: `null` \| [`IStickerSyncRMRMessage`](../namespaces/Message/interfaces/IStickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:17135](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17135)
+Defined in: [WAProto/index.d.ts:17135](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17135)
 
 Message stickerSyncRmrMessage.
 
@@ -1100,7 +1100,7 @@ Message stickerSyncRmrMessage.
 
 > `optional` **templateButtonReplyMessage**: `null` \| [`ITemplateButtonReplyMessage`](../namespaces/Message/interfaces/ITemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17090](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17090)
+Defined in: [WAProto/index.d.ts:17090](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17090)
 
 Message templateButtonReplyMessage.
 
@@ -1114,7 +1114,7 @@ Message templateButtonReplyMessage.
 
 > `optional` **templateMessage**: `null` \| [`ITemplateMessage`](../namespaces/Message/interfaces/ITemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:17081](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17081)
+Defined in: [WAProto/index.d.ts:17081](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17081)
 
 Message templateMessage.
 
@@ -1128,7 +1128,7 @@ Message templateMessage.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../namespaces/Message/interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:17045](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17045)
+Defined in: [WAProto/index.d.ts:17045](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17045)
 
 Message videoMessage.
 
@@ -1142,7 +1142,7 @@ Message videoMessage.
 
 > `optional` **viewOnceMessage**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17105](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17105)
+Defined in: [WAProto/index.d.ts:17105](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17105)
 
 Message viewOnceMessage.
 
@@ -1156,7 +1156,7 @@ Message viewOnceMessage.
 
 > `optional` **viewOnceMessageV2**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17156](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17156)
+Defined in: [WAProto/index.d.ts:17156](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17156)
 
 Message viewOnceMessageV2.
 
@@ -1170,7 +1170,7 @@ Message viewOnceMessageV2.
 
 > `optional` **viewOnceMessageV2Extension**: `null` \| [`IFutureProofMessage`](../namespaces/Message/interfaces/IFutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:17165](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17165)
+Defined in: [WAProto/index.d.ts:17165](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17165)
 
 Message viewOnceMessageV2Extension.
 
@@ -1184,7 +1184,7 @@ Message viewOnceMessageV2Extension.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17334](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17334)
+Defined in: [WAProto/index.d.ts:17334](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17334)
 
 Converts this Message to JSON.
 
@@ -1200,7 +1200,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Message`](Message.md)
 
-Defined in: [WAProto/index.d.ts:17271](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17271)
+Defined in: [WAProto/index.d.ts:17271](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17271)
 
 Creates a new Message instance using the specified properties.
 
@@ -1224,7 +1224,7 @@ Message instance
 
 > `static` **decode**(`reader`, `length`?): [`Message`](Message.md)
 
-Defined in: [WAProto/index.d.ts:17297](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17297)
+Defined in: [WAProto/index.d.ts:17297](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17297)
 
 Decodes a Message message from the specified reader or buffer.
 
@@ -1262,7 +1262,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Message`](Message.md)
 
-Defined in: [WAProto/index.d.ts:17306](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17306)
+Defined in: [WAProto/index.d.ts:17306](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17306)
 
 Decodes a Message message from the specified reader or buffer, length delimited.
 
@@ -1294,7 +1294,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17279](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17279)
+Defined in: [WAProto/index.d.ts:17279](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17279)
 
 Encodes the specified Message message. Does not implicitly [verify](Message.md#verify) messages.
 
@@ -1324,7 +1324,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17287](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17287)
+Defined in: [WAProto/index.d.ts:17287](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17287)
 
 Encodes the specified Message message, length delimited. Does not implicitly [verify](Message.md#verify) messages.
 
@@ -1354,7 +1354,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Message`](Message.md)
 
-Defined in: [WAProto/index.d.ts:17320](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17320)
+Defined in: [WAProto/index.d.ts:17320](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17320)
 
 Creates a Message message from a plain object. Also converts values to their respective internal types.
 
@@ -1376,7 +1376,7 @@ Message
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17341](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17341)
+Defined in: [WAProto/index.d.ts:17341](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17341)
 
 Gets the default type url for Message
 
@@ -1400,7 +1400,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17328](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17328)
+Defined in: [WAProto/index.d.ts:17328](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17328)
 
 Creates a plain object from a Message message. Also converts values to other types if specified.
 
@@ -1430,7 +1430,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17313](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L17313)
+Defined in: [WAProto/index.d.ts:17313](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L17313)
 
 Verifies a Message message.
 

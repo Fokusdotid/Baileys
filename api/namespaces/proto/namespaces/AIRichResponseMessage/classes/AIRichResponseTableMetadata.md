@@ -1,6 +1,6 @@
 # Class: AIRichResponseTableMetadata
 
-Defined in: [WAProto/index.d.ts:2460](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2460)
+Defined in: [WAProto/index.d.ts:2460](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2460)
 
 Represents a AIRichResponseTableMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseTableMetadata.
 
 > **new AIRichResponseTableMetadata**(`properties`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2466](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2466)
+Defined in: [WAProto/index.d.ts:2466](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2466)
 
 Constructs a new AIRichResponseTableMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **rows**: [`IAIRichResponseTableRow`](../namespaces/AIRichResponseTableMetadata/interfaces/IAIRichResponseTableRow.md)[]
 
-Defined in: [WAProto/index.d.ts:2469](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2469)
+Defined in: [WAProto/index.d.ts:2469](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2469)
 
 AIRichResponseTableMetadata rows.
 
@@ -50,7 +50,7 @@ AIRichResponseTableMetadata rows.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2539](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2539)
+Defined in: [WAProto/index.d.ts:2539](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2539)
 
 Converts this AIRichResponseTableMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2476](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2476)
+Defined in: [WAProto/index.d.ts:2476](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2476)
 
 Creates a new AIRichResponseTableMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ AIRichResponseTableMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2502](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2502)
+Defined in: [WAProto/index.d.ts:2502](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2502)
 
 Decodes a AIRichResponseTableMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2511](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2511)
+Defined in: [WAProto/index.d.ts:2511](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2511)
 
 Decodes a AIRichResponseTableMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2484](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2484)
+Defined in: [WAProto/index.d.ts:2484](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2484)
 
 Encodes the specified AIRichResponseTableMetadata message. Does not implicitly [verify](AIRichResponseTableMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2492](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2492)
+Defined in: [WAProto/index.d.ts:2492](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2492)
 
 Encodes the specified AIRichResponseTableMetadata message, length delimited. Does not implicitly [verify](AIRichResponseTableMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2525](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2525)
+Defined in: [WAProto/index.d.ts:2525](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2525)
 
 Creates a AIRichResponseTableMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AIRichResponseTableMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2546](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2546)
+Defined in: [WAProto/index.d.ts:2546](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2546)
 
 Gets the default type url for AIRichResponseTableMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2533](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2533)
+Defined in: [WAProto/index.d.ts:2533](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2533)
 
 Creates a plain object from a AIRichResponseTableMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2518](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L2518)
+Defined in: [WAProto/index.d.ts:2518](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L2518)
 
 Verifies a AIRichResponseTableMetadata message.
 

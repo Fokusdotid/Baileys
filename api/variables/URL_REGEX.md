@@ -2,6 +2,6 @@
 
 > `const` **URL\_REGEX**: `RegExp`
 
-Defined in: [src/Defaults/index.ts:24](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Defaults/index.ts#L24)
+Defined in: [src/Defaults/index.ts:24](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Defaults/index.ts#L24)
 
 from: https://stackoverflow.com/questions/3809401/what-is-a-good-regular-expression-to-match-a-url

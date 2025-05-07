@@ -1,6 +1,6 @@
 # Class: LabelEditAction
 
-Defined in: [WAProto/index.d.ts:42974](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42974)
+Defined in: [WAProto/index.d.ts:42974](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42974)
 
 Represents a LabelEditAction.
 
@@ -14,7 +14,7 @@ Represents a LabelEditAction.
 
 > **new LabelEditAction**(`properties`?): [`LabelEditAction`](LabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:42980](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42980)
+Defined in: [WAProto/index.d.ts:42980](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42980)
 
 Constructs a new LabelEditAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **color**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42986](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42986)
+Defined in: [WAProto/index.d.ts:42986](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42986)
 
 LabelEditAction color.
 
@@ -50,7 +50,7 @@ LabelEditAction color.
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42992](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42992)
+Defined in: [WAProto/index.d.ts:42992](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42992)
 
 LabelEditAction deleted.
 
@@ -64,7 +64,7 @@ LabelEditAction deleted.
 
 > `optional` **isActive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42998](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42998)
+Defined in: [WAProto/index.d.ts:42998](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42998)
 
 LabelEditAction isActive.
 
@@ -78,7 +78,7 @@ LabelEditAction isActive.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42983](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42983)
+Defined in: [WAProto/index.d.ts:42983](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42983)
 
 LabelEditAction name.
 
@@ -92,7 +92,7 @@ LabelEditAction name.
 
 > `optional` **orderIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42995](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42995)
+Defined in: [WAProto/index.d.ts:42995](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42995)
 
 LabelEditAction orderIndex.
 
@@ -106,7 +106,7 @@ LabelEditAction orderIndex.
 
 > `optional` **predefinedId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42989](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L42989)
+Defined in: [WAProto/index.d.ts:42989](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L42989)
 
 LabelEditAction predefinedId.
 
@@ -120,7 +120,7 @@ LabelEditAction predefinedId.
 
 > `optional` **type**: `null` \| [`ListType`](../namespaces/LabelEditAction/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:43001](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43001)
+Defined in: [WAProto/index.d.ts:43001](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43001)
 
 LabelEditAction type.
 
@@ -134,7 +134,7 @@ LabelEditAction type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43071](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43071)
+Defined in: [WAProto/index.d.ts:43071](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43071)
 
 Converts this LabelEditAction to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LabelEditAction`](LabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43008](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43008)
+Defined in: [WAProto/index.d.ts:43008](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43008)
 
 Creates a new LabelEditAction instance using the specified properties.
 
@@ -174,7 +174,7 @@ LabelEditAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LabelEditAction`](LabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43034](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43034)
+Defined in: [WAProto/index.d.ts:43034](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43034)
 
 Decodes a LabelEditAction message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LabelEditAction`](LabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43043](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43043)
+Defined in: [WAProto/index.d.ts:43043](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43043)
 
 Decodes a LabelEditAction message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43016](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43016)
+Defined in: [WAProto/index.d.ts:43016](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43016)
 
 Encodes the specified LabelEditAction message. Does not implicitly [verify](LabelEditAction.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43024](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43024)
+Defined in: [WAProto/index.d.ts:43024](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43024)
 
 Encodes the specified LabelEditAction message, length delimited. Does not implicitly [verify](LabelEditAction.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LabelEditAction`](LabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43057](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43057)
+Defined in: [WAProto/index.d.ts:43057](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43057)
 
 Creates a LabelEditAction message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ LabelEditAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43078](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43078)
+Defined in: [WAProto/index.d.ts:43078](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43078)
 
 Gets the default type url for LabelEditAction
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43065](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43065)
+Defined in: [WAProto/index.d.ts:43065](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43065)
 
 Creates a plain object from a LabelEditAction message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43050](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L43050)
+Defined in: [WAProto/index.d.ts:43050](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L43050)
 
 Verifies a LabelEditAction message.
 

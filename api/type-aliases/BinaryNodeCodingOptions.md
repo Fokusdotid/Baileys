@@ -2,4 +2,4 @@
 
 > **BinaryNodeCodingOptions**: *typeof* `constants`
 
-Defined in: [src/WABinary/types.ts:17](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/WABinary/types.ts#L17)
+Defined in: [src/WABinary/types.ts:17](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/WABinary/types.ts#L17)

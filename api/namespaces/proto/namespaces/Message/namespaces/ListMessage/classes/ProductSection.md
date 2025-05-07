@@ -1,6 +1,6 @@
 # Class: ProductSection
 
-Defined in: [WAProto/index.d.ts:25329](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25329)
+Defined in: [WAProto/index.d.ts:25329](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25329)
 
 Represents a ProductSection.
 
@@ -14,7 +14,7 @@ Represents a ProductSection.
 
 > **new ProductSection**(`properties`?): [`ProductSection`](ProductSection.md)
 
-Defined in: [WAProto/index.d.ts:25335](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25335)
+Defined in: [WAProto/index.d.ts:25335](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25335)
 
 Constructs a new ProductSection.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **products**: [`IProduct`](../interfaces/IProduct.md)[]
 
-Defined in: [WAProto/index.d.ts:25341](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25341)
+Defined in: [WAProto/index.d.ts:25341](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25341)
 
 ProductSection products.
 
@@ -50,7 +50,7 @@ ProductSection products.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25338](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25338)
+Defined in: [WAProto/index.d.ts:25338](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25338)
 
 ProductSection title.
 
@@ -64,7 +64,7 @@ ProductSection title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25411](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25411)
+Defined in: [WAProto/index.d.ts:25411](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25411)
 
 Converts this ProductSection to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductSection`](ProductSection.md)
 
-Defined in: [WAProto/index.d.ts:25348](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25348)
+Defined in: [WAProto/index.d.ts:25348](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25348)
 
 Creates a new ProductSection instance using the specified properties.
 
@@ -104,7 +104,7 @@ ProductSection instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductSection`](ProductSection.md)
 
-Defined in: [WAProto/index.d.ts:25374](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25374)
+Defined in: [WAProto/index.d.ts:25374](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25374)
 
 Decodes a ProductSection message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductSection`](ProductSection.md)
 
-Defined in: [WAProto/index.d.ts:25383](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25383)
+Defined in: [WAProto/index.d.ts:25383](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25383)
 
 Decodes a ProductSection message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25356](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25356)
+Defined in: [WAProto/index.d.ts:25356](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25356)
 
 Encodes the specified ProductSection message. Does not implicitly [verify](ProductSection.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25364](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25364)
+Defined in: [WAProto/index.d.ts:25364](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25364)
 
 Encodes the specified ProductSection message, length delimited. Does not implicitly [verify](ProductSection.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductSection`](ProductSection.md)
 
-Defined in: [WAProto/index.d.ts:25397](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25397)
+Defined in: [WAProto/index.d.ts:25397](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25397)
 
 Creates a ProductSection message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ProductSection
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25418](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25418)
+Defined in: [WAProto/index.d.ts:25418](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25418)
 
 Gets the default type url for ProductSection
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25405](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25405)
+Defined in: [WAProto/index.d.ts:25405](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25405)
 
 Creates a plain object from a ProductSection message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25390](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L25390)
+Defined in: [WAProto/index.d.ts:25390](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L25390)
 
 Verifies a ProductSection message.
 

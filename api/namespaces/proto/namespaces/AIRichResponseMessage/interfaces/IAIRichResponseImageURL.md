@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseImageURL
 
-Defined in: [WAProto/index.d.ts:1570](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1570)
+Defined in: [WAProto/index.d.ts:1570](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1570)
 
 Properties of a AIRichResponseImageURL.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseImageURL.
 
 > `optional` **imageHighResUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1576](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1576)
+Defined in: [WAProto/index.d.ts:1576](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1576)
 
 AIRichResponseImageURL imageHighResUrl
 
@@ -20,7 +20,7 @@ AIRichResponseImageURL imageHighResUrl
 
 > `optional` **imagePreviewUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1573](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1573)
+Defined in: [WAProto/index.d.ts:1573](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1573)
 
 AIRichResponseImageURL imagePreviewUrl
 
@@ -30,6 +30,6 @@ AIRichResponseImageURL imagePreviewUrl
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1579](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L1579)
+Defined in: [WAProto/index.d.ts:1579](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L1579)
 
 AIRichResponseImageURL sourceUrl

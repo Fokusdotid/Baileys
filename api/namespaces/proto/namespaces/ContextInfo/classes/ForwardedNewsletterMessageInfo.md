@@ -1,6 +1,6 @@
 # Class: ForwardedNewsletterMessageInfo
 
-Defined in: [WAProto/index.d.ts:10675](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10675)
+Defined in: [WAProto/index.d.ts:10675](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10675)
 
 Represents a ForwardedNewsletterMessageInfo.
 
@@ -14,7 +14,7 @@ Represents a ForwardedNewsletterMessageInfo.
 
 > **new ForwardedNewsletterMessageInfo**(`properties`?): [`ForwardedNewsletterMessageInfo`](ForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10681](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10681)
+Defined in: [WAProto/index.d.ts:10681](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10681)
 
 Constructs a new ForwardedNewsletterMessageInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accessibilityText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10696](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10696)
+Defined in: [WAProto/index.d.ts:10696](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10696)
 
 ForwardedNewsletterMessageInfo accessibilityText.
 
@@ -50,7 +50,7 @@ ForwardedNewsletterMessageInfo accessibilityText.
 
 > `optional` **contentType**: `null` \| [`ContentType`](../namespaces/ForwardedNewsletterMessageInfo/enumerations/ContentType.md)
 
-Defined in: [WAProto/index.d.ts:10693](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10693)
+Defined in: [WAProto/index.d.ts:10693](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10693)
 
 ForwardedNewsletterMessageInfo contentType.
 
@@ -64,7 +64,7 @@ ForwardedNewsletterMessageInfo contentType.
 
 > `optional` **newsletterJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10684](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10684)
+Defined in: [WAProto/index.d.ts:10684](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10684)
 
 ForwardedNewsletterMessageInfo newsletterJid.
 
@@ -78,7 +78,7 @@ ForwardedNewsletterMessageInfo newsletterJid.
 
 > `optional` **newsletterName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10690](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10690)
+Defined in: [WAProto/index.d.ts:10690](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10690)
 
 ForwardedNewsletterMessageInfo newsletterName.
 
@@ -92,7 +92,7 @@ ForwardedNewsletterMessageInfo newsletterName.
 
 > `optional` **serverMessageId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10687](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10687)
+Defined in: [WAProto/index.d.ts:10687](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10687)
 
 ForwardedNewsletterMessageInfo serverMessageId.
 
@@ -106,7 +106,7 @@ ForwardedNewsletterMessageInfo serverMessageId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10766](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10766)
+Defined in: [WAProto/index.d.ts:10766](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10766)
 
 Converts this ForwardedNewsletterMessageInfo to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ForwardedNewsletterMessageInfo`](ForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10703](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10703)
+Defined in: [WAProto/index.d.ts:10703](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10703)
 
 Creates a new ForwardedNewsletterMessageInfo instance using the specified properties.
 
@@ -146,7 +146,7 @@ ForwardedNewsletterMessageInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ForwardedNewsletterMessageInfo`](ForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10729](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10729)
+Defined in: [WAProto/index.d.ts:10729](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10729)
 
 Decodes a ForwardedNewsletterMessageInfo message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ForwardedNewsletterMessageInfo`](ForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10738](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10738)
+Defined in: [WAProto/index.d.ts:10738](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10738)
 
 Decodes a ForwardedNewsletterMessageInfo message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10711](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10711)
+Defined in: [WAProto/index.d.ts:10711](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10711)
 
 Encodes the specified ForwardedNewsletterMessageInfo message. Does not implicitly [verify](ForwardedNewsletterMessageInfo.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10719](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10719)
+Defined in: [WAProto/index.d.ts:10719](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10719)
 
 Encodes the specified ForwardedNewsletterMessageInfo message, length delimited. Does not implicitly [verify](ForwardedNewsletterMessageInfo.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ForwardedNewsletterMessageInfo`](ForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10752](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10752)
+Defined in: [WAProto/index.d.ts:10752](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10752)
 
 Creates a ForwardedNewsletterMessageInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ ForwardedNewsletterMessageInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10773](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10773)
+Defined in: [WAProto/index.d.ts:10773](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10773)
 
 Gets the default type url for ForwardedNewsletterMessageInfo
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10760](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10760)
+Defined in: [WAProto/index.d.ts:10760](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10760)
 
 Creates a plain object from a ForwardedNewsletterMessageInfo message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10745](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L10745)
+Defined in: [WAProto/index.d.ts:10745](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L10745)
 
 Verifies a ForwardedNewsletterMessageInfo message.
 

@@ -2,7 +2,7 @@
 
 > **extractMessageContent**(`content`): `undefined` \| [`IMessage`](../namespaces/proto/interfaces/IMessage.md)
 
-Defined in: [src/Utils/messages.ts:749](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/src/Utils/messages.ts#L749)
+Defined in: [src/Utils/messages.ts:749](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/src/Utils/messages.ts#L749)
 
 Extract the true message content from a message
 Eg. extracts the inner message from a disappearing message/view once message

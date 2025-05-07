@@ -1,6 +1,6 @@
 # Class: PrimaryFeature
 
-Defined in: [WAProto/index.d.ts:44593](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44593)
+Defined in: [WAProto/index.d.ts:44593](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44593)
 
 Represents a PrimaryFeature.
 
@@ -14,7 +14,7 @@ Represents a PrimaryFeature.
 
 > **new PrimaryFeature**(`properties`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:44599](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44599)
+Defined in: [WAProto/index.d.ts:44599](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44599)
 
 Constructs a new PrimaryFeature.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **flags**: `string`[]
 
-Defined in: [WAProto/index.d.ts:44602](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44602)
+Defined in: [WAProto/index.d.ts:44602](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44602)
 
 PrimaryFeature flags.
 
@@ -50,7 +50,7 @@ PrimaryFeature flags.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44672](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44672)
+Defined in: [WAProto/index.d.ts:44672](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44672)
 
 Converts this PrimaryFeature to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:44609](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44609)
+Defined in: [WAProto/index.d.ts:44609](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44609)
 
 Creates a new PrimaryFeature instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrimaryFeature instance
 
 > `static` **decode**(`reader`, `length`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:44635](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44635)
+Defined in: [WAProto/index.d.ts:44635](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44635)
 
 Decodes a PrimaryFeature message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:44644](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44644)
+Defined in: [WAProto/index.d.ts:44644](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44644)
 
 Decodes a PrimaryFeature message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44617](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44617)
+Defined in: [WAProto/index.d.ts:44617](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44617)
 
 Encodes the specified PrimaryFeature message. Does not implicitly [verify](PrimaryFeature.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44625](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44625)
+Defined in: [WAProto/index.d.ts:44625](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44625)
 
 Encodes the specified PrimaryFeature message, length delimited. Does not implicitly [verify](PrimaryFeature.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:44658](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44658)
+Defined in: [WAProto/index.d.ts:44658](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44658)
 
 Creates a PrimaryFeature message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrimaryFeature
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44679](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44679)
+Defined in: [WAProto/index.d.ts:44679](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44679)
 
 Gets the default type url for PrimaryFeature
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44666](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44666)
+Defined in: [WAProto/index.d.ts:44666](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44666)
 
 Creates a plain object from a PrimaryFeature message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44651](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L44651)
+Defined in: [WAProto/index.d.ts:44651](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L44651)
 
 Verifies a PrimaryFeature message.
 

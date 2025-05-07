@@ -1,6 +1,6 @@
 # Interface: IHydratedFourRowTemplate
 
-Defined in: [WAProto/index.d.ts:32440](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32440)
+Defined in: [WAProto/index.d.ts:32440](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32440)
 
 Properties of a HydratedFourRowTemplate.
 
@@ -10,7 +10,7 @@ Properties of a HydratedFourRowTemplate.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:32458](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32458)
+Defined in: [WAProto/index.d.ts:32458](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32458)
 
 HydratedFourRowTemplate documentMessage
 
@@ -20,7 +20,7 @@ HydratedFourRowTemplate documentMessage
 
 > `optional` **hydratedButtons**: `null` \| [`IHydratedTemplateButton`](../../../../../interfaces/IHydratedTemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:32449](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32449)
+Defined in: [WAProto/index.d.ts:32449](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32449)
 
 HydratedFourRowTemplate hydratedButtons
 
@@ -30,7 +30,7 @@ HydratedFourRowTemplate hydratedButtons
 
 > `optional` **hydratedContentText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32443](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32443)
+Defined in: [WAProto/index.d.ts:32443](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32443)
 
 HydratedFourRowTemplate hydratedContentText
 
@@ -40,7 +40,7 @@ HydratedFourRowTemplate hydratedContentText
 
 > `optional` **hydratedFooterText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32446](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32446)
+Defined in: [WAProto/index.d.ts:32446](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32446)
 
 HydratedFourRowTemplate hydratedFooterText
 
@@ -50,7 +50,7 @@ HydratedFourRowTemplate hydratedFooterText
 
 > `optional` **hydratedTitleText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32461](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32461)
+Defined in: [WAProto/index.d.ts:32461](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32461)
 
 HydratedFourRowTemplate hydratedTitleText
 
@@ -60,7 +60,7 @@ HydratedFourRowTemplate hydratedTitleText
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:32464](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32464)
+Defined in: [WAProto/index.d.ts:32464](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32464)
 
 HydratedFourRowTemplate imageMessage
 
@@ -70,7 +70,7 @@ HydratedFourRowTemplate imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:32470](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32470)
+Defined in: [WAProto/index.d.ts:32470](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32470)
 
 HydratedFourRowTemplate locationMessage
 
@@ -80,7 +80,7 @@ HydratedFourRowTemplate locationMessage
 
 > `optional` **maskLinkedDevices**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:32455](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32455)
+Defined in: [WAProto/index.d.ts:32455](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32455)
 
 HydratedFourRowTemplate maskLinkedDevices
 
@@ -90,7 +90,7 @@ HydratedFourRowTemplate maskLinkedDevices
 
 > `optional` **templateId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32452](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32452)
+Defined in: [WAProto/index.d.ts:32452](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32452)
 
 HydratedFourRowTemplate templateId
 
@@ -100,6 +100,6 @@ HydratedFourRowTemplate templateId
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32467](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L32467)
+Defined in: [WAProto/index.d.ts:32467](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L32467)
 
 HydratedFourRowTemplate videoMessage

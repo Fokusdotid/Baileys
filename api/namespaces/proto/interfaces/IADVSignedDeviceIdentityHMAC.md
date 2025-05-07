@@ -1,6 +1,6 @@
 # Interface: IADVSignedDeviceIdentityHMAC
 
-Defined in: [WAProto/index.d.ts:370](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L370)
+Defined in: [WAProto/index.d.ts:370](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L370)
 
 Properties of a ADVSignedDeviceIdentityHMAC.
 
@@ -10,7 +10,7 @@ Properties of a ADVSignedDeviceIdentityHMAC.
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:379](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L379)
+Defined in: [WAProto/index.d.ts:379](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L379)
 
 ADVSignedDeviceIdentityHMAC accountType
 
@@ -20,7 +20,7 @@ ADVSignedDeviceIdentityHMAC accountType
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:373](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L373)
+Defined in: [WAProto/index.d.ts:373](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L373)
 
 ADVSignedDeviceIdentityHMAC details
 
@@ -30,6 +30,6 @@ ADVSignedDeviceIdentityHMAC details
 
 > `optional` **hmac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:376](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L376)
+Defined in: [WAProto/index.d.ts:376](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L376)
 
 ADVSignedDeviceIdentityHMAC hmac

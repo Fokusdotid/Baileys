@@ -1,6 +1,6 @@
 # Enumeration: PlaceholderType
 
-Defined in: [WAProto/index.d.ts:28694](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L28694)
+Defined in: [WAProto/index.d.ts:28694](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L28694)
 
 PlaceholderType enum.
 
@@ -10,4 +10,4 @@ PlaceholderType enum.
 
 > **MASK\_LINKED\_DEVICES**: `0`
 
-Defined in: [WAProto/index.d.ts:28695](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L28695)
+Defined in: [WAProto/index.d.ts:28695](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L28695)

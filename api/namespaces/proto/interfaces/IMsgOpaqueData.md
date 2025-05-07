@@ -1,6 +1,6 @@
 # Interface: IMsgOpaqueData
 
-Defined in: [WAProto/index.d.ts:33746](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33746)
+Defined in: [WAProto/index.d.ts:33746](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33746)
 
 Properties of a MsgOpaqueData.
 
@@ -10,7 +10,7 @@ Properties of a MsgOpaqueData.
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33749](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33749)
+Defined in: [WAProto/index.d.ts:33749](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33749)
 
 MsgOpaqueData body
 
@@ -20,7 +20,7 @@ MsgOpaqueData body
 
 > `optional` **botMessageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33830](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33830)
+Defined in: [WAProto/index.d.ts:33830](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33830)
 
 MsgOpaqueData botMessageSecret
 
@@ -30,7 +30,7 @@ MsgOpaqueData botMessageSecret
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33752](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33752)
+Defined in: [WAProto/index.d.ts:33752](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33752)
 
 MsgOpaqueData caption
 
@@ -40,7 +40,7 @@ MsgOpaqueData caption
 
 > `optional` **clientUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33782](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33782)
+Defined in: [WAProto/index.d.ts:33782](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33782)
 
 MsgOpaqueData clientUrl
 
@@ -50,7 +50,7 @@ MsgOpaqueData clientUrl
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33776](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33776)
+Defined in: [WAProto/index.d.ts:33776](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33776)
 
 MsgOpaqueData description
 
@@ -60,7 +60,7 @@ MsgOpaqueData description
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33839](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33839)
+Defined in: [WAProto/index.d.ts:33839](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33839)
 
 MsgOpaqueData encIv
 
@@ -70,7 +70,7 @@ MsgOpaqueData encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33836](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33836)
+Defined in: [WAProto/index.d.ts:33836](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33836)
 
 MsgOpaqueData encPayload
 
@@ -80,7 +80,7 @@ MsgOpaqueData encPayload
 
 > `optional` **encPollVote**: `null` \| [`IPollEncValue`](IPollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:33809](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33809)
+Defined in: [WAProto/index.d.ts:33809](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33809)
 
 MsgOpaqueData encPollVote
 
@@ -90,7 +90,7 @@ MsgOpaqueData encPollVote
 
 > `optional` **encReactionEncIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33827](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33827)
+Defined in: [WAProto/index.d.ts:33827](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33827)
 
 MsgOpaqueData encReactionEncIv
 
@@ -100,7 +100,7 @@ MsgOpaqueData encReactionEncIv
 
 > `optional` **encReactionEncPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33824](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33824)
+Defined in: [WAProto/index.d.ts:33824](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33824)
 
 MsgOpaqueData encReactionEncPayload
 
@@ -110,7 +110,7 @@ MsgOpaqueData encReactionEncPayload
 
 > `optional` **encReactionTargetMessageKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33821](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33821)
+Defined in: [WAProto/index.d.ts:33821](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33821)
 
 MsgOpaqueData encReactionTargetMessageKey
 
@@ -120,7 +120,7 @@ MsgOpaqueData encReactionTargetMessageKey
 
 > `optional` **eventDescription**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33848](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33848)
+Defined in: [WAProto/index.d.ts:33848](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33848)
 
 MsgOpaqueData eventDescription
 
@@ -130,7 +130,7 @@ MsgOpaqueData eventDescription
 
 > `optional` **eventEndTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33860](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33860)
+Defined in: [WAProto/index.d.ts:33860](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33860)
 
 MsgOpaqueData eventEndTime
 
@@ -140,7 +140,7 @@ MsgOpaqueData eventEndTime
 
 > `optional` **eventJoinLink**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33851](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33851)
+Defined in: [WAProto/index.d.ts:33851](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33851)
 
 MsgOpaqueData eventJoinLink
 
@@ -150,7 +150,7 @@ MsgOpaqueData eventJoinLink
 
 > `optional` **eventLocation**: `null` \| [`IEventLocation`](../namespaces/MsgOpaqueData/interfaces/IEventLocation.md)
 
-Defined in: [WAProto/index.d.ts:33857](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33857)
+Defined in: [WAProto/index.d.ts:33857](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33857)
 
 MsgOpaqueData eventLocation
 
@@ -160,7 +160,7 @@ MsgOpaqueData eventLocation
 
 > `optional` **eventName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33842](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33842)
+Defined in: [WAProto/index.d.ts:33842](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33842)
 
 MsgOpaqueData eventName
 
@@ -170,7 +170,7 @@ MsgOpaqueData eventName
 
 > `optional` **eventStartTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33854](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33854)
+Defined in: [WAProto/index.d.ts:33854](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33854)
 
 MsgOpaqueData eventStartTime
 
@@ -180,7 +180,7 @@ MsgOpaqueData eventStartTime
 
 > `optional` **futureproofBuffer**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33779](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33779)
+Defined in: [WAProto/index.d.ts:33779](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33779)
 
 MsgOpaqueData futureproofBuffer
 
@@ -190,7 +190,7 @@ MsgOpaqueData futureproofBuffer
 
 > `optional` **isEventCanceled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:33845](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33845)
+Defined in: [WAProto/index.d.ts:33845](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33845)
 
 MsgOpaqueData isEventCanceled
 
@@ -200,7 +200,7 @@ MsgOpaqueData isEventCanceled
 
 > `optional` **isLive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:33758](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33758)
+Defined in: [WAProto/index.d.ts:33758](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33758)
 
 MsgOpaqueData isLive
 
@@ -210,7 +210,7 @@ MsgOpaqueData isLive
 
 > `optional` **isSentCagPollCreation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:33812](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33812)
+Defined in: [WAProto/index.d.ts:33812](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33812)
 
 MsgOpaqueData isSentCagPollCreation
 
@@ -220,7 +220,7 @@ MsgOpaqueData isSentCagPollCreation
 
 > `optional` **lat**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33761](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33761)
+Defined in: [WAProto/index.d.ts:33761](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33761)
 
 MsgOpaqueData lat
 
@@ -230,7 +230,7 @@ MsgOpaqueData lat
 
 > `optional` **lng**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33755](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33755)
+Defined in: [WAProto/index.d.ts:33755](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33755)
 
 MsgOpaqueData lng
 
@@ -240,7 +240,7 @@ MsgOpaqueData lng
 
 > `optional` **loc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33785](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33785)
+Defined in: [WAProto/index.d.ts:33785](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33785)
 
 MsgOpaqueData loc
 
@@ -250,7 +250,7 @@ MsgOpaqueData loc
 
 > `optional` **matchedText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33770](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33770)
+Defined in: [WAProto/index.d.ts:33770](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33770)
 
 MsgOpaqueData matchedText
 
@@ -260,7 +260,7 @@ MsgOpaqueData matchedText
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33797](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33797)
+Defined in: [WAProto/index.d.ts:33797](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33797)
 
 MsgOpaqueData messageSecret
 
@@ -270,7 +270,7 @@ MsgOpaqueData messageSecret
 
 > `optional` **originalSelfAuthor**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33800](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33800)
+Defined in: [WAProto/index.d.ts:33800](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33800)
 
 MsgOpaqueData originalSelfAuthor
 
@@ -280,7 +280,7 @@ MsgOpaqueData originalSelfAuthor
 
 > `optional` **paymentAmount1000**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33764](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33764)
+Defined in: [WAProto/index.d.ts:33764](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33764)
 
 MsgOpaqueData paymentAmount1000
 
@@ -290,7 +290,7 @@ MsgOpaqueData paymentAmount1000
 
 > `optional` **paymentNoteMsgBody**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33767](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33767)
+Defined in: [WAProto/index.d.ts:33767](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33767)
 
 MsgOpaqueData paymentNoteMsgBody
 
@@ -300,7 +300,7 @@ MsgOpaqueData paymentNoteMsgBody
 
 > `optional` **pollContentType**: `null` \| [`PollContentType`](../namespaces/MsgOpaqueData/enumerations/PollContentType.md)
 
-Defined in: [WAProto/index.d.ts:33815](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33815)
+Defined in: [WAProto/index.d.ts:33815](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33815)
 
 MsgOpaqueData pollContentType
 
@@ -310,7 +310,7 @@ MsgOpaqueData pollContentType
 
 > `optional` **pollName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33788](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33788)
+Defined in: [WAProto/index.d.ts:33788](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33788)
 
 MsgOpaqueData pollName
 
@@ -320,7 +320,7 @@ MsgOpaqueData pollName
 
 > `optional` **pollOptions**: `null` \| [`IPollOption`](../namespaces/MsgOpaqueData/interfaces/IPollOption.md)[]
 
-Defined in: [WAProto/index.d.ts:33791](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33791)
+Defined in: [WAProto/index.d.ts:33791](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33791)
 
 MsgOpaqueData pollOptions
 
@@ -330,7 +330,7 @@ MsgOpaqueData pollOptions
 
 > `optional` **pollSelectableOptionsCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33794](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33794)
+Defined in: [WAProto/index.d.ts:33794](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33794)
 
 MsgOpaqueData pollSelectableOptionsCount
 
@@ -340,7 +340,7 @@ MsgOpaqueData pollSelectableOptionsCount
 
 > `optional` **pollUpdateParentKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33806](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33806)
+Defined in: [WAProto/index.d.ts:33806](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33806)
 
 MsgOpaqueData pollUpdateParentKey
 
@@ -350,7 +350,7 @@ MsgOpaqueData pollUpdateParentKey
 
 > `optional` **pollVotesSnapshot**: `null` \| [`IPollVotesSnapshot`](../namespaces/MsgOpaqueData/interfaces/IPollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:33818](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33818)
+Defined in: [WAProto/index.d.ts:33818](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33818)
 
 MsgOpaqueData pollVotesSnapshot
 
@@ -360,7 +360,7 @@ MsgOpaqueData pollVotesSnapshot
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33803](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33803)
+Defined in: [WAProto/index.d.ts:33803](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33803)
 
 MsgOpaqueData senderTimestampMs
 
@@ -370,7 +370,7 @@ MsgOpaqueData senderTimestampMs
 
 > `optional` **targetMessageKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33833](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33833)
+Defined in: [WAProto/index.d.ts:33833](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33833)
 
 MsgOpaqueData targetMessageKey
 
@@ -380,6 +380,6 @@ MsgOpaqueData targetMessageKey
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33773](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L33773)
+Defined in: [WAProto/index.d.ts:33773](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L33773)
 
 MsgOpaqueData title

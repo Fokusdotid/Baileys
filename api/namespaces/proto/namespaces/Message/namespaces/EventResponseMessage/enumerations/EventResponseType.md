@@ -1,6 +1,6 @@
 # Enumeration: EventResponseType
 
-Defined in: [WAProto/index.d.ts:21298](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L21298)
+Defined in: [WAProto/index.d.ts:21298](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L21298)
 
 EventResponseType enum.
 
@@ -10,7 +10,7 @@ EventResponseType enum.
 
 > **GOING**: `1`
 
-Defined in: [WAProto/index.d.ts:21300](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L21300)
+Defined in: [WAProto/index.d.ts:21300](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L21300)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21300](https://github.com/Fokusdotid/Baileys/blo
 
 > **MAYBE**: `3`
 
-Defined in: [WAProto/index.d.ts:21302](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L21302)
+Defined in: [WAProto/index.d.ts:21302](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L21302)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:21302](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOT\_GOING**: `2`
 
-Defined in: [WAProto/index.d.ts:21301](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L21301)
+Defined in: [WAProto/index.d.ts:21301](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L21301)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:21301](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:21299](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L21299)
+Defined in: [WAProto/index.d.ts:21299](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L21299)

@@ -1,6 +1,6 @@
 # Class: AndroidUnsupportedActions
 
-Defined in: [WAProto/index.d.ts:41050](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41050)
+Defined in: [WAProto/index.d.ts:41050](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41050)
 
 Represents an AndroidUnsupportedActions.
 
@@ -14,7 +14,7 @@ Represents an AndroidUnsupportedActions.
 
 > **new AndroidUnsupportedActions**(`properties`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:41056](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41056)
+Defined in: [WAProto/index.d.ts:41056](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41056)
 
 Constructs a new AndroidUnsupportedActions.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **allowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41059](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41059)
+Defined in: [WAProto/index.d.ts:41059](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41059)
 
 AndroidUnsupportedActions allowed.
 
@@ -50,7 +50,7 @@ AndroidUnsupportedActions allowed.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41129](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41129)
+Defined in: [WAProto/index.d.ts:41129](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41129)
 
 Converts this AndroidUnsupportedActions to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:41066](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41066)
+Defined in: [WAProto/index.d.ts:41066](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41066)
 
 Creates a new AndroidUnsupportedActions instance using the specified properties.
 
@@ -90,7 +90,7 @@ AndroidUnsupportedActions instance
 
 > `static` **decode**(`reader`, `length`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:41092](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41092)
+Defined in: [WAProto/index.d.ts:41092](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41092)
 
 Decodes an AndroidUnsupportedActions message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:41101](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41101)
+Defined in: [WAProto/index.d.ts:41101](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41101)
 
 Decodes an AndroidUnsupportedActions message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41074](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41074)
+Defined in: [WAProto/index.d.ts:41074](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41074)
 
 Encodes the specified AndroidUnsupportedActions message. Does not implicitly [verify](AndroidUnsupportedActions.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41082](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41082)
+Defined in: [WAProto/index.d.ts:41082](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41082)
 
 Encodes the specified AndroidUnsupportedActions message, length delimited. Does not implicitly [verify](AndroidUnsupportedActions.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:41115](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41115)
+Defined in: [WAProto/index.d.ts:41115](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41115)
 
 Creates an AndroidUnsupportedActions message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AndroidUnsupportedActions
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41136](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41136)
+Defined in: [WAProto/index.d.ts:41136](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41136)
 
 Gets the default type url for AndroidUnsupportedActions
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41123](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41123)
+Defined in: [WAProto/index.d.ts:41123](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41123)
 
 Creates a plain object from an AndroidUnsupportedActions message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41108](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L41108)
+Defined in: [WAProto/index.d.ts:41108](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L41108)
 
 Verifies an AndroidUnsupportedActions message.
 

@@ -1,6 +1,6 @@
 # Enumeration: PrivacySystemMessage
 
-Defined in: [WAProto/index.d.ts:37306](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L37306)
+Defined in: [WAProto/index.d.ts:37306](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L37306)
 
 PrivacySystemMessage enum.
 
@@ -10,7 +10,7 @@ PrivacySystemMessage enum.
 
 > **E2EE\_MSG**: `1`
 
-Defined in: [WAProto/index.d.ts:37307](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L37307)
+Defined in: [WAProto/index.d.ts:37307](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L37307)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:37307](https://github.com/Fokusdotid/Baileys/blo
 
 > **NE2EE\_OTHER**: `3`
 
-Defined in: [WAProto/index.d.ts:37309](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L37309)
+Defined in: [WAProto/index.d.ts:37309](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L37309)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:37309](https://github.com/Fokusdotid/Baileys/blo
 
 > **NE2EE\_SELF**: `2`
 
-Defined in: [WAProto/index.d.ts:37308](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L37308)
+Defined in: [WAProto/index.d.ts:37308](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L37308)

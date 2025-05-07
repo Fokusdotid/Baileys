@@ -1,6 +1,6 @@
 # Class: CertChain
 
-Defined in: [WAProto/index.d.ts:6489](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6489)
+Defined in: [WAProto/index.d.ts:6489](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6489)
 
 Represents a CertChain.
 
@@ -14,7 +14,7 @@ Represents a CertChain.
 
 > **new CertChain**(`properties`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:6495](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6495)
+Defined in: [WAProto/index.d.ts:6495](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6495)
 
 Constructs a new CertChain.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **intermediate**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6501](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6501)
+Defined in: [WAProto/index.d.ts:6501](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6501)
 
 CertChain intermediate.
 
@@ -50,7 +50,7 @@ CertChain intermediate.
 
 > `optional` **leaf**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6498](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6498)
+Defined in: [WAProto/index.d.ts:6498](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6498)
 
 CertChain leaf.
 
@@ -64,7 +64,7 @@ CertChain leaf.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6571](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6571)
+Defined in: [WAProto/index.d.ts:6571](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6571)
 
 Converts this CertChain to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:6508](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6508)
+Defined in: [WAProto/index.d.ts:6508](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6508)
 
 Creates a new CertChain instance using the specified properties.
 
@@ -104,7 +104,7 @@ CertChain instance
 
 > `static` **decode**(`reader`, `length`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:6534](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6534)
+Defined in: [WAProto/index.d.ts:6534](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6534)
 
 Decodes a CertChain message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:6543](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6543)
+Defined in: [WAProto/index.d.ts:6543](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6543)
 
 Decodes a CertChain message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6516](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6516)
+Defined in: [WAProto/index.d.ts:6516](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6516)
 
 Encodes the specified CertChain message. Does not implicitly [verify](CertChain.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6524](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6524)
+Defined in: [WAProto/index.d.ts:6524](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6524)
 
 Encodes the specified CertChain message, length delimited. Does not implicitly [verify](CertChain.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:6557](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6557)
+Defined in: [WAProto/index.d.ts:6557](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6557)
 
 Creates a CertChain message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CertChain
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6578](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6578)
+Defined in: [WAProto/index.d.ts:6578](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6578)
 
 Gets the default type url for CertChain
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6565](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6565)
+Defined in: [WAProto/index.d.ts:6565](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6565)
 
 Creates a plain object from a CertChain message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6550](https://github.com/Fokusdotid/Baileys/blob/8399cb6fd4e55090cdf57b06ffaae3e8a88880fe/WAProto/index.d.ts#L6550)
+Defined in: [WAProto/index.d.ts:6550](https://github.com/Fokusdotid/Baileys/blob/4cdf75fe48f9b13e8084d341633612ce49e934bd/WAProto/index.d.ts#L6550)
 
 Verifies a CertChain message.
 
