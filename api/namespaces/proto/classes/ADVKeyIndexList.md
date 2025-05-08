@@ -1,6 +1,6 @@
 # Class: ADVKeyIndexList
 
-Defined in: [WAProto/index.d.ts:153](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L153)
+Defined in: [WAProto/index.d.ts:153](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L153)
 
 Represents a ADVKeyIndexList.
 
@@ -14,7 +14,7 @@ Represents a ADVKeyIndexList.
 
 > **new ADVKeyIndexList**(`properties`?): [`ADVKeyIndexList`](ADVKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:159](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L159)
+Defined in: [WAProto/index.d.ts:159](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L159)
 
 Constructs a new ADVKeyIndexList.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:174](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L174)
+Defined in: [WAProto/index.d.ts:174](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L174)
 
 ADVKeyIndexList accountType.
 
@@ -50,7 +50,7 @@ ADVKeyIndexList accountType.
 
 > `optional` **currentIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:168](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L168)
+Defined in: [WAProto/index.d.ts:168](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L168)
 
 ADVKeyIndexList currentIndex.
 
@@ -64,7 +64,7 @@ ADVKeyIndexList currentIndex.
 
 > `optional` **rawId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:162](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L162)
+Defined in: [WAProto/index.d.ts:162](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L162)
 
 ADVKeyIndexList rawId.
 
@@ -78,7 +78,7 @@ ADVKeyIndexList rawId.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:165](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L165)
+Defined in: [WAProto/index.d.ts:165](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L165)
 
 ADVKeyIndexList timestamp.
 
@@ -92,7 +92,7 @@ ADVKeyIndexList timestamp.
 
 > **validIndexes**: `number`[]
 
-Defined in: [WAProto/index.d.ts:171](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L171)
+Defined in: [WAProto/index.d.ts:171](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L171)
 
 ADVKeyIndexList validIndexes.
 
@@ -106,7 +106,7 @@ ADVKeyIndexList validIndexes.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:244](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L244)
+Defined in: [WAProto/index.d.ts:244](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L244)
 
 Converts this ADVKeyIndexList to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ADVKeyIndexList`](ADVKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:181](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L181)
+Defined in: [WAProto/index.d.ts:181](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L181)
 
 Creates a new ADVKeyIndexList instance using the specified properties.
 
@@ -146,7 +146,7 @@ ADVKeyIndexList instance
 
 > `static` **decode**(`reader`, `length`?): [`ADVKeyIndexList`](ADVKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:207](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L207)
+Defined in: [WAProto/index.d.ts:207](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L207)
 
 Decodes a ADVKeyIndexList message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ADVKeyIndexList`](ADVKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:216](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L216)
+Defined in: [WAProto/index.d.ts:216](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L216)
 
 Decodes a ADVKeyIndexList message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:189](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L189)
+Defined in: [WAProto/index.d.ts:189](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L189)
 
 Encodes the specified ADVKeyIndexList message. Does not implicitly [verify](ADVKeyIndexList.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:197](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L197)
+Defined in: [WAProto/index.d.ts:197](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L197)
 
 Encodes the specified ADVKeyIndexList message, length delimited. Does not implicitly [verify](ADVKeyIndexList.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ADVKeyIndexList`](ADVKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:230](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L230)
+Defined in: [WAProto/index.d.ts:230](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L230)
 
 Creates a ADVKeyIndexList message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ ADVKeyIndexList
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:251](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L251)
+Defined in: [WAProto/index.d.ts:251](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L251)
 
 Gets the default type url for ADVKeyIndexList
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:238](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L238)
+Defined in: [WAProto/index.d.ts:238](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L238)
 
 Creates a plain object from a ADVKeyIndexList message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:223](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L223)
+Defined in: [WAProto/index.d.ts:223](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L223)
 
 Verifies a ADVKeyIndexList message.
 

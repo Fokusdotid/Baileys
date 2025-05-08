@@ -1,6 +1,6 @@
 # Enumeration: ADVEncryptionType
 
-Defined in: [WAProto/index.d.ts:128](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L128)
+Defined in: [WAProto/index.d.ts:128](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L128)
 
 ADVEncryptionType enum.
 
@@ -10,7 +10,7 @@ ADVEncryptionType enum.
 
 > **E2EE**: `0`
 
-Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L129)
+Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L129)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/Baileys/blob/
 
 > **HOSTED**: `1`
 
-Defined in: [WAProto/index.d.ts:130](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L130)
+Defined in: [WAProto/index.d.ts:130](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L130)

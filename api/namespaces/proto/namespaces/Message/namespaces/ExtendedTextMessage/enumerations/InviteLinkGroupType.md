@@ -1,6 +1,6 @@
 # Enumeration: InviteLinkGroupType
 
-Defined in: [WAProto/index.d.ts:21568](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L21568)
+Defined in: [WAProto/index.d.ts:21568](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21568)
 
 InviteLinkGroupType enum.
 
@@ -10,7 +10,7 @@ InviteLinkGroupType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:21569](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L21569)
+Defined in: [WAProto/index.d.ts:21569](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21569)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21569](https://github.com/Fokusdotid/Baileys/blo
 
 > **DEFAULT\_SUB**: `3`
 
-Defined in: [WAProto/index.d.ts:21572](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L21572)
+Defined in: [WAProto/index.d.ts:21572](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21572)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:21572](https://github.com/Fokusdotid/Baileys/blo
 
 > **PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:21570](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L21570)
+Defined in: [WAProto/index.d.ts:21570](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21570)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:21570](https://github.com/Fokusdotid/Baileys/blo
 
 > **SUB**: `2`
 
-Defined in: [WAProto/index.d.ts:21571](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L21571)
+Defined in: [WAProto/index.d.ts:21571](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21571)

@@ -1,6 +1,6 @@
 # Interface: IHistorySyncConfig
 
-Defined in: [WAProto/index.d.ts:12004](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12004)
+Defined in: [WAProto/index.d.ts:12004](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12004)
 
 Properties of a HistorySyncConfig.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncConfig.
 
 > `optional` **fullSyncDaysLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12007](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12007)
+Defined in: [WAProto/index.d.ts:12007](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12007)
 
 HistorySyncConfig fullSyncDaysLimit
 
@@ -20,7 +20,7 @@ HistorySyncConfig fullSyncDaysLimit
 
 > `optional` **fullSyncSizeMbLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12010](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12010)
+Defined in: [WAProto/index.d.ts:12010](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12010)
 
 HistorySyncConfig fullSyncSizeMbLimit
 
@@ -30,7 +30,7 @@ HistorySyncConfig fullSyncSizeMbLimit
 
 > `optional` **inlineInitialPayloadInE2EeMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12016](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12016)
+Defined in: [WAProto/index.d.ts:12016](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12016)
 
 HistorySyncConfig inlineInitialPayloadInE2EeMsg
 
@@ -40,7 +40,7 @@ HistorySyncConfig inlineInitialPayloadInE2EeMsg
 
 > `optional` **recentSyncDaysLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12019](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12019)
+Defined in: [WAProto/index.d.ts:12019](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12019)
 
 HistorySyncConfig recentSyncDaysLimit
 
@@ -50,7 +50,7 @@ HistorySyncConfig recentSyncDaysLimit
 
 > `optional` **storageQuotaMb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12013](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12013)
+Defined in: [WAProto/index.d.ts:12013](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12013)
 
 HistorySyncConfig storageQuotaMb
 
@@ -60,7 +60,7 @@ HistorySyncConfig storageQuotaMb
 
 > `optional` **supportAddOnHistorySyncMigration**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12043](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12043)
+Defined in: [WAProto/index.d.ts:12043](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12043)
 
 HistorySyncConfig supportAddOnHistorySyncMigration
 
@@ -70,7 +70,7 @@ HistorySyncConfig supportAddOnHistorySyncMigration
 
 > `optional` **supportBizHostedMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12031](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12031)
+Defined in: [WAProto/index.d.ts:12031](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12031)
 
 HistorySyncConfig supportBizHostedMsg
 
@@ -80,7 +80,7 @@ HistorySyncConfig supportBizHostedMsg
 
 > `optional` **supportBotUserAgentChatHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12025](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12025)
+Defined in: [WAProto/index.d.ts:12025](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12025)
 
 HistorySyncConfig supportBotUserAgentChatHistory
 
@@ -90,7 +90,7 @@ HistorySyncConfig supportBotUserAgentChatHistory
 
 > `optional` **supportCagReactionsAndPolls**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12028](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12028)
+Defined in: [WAProto/index.d.ts:12028](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12028)
 
 HistorySyncConfig supportCagReactionsAndPolls
 
@@ -100,7 +100,7 @@ HistorySyncConfig supportCagReactionsAndPolls
 
 > `optional` **supportCallLogHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12022](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12022)
+Defined in: [WAProto/index.d.ts:12022](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12022)
 
 HistorySyncConfig supportCallLogHistory
 
@@ -110,7 +110,7 @@ HistorySyncConfig supportCallLogHistory
 
 > `optional` **supportFbidBotChatHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12040](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12040)
+Defined in: [WAProto/index.d.ts:12040](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12040)
 
 HistorySyncConfig supportFbidBotChatHistory
 
@@ -120,7 +120,7 @@ HistorySyncConfig supportFbidBotChatHistory
 
 > `optional` **supportHostedGroupMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12037](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12037)
+Defined in: [WAProto/index.d.ts:12037](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12037)
 
 HistorySyncConfig supportHostedGroupMsg
 
@@ -130,7 +130,7 @@ HistorySyncConfig supportHostedGroupMsg
 
 > `optional` **supportMessageAssociation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12046](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12046)
+Defined in: [WAProto/index.d.ts:12046](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12046)
 
 HistorySyncConfig supportMessageAssociation
 
@@ -140,6 +140,6 @@ HistorySyncConfig supportMessageAssociation
 
 > `optional` **supportRecentSyncChunkMessageCountTuning**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12034](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12034)
+Defined in: [WAProto/index.d.ts:12034](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12034)
 
 HistorySyncConfig supportRecentSyncChunkMessageCountTuning

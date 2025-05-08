@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseMapAnnotation
 
-Defined in: [WAProto/index.d.ts:2160](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2160)
+Defined in: [WAProto/index.d.ts:2160](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2160)
 
 Properties of a AIRichResponseMapAnnotation.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseMapAnnotation.
 
 > `optional` **annotationNumber**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2163](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2163)
+Defined in: [WAProto/index.d.ts:2163](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2163)
 
 AIRichResponseMapAnnotation annotationNumber
 
@@ -20,7 +20,7 @@ AIRichResponseMapAnnotation annotationNumber
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2175](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2175)
+Defined in: [WAProto/index.d.ts:2175](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2175)
 
 AIRichResponseMapAnnotation body
 
@@ -30,7 +30,7 @@ AIRichResponseMapAnnotation body
 
 > `optional` **latitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2166](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2166)
+Defined in: [WAProto/index.d.ts:2166](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2166)
 
 AIRichResponseMapAnnotation latitude
 
@@ -40,7 +40,7 @@ AIRichResponseMapAnnotation latitude
 
 > `optional` **longitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2169](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2169)
+Defined in: [WAProto/index.d.ts:2169](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2169)
 
 AIRichResponseMapAnnotation longitude
 
@@ -50,6 +50,6 @@ AIRichResponseMapAnnotation longitude
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2172](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2172)
+Defined in: [WAProto/index.d.ts:2172](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2172)
 
 AIRichResponseMapAnnotation title

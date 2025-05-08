@@ -2,4 +2,4 @@
 
 > **WAConnectionState**: `"open"` \| `"connecting"` \| `"close"`
 
-Defined in: [src/Types/State.ts:3](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/State.ts#L3)
+Defined in: [src/Types/State.ts:3](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/State.ts#L3)

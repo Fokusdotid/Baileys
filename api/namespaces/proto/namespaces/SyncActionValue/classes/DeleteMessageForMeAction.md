@@ -1,6 +1,6 @@
 # Class: DeleteMessageForMeAction
 
-Defined in: [WAProto/index.d.ts:42368](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42368)
+Defined in: [WAProto/index.d.ts:42368](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42368)
 
 Represents a DeleteMessageForMeAction.
 
@@ -14,7 +14,7 @@ Represents a DeleteMessageForMeAction.
 
 > **new DeleteMessageForMeAction**(`properties`?): [`DeleteMessageForMeAction`](DeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:42374](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42374)
+Defined in: [WAProto/index.d.ts:42374](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42374)
 
 Constructs a new DeleteMessageForMeAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deleteMedia**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42377](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42377)
+Defined in: [WAProto/index.d.ts:42377](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42377)
 
 DeleteMessageForMeAction deleteMedia.
 
@@ -50,7 +50,7 @@ DeleteMessageForMeAction deleteMedia.
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42380](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42380)
+Defined in: [WAProto/index.d.ts:42380](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42380)
 
 DeleteMessageForMeAction messageTimestamp.
 
@@ -64,7 +64,7 @@ DeleteMessageForMeAction messageTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42450](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42450)
+Defined in: [WAProto/index.d.ts:42450](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42450)
 
 Converts this DeleteMessageForMeAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeleteMessageForMeAction`](DeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:42387](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42387)
+Defined in: [WAProto/index.d.ts:42387](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42387)
 
 Creates a new DeleteMessageForMeAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ DeleteMessageForMeAction instance
 
 > `static` **decode**(`reader`, `length`?): [`DeleteMessageForMeAction`](DeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:42413](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42413)
+Defined in: [WAProto/index.d.ts:42413](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42413)
 
 Decodes a DeleteMessageForMeAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeleteMessageForMeAction`](DeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:42422](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42422)
+Defined in: [WAProto/index.d.ts:42422](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42422)
 
 Decodes a DeleteMessageForMeAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42395](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42395)
+Defined in: [WAProto/index.d.ts:42395](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42395)
 
 Encodes the specified DeleteMessageForMeAction message. Does not implicitly [verify](DeleteMessageForMeAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42403](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42403)
+Defined in: [WAProto/index.d.ts:42403](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42403)
 
 Encodes the specified DeleteMessageForMeAction message, length delimited. Does not implicitly [verify](DeleteMessageForMeAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeleteMessageForMeAction`](DeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:42436](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42436)
+Defined in: [WAProto/index.d.ts:42436](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42436)
 
 Creates a DeleteMessageForMeAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DeleteMessageForMeAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42457](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42457)
+Defined in: [WAProto/index.d.ts:42457](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42457)
 
 Gets the default type url for DeleteMessageForMeAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42444](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42444)
+Defined in: [WAProto/index.d.ts:42444](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42444)
 
 Creates a plain object from a DeleteMessageForMeAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42429](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L42429)
+Defined in: [WAProto/index.d.ts:42429](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L42429)
 
 Verifies a DeleteMessageForMeAction message.
 

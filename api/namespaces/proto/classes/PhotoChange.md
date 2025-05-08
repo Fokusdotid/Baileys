@@ -1,6 +1,6 @@
 # Class: PhotoChange
 
-Defined in: [WAProto/index.d.ts:36207](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36207)
+Defined in: [WAProto/index.d.ts:36207](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36207)
 
 Represents a PhotoChange.
 
@@ -14,7 +14,7 @@ Represents a PhotoChange.
 
 > **new PhotoChange**(`properties`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:36213](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36213)
+Defined in: [WAProto/index.d.ts:36213](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36213)
 
 Constructs a new PhotoChange.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **newPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36219](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36219)
+Defined in: [WAProto/index.d.ts:36219](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36219)
 
 PhotoChange newPhoto.
 
@@ -50,7 +50,7 @@ PhotoChange newPhoto.
 
 > `optional` **newPhotoId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36222](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36222)
+Defined in: [WAProto/index.d.ts:36222](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36222)
 
 PhotoChange newPhotoId.
 
@@ -64,7 +64,7 @@ PhotoChange newPhotoId.
 
 > `optional` **oldPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36216](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36216)
+Defined in: [WAProto/index.d.ts:36216](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36216)
 
 PhotoChange oldPhoto.
 
@@ -78,7 +78,7 @@ PhotoChange oldPhoto.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36292](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36292)
+Defined in: [WAProto/index.d.ts:36292](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36292)
 
 Converts this PhotoChange to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:36229](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36229)
+Defined in: [WAProto/index.d.ts:36229](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36229)
 
 Creates a new PhotoChange instance using the specified properties.
 
@@ -118,7 +118,7 @@ PhotoChange instance
 
 > `static` **decode**(`reader`, `length`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:36255](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36255)
+Defined in: [WAProto/index.d.ts:36255](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36255)
 
 Decodes a PhotoChange message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:36264](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36264)
+Defined in: [WAProto/index.d.ts:36264](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36264)
 
 Decodes a PhotoChange message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36237](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36237)
+Defined in: [WAProto/index.d.ts:36237](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36237)
 
 Encodes the specified PhotoChange message. Does not implicitly [verify](PhotoChange.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36245](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36245)
+Defined in: [WAProto/index.d.ts:36245](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36245)
 
 Encodes the specified PhotoChange message, length delimited. Does not implicitly [verify](PhotoChange.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:36278](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36278)
+Defined in: [WAProto/index.d.ts:36278](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36278)
 
 Creates a PhotoChange message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PhotoChange
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36299](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36299)
+Defined in: [WAProto/index.d.ts:36299](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36299)
 
 Gets the default type url for PhotoChange
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36286](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36286)
+Defined in: [WAProto/index.d.ts:36286](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36286)
 
 Creates a plain object from a PhotoChange message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36271](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L36271)
+Defined in: [WAProto/index.d.ts:36271](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L36271)
 
 Verifies a PhotoChange message.
 

@@ -1,6 +1,6 @@
 # Interface: IKeyword
 
-Defined in: [WAProto/index.d.ts:5829](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5829)
+Defined in: [WAProto/index.d.ts:5829](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5829)
 
 Properties of a Keyword.
 
@@ -10,7 +10,7 @@ Properties of a Keyword.
 
 > `optional` **associatedPrompts**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:5835](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5835)
+Defined in: [WAProto/index.d.ts:5835](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5835)
 
 Keyword associatedPrompts
 
@@ -20,6 +20,6 @@ Keyword associatedPrompts
 
 > `optional` **value**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5832](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5832)
+Defined in: [WAProto/index.d.ts:5832](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5832)
 
 Keyword value

@@ -1,6 +1,6 @@
 # Enumeration: SecretEncType
 
-Defined in: [WAProto/index.d.ts:31027](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L31027)
+Defined in: [WAProto/index.d.ts:31027](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L31027)
 
 SecretEncType enum.
 
@@ -10,7 +10,7 @@ SecretEncType enum.
 
 > **EVENT\_EDIT**: `1`
 
-Defined in: [WAProto/index.d.ts:31029](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L31029)
+Defined in: [WAProto/index.d.ts:31029](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L31029)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:31029](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:31028](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L31028)
+Defined in: [WAProto/index.d.ts:31028](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L31028)

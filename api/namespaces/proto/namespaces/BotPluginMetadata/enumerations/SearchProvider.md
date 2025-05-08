@@ -1,6 +1,6 @@
 # Enumeration: SearchProvider
 
-Defined in: [WAProto/index.d.ts:5016](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5016)
+Defined in: [WAProto/index.d.ts:5016](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5016)
 
 SearchProvider enum.
 
@@ -10,7 +10,7 @@ SearchProvider enum.
 
 > **BING**: `1`
 
-Defined in: [WAProto/index.d.ts:5018](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5018)
+Defined in: [WAProto/index.d.ts:5018](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5018)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5018](https://github.com/Fokusdotid/Baileys/blob
 
 > **GOOGLE**: `2`
 
-Defined in: [WAProto/index.d.ts:5019](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5019)
+Defined in: [WAProto/index.d.ts:5019](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5019)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5019](https://github.com/Fokusdotid/Baileys/blob
 
 > **SUPPORT**: `3`
 
-Defined in: [WAProto/index.d.ts:5020](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5020)
+Defined in: [WAProto/index.d.ts:5020](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5020)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5020](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:5017](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5017)
+Defined in: [WAProto/index.d.ts:5017](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5017)

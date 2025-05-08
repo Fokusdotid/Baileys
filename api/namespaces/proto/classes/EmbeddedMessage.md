@@ -1,6 +1,6 @@
 # Class: EmbeddedMessage
 
-Defined in: [WAProto/index.d.ts:12461](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12461)
+Defined in: [WAProto/index.d.ts:12461](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12461)
 
 Represents an EmbeddedMessage.
 
@@ -14,7 +14,7 @@ Represents an EmbeddedMessage.
 
 > **new EmbeddedMessage**(`properties`?): [`EmbeddedMessage`](EmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12467](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12467)
+Defined in: [WAProto/index.d.ts:12467](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12467)
 
 Constructs a new EmbeddedMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IMessage`](../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:12473](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12473)
+Defined in: [WAProto/index.d.ts:12473](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12473)
 
 EmbeddedMessage message.
 
@@ -50,7 +50,7 @@ EmbeddedMessage message.
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12470](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12470)
+Defined in: [WAProto/index.d.ts:12470](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12470)
 
 EmbeddedMessage stanzaId.
 
@@ -64,7 +64,7 @@ EmbeddedMessage stanzaId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12543](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12543)
+Defined in: [WAProto/index.d.ts:12543](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12543)
 
 Converts this EmbeddedMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EmbeddedMessage`](EmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12480](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12480)
+Defined in: [WAProto/index.d.ts:12480](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12480)
 
 Creates a new EmbeddedMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ EmbeddedMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EmbeddedMessage`](EmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12506](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12506)
+Defined in: [WAProto/index.d.ts:12506](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12506)
 
 Decodes an EmbeddedMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EmbeddedMessage`](EmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12515](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12515)
+Defined in: [WAProto/index.d.ts:12515](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12515)
 
 Decodes an EmbeddedMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12488](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12488)
+Defined in: [WAProto/index.d.ts:12488](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12488)
 
 Encodes the specified EmbeddedMessage message. Does not implicitly [verify](EmbeddedMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12496](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12496)
+Defined in: [WAProto/index.d.ts:12496](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12496)
 
 Encodes the specified EmbeddedMessage message, length delimited. Does not implicitly [verify](EmbeddedMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EmbeddedMessage`](EmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:12529](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12529)
+Defined in: [WAProto/index.d.ts:12529](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12529)
 
 Creates an EmbeddedMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ EmbeddedMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12550](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12550)
+Defined in: [WAProto/index.d.ts:12550](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12550)
 
 Gets the default type url for EmbeddedMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12537](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12537)
+Defined in: [WAProto/index.d.ts:12537](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12537)
 
 Creates a plain object from an EmbeddedMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12522](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12522)
+Defined in: [WAProto/index.d.ts:12522](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12522)
 
 Verifies an EmbeddedMessage message.
 

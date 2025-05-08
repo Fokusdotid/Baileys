@@ -2,7 +2,7 @@
 
 > **getErrorCodeFromStreamError**(`node`): `object`
 
-Defined in: [src/Utils/generics.ts:346](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/generics.ts#L346)
+Defined in: [src/Utils/generics.ts:346](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Utils/generics.ts#L346)
 
 Stream errors generally provide a reason, map that to a baileys DisconnectReason
 

@@ -1,6 +1,6 @@
 # Class: WebMessageInfo
 
-Defined in: [WAProto/index.d.ts:49756](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49756)
+Defined in: [WAProto/index.d.ts:49756](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49756)
 
 Represents a WebMessageInfo.
 
@@ -14,7 +14,7 @@ Represents a WebMessageInfo.
 
 > **new WebMessageInfo**(`properties`?): [`WebMessageInfo`](WebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:49762](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49762)
+Defined in: [WAProto/index.d.ts:49762](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49762)
 
 Constructs a new WebMessageInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **agentId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49876](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49876)
+Defined in: [WAProto/index.d.ts:49876](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49876)
 
 WebMessageInfo agentId.
 
@@ -50,7 +50,7 @@ WebMessageInfo agentId.
 
 > `optional` **bizPrivacyStatus**: `null` \| [`BizPrivacyStatus`](../namespaces/WebMessageInfo/enumerations/BizPrivacyStatus.md)
 
-Defined in: [WAProto/index.d.ts:49843](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49843)
+Defined in: [WAProto/index.d.ts:49843](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49843)
 
 WebMessageInfo bizPrivacyStatus.
 
@@ -64,7 +64,7 @@ WebMessageInfo bizPrivacyStatus.
 
 > `optional` **botMessageInvokerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49906](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49906)
+Defined in: [WAProto/index.d.ts:49906](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49906)
 
 WebMessageInfo botMessageInvokerJid.
 
@@ -78,7 +78,7 @@ WebMessageInfo botMessageInvokerJid.
 
 > `optional` **botTargetId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49948](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49948)
+Defined in: [WAProto/index.d.ts:49948](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49948)
 
 WebMessageInfo botTargetId.
 
@@ -92,7 +92,7 @@ WebMessageInfo botTargetId.
 
 > `optional` **broadcast**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49789](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49789)
+Defined in: [WAProto/index.d.ts:49789](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49789)
 
 WebMessageInfo broadcast.
 
@@ -106,7 +106,7 @@ WebMessageInfo broadcast.
 
 > `optional` **clearMedia**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49810](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49810)
+Defined in: [WAProto/index.d.ts:49810](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49810)
 
 WebMessageInfo clearMedia.
 
@@ -120,7 +120,7 @@ WebMessageInfo clearMedia.
 
 > `optional` **commentMetadata**: `null` \| [`ICommentMetadata`](../interfaces/ICommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:49909](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49909)
+Defined in: [WAProto/index.d.ts:49909](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49909)
 
 WebMessageInfo commentMetadata.
 
@@ -134,7 +134,7 @@ WebMessageInfo commentMetadata.
 
 > `optional` **duration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:49816](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49816)
+Defined in: [WAProto/index.d.ts:49816](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49816)
 
 WebMessageInfo duration.
 
@@ -148,7 +148,7 @@ WebMessageInfo duration.
 
 > `optional` **ephemeralDuration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:49834](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49834)
+Defined in: [WAProto/index.d.ts:49834](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49834)
 
 WebMessageInfo ephemeralDuration.
 
@@ -162,7 +162,7 @@ WebMessageInfo ephemeralDuration.
 
 > `optional` **ephemeralOffToOn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49837](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49837)
+Defined in: [WAProto/index.d.ts:49837](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49837)
 
 WebMessageInfo ephemeralOffToOn.
 
@@ -176,7 +176,7 @@ WebMessageInfo ephemeralOffToOn.
 
 > `optional` **ephemeralOutOfSync**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49840](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49840)
+Defined in: [WAProto/index.d.ts:49840](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49840)
 
 WebMessageInfo ephemeralOutOfSync.
 
@@ -190,7 +190,7 @@ WebMessageInfo ephemeralOutOfSync.
 
 > `optional` **ephemeralStartTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49831](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49831)
+Defined in: [WAProto/index.d.ts:49831](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49831)
 
 WebMessageInfo ephemeralStartTimestamp.
 
@@ -204,7 +204,7 @@ WebMessageInfo ephemeralStartTimestamp.
 
 > `optional` **eventAdditionalMetadata**: `null` \| [`IEventAdditionalMetadata`](../interfaces/IEventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:49921](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49921)
+Defined in: [WAProto/index.d.ts:49921](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49921)
 
 WebMessageInfo eventAdditionalMetadata.
 
@@ -218,7 +218,7 @@ WebMessageInfo eventAdditionalMetadata.
 
 > **eventResponses**: [`IEventResponse`](../interfaces/IEventResponse.md)[]
 
-Defined in: [WAProto/index.d.ts:49912](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49912)
+Defined in: [WAProto/index.d.ts:49912](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49912)
 
 WebMessageInfo eventResponses.
 
@@ -232,7 +232,7 @@ WebMessageInfo eventResponses.
 
 > `optional` **finalLiveLocation**: `null` \| [`ILiveLocationMessage`](../namespaces/Message/interfaces/ILiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:49825](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49825)
+Defined in: [WAProto/index.d.ts:49825](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49825)
 
 WebMessageInfo finalLiveLocation.
 
@@ -246,7 +246,7 @@ WebMessageInfo finalLiveLocation.
 
 > `optional` **futureproofData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:49864](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49864)
+Defined in: [WAProto/index.d.ts:49864](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49864)
 
 WebMessageInfo futureproofData.
 
@@ -260,7 +260,7 @@ WebMessageInfo futureproofData.
 
 > `optional` **ignore**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49783](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49783)
+Defined in: [WAProto/index.d.ts:49783](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49783)
 
 WebMessageInfo ignore.
 
@@ -274,7 +274,7 @@ WebMessageInfo ignore.
 
 > `optional` **is1PBizBotMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49900](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49900)
+Defined in: [WAProto/index.d.ts:49900](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49900)
 
 WebMessageInfo is1PBizBotMessage.
 
@@ -288,7 +288,7 @@ WebMessageInfo is1PBizBotMessage.
 
 > `optional` **isGroupHistoryMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49903](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49903)
+Defined in: [WAProto/index.d.ts:49903](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49903)
 
 WebMessageInfo isGroupHistoryMessage.
 
@@ -302,7 +302,7 @@ WebMessageInfo isGroupHistoryMessage.
 
 > `optional` **isMentionedInStatus**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49924](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49924)
+Defined in: [WAProto/index.d.ts:49924](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49924)
 
 WebMessageInfo isMentionedInStatus.
 
@@ -316,7 +316,7 @@ WebMessageInfo isMentionedInStatus.
 
 > `optional` **isSupportAiMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49939](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49939)
+Defined in: [WAProto/index.d.ts:49939](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49939)
 
 WebMessageInfo isSupportAiMessage.
 
@@ -330,7 +330,7 @@ WebMessageInfo isSupportAiMessage.
 
 > `optional` **keepInChat**: `null` \| [`IKeepInChat`](../interfaces/IKeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:49885](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49885)
+Defined in: [WAProto/index.d.ts:49885](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49885)
 
 WebMessageInfo keepInChat.
 
@@ -344,7 +344,7 @@ WebMessageInfo keepInChat.
 
 > **key**: [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:49765](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49765)
+Defined in: [WAProto/index.d.ts:49765](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49765)
 
 WebMessageInfo key.
 
@@ -358,7 +358,7 @@ WebMessageInfo key.
 
 > **labels**: `string`[]
 
-Defined in: [WAProto/index.d.ts:49819](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49819)
+Defined in: [WAProto/index.d.ts:49819](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49819)
 
 WebMessageInfo labels.
 
@@ -372,7 +372,7 @@ WebMessageInfo labels.
 
 > `optional` **mediaCiphertextSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:49795](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49795)
+Defined in: [WAProto/index.d.ts:49795](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49795)
 
 WebMessageInfo mediaCiphertextSha256.
 
@@ -386,7 +386,7 @@ WebMessageInfo mediaCiphertextSha256.
 
 > `optional` **mediaData**: `null` \| [`IMediaData`](../interfaces/IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:49849](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49849)
+Defined in: [WAProto/index.d.ts:49849](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49849)
 
 WebMessageInfo mediaData.
 
@@ -400,7 +400,7 @@ WebMessageInfo mediaData.
 
 > `optional` **message**: `null` \| [`IMessage`](../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:49768](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49768)
+Defined in: [WAProto/index.d.ts:49768](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49768)
 
 WebMessageInfo message.
 
@@ -414,7 +414,7 @@ WebMessageInfo message.
 
 > **messageAddOns**: [`IMessageAddOn`](../interfaces/IMessageAddOn.md)[]
 
-Defined in: [WAProto/index.d.ts:49933](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49933)
+Defined in: [WAProto/index.d.ts:49933](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49933)
 
 WebMessageInfo messageAddOns.
 
@@ -428,7 +428,7 @@ WebMessageInfo messageAddOns.
 
 > `optional` **messageC2STimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49780](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49780)
+Defined in: [WAProto/index.d.ts:49780](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49780)
 
 WebMessageInfo messageC2STimestamp.
 
@@ -442,7 +442,7 @@ WebMessageInfo messageC2STimestamp.
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:49882](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49882)
+Defined in: [WAProto/index.d.ts:49882](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49882)
 
 WebMessageInfo messageSecret.
 
@@ -456,7 +456,7 @@ WebMessageInfo messageSecret.
 
 > **messageStubParameters**: `string`[]
 
-Defined in: [WAProto/index.d.ts:49813](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49813)
+Defined in: [WAProto/index.d.ts:49813](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49813)
 
 WebMessageInfo messageStubParameters.
 
@@ -470,7 +470,7 @@ WebMessageInfo messageStubParameters.
 
 > `optional` **messageStubType**: `null` \| [`StubType`](../namespaces/WebMessageInfo/enumerations/StubType.md)
 
-Defined in: [WAProto/index.d.ts:49807](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49807)
+Defined in: [WAProto/index.d.ts:49807](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49807)
 
 WebMessageInfo messageStubType.
 
@@ -484,7 +484,7 @@ WebMessageInfo messageStubType.
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49771](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49771)
+Defined in: [WAProto/index.d.ts:49771](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49771)
 
 WebMessageInfo messageTimestamp.
 
@@ -498,7 +498,7 @@ WebMessageInfo messageTimestamp.
 
 > `optional` **multicast**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49798](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49798)
+Defined in: [WAProto/index.d.ts:49798](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49798)
 
 WebMessageInfo multicast.
 
@@ -512,7 +512,7 @@ WebMessageInfo multicast.
 
 > `optional` **newsletterServerId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49918](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49918)
+Defined in: [WAProto/index.d.ts:49918](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49918)
 
 WebMessageInfo newsletterServerId.
 
@@ -526,7 +526,7 @@ WebMessageInfo newsletterServerId.
 
 > `optional` **originalSelfAuthorUserJidString**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49888](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49888)
+Defined in: [WAProto/index.d.ts:49888](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49888)
 
 WebMessageInfo originalSelfAuthorUserJidString.
 
@@ -540,7 +540,7 @@ WebMessageInfo originalSelfAuthorUserJidString.
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49777](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49777)
+Defined in: [WAProto/index.d.ts:49777](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49777)
 
 WebMessageInfo participant.
 
@@ -554,7 +554,7 @@ WebMessageInfo participant.
 
 > `optional` **paymentInfo**: `null` \| [`IPaymentInfo`](../interfaces/IPaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:49822](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49822)
+Defined in: [WAProto/index.d.ts:49822](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49822)
 
 WebMessageInfo paymentInfo.
 
@@ -568,7 +568,7 @@ WebMessageInfo paymentInfo.
 
 > `optional` **photoChange**: `null` \| [`IPhotoChange`](../interfaces/IPhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:49852](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49852)
+Defined in: [WAProto/index.d.ts:49852](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49852)
 
 WebMessageInfo photoChange.
 
@@ -582,7 +582,7 @@ WebMessageInfo photoChange.
 
 > `optional` **pinInChat**: `null` \| [`IPinInChat`](../interfaces/IPinInChat.md)
 
-Defined in: [WAProto/index.d.ts:49894](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49894)
+Defined in: [WAProto/index.d.ts:49894](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49894)
 
 WebMessageInfo pinInChat.
 
@@ -596,7 +596,7 @@ WebMessageInfo pinInChat.
 
 > `optional` **pollAdditionalMetadata**: `null` \| [`IPollAdditionalMetadata`](../interfaces/IPollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:49873](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49873)
+Defined in: [WAProto/index.d.ts:49873](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49873)
 
 WebMessageInfo pollAdditionalMetadata.
 
@@ -610,7 +610,7 @@ WebMessageInfo pollAdditionalMetadata.
 
 > **pollUpdates**: [`IPollUpdate`](../interfaces/IPollUpdate.md)[]
 
-Defined in: [WAProto/index.d.ts:49870](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49870)
+Defined in: [WAProto/index.d.ts:49870](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49870)
 
 WebMessageInfo pollUpdates.
 
@@ -624,7 +624,7 @@ WebMessageInfo pollUpdates.
 
 > `optional` **premiumMessageInfo**: `null` \| [`IPremiumMessageInfo`](../interfaces/IPremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:49897](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49897)
+Defined in: [WAProto/index.d.ts:49897](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49897)
 
 WebMessageInfo premiumMessageInfo.
 
@@ -638,7 +638,7 @@ WebMessageInfo premiumMessageInfo.
 
 > `optional` **pushName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49792](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49792)
+Defined in: [WAProto/index.d.ts:49792](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49792)
 
 WebMessageInfo pushName.
 
@@ -652,7 +652,7 @@ WebMessageInfo pushName.
 
 > `optional` **quotedPaymentInfo**: `null` \| [`IPaymentInfo`](../interfaces/IPaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:49828](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49828)
+Defined in: [WAProto/index.d.ts:49828](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49828)
 
 WebMessageInfo quotedPaymentInfo.
 
@@ -666,7 +666,7 @@ WebMessageInfo quotedPaymentInfo.
 
 > `optional` **quotedStickerData**: `null` \| [`IMediaData`](../interfaces/IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:49861](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49861)
+Defined in: [WAProto/index.d.ts:49861](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49861)
 
 WebMessageInfo quotedStickerData.
 
@@ -680,7 +680,7 @@ WebMessageInfo quotedStickerData.
 
 > **reactions**: [`IReaction`](../interfaces/IReaction.md)[]
 
-Defined in: [WAProto/index.d.ts:49858](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49858)
+Defined in: [WAProto/index.d.ts:49858](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49858)
 
 WebMessageInfo reactions.
 
@@ -694,7 +694,7 @@ WebMessageInfo reactions.
 
 > `optional` **reportingTokenInfo**: `null` \| [`IReportingTokenInfo`](../interfaces/IReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:49915](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49915)
+Defined in: [WAProto/index.d.ts:49915](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49915)
 
 WebMessageInfo reportingTokenInfo.
 
@@ -708,7 +708,7 @@ WebMessageInfo reportingTokenInfo.
 
 > `optional` **revokeMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49891](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49891)
+Defined in: [WAProto/index.d.ts:49891](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49891)
 
 WebMessageInfo revokeMessageTimestamp.
 
@@ -722,7 +722,7 @@ WebMessageInfo revokeMessageTimestamp.
 
 > `optional` **starred**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49786](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49786)
+Defined in: [WAProto/index.d.ts:49786](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49786)
 
 WebMessageInfo starred.
 
@@ -736,7 +736,7 @@ WebMessageInfo starred.
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:49774](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49774)
+Defined in: [WAProto/index.d.ts:49774](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49774)
 
 WebMessageInfo status.
 
@@ -750,7 +750,7 @@ WebMessageInfo status.
 
 > `optional` **statusAlreadyViewed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49879](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49879)
+Defined in: [WAProto/index.d.ts:49879](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49879)
 
 WebMessageInfo statusAlreadyViewed.
 
@@ -764,7 +764,7 @@ WebMessageInfo statusAlreadyViewed.
 
 > `optional` **statusMentionMessageInfo**: `null` \| [`IStatusMentionMessage`](../interfaces/IStatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:49936](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49936)
+Defined in: [WAProto/index.d.ts:49936](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49936)
 
 WebMessageInfo statusMentionMessageInfo.
 
@@ -778,7 +778,7 @@ WebMessageInfo statusMentionMessageInfo.
 
 > **statusMentions**: `string`[]
 
-Defined in: [WAProto/index.d.ts:49927](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49927)
+Defined in: [WAProto/index.d.ts:49927](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49927)
 
 WebMessageInfo statusMentions.
 
@@ -792,7 +792,7 @@ WebMessageInfo statusMentions.
 
 > **statusMentionSources**: `string`[]
 
-Defined in: [WAProto/index.d.ts:49942](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49942)
+Defined in: [WAProto/index.d.ts:49942](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49942)
 
 WebMessageInfo statusMentionSources.
 
@@ -806,7 +806,7 @@ WebMessageInfo statusMentionSources.
 
 > `optional` **statusPsa**: `null` \| [`IStatusPSA`](../interfaces/IStatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:49867](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49867)
+Defined in: [WAProto/index.d.ts:49867](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49867)
 
 WebMessageInfo statusPsa.
 
@@ -820,7 +820,7 @@ WebMessageInfo statusPsa.
 
 > **supportAiCitations**: [`ICitation`](../interfaces/ICitation.md)[]
 
-Defined in: [WAProto/index.d.ts:49945](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49945)
+Defined in: [WAProto/index.d.ts:49945](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49945)
 
 WebMessageInfo supportAiCitations.
 
@@ -834,7 +834,7 @@ WebMessageInfo supportAiCitations.
 
 > `optional` **targetMessageId**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:49930](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49930)
+Defined in: [WAProto/index.d.ts:49930](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49930)
 
 WebMessageInfo targetMessageId.
 
@@ -848,7 +848,7 @@ WebMessageInfo targetMessageId.
 
 > `optional` **urlNumber**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49804](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49804)
+Defined in: [WAProto/index.d.ts:49804](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49804)
 
 WebMessageInfo urlNumber.
 
@@ -862,7 +862,7 @@ WebMessageInfo urlNumber.
 
 > `optional` **urlText**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49801](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49801)
+Defined in: [WAProto/index.d.ts:49801](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49801)
 
 WebMessageInfo urlText.
 
@@ -876,7 +876,7 @@ WebMessageInfo urlText.
 
 > **userReceipt**: [`IUserReceipt`](../interfaces/IUserReceipt.md)[]
 
-Defined in: [WAProto/index.d.ts:49855](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49855)
+Defined in: [WAProto/index.d.ts:49855](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49855)
 
 WebMessageInfo userReceipt.
 
@@ -890,7 +890,7 @@ WebMessageInfo userReceipt.
 
 > `optional` **verifiedBizName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49846](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49846)
+Defined in: [WAProto/index.d.ts:49846](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49846)
 
 WebMessageInfo verifiedBizName.
 
@@ -904,7 +904,7 @@ WebMessageInfo verifiedBizName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50018](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L50018)
+Defined in: [WAProto/index.d.ts:50018](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L50018)
 
 Converts this WebMessageInfo to JSON.
 
@@ -920,7 +920,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WebMessageInfo`](WebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:49955](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49955)
+Defined in: [WAProto/index.d.ts:49955](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49955)
 
 Creates a new WebMessageInfo instance using the specified properties.
 
@@ -944,7 +944,7 @@ WebMessageInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`WebMessageInfo`](WebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:49981](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49981)
+Defined in: [WAProto/index.d.ts:49981](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49981)
 
 Decodes a WebMessageInfo message from the specified reader or buffer.
 
@@ -982,7 +982,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WebMessageInfo`](WebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:49990](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49990)
+Defined in: [WAProto/index.d.ts:49990](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49990)
 
 Decodes a WebMessageInfo message from the specified reader or buffer, length delimited.
 
@@ -1014,7 +1014,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49963](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49963)
+Defined in: [WAProto/index.d.ts:49963](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49963)
 
 Encodes the specified WebMessageInfo message. Does not implicitly [verify](WebMessageInfo.md#verify) messages.
 
@@ -1044,7 +1044,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49971](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49971)
+Defined in: [WAProto/index.d.ts:49971](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49971)
 
 Encodes the specified WebMessageInfo message, length delimited. Does not implicitly [verify](WebMessageInfo.md#verify) messages.
 
@@ -1074,7 +1074,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WebMessageInfo`](WebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:50004](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L50004)
+Defined in: [WAProto/index.d.ts:50004](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L50004)
 
 Creates a WebMessageInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -1096,7 +1096,7 @@ WebMessageInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50025](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L50025)
+Defined in: [WAProto/index.d.ts:50025](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L50025)
 
 Gets the default type url for WebMessageInfo
 
@@ -1120,7 +1120,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50012](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L50012)
+Defined in: [WAProto/index.d.ts:50012](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L50012)
 
 Creates a plain object from a WebMessageInfo message. Also converts values to other types if specified.
 
@@ -1150,7 +1150,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49997](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L49997)
+Defined in: [WAProto/index.d.ts:49997](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L49997)
 
 Verifies a WebMessageInfo message.
 

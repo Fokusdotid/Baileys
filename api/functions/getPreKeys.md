@@ -2,7 +2,7 @@
 
 > **getPreKeys**(`__namedParameters`, `min`, `limit`): `Promise`\<\{\}\>
 
-Defined in: [src/Utils/signal.ts:20](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/signal.ts#L20)
+Defined in: [src/Utils/signal.ts:20](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Utils/signal.ts#L20)
 
 ## Parameters
 

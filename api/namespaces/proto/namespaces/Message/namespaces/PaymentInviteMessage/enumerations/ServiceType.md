@@ -1,6 +1,6 @@
 # Enumeration: ServiceType
 
-Defined in: [WAProto/index.d.ts:26870](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L26870)
+Defined in: [WAProto/index.d.ts:26870](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26870)
 
 ServiceType enum.
 
@@ -10,7 +10,7 @@ ServiceType enum.
 
 > **FBPAY**: `1`
 
-Defined in: [WAProto/index.d.ts:26872](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L26872)
+Defined in: [WAProto/index.d.ts:26872](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26872)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:26872](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOVI**: `2`
 
-Defined in: [WAProto/index.d.ts:26873](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L26873)
+Defined in: [WAProto/index.d.ts:26873](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26873)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:26873](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:26871](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L26871)
+Defined in: [WAProto/index.d.ts:26871](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26871)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:26871](https://github.com/Fokusdotid/Baileys/blo
 
 > **UPI**: `3`
 
-Defined in: [WAProto/index.d.ts:26874](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L26874)
+Defined in: [WAProto/index.d.ts:26874](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26874)

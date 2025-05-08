@@ -1,6 +1,6 @@
 # Interface: ISyncdRecord
 
-Defined in: [WAProto/index.d.ts:47222](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47222)
+Defined in: [WAProto/index.d.ts:47222](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47222)
 
 Properties of a SyncdRecord.
 
@@ -10,7 +10,7 @@ Properties of a SyncdRecord.
 
 > `optional` **index**: `null` \| [`ISyncdIndex`](ISyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:47225](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47225)
+Defined in: [WAProto/index.d.ts:47225](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47225)
 
 SyncdRecord index
 
@@ -20,7 +20,7 @@ SyncdRecord index
 
 > `optional` **keyId**: `null` \| [`IKeyId`](IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:47231](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47231)
+Defined in: [WAProto/index.d.ts:47231](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47231)
 
 SyncdRecord keyId
 
@@ -30,6 +30,6 @@ SyncdRecord keyId
 
 > `optional` **value**: `null` \| [`ISyncdValue`](ISyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47228](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L47228)
+Defined in: [WAProto/index.d.ts:47228](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47228)
 
 SyncdRecord value

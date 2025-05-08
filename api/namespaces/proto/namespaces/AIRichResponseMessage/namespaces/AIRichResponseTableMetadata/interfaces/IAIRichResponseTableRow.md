@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseTableRow
 
-Defined in: [WAProto/index.d.ts:2552](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2552)
+Defined in: [WAProto/index.d.ts:2552](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2552)
 
 Properties of a AIRichResponseTableRow.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseTableRow.
 
 > `optional` **isHeading**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2558](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2558)
+Defined in: [WAProto/index.d.ts:2558](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2558)
 
 AIRichResponseTableRow isHeading
 
@@ -20,6 +20,6 @@ AIRichResponseTableRow isHeading
 
 > `optional` **items**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:2555](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L2555)
+Defined in: [WAProto/index.d.ts:2555](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L2555)
 
 AIRichResponseTableRow items

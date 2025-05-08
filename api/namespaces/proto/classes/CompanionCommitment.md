@@ -1,6 +1,6 @@
 # Class: CompanionCommitment
 
-Defined in: [WAProto/index.d.ts:9085](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9085)
+Defined in: [WAProto/index.d.ts:9085](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9085)
 
 Represents a CompanionCommitment.
 
@@ -14,7 +14,7 @@ Represents a CompanionCommitment.
 
 > **new CompanionCommitment**(`properties`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:9091](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9091)
+Defined in: [WAProto/index.d.ts:9091](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9091)
 
 Constructs a new CompanionCommitment.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **hash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9094](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9094)
+Defined in: [WAProto/index.d.ts:9094](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9094)
 
 CompanionCommitment hash.
 
@@ -50,7 +50,7 @@ CompanionCommitment hash.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9164](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9164)
+Defined in: [WAProto/index.d.ts:9164](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9164)
 
 Converts this CompanionCommitment to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:9101](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9101)
+Defined in: [WAProto/index.d.ts:9101](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9101)
 
 Creates a new CompanionCommitment instance using the specified properties.
 
@@ -90,7 +90,7 @@ CompanionCommitment instance
 
 > `static` **decode**(`reader`, `length`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:9127](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9127)
+Defined in: [WAProto/index.d.ts:9127](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9127)
 
 Decodes a CompanionCommitment message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:9136](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9136)
+Defined in: [WAProto/index.d.ts:9136](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9136)
 
 Decodes a CompanionCommitment message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9109](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9109)
+Defined in: [WAProto/index.d.ts:9109](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9109)
 
 Encodes the specified CompanionCommitment message. Does not implicitly [verify](CompanionCommitment.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9117](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9117)
+Defined in: [WAProto/index.d.ts:9117](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9117)
 
 Encodes the specified CompanionCommitment message, length delimited. Does not implicitly [verify](CompanionCommitment.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:9150](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9150)
+Defined in: [WAProto/index.d.ts:9150](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9150)
 
 Creates a CompanionCommitment message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CompanionCommitment
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9171](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9171)
+Defined in: [WAProto/index.d.ts:9171](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9171)
 
 Gets the default type url for CompanionCommitment
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9158](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9158)
+Defined in: [WAProto/index.d.ts:9158](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9158)
 
 Creates a plain object from a CompanionCommitment message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9143](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L9143)
+Defined in: [WAProto/index.d.ts:9143](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L9143)
 
 Verifies a CompanionCommitment message.
 

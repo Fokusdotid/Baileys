@@ -1,6 +1,6 @@
 # Interface: IUserPassword
 
-Defined in: [WAProto/index.d.ts:48388](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L48388)
+Defined in: [WAProto/index.d.ts:48388](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L48388)
 
 Properties of a UserPassword.
 
@@ -10,7 +10,7 @@ Properties of a UserPassword.
 
 > `optional` **encoding**: `null` \| [`Encoding`](../namespaces/UserPassword/enumerations/Encoding.md)
 
-Defined in: [WAProto/index.d.ts:48391](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L48391)
+Defined in: [WAProto/index.d.ts:48391](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L48391)
 
 UserPassword encoding
 
@@ -20,7 +20,7 @@ UserPassword encoding
 
 > `optional` **transformedData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48400](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L48400)
+Defined in: [WAProto/index.d.ts:48400](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L48400)
 
 UserPassword transformedData
 
@@ -30,7 +30,7 @@ UserPassword transformedData
 
 > `optional` **transformer**: `null` \| [`Transformer`](../namespaces/UserPassword/enumerations/Transformer.md)
 
-Defined in: [WAProto/index.d.ts:48394](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L48394)
+Defined in: [WAProto/index.d.ts:48394](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L48394)
 
 UserPassword transformer
 
@@ -40,6 +40,6 @@ UserPassword transformer
 
 > `optional` **transformerArg**: `null` \| [`ITransformerArg`](../namespaces/UserPassword/interfaces/ITransformerArg.md)[]
 
-Defined in: [WAProto/index.d.ts:48397](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L48397)
+Defined in: [WAProto/index.d.ts:48397](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L48397)
 
 UserPassword transformerArg

@@ -2,7 +2,7 @@
 
 > **aesEncryptGCM**(`plaintext`, `key`, `iv`, `additionalData`): `Buffer`\<`ArrayBuffer`\>
 
-Defined in: [src/Utils/crypto.ts:57](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Utils/crypto.ts#L57)
+Defined in: [src/Utils/crypto.ts:57](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Utils/crypto.ts#L57)
 
 encrypt AES 256 GCM;
 where the tag tag is suffixed to the ciphertext

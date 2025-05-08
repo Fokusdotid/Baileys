@@ -1,6 +1,6 @@
 # Interface: IEphemeralSetting
 
-Defined in: [WAProto/index.d.ts:12814](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12814)
+Defined in: [WAProto/index.d.ts:12814](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12814)
 
 Properties of an EphemeralSetting.
 
@@ -10,7 +10,7 @@ Properties of an EphemeralSetting.
 
 > `optional` **duration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12817](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12817)
+Defined in: [WAProto/index.d.ts:12817](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12817)
 
 EphemeralSetting duration
 
@@ -20,6 +20,6 @@ EphemeralSetting duration
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12820](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L12820)
+Defined in: [WAProto/index.d.ts:12820](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L12820)
 
 EphemeralSetting timestamp

@@ -1,6 +1,6 @@
 # Class: AIRichResponseDynamicMetadata
 
-Defined in: [WAProto/index.d.ts:1358](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1358)
+Defined in: [WAProto/index.d.ts:1358](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1358)
 
 Represents a AIRichResponseDynamicMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseDynamicMetadata.
 
 > **new AIRichResponseDynamicMetadata**(`properties`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1364](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1364)
+Defined in: [WAProto/index.d.ts:1364](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1364)
 
 Constructs a new AIRichResponseDynamicMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **loopCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1376](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1376)
+Defined in: [WAProto/index.d.ts:1376](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1376)
 
 AIRichResponseDynamicMetadata loopCount.
 
@@ -50,7 +50,7 @@ AIRichResponseDynamicMetadata loopCount.
 
 > `optional` **type**: `null` \| [`AIRichResponseDynamicMetadataType`](../namespaces/AIRichResponseDynamicMetadata/enumerations/AIRichResponseDynamicMetadataType.md)
 
-Defined in: [WAProto/index.d.ts:1367](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1367)
+Defined in: [WAProto/index.d.ts:1367](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1367)
 
 AIRichResponseDynamicMetadata type.
 
@@ -64,7 +64,7 @@ AIRichResponseDynamicMetadata type.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1373](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1373)
+Defined in: [WAProto/index.d.ts:1373](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1373)
 
 AIRichResponseDynamicMetadata url.
 
@@ -78,7 +78,7 @@ AIRichResponseDynamicMetadata url.
 
 > `optional` **version**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:1370](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1370)
+Defined in: [WAProto/index.d.ts:1370](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1370)
 
 AIRichResponseDynamicMetadata version.
 
@@ -92,7 +92,7 @@ AIRichResponseDynamicMetadata version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1446](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1446)
+Defined in: [WAProto/index.d.ts:1446](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1446)
 
 Converts this AIRichResponseDynamicMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1383](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1383)
+Defined in: [WAProto/index.d.ts:1383](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1383)
 
 Creates a new AIRichResponseDynamicMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ AIRichResponseDynamicMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1409](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1409)
+Defined in: [WAProto/index.d.ts:1409](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1409)
 
 Decodes a AIRichResponseDynamicMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1418](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1418)
+Defined in: [WAProto/index.d.ts:1418](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1418)
 
 Decodes a AIRichResponseDynamicMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1391](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1391)
+Defined in: [WAProto/index.d.ts:1391](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1391)
 
 Encodes the specified AIRichResponseDynamicMetadata message. Does not implicitly [verify](AIRichResponseDynamicMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1399](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1399)
+Defined in: [WAProto/index.d.ts:1399](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1399)
 
 Encodes the specified AIRichResponseDynamicMetadata message, length delimited. Does not implicitly [verify](AIRichResponseDynamicMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1432](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1432)
+Defined in: [WAProto/index.d.ts:1432](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1432)
 
 Creates a AIRichResponseDynamicMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AIRichResponseDynamicMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1453](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1453)
+Defined in: [WAProto/index.d.ts:1453](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1453)
 
 Gets the default type url for AIRichResponseDynamicMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1440](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1440)
+Defined in: [WAProto/index.d.ts:1440](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1440)
 
 Creates a plain object from a AIRichResponseDynamicMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1425](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L1425)
+Defined in: [WAProto/index.d.ts:1425](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1425)
 
 Verifies a AIRichResponseDynamicMetadata message.
 

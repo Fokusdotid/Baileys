@@ -2,4 +2,4 @@
 
 > **MinimalMessage**: `Pick`\<[`IWebMessageInfo`](../namespaces/proto/interfaces/IWebMessageInfo.md), `"key"` \| `"messageTimestamp"`\>
 
-Defined in: [src/Types/Message.ts:317](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/src/Types/Message.ts#L317)
+Defined in: [src/Types/Message.ts:317](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Message.ts#L317)

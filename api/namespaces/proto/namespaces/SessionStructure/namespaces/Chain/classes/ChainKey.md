@@ -1,6 +1,6 @@
 # Class: ChainKey
 
-Defined in: [WAProto/index.d.ts:39351](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39351)
+Defined in: [WAProto/index.d.ts:39351](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39351)
 
 Represents a ChainKey.
 
@@ -14,7 +14,7 @@ Represents a ChainKey.
 
 > **new ChainKey**(`properties`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39357](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39357)
+Defined in: [WAProto/index.d.ts:39357](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39357)
 
 Constructs a new ChainKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39360](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39360)
+Defined in: [WAProto/index.d.ts:39360](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39360)
 
 ChainKey index.
 
@@ -50,7 +50,7 @@ ChainKey index.
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39363](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39363)
+Defined in: [WAProto/index.d.ts:39363](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39363)
 
 ChainKey key.
 
@@ -64,7 +64,7 @@ ChainKey key.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39433](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39433)
+Defined in: [WAProto/index.d.ts:39433](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39433)
 
 Converts this ChainKey to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39370](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39370)
+Defined in: [WAProto/index.d.ts:39370](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39370)
 
 Creates a new ChainKey instance using the specified properties.
 
@@ -104,7 +104,7 @@ ChainKey instance
 
 > `static` **decode**(`reader`, `length`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39396](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39396)
+Defined in: [WAProto/index.d.ts:39396](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39396)
 
 Decodes a ChainKey message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39405](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39405)
+Defined in: [WAProto/index.d.ts:39405](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39405)
 
 Decodes a ChainKey message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39378](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39378)
+Defined in: [WAProto/index.d.ts:39378](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39378)
 
 Encodes the specified ChainKey message. Does not implicitly [verify](ChainKey.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39386](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39386)
+Defined in: [WAProto/index.d.ts:39386](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39386)
 
 Encodes the specified ChainKey message, length delimited. Does not implicitly [verify](ChainKey.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39419](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39419)
+Defined in: [WAProto/index.d.ts:39419](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39419)
 
 Creates a ChainKey message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ChainKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39440](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39440)
+Defined in: [WAProto/index.d.ts:39440](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39440)
 
 Gets the default type url for ChainKey
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39427](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39427)
+Defined in: [WAProto/index.d.ts:39427](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39427)
 
 Creates a plain object from a ChainKey message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39412](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L39412)
+Defined in: [WAProto/index.d.ts:39412](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L39412)
 
 Verifies a ChainKey message.
 

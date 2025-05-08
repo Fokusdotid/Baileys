@@ -1,6 +1,6 @@
 # Enumeration: PlanningStepStatus
 
-Defined in: [WAProto/index.d.ts:5379](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5379)
+Defined in: [WAProto/index.d.ts:5379](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5379)
 
 PlanningStepStatus enum.
 
@@ -10,7 +10,7 @@ PlanningStepStatus enum.
 
 > **EXECUTING**: `2`
 
-Defined in: [WAProto/index.d.ts:5382](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5382)
+Defined in: [WAProto/index.d.ts:5382](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5382)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5382](https://github.com/Fokusdotid/Baileys/blob
 
 > **FINISHED**: `3`
 
-Defined in: [WAProto/index.d.ts:5383](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5383)
+Defined in: [WAProto/index.d.ts:5383](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5383)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5383](https://github.com/Fokusdotid/Baileys/blob
 
 > **PLANNED**: `1`
 
-Defined in: [WAProto/index.d.ts:5381](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5381)
+Defined in: [WAProto/index.d.ts:5381](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5381)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5381](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:5380](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L5380)
+Defined in: [WAProto/index.d.ts:5380](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L5380)

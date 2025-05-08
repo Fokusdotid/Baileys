@@ -1,6 +1,6 @@
 # Interface: IEncEventResponseMessage
 
-Defined in: [WAProto/index.d.ts:20824](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20824)
+Defined in: [WAProto/index.d.ts:20824](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L20824)
 
 Properties of an EncEventResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of an EncEventResponseMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20833](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20833)
+Defined in: [WAProto/index.d.ts:20833](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L20833)
 
 EncEventResponseMessage encIv
 
@@ -20,7 +20,7 @@ EncEventResponseMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20830](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20830)
+Defined in: [WAProto/index.d.ts:20830](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L20830)
 
 EncEventResponseMessage encPayload
 
@@ -30,6 +30,6 @@ EncEventResponseMessage encPayload
 
 > `optional` **eventCreationMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:20827](https://github.com/Fokusdotid/Baileys/blob/9c9f1957de7ce603966b24b846f4c15d5de9bbcf/WAProto/index.d.ts#L20827)
+Defined in: [WAProto/index.d.ts:20827](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L20827)
 
 EncEventResponseMessage eventCreationMessageKey
