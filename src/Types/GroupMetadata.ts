@@ -13,9 +13,12 @@ export interface GroupMetadata {
     /** group uses 'lid' or 'pn' to send messages */
     addressingMode: string
     owner: string | undefined
+    ownerPn?: string | undefined
     subject: string
     /** group subject owner */
     subjectOwner?: string
+    /** group subject owner phone number */
+    subjectOwnerPn?: string
     /** group subject modification date */
     subjectTime?: number
     creation?: number

@@ -342,10 +342,12 @@ export const extractGroupMetadata = (result: BinaryNode) => {
 		addressingMode: group.attrs.addressing_mode,
 		subject: group.attrs.subject,
 		subjectOwner: group.attrs.s_o,
+		...(group.attrs.addressing_mode === "lid" ? { subjectOwnerPn: group.attrs.s_o_pn } : {}),
 		subjectTime: +group.attrs.s_t,
 		size: getBinaryNodeChildren(group, 'participant').length,
 		creation: +group.attrs.creation,
 		owner: group.attrs.creator ? jidNormalizedUser(group.attrs.creator) : undefined,
+		...(group.attrs.addressing_mode === "lid" ? { ownerPn: group.attrs.creator_pn ? jidNormalizedUser(group.attrs.creator_pn) : undefined } : {}),
 		desc,
 		descId,
 		linkedParent: getBinaryNodeChild(group, 'linked_parent')?.attrs.jid || undefined,
@@ -359,6 +361,7 @@ export const extractGroupMetadata = (result: BinaryNode) => {
 			({ attrs }) => {
 				return {
 					id: attrs.jid,
+					...(group.attrs.addressing_mode === "lid" ? { pn: attrs.phone_number } : {}),
 					admin: (attrs.type || null) as GroupParticipant['admin'],
 				}
 			}
