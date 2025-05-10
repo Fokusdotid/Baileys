@@ -4876,9 +4876,9 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-"libsignal@github:WhiskeySockets/libsignal-node":
+"libsignal@github:FokusDotId/libsignal-node":
   version "2.0.1"
-  resolved "https://codeload.github.com/WhiskeySockets/libsignal-node/tar.gz/83a3e3a3864511cb74df1b796373f0d49d071134"
+  resolved "https://codeload.github.com/FokusDotId/libsignal-node/tar.gz/8a1ae2d93d61858b2bbaf9a0abadbda57eb47374"
   dependencies:
     curve25519-js "^0.0.4"
     protobufjs "6.8.8"
