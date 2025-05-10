@@ -1,6 +1,6 @@
 # Class: ADVDeviceIdentity
 
-Defined in: [WAProto/index.d.ts:26](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26)
+Defined in: [WAProto/index.d.ts:26](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26)
 
 Represents a ADVDeviceIdentity.
 
@@ -14,7 +14,7 @@ Represents a ADVDeviceIdentity.
 
 > **new ADVDeviceIdentity**(`properties`?): [`ADVDeviceIdentity`](ADVDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:32](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L32)
+Defined in: [WAProto/index.d.ts:32](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L32)
 
 Constructs a new ADVDeviceIdentity.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:44](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44)
+Defined in: [WAProto/index.d.ts:44](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44)
 
 ADVDeviceIdentity accountType.
 
@@ -50,7 +50,7 @@ ADVDeviceIdentity accountType.
 
 > `optional` **deviceType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:47](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47)
+Defined in: [WAProto/index.d.ts:47](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L47)
 
 ADVDeviceIdentity deviceType.
 
@@ -64,7 +64,7 @@ ADVDeviceIdentity deviceType.
 
 > `optional` **keyIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L41)
+Defined in: [WAProto/index.d.ts:41](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L41)
 
 ADVDeviceIdentity keyIndex.
 
@@ -78,7 +78,7 @@ ADVDeviceIdentity keyIndex.
 
 > `optional` **rawId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L35)
+Defined in: [WAProto/index.d.ts:35](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L35)
 
 ADVDeviceIdentity rawId.
 
@@ -92,7 +92,7 @@ ADVDeviceIdentity rawId.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38)
+Defined in: [WAProto/index.d.ts:38](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38)
 
 ADVDeviceIdentity timestamp.
 
@@ -106,7 +106,7 @@ ADVDeviceIdentity timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:117](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L117)
+Defined in: [WAProto/index.d.ts:117](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L117)
 
 Converts this ADVDeviceIdentity to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ADVDeviceIdentity`](ADVDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:54](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L54)
+Defined in: [WAProto/index.d.ts:54](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L54)
 
 Creates a new ADVDeviceIdentity instance using the specified properties.
 
@@ -146,7 +146,7 @@ ADVDeviceIdentity instance
 
 > `static` **decode**(`reader`, `length`?): [`ADVDeviceIdentity`](ADVDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:80](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L80)
+Defined in: [WAProto/index.d.ts:80](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L80)
 
 Decodes a ADVDeviceIdentity message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ADVDeviceIdentity`](ADVDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:89](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L89)
+Defined in: [WAProto/index.d.ts:89](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L89)
 
 Decodes a ADVDeviceIdentity message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:62](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L62)
+Defined in: [WAProto/index.d.ts:62](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L62)
 
 Encodes the specified ADVDeviceIdentity message. Does not implicitly [verify](ADVDeviceIdentity.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:70](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L70)
+Defined in: [WAProto/index.d.ts:70](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L70)
 
 Encodes the specified ADVDeviceIdentity message, length delimited. Does not implicitly [verify](ADVDeviceIdentity.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ADVDeviceIdentity`](ADVDeviceIdentity.md)
 
-Defined in: [WAProto/index.d.ts:103](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L103)
+Defined in: [WAProto/index.d.ts:103](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L103)
 
 Creates a ADVDeviceIdentity message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ ADVDeviceIdentity
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:124](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L124)
+Defined in: [WAProto/index.d.ts:124](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L124)
 
 Gets the default type url for ADVDeviceIdentity
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:111](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L111)
+Defined in: [WAProto/index.d.ts:111](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L111)
 
 Creates a plain object from a ADVDeviceIdentity message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:96](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L96)
+Defined in: [WAProto/index.d.ts:96](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L96)
 
 Verifies a ADVDeviceIdentity message.
 

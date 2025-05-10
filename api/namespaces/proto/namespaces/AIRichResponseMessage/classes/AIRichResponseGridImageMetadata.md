@@ -1,6 +1,6 @@
 # Class: AIRichResponseGridImageMetadata
 
-Defined in: [WAProto/index.d.ts:1477](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1477)
+Defined in: [WAProto/index.d.ts:1477](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1477)
 
 Represents a AIRichResponseGridImageMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseGridImageMetadata.
 
 > **new AIRichResponseGridImageMetadata**(`properties`?): [`AIRichResponseGridImageMetadata`](AIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1483](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1483)
+Defined in: [WAProto/index.d.ts:1483](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1483)
 
 Constructs a new AIRichResponseGridImageMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **gridImageUrl**: `null` \| [`IAIRichResponseImageURL`](../interfaces/IAIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1486](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1486)
+Defined in: [WAProto/index.d.ts:1486](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1486)
 
 AIRichResponseGridImageMetadata gridImageUrl.
 
@@ -50,7 +50,7 @@ AIRichResponseGridImageMetadata gridImageUrl.
 
 > **imageUrls**: [`IAIRichResponseImageURL`](../interfaces/IAIRichResponseImageURL.md)[]
 
-Defined in: [WAProto/index.d.ts:1489](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1489)
+Defined in: [WAProto/index.d.ts:1489](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1489)
 
 AIRichResponseGridImageMetadata imageUrls.
 
@@ -64,7 +64,7 @@ AIRichResponseGridImageMetadata imageUrls.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1559](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1559)
+Defined in: [WAProto/index.d.ts:1559](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1559)
 
 Converts this AIRichResponseGridImageMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseGridImageMetadata`](AIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1496](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1496)
+Defined in: [WAProto/index.d.ts:1496](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1496)
 
 Creates a new AIRichResponseGridImageMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ AIRichResponseGridImageMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseGridImageMetadata`](AIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1522](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1522)
+Defined in: [WAProto/index.d.ts:1522](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1522)
 
 Decodes a AIRichResponseGridImageMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseGridImageMetadata`](AIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1531](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1531)
+Defined in: [WAProto/index.d.ts:1531](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1531)
 
 Decodes a AIRichResponseGridImageMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1504](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1504)
+Defined in: [WAProto/index.d.ts:1504](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1504)
 
 Encodes the specified AIRichResponseGridImageMetadata message. Does not implicitly [verify](AIRichResponseGridImageMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1512](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1512)
+Defined in: [WAProto/index.d.ts:1512](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1512)
 
 Encodes the specified AIRichResponseGridImageMetadata message, length delimited. Does not implicitly [verify](AIRichResponseGridImageMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseGridImageMetadata`](AIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1545](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1545)
+Defined in: [WAProto/index.d.ts:1545](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1545)
 
 Creates a AIRichResponseGridImageMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AIRichResponseGridImageMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1566](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1566)
+Defined in: [WAProto/index.d.ts:1566](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1566)
 
 Gets the default type url for AIRichResponseGridImageMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1553](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1553)
+Defined in: [WAProto/index.d.ts:1553](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1553)
 
 Creates a plain object from a AIRichResponseGridImageMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1538](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L1538)
+Defined in: [WAProto/index.d.ts:1538](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1538)
 
 Verifies a AIRichResponseGridImageMetadata message.
 

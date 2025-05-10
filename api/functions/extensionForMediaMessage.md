@@ -2,7 +2,7 @@
 
 > **extensionForMediaMessage**(`message`): `string`
 
-Defined in: [src/Utils/messages-media.ts:579](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Utils/messages-media.ts#L579)
+Defined in: [src/Utils/messages-media.ts:579](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Utils/messages-media.ts#L579)
 
 ## Parameters
 

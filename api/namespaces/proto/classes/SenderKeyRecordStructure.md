@@ -1,6 +1,6 @@
 # Class: SenderKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:38439](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38439)
+Defined in: [WAProto/index.d.ts:38439](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38439)
 
 Represents a SenderKeyRecordStructure.
 
@@ -14,7 +14,7 @@ Represents a SenderKeyRecordStructure.
 
 > **new SenderKeyRecordStructure**(`properties`?): [`SenderKeyRecordStructure`](SenderKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:38445](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38445)
+Defined in: [WAProto/index.d.ts:38445](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38445)
 
 Constructs a new SenderKeyRecordStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **senderKeyStates**: [`ISenderKeyStateStructure`](../interfaces/ISenderKeyStateStructure.md)[]
 
-Defined in: [WAProto/index.d.ts:38448](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38448)
+Defined in: [WAProto/index.d.ts:38448](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38448)
 
 SenderKeyRecordStructure senderKeyStates.
 
@@ -50,7 +50,7 @@ SenderKeyRecordStructure senderKeyStates.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:38518](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38518)
+Defined in: [WAProto/index.d.ts:38518](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38518)
 
 Converts this SenderKeyRecordStructure to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderKeyRecordStructure`](SenderKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:38455](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38455)
+Defined in: [WAProto/index.d.ts:38455](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38455)
 
 Creates a new SenderKeyRecordStructure instance using the specified properties.
 
@@ -90,7 +90,7 @@ SenderKeyRecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderKeyRecordStructure`](SenderKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:38481](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38481)
+Defined in: [WAProto/index.d.ts:38481](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38481)
 
 Decodes a SenderKeyRecordStructure message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderKeyRecordStructure`](SenderKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:38490](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38490)
+Defined in: [WAProto/index.d.ts:38490](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38490)
 
 Decodes a SenderKeyRecordStructure message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38463](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38463)
+Defined in: [WAProto/index.d.ts:38463](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38463)
 
 Encodes the specified SenderKeyRecordStructure message. Does not implicitly [verify](SenderKeyRecordStructure.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38471](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38471)
+Defined in: [WAProto/index.d.ts:38471](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38471)
 
 Encodes the specified SenderKeyRecordStructure message, length delimited. Does not implicitly [verify](SenderKeyRecordStructure.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderKeyRecordStructure`](SenderKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:38504](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38504)
+Defined in: [WAProto/index.d.ts:38504](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38504)
 
 Creates a SenderKeyRecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SenderKeyRecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:38525](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38525)
+Defined in: [WAProto/index.d.ts:38525](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38525)
 
 Gets the default type url for SenderKeyRecordStructure
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:38512](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38512)
+Defined in: [WAProto/index.d.ts:38512](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38512)
 
 Creates a plain object from a SenderKeyRecordStructure message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38497](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L38497)
+Defined in: [WAProto/index.d.ts:38497](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L38497)
 
 Verifies a SenderKeyRecordStructure message.
 

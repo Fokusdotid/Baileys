@@ -1,6 +1,6 @@
 # Enumeration: MediaType
 
-Defined in: [WAProto/index.d.ts:18475](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L18475)
+Defined in: [WAProto/index.d.ts:18475](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L18475)
 
 MediaType enum.
 
@@ -10,7 +10,7 @@ MediaType enum.
 
 > **AUDIO**: `1`
 
-Defined in: [WAProto/index.d.ts:18477](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L18477)
+Defined in: [WAProto/index.d.ts:18477](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L18477)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:18477](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:18476](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L18476)
+Defined in: [WAProto/index.d.ts:18476](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L18476)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:18476](https://github.com/Fokusdotid/Baileys/blo
 
 > **VIDEO**: `2`
 
-Defined in: [WAProto/index.d.ts:18478](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L18478)
+Defined in: [WAProto/index.d.ts:18478](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L18478)

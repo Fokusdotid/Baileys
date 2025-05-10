@@ -1,6 +1,6 @@
 # Interface: IWebInfo
 
-Defined in: [WAProto/index.d.ts:8689](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L8689)
+Defined in: [WAProto/index.d.ts:8689](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L8689)
 
 Properties of a WebInfo.
 
@@ -10,7 +10,7 @@ Properties of a WebInfo.
 
 > `optional` **refToken**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8692](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L8692)
+Defined in: [WAProto/index.d.ts:8692](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L8692)
 
 WebInfo refToken
 
@@ -20,7 +20,7 @@ WebInfo refToken
 
 > `optional` **version**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8695](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L8695)
+Defined in: [WAProto/index.d.ts:8695](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L8695)
 
 WebInfo version
 
@@ -30,7 +30,7 @@ WebInfo version
 
 > `optional` **webdPayload**: `null` \| [`IWebdPayload`](../namespaces/WebInfo/interfaces/IWebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8698](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L8698)
+Defined in: [WAProto/index.d.ts:8698](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L8698)
 
 WebInfo webdPayload
 
@@ -40,6 +40,6 @@ WebInfo webdPayload
 
 > `optional` **webSubPlatform**: `null` \| [`WebSubPlatform`](../namespaces/WebInfo/enumerations/WebSubPlatform.md)
 
-Defined in: [WAProto/index.d.ts:8701](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L8701)
+Defined in: [WAProto/index.d.ts:8701](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L8701)
 
 WebInfo webSubPlatform

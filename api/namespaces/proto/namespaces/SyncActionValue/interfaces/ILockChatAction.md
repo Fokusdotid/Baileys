@@ -1,6 +1,6 @@
 # Interface: ILockChatAction
 
-Defined in: [WAProto/index.d.ts:43289](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L43289)
+Defined in: [WAProto/index.d.ts:43289](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L43289)
 
 Properties of a LockChatAction.
 
@@ -10,6 +10,6 @@ Properties of a LockChatAction.
 
 > `optional` **locked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43292](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L43292)
+Defined in: [WAProto/index.d.ts:43292](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L43292)
 
 LockChatAction locked

@@ -1,6 +1,6 @@
 # Interface: IEventResponseMessage
 
-Defined in: [WAProto/index.d.ts:21187](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21187)
+Defined in: [WAProto/index.d.ts:21187](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L21187)
 
 Properties of an EventResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of an EventResponseMessage.
 
 > `optional` **extraGuestCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21196](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21196)
+Defined in: [WAProto/index.d.ts:21196](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L21196)
 
 EventResponseMessage extraGuestCount
 
@@ -20,7 +20,7 @@ EventResponseMessage extraGuestCount
 
 > `optional` **response**: `null` \| [`EventResponseType`](../namespaces/EventResponseMessage/enumerations/EventResponseType.md)
 
-Defined in: [WAProto/index.d.ts:21190](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21190)
+Defined in: [WAProto/index.d.ts:21190](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L21190)
 
 EventResponseMessage response
 
@@ -30,6 +30,6 @@ EventResponseMessage response
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21193](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L21193)
+Defined in: [WAProto/index.d.ts:21193](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L21193)
 
 EventResponseMessage timestampMs

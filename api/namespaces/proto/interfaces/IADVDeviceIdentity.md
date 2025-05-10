@@ -1,6 +1,6 @@
 # Interface: IADVDeviceIdentity
 
-Defined in: [WAProto/index.d.ts:7](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7)
+Defined in: [WAProto/index.d.ts:7](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7)
 
 Properties of a ADVDeviceIdentity.
 
@@ -10,7 +10,7 @@ Properties of a ADVDeviceIdentity.
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:19](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L19)
+Defined in: [WAProto/index.d.ts:19](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19)
 
 ADVDeviceIdentity accountType
 
@@ -20,7 +20,7 @@ ADVDeviceIdentity accountType
 
 > `optional` **deviceType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:22](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L22)
+Defined in: [WAProto/index.d.ts:22](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22)
 
 ADVDeviceIdentity deviceType
 
@@ -30,7 +30,7 @@ ADVDeviceIdentity deviceType
 
 > `optional` **keyIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16)
+Defined in: [WAProto/index.d.ts:16](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16)
 
 ADVDeviceIdentity keyIndex
 
@@ -40,7 +40,7 @@ ADVDeviceIdentity keyIndex
 
 > `optional` **rawId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L10)
+Defined in: [WAProto/index.d.ts:10](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L10)
 
 ADVDeviceIdentity rawId
 
@@ -50,6 +50,6 @@ ADVDeviceIdentity rawId
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L13)
+Defined in: [WAProto/index.d.ts:13](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L13)
 
 ADVDeviceIdentity timestamp

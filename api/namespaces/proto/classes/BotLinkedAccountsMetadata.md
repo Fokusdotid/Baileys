@@ -1,6 +1,6 @@
 # Class: BotLinkedAccountsMetadata
 
-Defined in: [WAProto/index.d.ts:3856](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3856)
+Defined in: [WAProto/index.d.ts:3856](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3856)
 
 Represents a BotLinkedAccountsMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotLinkedAccountsMetadata.
 
 > **new BotLinkedAccountsMetadata**(`properties`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3862](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3862)
+Defined in: [WAProto/index.d.ts:3862](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3862)
 
 Constructs a new BotLinkedAccountsMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **acAuthTokens**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:3868](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3868)
+Defined in: [WAProto/index.d.ts:3868](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3868)
 
 BotLinkedAccountsMetadata acAuthTokens.
 
@@ -50,7 +50,7 @@ BotLinkedAccountsMetadata acAuthTokens.
 
 > **accounts**: [`IBotLinkedAccount`](../interfaces/IBotLinkedAccount.md)[]
 
-Defined in: [WAProto/index.d.ts:3865](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3865)
+Defined in: [WAProto/index.d.ts:3865](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3865)
 
 BotLinkedAccountsMetadata accounts.
 
@@ -64,7 +64,7 @@ BotLinkedAccountsMetadata accounts.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3938](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3938)
+Defined in: [WAProto/index.d.ts:3938](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3938)
 
 Converts this BotLinkedAccountsMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3875](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3875)
+Defined in: [WAProto/index.d.ts:3875](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3875)
 
 Creates a new BotLinkedAccountsMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotLinkedAccountsMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3901](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3901)
+Defined in: [WAProto/index.d.ts:3901](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3901)
 
 Decodes a BotLinkedAccountsMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3910](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3910)
+Defined in: [WAProto/index.d.ts:3910](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3910)
 
 Decodes a BotLinkedAccountsMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3883](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3883)
+Defined in: [WAProto/index.d.ts:3883](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3883)
 
 Encodes the specified BotLinkedAccountsMetadata message. Does not implicitly [verify](BotLinkedAccountsMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3891](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3891)
+Defined in: [WAProto/index.d.ts:3891](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3891)
 
 Encodes the specified BotLinkedAccountsMetadata message, length delimited. Does not implicitly [verify](BotLinkedAccountsMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3924](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3924)
+Defined in: [WAProto/index.d.ts:3924](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3924)
 
 Creates a BotLinkedAccountsMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotLinkedAccountsMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3945](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3945)
+Defined in: [WAProto/index.d.ts:3945](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3945)
 
 Gets the default type url for BotLinkedAccountsMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3932](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3932)
+Defined in: [WAProto/index.d.ts:3932](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3932)
 
 Creates a plain object from a BotLinkedAccountsMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3917](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L3917)
+Defined in: [WAProto/index.d.ts:3917](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L3917)
 
 Verifies a BotLinkedAccountsMetadata message.
 

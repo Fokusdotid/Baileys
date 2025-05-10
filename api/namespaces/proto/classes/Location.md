@@ -1,6 +1,6 @@
 # Class: Location
 
-Defined in: [WAProto/index.d.ts:16327](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16327)
+Defined in: [WAProto/index.d.ts:16327](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16327)
 
 Represents a Location.
 
@@ -14,7 +14,7 @@ Represents a Location.
 
 > **new Location**(`properties`?): [`Location`](Location.md)
 
-Defined in: [WAProto/index.d.ts:16333](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16333)
+Defined in: [WAProto/index.d.ts:16333](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16333)
 
 Constructs a new Location.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16336](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16336)
+Defined in: [WAProto/index.d.ts:16336](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16336)
 
 Location degreesLatitude.
 
@@ -50,7 +50,7 @@ Location degreesLatitude.
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16339](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16339)
+Defined in: [WAProto/index.d.ts:16339](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16339)
 
 Location degreesLongitude.
 
@@ -64,7 +64,7 @@ Location degreesLongitude.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16342](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16342)
+Defined in: [WAProto/index.d.ts:16342](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16342)
 
 Location name.
 
@@ -78,7 +78,7 @@ Location name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16412](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16412)
+Defined in: [WAProto/index.d.ts:16412](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16412)
 
 Converts this Location to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Location`](Location.md)
 
-Defined in: [WAProto/index.d.ts:16349](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16349)
+Defined in: [WAProto/index.d.ts:16349](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16349)
 
 Creates a new Location instance using the specified properties.
 
@@ -118,7 +118,7 @@ Location instance
 
 > `static` **decode**(`reader`, `length`?): [`Location`](Location.md)
 
-Defined in: [WAProto/index.d.ts:16375](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16375)
+Defined in: [WAProto/index.d.ts:16375](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16375)
 
 Decodes a Location message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Location`](Location.md)
 
-Defined in: [WAProto/index.d.ts:16384](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16384)
+Defined in: [WAProto/index.d.ts:16384](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16384)
 
 Decodes a Location message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16357](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16357)
+Defined in: [WAProto/index.d.ts:16357](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16357)
 
 Encodes the specified Location message. Does not implicitly [verify](Location.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16365](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16365)
+Defined in: [WAProto/index.d.ts:16365](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16365)
 
 Encodes the specified Location message, length delimited. Does not implicitly [verify](Location.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Location`](Location.md)
 
-Defined in: [WAProto/index.d.ts:16398](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16398)
+Defined in: [WAProto/index.d.ts:16398](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16398)
 
 Creates a Location message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ Location
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16419](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16419)
+Defined in: [WAProto/index.d.ts:16419](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16419)
 
 Gets the default type url for Location
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16406](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16406)
+Defined in: [WAProto/index.d.ts:16406](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16406)
 
 Creates a plain object from a Location message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16391](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L16391)
+Defined in: [WAProto/index.d.ts:16391](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L16391)
 
 Verifies a Location message.
 

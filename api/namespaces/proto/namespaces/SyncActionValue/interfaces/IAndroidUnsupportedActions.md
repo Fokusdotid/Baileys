@@ -1,6 +1,6 @@
 # Interface: IAndroidUnsupportedActions
 
-Defined in: [WAProto/index.d.ts:41043](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L41043)
+Defined in: [WAProto/index.d.ts:41043](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L41043)
 
 Properties of an AndroidUnsupportedActions.
 
@@ -10,6 +10,6 @@ Properties of an AndroidUnsupportedActions.
 
 > `optional` **allowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41046](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L41046)
+Defined in: [WAProto/index.d.ts:41046](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L41046)
 
 AndroidUnsupportedActions allowed

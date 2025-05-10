@@ -1,6 +1,6 @@
 # Class: UnarchiveChatsSetting
 
-Defined in: [WAProto/index.d.ts:46275](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46275)
+Defined in: [WAProto/index.d.ts:46275](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46275)
 
 Represents an UnarchiveChatsSetting.
 
@@ -14,7 +14,7 @@ Represents an UnarchiveChatsSetting.
 
 > **new UnarchiveChatsSetting**(`properties`?): [`UnarchiveChatsSetting`](UnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:46281](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46281)
+Defined in: [WAProto/index.d.ts:46281](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46281)
 
 Constructs a new UnarchiveChatsSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **unarchiveChats**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46284](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46284)
+Defined in: [WAProto/index.d.ts:46284](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46284)
 
 UnarchiveChatsSetting unarchiveChats.
 
@@ -50,7 +50,7 @@ UnarchiveChatsSetting unarchiveChats.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46354](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46354)
+Defined in: [WAProto/index.d.ts:46354](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46354)
 
 Converts this UnarchiveChatsSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UnarchiveChatsSetting`](UnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:46291](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46291)
+Defined in: [WAProto/index.d.ts:46291](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46291)
 
 Creates a new UnarchiveChatsSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ UnarchiveChatsSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`UnarchiveChatsSetting`](UnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:46317](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46317)
+Defined in: [WAProto/index.d.ts:46317](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46317)
 
 Decodes an UnarchiveChatsSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UnarchiveChatsSetting`](UnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:46326](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46326)
+Defined in: [WAProto/index.d.ts:46326](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46326)
 
 Decodes an UnarchiveChatsSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46299](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46299)
+Defined in: [WAProto/index.d.ts:46299](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46299)
 
 Encodes the specified UnarchiveChatsSetting message. Does not implicitly [verify](UnarchiveChatsSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46307](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46307)
+Defined in: [WAProto/index.d.ts:46307](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46307)
 
 Encodes the specified UnarchiveChatsSetting message, length delimited. Does not implicitly [verify](UnarchiveChatsSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UnarchiveChatsSetting`](UnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:46340](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46340)
+Defined in: [WAProto/index.d.ts:46340](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46340)
 
 Creates an UnarchiveChatsSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UnarchiveChatsSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46361](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46361)
+Defined in: [WAProto/index.d.ts:46361](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46361)
 
 Gets the default type url for UnarchiveChatsSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46348](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46348)
+Defined in: [WAProto/index.d.ts:46348](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46348)
 
 Creates a plain object from an UnarchiveChatsSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46333](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L46333)
+Defined in: [WAProto/index.d.ts:46333](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L46333)
 
 Verifies an UnarchiveChatsSetting message.
 

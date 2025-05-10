@@ -1,6 +1,6 @@
 # Interface: ISyncdVersion
 
-Defined in: [WAProto/index.d.ts:47543](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47543)
+Defined in: [WAProto/index.d.ts:47543](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L47543)
 
 Properties of a SyncdVersion.
 
@@ -10,6 +10,6 @@ Properties of a SyncdVersion.
 
 > `optional` **version**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:47546](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L47546)
+Defined in: [WAProto/index.d.ts:47546](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L47546)
 
 SyncdVersion version

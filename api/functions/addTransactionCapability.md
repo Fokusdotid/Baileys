@@ -2,7 +2,7 @@
 
 > **addTransactionCapability**(`state`, `logger`, `__namedParameters`): [`SignalKeyStoreWithTransaction`](../type-aliases/SignalKeyStoreWithTransaction.md)
 
-Defined in: [src/Utils/auth-utils.ts:84](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Utils/auth-utils.ts#L84)
+Defined in: [src/Utils/auth-utils.ts:84](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Utils/auth-utils.ts#L84)
 
 Adds DB like transaction capability (https://en.wikipedia.org/wiki/Database_transaction) to the SignalKeyStore,
 this allows batch read & write operations & improves the performance of the lib

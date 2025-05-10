@@ -1,6 +1,6 @@
 # Interface: IMMSThumbnailMetadata
 
-Defined in: [WAProto/index.d.ts:26176](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26176)
+Defined in: [WAProto/index.d.ts:26176](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26176)
 
 Properties of a MMSThumbnailMetadata.
 
@@ -10,7 +10,7 @@ Properties of a MMSThumbnailMetadata.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26188](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26188)
+Defined in: [WAProto/index.d.ts:26188](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26188)
 
 MMSThumbnailMetadata mediaKey
 
@@ -20,7 +20,7 @@ MMSThumbnailMetadata mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26191](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26191)
+Defined in: [WAProto/index.d.ts:26191](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26191)
 
 MMSThumbnailMetadata mediaKeyTimestamp
 
@@ -30,7 +30,7 @@ MMSThumbnailMetadata mediaKeyTimestamp
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26179](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26179)
+Defined in: [WAProto/index.d.ts:26179](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26179)
 
 MMSThumbnailMetadata thumbnailDirectPath
 
@@ -40,7 +40,7 @@ MMSThumbnailMetadata thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26185](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26185)
+Defined in: [WAProto/index.d.ts:26185](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26185)
 
 MMSThumbnailMetadata thumbnailEncSha256
 
@@ -50,7 +50,7 @@ MMSThumbnailMetadata thumbnailEncSha256
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26194](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26194)
+Defined in: [WAProto/index.d.ts:26194](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26194)
 
 MMSThumbnailMetadata thumbnailHeight
 
@@ -60,7 +60,7 @@ MMSThumbnailMetadata thumbnailHeight
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26182](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26182)
+Defined in: [WAProto/index.d.ts:26182](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26182)
 
 MMSThumbnailMetadata thumbnailSha256
 
@@ -70,6 +70,6 @@ MMSThumbnailMetadata thumbnailSha256
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26197](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L26197)
+Defined in: [WAProto/index.d.ts:26197](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L26197)
 
 MMSThumbnailMetadata thumbnailWidth

@@ -1,6 +1,6 @@
 # Interface: IDraftMessage
 
-Defined in: [WAProto/index.d.ts:7014](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7014)
+Defined in: [WAProto/index.d.ts:7014](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7014)
 
 Properties of a DraftMessage.
 
@@ -10,7 +10,7 @@ Properties of a DraftMessage.
 
 > `optional` **ctwaContext**: `null` \| [`ICtwaContextData`](../namespaces/DraftMessage/interfaces/ICtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7026](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7026)
+Defined in: [WAProto/index.d.ts:7026](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7026)
 
 DraftMessage ctwaContext
 
@@ -20,7 +20,7 @@ DraftMessage ctwaContext
 
 > `optional` **ctwaContextLinkData**: `null` \| [`ICtwaContextLinkData`](../namespaces/DraftMessage/interfaces/ICtwaContextLinkData.md)
 
-Defined in: [WAProto/index.d.ts:7023](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7023)
+Defined in: [WAProto/index.d.ts:7023](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7023)
 
 DraftMessage ctwaContextLinkData
 
@@ -30,7 +30,7 @@ DraftMessage ctwaContextLinkData
 
 > `optional` **omittedUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7020](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7020)
+Defined in: [WAProto/index.d.ts:7020](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7020)
 
 DraftMessage omittedUrl
 
@@ -40,7 +40,7 @@ DraftMessage omittedUrl
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7017](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7017)
+Defined in: [WAProto/index.d.ts:7017](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7017)
 
 DraftMessage text
 
@@ -50,6 +50,6 @@ DraftMessage text
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:7029](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L7029)
+Defined in: [WAProto/index.d.ts:7029](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L7029)
 
 DraftMessage timestamp

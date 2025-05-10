@@ -1,6 +1,6 @@
 # Class: PrivacySettingRelayAllCalls
 
-Defined in: [WAProto/index.d.ts:44884](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44884)
+Defined in: [WAProto/index.d.ts:44884](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44884)
 
 Represents a PrivacySettingRelayAllCalls.
 
@@ -14,7 +14,7 @@ Represents a PrivacySettingRelayAllCalls.
 
 > **new PrivacySettingRelayAllCalls**(`properties`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:44890](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44890)
+Defined in: [WAProto/index.d.ts:44890](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44890)
 
 Constructs a new PrivacySettingRelayAllCalls.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44893](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44893)
+Defined in: [WAProto/index.d.ts:44893](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44893)
 
 PrivacySettingRelayAllCalls isEnabled.
 
@@ -50,7 +50,7 @@ PrivacySettingRelayAllCalls isEnabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44963](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44963)
+Defined in: [WAProto/index.d.ts:44963](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44963)
 
 Converts this PrivacySettingRelayAllCalls to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:44900](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44900)
+Defined in: [WAProto/index.d.ts:44900](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44900)
 
 Creates a new PrivacySettingRelayAllCalls instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrivacySettingRelayAllCalls instance
 
 > `static` **decode**(`reader`, `length`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:44926](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44926)
+Defined in: [WAProto/index.d.ts:44926](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44926)
 
 Decodes a PrivacySettingRelayAllCalls message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:44935](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44935)
+Defined in: [WAProto/index.d.ts:44935](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44935)
 
 Decodes a PrivacySettingRelayAllCalls message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44908](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44908)
+Defined in: [WAProto/index.d.ts:44908](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44908)
 
 Encodes the specified PrivacySettingRelayAllCalls message. Does not implicitly [verify](PrivacySettingRelayAllCalls.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44916](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44916)
+Defined in: [WAProto/index.d.ts:44916](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44916)
 
 Encodes the specified PrivacySettingRelayAllCalls message, length delimited. Does not implicitly [verify](PrivacySettingRelayAllCalls.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:44949](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44949)
+Defined in: [WAProto/index.d.ts:44949](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44949)
 
 Creates a PrivacySettingRelayAllCalls message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrivacySettingRelayAllCalls
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44970](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44970)
+Defined in: [WAProto/index.d.ts:44970](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44970)
 
 Gets the default type url for PrivacySettingRelayAllCalls
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44957](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44957)
+Defined in: [WAProto/index.d.ts:44957](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44957)
 
 Creates a plain object from a PrivacySettingRelayAllCalls message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44942](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/WAProto/index.d.ts#L44942)
+Defined in: [WAProto/index.d.ts:44942](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L44942)
 
 Verifies a PrivacySettingRelayAllCalls message.
 

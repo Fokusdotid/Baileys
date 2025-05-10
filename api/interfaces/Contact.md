@@ -1,6 +1,6 @@
 # Interface: Contact
 
-Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L1)
+Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L1)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/Baileys/blob/
 
 > **id**: `string`
 
-Defined in: [src/Types/Contact.ts:2](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L2)
+Defined in: [src/Types/Contact.ts:2](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L2)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/Contact.ts:2](https://github.com/Fokusdotid/Baileys/blob/
 
 > `optional` **imgUrl**: `null` \| `string`
 
-Defined in: [src/Types/Contact.ts:19](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L19)
+Defined in: [src/Types/Contact.ts:19](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L19)
 
 Url of the profile picture of the contact
 
@@ -30,7 +30,7 @@ any other string => url of the profile picture
 
 > `optional` **lid**: `string`
 
-Defined in: [src/Types/Contact.ts:3](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L3)
+Defined in: [src/Types/Contact.ts:3](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L3)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/Types/Contact.ts:3](https://github.com/Fokusdotid/Baileys/blob/
 
 > `optional` **name**: `string`
 
-Defined in: [src/Types/Contact.ts:6](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L6)
+Defined in: [src/Types/Contact.ts:6](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L6)
 
 name of the contact, you have saved on your WA
 
@@ -48,7 +48,7 @@ name of the contact, you have saved on your WA
 
 > `optional` **notify**: `string`
 
-Defined in: [src/Types/Contact.ts:8](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L8)
+Defined in: [src/Types/Contact.ts:8](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L8)
 
 name of the contact, the contact has set on their own on WA
 
@@ -58,7 +58,7 @@ name of the contact, the contact has set on their own on WA
 
 > `optional` **pn**: `string`
 
-Defined in: [src/Types/Contact.ts:4](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L4)
+Defined in: [src/Types/Contact.ts:4](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L4)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [src/Types/Contact.ts:4](https://github.com/Fokusdotid/Baileys/blob/
 
 > `optional` **status**: `string`
 
-Defined in: [src/Types/Contact.ts:20](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L20)
+Defined in: [src/Types/Contact.ts:20](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L20)
 
 ***
 
@@ -74,6 +74,6 @@ Defined in: [src/Types/Contact.ts:20](https://github.com/Fokusdotid/Baileys/blob
 
 > `optional` **verifiedName**: `string`
 
-Defined in: [src/Types/Contact.ts:10](https://github.com/Fokusdotid/Baileys/blob/3533fb5d5a1e97f0cc8384505a121b389a346518/src/Types/Contact.ts#L10)
+Defined in: [src/Types/Contact.ts:10](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Types/Contact.ts#L10)
 
 I have no idea
