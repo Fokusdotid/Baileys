@@ -165,6 +165,10 @@ const startSock = async() => {
 			if(events.call) {
 				console.log('recv call event', events.call)
 			}
+			
+			if(events['group-participants.update']) {
+				console.log("group-participants.update:", events['group-participants.update']);
+			}
 
 			// history received
 			if(events['messaging-history.set']) {
