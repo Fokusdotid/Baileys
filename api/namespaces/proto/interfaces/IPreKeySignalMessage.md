@@ -1,6 +1,6 @@
 # Interface: IPreKeySignalMessage
 
-Defined in: [WAProto/index.d.ts:36979](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36979)
+Defined in: [WAProto/index.d.ts:36979](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36979)
 
 Properties of a PreKeySignalMessage.
 
@@ -10,7 +10,7 @@ Properties of a PreKeySignalMessage.
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36991](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36991)
+Defined in: [WAProto/index.d.ts:36991](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36991)
 
 PreKeySignalMessage baseKey
 
@@ -20,7 +20,7 @@ PreKeySignalMessage baseKey
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36994](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36994)
+Defined in: [WAProto/index.d.ts:36994](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36994)
 
 PreKeySignalMessage identityKey
 
@@ -30,7 +30,7 @@ PreKeySignalMessage identityKey
 
 > `optional` **message**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36997](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36997)
+Defined in: [WAProto/index.d.ts:36997](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36997)
 
 PreKeySignalMessage message
 
@@ -40,7 +40,7 @@ PreKeySignalMessage message
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36985](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36985)
+Defined in: [WAProto/index.d.ts:36985](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36985)
 
 PreKeySignalMessage preKeyId
 
@@ -50,7 +50,7 @@ PreKeySignalMessage preKeyId
 
 > `optional` **registrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36982](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36982)
+Defined in: [WAProto/index.d.ts:36982](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36982)
 
 PreKeySignalMessage registrationId
 
@@ -60,6 +60,6 @@ PreKeySignalMessage registrationId
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36988](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L36988)
+Defined in: [WAProto/index.d.ts:36988](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36988)
 
 PreKeySignalMessage signedPreKeyId

@@ -1,6 +1,6 @@
 # Interface: IDetails
 
-Defined in: [WAProto/index.d.ts:6689](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6689)
+Defined in: [WAProto/index.d.ts:6689](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6689)
 
 Properties of a Details.
 
@@ -10,7 +10,7 @@ Properties of a Details.
 
 > `optional` **issuerSerial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6695](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6695)
+Defined in: [WAProto/index.d.ts:6695](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6695)
 
 Details issuerSerial
 
@@ -20,7 +20,7 @@ Details issuerSerial
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:6698](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6698)
+Defined in: [WAProto/index.d.ts:6698](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6698)
 
 Details key
 
@@ -30,7 +30,7 @@ Details key
 
 > `optional` **notAfter**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6704](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6704)
+Defined in: [WAProto/index.d.ts:6704](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6704)
 
 Details notAfter
 
@@ -40,7 +40,7 @@ Details notAfter
 
 > `optional` **notBefore**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6701](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6701)
+Defined in: [WAProto/index.d.ts:6701](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6701)
 
 Details notBefore
 
@@ -50,6 +50,6 @@ Details notBefore
 
 > `optional` **serial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6692](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L6692)
+Defined in: [WAProto/index.d.ts:6692](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6692)
 
 Details serial

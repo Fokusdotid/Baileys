@@ -1,6 +1,6 @@
 # Class: AIRichResponseInlineImageMetadata
 
-Defined in: [WAProto/index.d.ts:1695](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1695)
+Defined in: [WAProto/index.d.ts:1695](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1695)
 
 Represents a AIRichResponseInlineImageMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseInlineImageMetadata.
 
 > **new AIRichResponseInlineImageMetadata**(`properties`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1701](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1701)
+Defined in: [WAProto/index.d.ts:1701](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1701)
 
 Constructs a new AIRichResponseInlineImageMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **alignment**: `null` \| [`AIRichResponseImageAlignment`](../namespaces/AIRichResponseInlineImageMetadata/enumerations/AIRichResponseImageAlignment.md)
 
-Defined in: [WAProto/index.d.ts:1710](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1710)
+Defined in: [WAProto/index.d.ts:1710](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1710)
 
 AIRichResponseInlineImageMetadata alignment.
 
@@ -50,7 +50,7 @@ AIRichResponseInlineImageMetadata alignment.
 
 > `optional` **imageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1707](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1707)
+Defined in: [WAProto/index.d.ts:1707](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1707)
 
 AIRichResponseInlineImageMetadata imageText.
 
@@ -64,7 +64,7 @@ AIRichResponseInlineImageMetadata imageText.
 
 > `optional` **imageUrl**: `null` \| [`IAIRichResponseImageURL`](../interfaces/IAIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1704](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1704)
+Defined in: [WAProto/index.d.ts:1704](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1704)
 
 AIRichResponseInlineImageMetadata imageUrl.
 
@@ -78,7 +78,7 @@ AIRichResponseInlineImageMetadata imageUrl.
 
 > `optional` **tapLinkUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1713](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1713)
+Defined in: [WAProto/index.d.ts:1713](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1713)
 
 AIRichResponseInlineImageMetadata tapLinkUrl.
 
@@ -92,7 +92,7 @@ AIRichResponseInlineImageMetadata tapLinkUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1783](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1783)
+Defined in: [WAProto/index.d.ts:1783](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1783)
 
 Converts this AIRichResponseInlineImageMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1720](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1720)
+Defined in: [WAProto/index.d.ts:1720](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1720)
 
 Creates a new AIRichResponseInlineImageMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ AIRichResponseInlineImageMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1746](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1746)
+Defined in: [WAProto/index.d.ts:1746](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1746)
 
 Decodes a AIRichResponseInlineImageMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1755](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1755)
+Defined in: [WAProto/index.d.ts:1755](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1755)
 
 Decodes a AIRichResponseInlineImageMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1728](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1728)
+Defined in: [WAProto/index.d.ts:1728](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1728)
 
 Encodes the specified AIRichResponseInlineImageMetadata message. Does not implicitly [verify](AIRichResponseInlineImageMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1736](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1736)
+Defined in: [WAProto/index.d.ts:1736](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1736)
 
 Encodes the specified AIRichResponseInlineImageMetadata message, length delimited. Does not implicitly [verify](AIRichResponseInlineImageMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1769](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1769)
+Defined in: [WAProto/index.d.ts:1769](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1769)
 
 Creates a AIRichResponseInlineImageMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AIRichResponseInlineImageMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1790](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1790)
+Defined in: [WAProto/index.d.ts:1790](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1790)
 
 Gets the default type url for AIRichResponseInlineImageMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1777](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1777)
+Defined in: [WAProto/index.d.ts:1777](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1777)
 
 Creates a plain object from a AIRichResponseInlineImageMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1762](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L1762)
+Defined in: [WAProto/index.d.ts:1762](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L1762)
 
 Verifies a AIRichResponseInlineImageMetadata message.
 

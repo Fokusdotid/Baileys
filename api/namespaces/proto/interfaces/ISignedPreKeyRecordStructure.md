@@ -1,6 +1,6 @@
 # Interface: ISignedPreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:39918](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39918)
+Defined in: [WAProto/index.d.ts:39918](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39918)
 
 Properties of a SignedPreKeyRecordStructure.
 
@@ -10,7 +10,7 @@ Properties of a SignedPreKeyRecordStructure.
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39921](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39921)
+Defined in: [WAProto/index.d.ts:39921](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39921)
 
 SignedPreKeyRecordStructure id
 
@@ -20,7 +20,7 @@ SignedPreKeyRecordStructure id
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39927](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39927)
+Defined in: [WAProto/index.d.ts:39927](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39927)
 
 SignedPreKeyRecordStructure privateKey
 
@@ -30,7 +30,7 @@ SignedPreKeyRecordStructure privateKey
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39924](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39924)
+Defined in: [WAProto/index.d.ts:39924](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39924)
 
 SignedPreKeyRecordStructure publicKey
 
@@ -40,7 +40,7 @@ SignedPreKeyRecordStructure publicKey
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39930](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39930)
+Defined in: [WAProto/index.d.ts:39930](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39930)
 
 SignedPreKeyRecordStructure signature
 
@@ -50,6 +50,6 @@ SignedPreKeyRecordStructure signature
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39933](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L39933)
+Defined in: [WAProto/index.d.ts:39933](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L39933)
 
 SignedPreKeyRecordStructure timestamp

@@ -1,6 +1,6 @@
 # Interface: IDeviceConsistencyCodeMessage
 
-Defined in: [WAProto/index.d.ts:11518](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L11518)
+Defined in: [WAProto/index.d.ts:11518](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L11518)
 
 Properties of a DeviceConsistencyCodeMessage.
 
@@ -10,7 +10,7 @@ Properties of a DeviceConsistencyCodeMessage.
 
 > `optional` **generation**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11521](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L11521)
+Defined in: [WAProto/index.d.ts:11521](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L11521)
 
 DeviceConsistencyCodeMessage generation
 
@@ -20,6 +20,6 @@ DeviceConsistencyCodeMessage generation
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:11524](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L11524)
+Defined in: [WAProto/index.d.ts:11524](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L11524)
 
 DeviceConsistencyCodeMessage signature

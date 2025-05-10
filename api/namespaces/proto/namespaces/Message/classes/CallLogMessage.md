@@ -1,6 +1,6 @@
 # Class: CallLogMessage
 
-Defined in: [WAProto/index.d.ts:19419](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19419)
+Defined in: [WAProto/index.d.ts:19419](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19419)
 
 Represents a CallLogMessage.
 
@@ -14,7 +14,7 @@ Represents a CallLogMessage.
 
 > **new CallLogMessage**(`properties`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:19425](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19425)
+Defined in: [WAProto/index.d.ts:19425](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19425)
 
 Constructs a new CallLogMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callOutcome**: `null` \| [`CallOutcome`](../namespaces/CallLogMessage/enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:19431](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19431)
+Defined in: [WAProto/index.d.ts:19431](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19431)
 
 CallLogMessage callOutcome.
 
@@ -50,7 +50,7 @@ CallLogMessage callOutcome.
 
 > `optional` **callType**: `null` \| [`CallType`](../namespaces/CallLogMessage/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:19437](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19437)
+Defined in: [WAProto/index.d.ts:19437](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19437)
 
 CallLogMessage callType.
 
@@ -64,7 +64,7 @@ CallLogMessage callType.
 
 > `optional` **durationSecs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:19434](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19434)
+Defined in: [WAProto/index.d.ts:19434](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19434)
 
 CallLogMessage durationSecs.
 
@@ -78,7 +78,7 @@ CallLogMessage durationSecs.
 
 > `optional` **isVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:19428](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19428)
+Defined in: [WAProto/index.d.ts:19428](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19428)
 
 CallLogMessage isVideo.
 
@@ -92,7 +92,7 @@ CallLogMessage isVideo.
 
 > **participants**: [`ICallParticipant`](../namespaces/CallLogMessage/interfaces/ICallParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:19440](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19440)
+Defined in: [WAProto/index.d.ts:19440](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19440)
 
 CallLogMessage participants.
 
@@ -106,7 +106,7 @@ CallLogMessage participants.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19510](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19510)
+Defined in: [WAProto/index.d.ts:19510](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19510)
 
 Converts this CallLogMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:19447](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19447)
+Defined in: [WAProto/index.d.ts:19447](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19447)
 
 Creates a new CallLogMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ CallLogMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:19473](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19473)
+Defined in: [WAProto/index.d.ts:19473](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19473)
 
 Decodes a CallLogMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:19482](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19482)
+Defined in: [WAProto/index.d.ts:19482](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19482)
 
 Decodes a CallLogMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19455](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19455)
+Defined in: [WAProto/index.d.ts:19455](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19455)
 
 Encodes the specified CallLogMessage message. Does not implicitly [verify](CallLogMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19463](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19463)
+Defined in: [WAProto/index.d.ts:19463](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19463)
 
 Encodes the specified CallLogMessage message, length delimited. Does not implicitly [verify](CallLogMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:19496](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19496)
+Defined in: [WAProto/index.d.ts:19496](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19496)
 
 Creates a CallLogMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ CallLogMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19517](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19517)
+Defined in: [WAProto/index.d.ts:19517](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19517)
 
 Gets the default type url for CallLogMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19504](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19504)
+Defined in: [WAProto/index.d.ts:19504](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19504)
 
 Creates a plain object from a CallLogMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19489](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L19489)
+Defined in: [WAProto/index.d.ts:19489](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19489)
 
 Verifies a CallLogMessage message.
 

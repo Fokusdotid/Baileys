@@ -1,6 +1,6 @@
 # Enumeration: AttachmentType
 
-Defined in: [WAProto/index.d.ts:24746](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L24746)
+Defined in: [WAProto/index.d.ts:24746](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L24746)
 
 AttachmentType enum.
 
@@ -10,7 +10,7 @@ AttachmentType enum.
 
 > **IMAGE**: `0`
 
-Defined in: [WAProto/index.d.ts:24747](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L24747)
+Defined in: [WAProto/index.d.ts:24747](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L24747)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:24747](https://github.com/Fokusdotid/Baileys/blo
 
 > **PDF**: `1`
 
-Defined in: [WAProto/index.d.ts:24748](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L24748)
+Defined in: [WAProto/index.d.ts:24748](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L24748)

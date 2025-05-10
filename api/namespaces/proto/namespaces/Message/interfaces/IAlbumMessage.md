@@ -1,6 +1,6 @@
 # Interface: IAlbumMessage
 
-Defined in: [WAProto/index.d.ts:17347](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L17347)
+Defined in: [WAProto/index.d.ts:17347](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17347)
 
 Properties of an AlbumMessage.
 
@@ -10,7 +10,7 @@ Properties of an AlbumMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:17356](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L17356)
+Defined in: [WAProto/index.d.ts:17356](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17356)
 
 AlbumMessage contextInfo
 
@@ -20,7 +20,7 @@ AlbumMessage contextInfo
 
 > `optional` **expectedImageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17350](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L17350)
+Defined in: [WAProto/index.d.ts:17350](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17350)
 
 AlbumMessage expectedImageCount
 
@@ -30,6 +30,6 @@ AlbumMessage expectedImageCount
 
 > `optional` **expectedVideoCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17353](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L17353)
+Defined in: [WAProto/index.d.ts:17353](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17353)
 
 AlbumMessage expectedVideoCount

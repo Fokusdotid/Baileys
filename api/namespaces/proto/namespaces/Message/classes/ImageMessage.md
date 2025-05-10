@@ -1,6 +1,6 @@
 # Class: ImageMessage
 
-Defined in: [WAProto/index.d.ts:22935](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22935)
+Defined in: [WAProto/index.d.ts:22935](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22935)
 
 Represents an ImageMessage.
 
@@ -14,7 +14,7 @@ Represents an ImageMessage.
 
 > **new ImageMessage**(`properties`?): [`ImageMessage`](ImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:22941](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22941)
+Defined in: [WAProto/index.d.ts:22941](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22941)
 
 Constructs a new ImageMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23028](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23028)
+Defined in: [WAProto/index.d.ts:23028](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23028)
 
 ImageMessage accessibilityLabel.
 
@@ -50,7 +50,7 @@ ImageMessage accessibilityLabel.
 
 > **annotations**: [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:23022](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23022)
+Defined in: [WAProto/index.d.ts:23022](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23022)
 
 ImageMessage annotations.
 
@@ -64,7 +64,7 @@ ImageMessage annotations.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22950](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22950)
+Defined in: [WAProto/index.d.ts:22950](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22950)
 
 ImageMessage caption.
 
@@ -78,7 +78,7 @@ ImageMessage caption.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:22983](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22983)
+Defined in: [WAProto/index.d.ts:22983](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22983)
 
 ImageMessage contextInfo.
 
@@ -92,7 +92,7 @@ ImageMessage contextInfo.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22974](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22974)
+Defined in: [WAProto/index.d.ts:22974](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22974)
 
 ImageMessage directPath.
 
@@ -106,7 +106,7 @@ ImageMessage directPath.
 
 > `optional` **experimentGroupId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22992](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22992)
+Defined in: [WAProto/index.d.ts:22992](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22992)
 
 ImageMessage experimentGroupId.
 
@@ -120,7 +120,7 @@ ImageMessage experimentGroupId.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22968](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22968)
+Defined in: [WAProto/index.d.ts:22968](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22968)
 
 ImageMessage fileEncSha256.
 
@@ -134,7 +134,7 @@ ImageMessage fileEncSha256.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22956](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22956)
+Defined in: [WAProto/index.d.ts:22956](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22956)
 
 ImageMessage fileLength.
 
@@ -148,7 +148,7 @@ ImageMessage fileLength.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22953](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22953)
+Defined in: [WAProto/index.d.ts:22953](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22953)
 
 ImageMessage fileSha256.
 
@@ -162,7 +162,7 @@ ImageMessage fileSha256.
 
 > `optional` **firstScanLength**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22989](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22989)
+Defined in: [WAProto/index.d.ts:22989](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22989)
 
 ImageMessage firstScanLength.
 
@@ -176,7 +176,7 @@ ImageMessage firstScanLength.
 
 > `optional` **firstScanSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22986](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22986)
+Defined in: [WAProto/index.d.ts:22986](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22986)
 
 ImageMessage firstScanSidecar.
 
@@ -190,7 +190,7 @@ ImageMessage firstScanSidecar.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22959](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22959)
+Defined in: [WAProto/index.d.ts:22959](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22959)
 
 ImageMessage height.
 
@@ -204,7 +204,7 @@ ImageMessage height.
 
 > `optional` **imageSourceType**: `null` \| [`ImageSourceType`](../namespaces/ImageMessage/enumerations/ImageSourceType.md)
 
-Defined in: [WAProto/index.d.ts:23025](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23025)
+Defined in: [WAProto/index.d.ts:23025](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23025)
 
 ImageMessage imageSourceType.
 
@@ -218,7 +218,7 @@ ImageMessage imageSourceType.
 
 > **interactiveAnnotations**: [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:22971](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22971)
+Defined in: [WAProto/index.d.ts:22971](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22971)
 
 ImageMessage interactiveAnnotations.
 
@@ -232,7 +232,7 @@ ImageMessage interactiveAnnotations.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22980](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22980)
+Defined in: [WAProto/index.d.ts:22980](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22980)
 
 ImageMessage jpegThumbnail.
 
@@ -246,7 +246,7 @@ ImageMessage jpegThumbnail.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22965](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22965)
+Defined in: [WAProto/index.d.ts:22965](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22965)
 
 ImageMessage mediaKey.
 
@@ -260,7 +260,7 @@ ImageMessage mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22977](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22977)
+Defined in: [WAProto/index.d.ts:22977](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22977)
 
 ImageMessage mediaKeyTimestamp.
 
@@ -274,7 +274,7 @@ ImageMessage mediaKeyTimestamp.
 
 > `optional` **midQualityFileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23004](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23004)
+Defined in: [WAProto/index.d.ts:23004](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23004)
 
 ImageMessage midQualityFileEncSha256.
 
@@ -288,7 +288,7 @@ ImageMessage midQualityFileEncSha256.
 
 > `optional` **midQualityFileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23001](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23001)
+Defined in: [WAProto/index.d.ts:23001](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23001)
 
 ImageMessage midQualityFileSha256.
 
@@ -302,7 +302,7 @@ ImageMessage midQualityFileSha256.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22947](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22947)
+Defined in: [WAProto/index.d.ts:22947](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22947)
 
 ImageMessage mimetype.
 
@@ -316,7 +316,7 @@ ImageMessage mimetype.
 
 > **scanLengths**: `number`[]
 
-Defined in: [WAProto/index.d.ts:22998](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22998)
+Defined in: [WAProto/index.d.ts:22998](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22998)
 
 ImageMessage scanLengths.
 
@@ -330,7 +330,7 @@ ImageMessage scanLengths.
 
 > `optional` **scansSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22995](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22995)
+Defined in: [WAProto/index.d.ts:22995](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22995)
 
 ImageMessage scansSidecar.
 
@@ -344,7 +344,7 @@ ImageMessage scansSidecar.
 
 > `optional` **staticUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23019](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23019)
+Defined in: [WAProto/index.d.ts:23019](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23019)
 
 ImageMessage staticUrl.
 
@@ -358,7 +358,7 @@ ImageMessage staticUrl.
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23010](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23010)
+Defined in: [WAProto/index.d.ts:23010](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23010)
 
 ImageMessage thumbnailDirectPath.
 
@@ -372,7 +372,7 @@ ImageMessage thumbnailDirectPath.
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23016](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23016)
+Defined in: [WAProto/index.d.ts:23016](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23016)
 
 ImageMessage thumbnailEncSha256.
 
@@ -386,7 +386,7 @@ ImageMessage thumbnailEncSha256.
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23013](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23013)
+Defined in: [WAProto/index.d.ts:23013](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23013)
 
 ImageMessage thumbnailSha256.
 
@@ -400,7 +400,7 @@ ImageMessage thumbnailSha256.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22944](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22944)
+Defined in: [WAProto/index.d.ts:22944](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22944)
 
 ImageMessage url.
 
@@ -414,7 +414,7 @@ ImageMessage url.
 
 > `optional` **viewOnce**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:23007](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23007)
+Defined in: [WAProto/index.d.ts:23007](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23007)
 
 ImageMessage viewOnce.
 
@@ -428,7 +428,7 @@ ImageMessage viewOnce.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22962](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22962)
+Defined in: [WAProto/index.d.ts:22962](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22962)
 
 ImageMessage width.
 
@@ -442,7 +442,7 @@ ImageMessage width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23098](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23098)
+Defined in: [WAProto/index.d.ts:23098](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23098)
 
 Converts this ImageMessage to JSON.
 
@@ -458,7 +458,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ImageMessage`](ImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23035](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23035)
+Defined in: [WAProto/index.d.ts:23035](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23035)
 
 Creates a new ImageMessage instance using the specified properties.
 
@@ -482,7 +482,7 @@ ImageMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ImageMessage`](ImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23061](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23061)
+Defined in: [WAProto/index.d.ts:23061](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23061)
 
 Decodes an ImageMessage message from the specified reader or buffer.
 
@@ -520,7 +520,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ImageMessage`](ImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23070](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23070)
+Defined in: [WAProto/index.d.ts:23070](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23070)
 
 Decodes an ImageMessage message from the specified reader or buffer, length delimited.
 
@@ -552,7 +552,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23043](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23043)
+Defined in: [WAProto/index.d.ts:23043](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23043)
 
 Encodes the specified ImageMessage message. Does not implicitly [verify](ImageMessage.md#verify) messages.
 
@@ -582,7 +582,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23051](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23051)
+Defined in: [WAProto/index.d.ts:23051](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23051)
 
 Encodes the specified ImageMessage message, length delimited. Does not implicitly [verify](ImageMessage.md#verify) messages.
 
@@ -612,7 +612,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ImageMessage`](ImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23084](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23084)
+Defined in: [WAProto/index.d.ts:23084](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23084)
 
 Creates an ImageMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -634,7 +634,7 @@ ImageMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23105](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23105)
+Defined in: [WAProto/index.d.ts:23105](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23105)
 
 Gets the default type url for ImageMessage
 
@@ -658,7 +658,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23092](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23092)
+Defined in: [WAProto/index.d.ts:23092](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23092)
 
 Creates a plain object from an ImageMessage message. Also converts values to other types if specified.
 
@@ -688,7 +688,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23077](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L23077)
+Defined in: [WAProto/index.d.ts:23077](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L23077)
 
 Verifies an ImageMessage message.
 

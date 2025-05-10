@@ -1,6 +1,6 @@
 # Class: AIRichResponseSubMessage
 
-Defined in: [WAProto/index.d.ts:2322](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2322)
+Defined in: [WAProto/index.d.ts:2322](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2322)
 
 Represents a AIRichResponseSubMessage.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseSubMessage.
 
 > **new AIRichResponseSubMessage**(`properties`?): [`AIRichResponseSubMessage`](AIRichResponseSubMessage.md)
 
-Defined in: [WAProto/index.d.ts:2328](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2328)
+Defined in: [WAProto/index.d.ts:2328](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2328)
 
 Constructs a new AIRichResponseSubMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **codeMetadata**: `null` \| [`IAIRichResponseCodeMetadata`](../interfaces/IAIRichResponseCodeMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2343](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2343)
+Defined in: [WAProto/index.d.ts:2343](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2343)
 
 AIRichResponseSubMessage codeMetadata.
 
@@ -50,7 +50,7 @@ AIRichResponseSubMessage codeMetadata.
 
 > `optional` **contentItemsMetadata**: `null` \| [`IAIRichResponseContentItemsMetadata`](../interfaces/IAIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2358](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2358)
+Defined in: [WAProto/index.d.ts:2358](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2358)
 
 AIRichResponseSubMessage contentItemsMetadata.
 
@@ -64,7 +64,7 @@ AIRichResponseSubMessage contentItemsMetadata.
 
 > `optional` **dynamicMetadata**: `null` \| [`IAIRichResponseDynamicMetadata`](../interfaces/IAIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2349](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2349)
+Defined in: [WAProto/index.d.ts:2349](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2349)
 
 AIRichResponseSubMessage dynamicMetadata.
 
@@ -78,7 +78,7 @@ AIRichResponseSubMessage dynamicMetadata.
 
 > `optional` **gridImageMetadata**: `null` \| [`IAIRichResponseGridImageMetadata`](../interfaces/IAIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2334](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2334)
+Defined in: [WAProto/index.d.ts:2334](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2334)
 
 AIRichResponseSubMessage gridImageMetadata.
 
@@ -92,7 +92,7 @@ AIRichResponseSubMessage gridImageMetadata.
 
 > `optional` **imageMetadata**: `null` \| [`IAIRichResponseInlineImageMetadata`](../interfaces/IAIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2340](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2340)
+Defined in: [WAProto/index.d.ts:2340](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2340)
 
 AIRichResponseSubMessage imageMetadata.
 
@@ -106,7 +106,7 @@ AIRichResponseSubMessage imageMetadata.
 
 > `optional` **latexMetadata**: `null` \| [`IAIRichResponseLatexMetadata`](../interfaces/IAIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2352](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2352)
+Defined in: [WAProto/index.d.ts:2352](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2352)
 
 AIRichResponseSubMessage latexMetadata.
 
@@ -120,7 +120,7 @@ AIRichResponseSubMessage latexMetadata.
 
 > `optional` **mapMetadata**: `null` \| [`IAIRichResponseMapMetadata`](../interfaces/IAIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2355](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2355)
+Defined in: [WAProto/index.d.ts:2355](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2355)
 
 AIRichResponseSubMessage mapMetadata.
 
@@ -134,7 +134,7 @@ AIRichResponseSubMessage mapMetadata.
 
 > `optional` **messageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2337](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2337)
+Defined in: [WAProto/index.d.ts:2337](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2337)
 
 AIRichResponseSubMessage messageText.
 
@@ -148,7 +148,7 @@ AIRichResponseSubMessage messageText.
 
 > `optional` **messageType**: `null` \| [`AIRichResponseSubMessageType`](../enumerations/AIRichResponseSubMessageType.md)
 
-Defined in: [WAProto/index.d.ts:2331](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2331)
+Defined in: [WAProto/index.d.ts:2331](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2331)
 
 AIRichResponseSubMessage messageType.
 
@@ -162,7 +162,7 @@ AIRichResponseSubMessage messageType.
 
 > `optional` **tableMetadata**: `null` \| [`IAIRichResponseTableMetadata`](../interfaces/IAIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2346](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2346)
+Defined in: [WAProto/index.d.ts:2346](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2346)
 
 AIRichResponseSubMessage tableMetadata.
 
@@ -176,7 +176,7 @@ AIRichResponseSubMessage tableMetadata.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2428](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2428)
+Defined in: [WAProto/index.d.ts:2428](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2428)
 
 Converts this AIRichResponseSubMessage to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseSubMessage`](AIRichResponseSubMessage.md)
 
-Defined in: [WAProto/index.d.ts:2365](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2365)
+Defined in: [WAProto/index.d.ts:2365](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2365)
 
 Creates a new AIRichResponseSubMessage instance using the specified properties.
 
@@ -216,7 +216,7 @@ AIRichResponseSubMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseSubMessage`](AIRichResponseSubMessage.md)
 
-Defined in: [WAProto/index.d.ts:2391](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2391)
+Defined in: [WAProto/index.d.ts:2391](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2391)
 
 Decodes a AIRichResponseSubMessage message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseSubMessage`](AIRichResponseSubMessage.md)
 
-Defined in: [WAProto/index.d.ts:2400](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2400)
+Defined in: [WAProto/index.d.ts:2400](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2400)
 
 Decodes a AIRichResponseSubMessage message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2373](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2373)
+Defined in: [WAProto/index.d.ts:2373](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2373)
 
 Encodes the specified AIRichResponseSubMessage message. Does not implicitly [verify](AIRichResponseSubMessage.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2381](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2381)
+Defined in: [WAProto/index.d.ts:2381](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2381)
 
 Encodes the specified AIRichResponseSubMessage message, length delimited. Does not implicitly [verify](AIRichResponseSubMessage.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseSubMessage`](AIRichResponseSubMessage.md)
 
-Defined in: [WAProto/index.d.ts:2414](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2414)
+Defined in: [WAProto/index.d.ts:2414](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2414)
 
 Creates a AIRichResponseSubMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ AIRichResponseSubMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2435](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2435)
+Defined in: [WAProto/index.d.ts:2435](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2435)
 
 Gets the default type url for AIRichResponseSubMessage
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2422](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2422)
+Defined in: [WAProto/index.d.ts:2422](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2422)
 
 Creates a plain object from a AIRichResponseSubMessage message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2407](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L2407)
+Defined in: [WAProto/index.d.ts:2407](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2407)
 
 Verifies a AIRichResponseSubMessage message.
 

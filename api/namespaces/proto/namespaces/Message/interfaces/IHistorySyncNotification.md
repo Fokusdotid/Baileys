@@ -1,6 +1,6 @@
 # Interface: IHistorySyncNotification
 
-Defined in: [WAProto/index.d.ts:22654](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22654)
+Defined in: [WAProto/index.d.ts:22654](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22654)
 
 Properties of a HistorySyncNotification.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncNotification.
 
 > `optional` **chunkOrder**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22675](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22675)
+Defined in: [WAProto/index.d.ts:22675](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22675)
 
 HistorySyncNotification chunkOrder
 
@@ -20,7 +20,7 @@ HistorySyncNotification chunkOrder
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22669](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22669)
+Defined in: [WAProto/index.d.ts:22669](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22669)
 
 HistorySyncNotification directPath
 
@@ -30,7 +30,7 @@ HistorySyncNotification directPath
 
 > `optional` **encHandle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22696](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22696)
+Defined in: [WAProto/index.d.ts:22696](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22696)
 
 HistorySyncNotification encHandle
 
@@ -40,7 +40,7 @@ HistorySyncNotification encHandle
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22666](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22666)
+Defined in: [WAProto/index.d.ts:22666](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22666)
 
 HistorySyncNotification fileEncSha256
 
@@ -50,7 +50,7 @@ HistorySyncNotification fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22660](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22660)
+Defined in: [WAProto/index.d.ts:22660](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22660)
 
 HistorySyncNotification fileLength
 
@@ -60,7 +60,7 @@ HistorySyncNotification fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22657](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22657)
+Defined in: [WAProto/index.d.ts:22657](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22657)
 
 HistorySyncNotification fileSha256
 
@@ -70,7 +70,7 @@ HistorySyncNotification fileSha256
 
 > `optional` **fullHistorySyncOnDemandRequestMetadata**: `null` \| [`IFullHistorySyncOnDemandRequestMetadata`](IFullHistorySyncOnDemandRequestMetadata.md)
 
-Defined in: [WAProto/index.d.ts:22693](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22693)
+Defined in: [WAProto/index.d.ts:22693](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22693)
 
 HistorySyncNotification fullHistorySyncOnDemandRequestMetadata
 
@@ -80,7 +80,7 @@ HistorySyncNotification fullHistorySyncOnDemandRequestMetadata
 
 > `optional` **initialHistBootstrapInlinePayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22687](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22687)
+Defined in: [WAProto/index.d.ts:22687](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22687)
 
 HistorySyncNotification initialHistBootstrapInlinePayload
 
@@ -90,7 +90,7 @@ HistorySyncNotification initialHistBootstrapInlinePayload
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22663](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22663)
+Defined in: [WAProto/index.d.ts:22663](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22663)
 
 HistorySyncNotification mediaKey
 
@@ -100,7 +100,7 @@ HistorySyncNotification mediaKey
 
 > `optional` **oldestMsgInChunkTimestampSec**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22684](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22684)
+Defined in: [WAProto/index.d.ts:22684](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22684)
 
 HistorySyncNotification oldestMsgInChunkTimestampSec
 
@@ -110,7 +110,7 @@ HistorySyncNotification oldestMsgInChunkTimestampSec
 
 > `optional` **originalMessageId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22678](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22678)
+Defined in: [WAProto/index.d.ts:22678](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22678)
 
 HistorySyncNotification originalMessageId
 
@@ -120,7 +120,7 @@ HistorySyncNotification originalMessageId
 
 > `optional` **peerDataRequestSessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22690](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22690)
+Defined in: [WAProto/index.d.ts:22690](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22690)
 
 HistorySyncNotification peerDataRequestSessionId
 
@@ -130,7 +130,7 @@ HistorySyncNotification peerDataRequestSessionId
 
 > `optional` **progress**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22681](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22681)
+Defined in: [WAProto/index.d.ts:22681](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22681)
 
 HistorySyncNotification progress
 
@@ -140,6 +140,6 @@ HistorySyncNotification progress
 
 > `optional` **syncType**: `null` \| [`HistorySyncType`](../namespaces/HistorySyncNotification/enumerations/HistorySyncType.md)
 
-Defined in: [WAProto/index.d.ts:22672](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L22672)
+Defined in: [WAProto/index.d.ts:22672](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L22672)
 
 HistorySyncNotification syncType

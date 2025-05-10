@@ -1,6 +1,6 @@
 # Enumeration: ReminderAction
 
-Defined in: [WAProto/index.d.ts:5712](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L5712)
+Defined in: [WAProto/index.d.ts:5712](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5712)
 
 ReminderAction enum.
 
@@ -10,7 +10,7 @@ ReminderAction enum.
 
 > **CREATE**: `2`
 
-Defined in: [WAProto/index.d.ts:5714](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L5714)
+Defined in: [WAProto/index.d.ts:5714](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5714)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5714](https://github.com/Fokusdotid/Baileys/blob
 
 > **DELETE**: `3`
 
-Defined in: [WAProto/index.d.ts:5715](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L5715)
+Defined in: [WAProto/index.d.ts:5715](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5715)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5715](https://github.com/Fokusdotid/Baileys/blob
 
 > **NOTIFY**: `1`
 
-Defined in: [WAProto/index.d.ts:5713](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L5713)
+Defined in: [WAProto/index.d.ts:5713](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5713)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5713](https://github.com/Fokusdotid/Baileys/blob
 
 > **UPDATE**: `4`
 
-Defined in: [WAProto/index.d.ts:5716](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L5716)
+Defined in: [WAProto/index.d.ts:5716](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5716)

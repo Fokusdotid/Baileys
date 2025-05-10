@@ -1,6 +1,6 @@
 # Interface: IDetails
 
-Defined in: [WAProto/index.d.ts:34713](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34713)
+Defined in: [WAProto/index.d.ts:34713](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34713)
 
 Properties of a Details.
 
@@ -10,7 +10,7 @@ Properties of a Details.
 
 > `optional` **expires**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:34722](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34722)
+Defined in: [WAProto/index.d.ts:34722](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34722)
 
 Details expires
 
@@ -20,7 +20,7 @@ Details expires
 
 > `optional` **issuer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34719](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34719)
+Defined in: [WAProto/index.d.ts:34719](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34719)
 
 Details issuer
 
@@ -30,7 +30,7 @@ Details issuer
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34728](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34728)
+Defined in: [WAProto/index.d.ts:34728](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34728)
 
 Details key
 
@@ -40,7 +40,7 @@ Details key
 
 > `optional` **serial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34716](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34716)
+Defined in: [WAProto/index.d.ts:34716](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34716)
 
 Details serial
 
@@ -50,6 +50,6 @@ Details serial
 
 > `optional` **subject**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34725](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L34725)
+Defined in: [WAProto/index.d.ts:34725](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L34725)
 
 Details subject

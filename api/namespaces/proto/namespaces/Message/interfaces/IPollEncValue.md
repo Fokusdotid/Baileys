@@ -1,6 +1,6 @@
 # Interface: IPollEncValue
 
-Defined in: [WAProto/index.d.ts:28958](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L28958)
+Defined in: [WAProto/index.d.ts:28958](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L28958)
 
 Properties of a PollEncValue.
 
@@ -10,7 +10,7 @@ Properties of a PollEncValue.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28964](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L28964)
+Defined in: [WAProto/index.d.ts:28964](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L28964)
 
 PollEncValue encIv
 
@@ -20,6 +20,6 @@ PollEncValue encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28961](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L28961)
+Defined in: [WAProto/index.d.ts:28961](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L28961)
 
 PollEncValue encPayload

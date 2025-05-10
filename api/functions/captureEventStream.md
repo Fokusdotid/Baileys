@@ -2,7 +2,7 @@
 
 > **captureEventStream**(`ev`, `filename`): `void`
 
-Defined in: [src/Utils/baileys-event-stream.ts:14](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/src/Utils/baileys-event-stream.ts#L14)
+Defined in: [src/Utils/baileys-event-stream.ts:14](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/src/Utils/baileys-event-stream.ts#L14)
 
 Captures events from a baileys event emitter & stores them in a file
 

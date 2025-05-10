@@ -1,6 +1,6 @@
 # Class: ADVSignedDeviceIdentityHMAC
 
-Defined in: [WAProto/index.d.ts:383](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L383)
+Defined in: [WAProto/index.d.ts:383](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L383)
 
 Represents a ADVSignedDeviceIdentityHMAC.
 
@@ -14,7 +14,7 @@ Represents a ADVSignedDeviceIdentityHMAC.
 
 > **new ADVSignedDeviceIdentityHMAC**(`properties`?): [`ADVSignedDeviceIdentityHMAC`](ADVSignedDeviceIdentityHMAC.md)
 
-Defined in: [WAProto/index.d.ts:389](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L389)
+Defined in: [WAProto/index.d.ts:389](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L389)
 
 Constructs a new ADVSignedDeviceIdentityHMAC.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:398](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L398)
+Defined in: [WAProto/index.d.ts:398](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L398)
 
 ADVSignedDeviceIdentityHMAC accountType.
 
@@ -50,7 +50,7 @@ ADVSignedDeviceIdentityHMAC accountType.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:392](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L392)
+Defined in: [WAProto/index.d.ts:392](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L392)
 
 ADVSignedDeviceIdentityHMAC details.
 
@@ -64,7 +64,7 @@ ADVSignedDeviceIdentityHMAC details.
 
 > `optional` **hmac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:395](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L395)
+Defined in: [WAProto/index.d.ts:395](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L395)
 
 ADVSignedDeviceIdentityHMAC hmac.
 
@@ -78,7 +78,7 @@ ADVSignedDeviceIdentityHMAC hmac.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:468](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L468)
+Defined in: [WAProto/index.d.ts:468](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L468)
 
 Converts this ADVSignedDeviceIdentityHMAC to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ADVSignedDeviceIdentityHMAC`](ADVSignedDeviceIdentityHMAC.md)
 
-Defined in: [WAProto/index.d.ts:405](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L405)
+Defined in: [WAProto/index.d.ts:405](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L405)
 
 Creates a new ADVSignedDeviceIdentityHMAC instance using the specified properties.
 
@@ -118,7 +118,7 @@ ADVSignedDeviceIdentityHMAC instance
 
 > `static` **decode**(`reader`, `length`?): [`ADVSignedDeviceIdentityHMAC`](ADVSignedDeviceIdentityHMAC.md)
 
-Defined in: [WAProto/index.d.ts:431](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L431)
+Defined in: [WAProto/index.d.ts:431](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L431)
 
 Decodes a ADVSignedDeviceIdentityHMAC message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ADVSignedDeviceIdentityHMAC`](ADVSignedDeviceIdentityHMAC.md)
 
-Defined in: [WAProto/index.d.ts:440](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L440)
+Defined in: [WAProto/index.d.ts:440](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L440)
 
 Decodes a ADVSignedDeviceIdentityHMAC message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:413](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L413)
+Defined in: [WAProto/index.d.ts:413](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L413)
 
 Encodes the specified ADVSignedDeviceIdentityHMAC message. Does not implicitly [verify](ADVSignedDeviceIdentityHMAC.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:421](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L421)
+Defined in: [WAProto/index.d.ts:421](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L421)
 
 Encodes the specified ADVSignedDeviceIdentityHMAC message, length delimited. Does not implicitly [verify](ADVSignedDeviceIdentityHMAC.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ADVSignedDeviceIdentityHMAC`](ADVSignedDeviceIdentityHMAC.md)
 
-Defined in: [WAProto/index.d.ts:454](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L454)
+Defined in: [WAProto/index.d.ts:454](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L454)
 
 Creates a ADVSignedDeviceIdentityHMAC message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ADVSignedDeviceIdentityHMAC
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:475](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L475)
+Defined in: [WAProto/index.d.ts:475](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L475)
 
 Gets the default type url for ADVSignedDeviceIdentityHMAC
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:462](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L462)
+Defined in: [WAProto/index.d.ts:462](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L462)
 
 Creates a plain object from a ADVSignedDeviceIdentityHMAC message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:447](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L447)
+Defined in: [WAProto/index.d.ts:447](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L447)
 
 Verifies a ADVSignedDeviceIdentityHMAC message.
 

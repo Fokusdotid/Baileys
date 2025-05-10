@@ -1,6 +1,6 @@
 # Class: BotMetricsMetadata
 
-Defined in: [WAProto/index.d.ts:4631](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4631)
+Defined in: [WAProto/index.d.ts:4631](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4631)
 
 Represents a BotMetricsMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMetricsMetadata.
 
 > **new BotMetricsMetadata**(`properties`?): [`BotMetricsMetadata`](BotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4637](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4637)
+Defined in: [WAProto/index.d.ts:4637](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4637)
 
 Constructs a new BotMetricsMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **destinationEntryPoint**: `null` \| [`BotMetricsEntryPoint`](../enumerations/BotMetricsEntryPoint.md)
 
-Defined in: [WAProto/index.d.ts:4643](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4643)
+Defined in: [WAProto/index.d.ts:4643](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4643)
 
 BotMetricsMetadata destinationEntryPoint.
 
@@ -50,7 +50,7 @@ BotMetricsMetadata destinationEntryPoint.
 
 > `optional` **destinationId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4640](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4640)
+Defined in: [WAProto/index.d.ts:4640](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4640)
 
 BotMetricsMetadata destinationId.
 
@@ -64,7 +64,7 @@ BotMetricsMetadata destinationId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4713](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4713)
+Defined in: [WAProto/index.d.ts:4713](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4713)
 
 Converts this BotMetricsMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMetricsMetadata`](BotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4650](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4650)
+Defined in: [WAProto/index.d.ts:4650](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4650)
 
 Creates a new BotMetricsMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotMetricsMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMetricsMetadata`](BotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4676](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4676)
+Defined in: [WAProto/index.d.ts:4676](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4676)
 
 Decodes a BotMetricsMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMetricsMetadata`](BotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4685](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4685)
+Defined in: [WAProto/index.d.ts:4685](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4685)
 
 Decodes a BotMetricsMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4658](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4658)
+Defined in: [WAProto/index.d.ts:4658](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4658)
 
 Encodes the specified BotMetricsMetadata message. Does not implicitly [verify](BotMetricsMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4666](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4666)
+Defined in: [WAProto/index.d.ts:4666](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4666)
 
 Encodes the specified BotMetricsMetadata message, length delimited. Does not implicitly [verify](BotMetricsMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMetricsMetadata`](BotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4699](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4699)
+Defined in: [WAProto/index.d.ts:4699](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4699)
 
 Creates a BotMetricsMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotMetricsMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4720](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4720)
+Defined in: [WAProto/index.d.ts:4720](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4720)
 
 Gets the default type url for BotMetricsMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4707](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4707)
+Defined in: [WAProto/index.d.ts:4707](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4707)
 
 Creates a plain object from a BotMetricsMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4692](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L4692)
+Defined in: [WAProto/index.d.ts:4692](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L4692)
 
 Verifies a BotMetricsMetadata message.
 

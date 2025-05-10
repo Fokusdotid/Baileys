@@ -1,6 +1,6 @@
 # Interface: IWebNotificationsInfo
 
-Defined in: [WAProto/index.d.ts:50270](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L50270)
+Defined in: [WAProto/index.d.ts:50270](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L50270)
 
 Properties of a WebNotificationsInfo.
 
@@ -10,7 +10,7 @@ Properties of a WebNotificationsInfo.
 
 > `optional` **notifyMessageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50279](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L50279)
+Defined in: [WAProto/index.d.ts:50279](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L50279)
 
 WebNotificationsInfo notifyMessageCount
 
@@ -20,7 +20,7 @@ WebNotificationsInfo notifyMessageCount
 
 > `optional` **notifyMessages**: `null` \| [`IWebMessageInfo`](IWebMessageInfo.md)[]
 
-Defined in: [WAProto/index.d.ts:50282](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L50282)
+Defined in: [WAProto/index.d.ts:50282](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L50282)
 
 WebNotificationsInfo notifyMessages
 
@@ -30,7 +30,7 @@ WebNotificationsInfo notifyMessages
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:50273](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L50273)
+Defined in: [WAProto/index.d.ts:50273](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L50273)
 
 WebNotificationsInfo timestamp
 
@@ -40,6 +40,6 @@ WebNotificationsInfo timestamp
 
 > `optional` **unreadChats**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50276](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L50276)
+Defined in: [WAProto/index.d.ts:50276](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L50276)
 
 WebNotificationsInfo unreadChats

@@ -1,6 +1,6 @@
 # Interface: IContactMessage
 
-Defined in: [WAProto/index.d.ts:20074](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L20074)
+Defined in: [WAProto/index.d.ts:20074](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L20074)
 
 Properties of a ContactMessage.
 
@@ -10,7 +10,7 @@ Properties of a ContactMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20083](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L20083)
+Defined in: [WAProto/index.d.ts:20083](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L20083)
 
 ContactMessage contextInfo
 
@@ -20,7 +20,7 @@ ContactMessage contextInfo
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20077](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L20077)
+Defined in: [WAProto/index.d.ts:20077](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L20077)
 
 ContactMessage displayName
 
@@ -30,6 +30,6 @@ ContactMessage displayName
 
 > `optional` **vcard**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20080](https://github.com/Fokusdotid/Baileys/blob/f4c7971f59af0b012f8de667e7a21ae12f7bbf19/WAProto/index.d.ts#L20080)
+Defined in: [WAProto/index.d.ts:20080](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L20080)
 
 ContactMessage vcard
