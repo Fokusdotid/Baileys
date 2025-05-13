@@ -49,11 +49,11 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       
-      - name: Publish in NPM (whiskeysockets scope)
+      - name: Publish in NPM (fokusid scope)
         run: |
-          npx json -I -f package.json -e "this.name='@whiskeysockets/baileys'"
+          npx json -I -f package.json -e "this.name='@fokusid/wasocket'"
           npm publish --access public --//registry.npmjs.org/:_authToken=$NPM_TOKEN
-          npx json -I -f package.json -e "this.name='baileys'"
+          npx json -I -f package.json -e "this.name='wasocket'"
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
