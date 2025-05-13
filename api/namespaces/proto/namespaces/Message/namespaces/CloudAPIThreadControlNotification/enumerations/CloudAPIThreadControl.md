@@ -1,6 +1,6 @@
 # Enumeration: CloudAPIThreadControl
 
-Defined in: [WAProto/index.d.ts:19963](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19963)
+Defined in: [WAProto/index.d.ts:19963](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L19963)
 
 CloudAPIThreadControl enum.
 
@@ -10,7 +10,7 @@ CloudAPIThreadControl enum.
 
 > **CONTROL\_PASSED**: `1`
 
-Defined in: [WAProto/index.d.ts:19965](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19965)
+Defined in: [WAProto/index.d.ts:19965](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L19965)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:19965](https://github.com/Fokusdotid/Baileys/blo
 
 > **CONTROL\_TAKEN**: `2`
 
-Defined in: [WAProto/index.d.ts:19966](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19966)
+Defined in: [WAProto/index.d.ts:19966](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L19966)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:19966](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:19964](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19964)
+Defined in: [WAProto/index.d.ts:19964](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L19964)

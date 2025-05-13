@@ -1,6 +1,6 @@
 # Class: AutoDownloadSettings
 
-Defined in: [WAProto/index.d.ts:2776](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2776)
+Defined in: [WAProto/index.d.ts:2776](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2776)
 
 Represents an AutoDownloadSettings.
 
@@ -14,7 +14,7 @@ Represents an AutoDownloadSettings.
 
 > **new AutoDownloadSettings**(`properties`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:2782](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2782)
+Defined in: [WAProto/index.d.ts:2782](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2782)
 
 Constructs a new AutoDownloadSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **downloadAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2788](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2788)
+Defined in: [WAProto/index.d.ts:2788](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2788)
 
 AutoDownloadSettings downloadAudio.
 
@@ -50,7 +50,7 @@ AutoDownloadSettings downloadAudio.
 
 > `optional` **downloadDocuments**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2794](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2794)
+Defined in: [WAProto/index.d.ts:2794](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2794)
 
 AutoDownloadSettings downloadDocuments.
 
@@ -64,7 +64,7 @@ AutoDownloadSettings downloadDocuments.
 
 > `optional` **downloadImages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2785](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2785)
+Defined in: [WAProto/index.d.ts:2785](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2785)
 
 AutoDownloadSettings downloadImages.
 
@@ -78,7 +78,7 @@ AutoDownloadSettings downloadImages.
 
 > `optional` **downloadVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2791](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2791)
+Defined in: [WAProto/index.d.ts:2791](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2791)
 
 AutoDownloadSettings downloadVideo.
 
@@ -92,7 +92,7 @@ AutoDownloadSettings downloadVideo.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2864](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2864)
+Defined in: [WAProto/index.d.ts:2864](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2864)
 
 Converts this AutoDownloadSettings to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:2801](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2801)
+Defined in: [WAProto/index.d.ts:2801](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2801)
 
 Creates a new AutoDownloadSettings instance using the specified properties.
 
@@ -132,7 +132,7 @@ AutoDownloadSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:2827](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2827)
+Defined in: [WAProto/index.d.ts:2827](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2827)
 
 Decodes an AutoDownloadSettings message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:2836](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2836)
+Defined in: [WAProto/index.d.ts:2836](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2836)
 
 Decodes an AutoDownloadSettings message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2809](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2809)
+Defined in: [WAProto/index.d.ts:2809](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2809)
 
 Encodes the specified AutoDownloadSettings message. Does not implicitly [verify](AutoDownloadSettings.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2817](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2817)
+Defined in: [WAProto/index.d.ts:2817](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2817)
 
 Encodes the specified AutoDownloadSettings message, length delimited. Does not implicitly [verify](AutoDownloadSettings.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:2850](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2850)
+Defined in: [WAProto/index.d.ts:2850](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2850)
 
 Creates an AutoDownloadSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AutoDownloadSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2871](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2871)
+Defined in: [WAProto/index.d.ts:2871](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2871)
 
 Gets the default type url for AutoDownloadSettings
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2858](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2858)
+Defined in: [WAProto/index.d.ts:2858](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2858)
 
 Creates a plain object from an AutoDownloadSettings message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2843](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2843)
+Defined in: [WAProto/index.d.ts:2843](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2843)
 
 Verifies an AutoDownloadSettings message.
 

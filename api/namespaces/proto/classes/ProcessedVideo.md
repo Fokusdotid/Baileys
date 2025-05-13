@@ -1,6 +1,6 @@
 # Class: ProcessedVideo
 
-Defined in: [WAProto/index.d.ts:37341](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37341)
+Defined in: [WAProto/index.d.ts:37341](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37341)
 
 Represents a ProcessedVideo.
 
@@ -14,7 +14,7 @@ Represents a ProcessedVideo.
 
 > **new ProcessedVideo**(`properties`?): [`ProcessedVideo`](ProcessedVideo.md)
 
-Defined in: [WAProto/index.d.ts:37347](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37347)
+Defined in: [WAProto/index.d.ts:37347](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37347)
 
 Constructs a new ProcessedVideo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **bitrate**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37365](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37365)
+Defined in: [WAProto/index.d.ts:37365](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37365)
 
 ProcessedVideo bitrate.
 
@@ -50,7 +50,7 @@ ProcessedVideo bitrate.
 
 > **capabilities**: `string`[]
 
-Defined in: [WAProto/index.d.ts:37371](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37371)
+Defined in: [WAProto/index.d.ts:37371](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37371)
 
 ProcessedVideo capabilities.
 
@@ -64,7 +64,7 @@ ProcessedVideo capabilities.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37350](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37350)
+Defined in: [WAProto/index.d.ts:37350](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37350)
 
 ProcessedVideo directPath.
 
@@ -78,7 +78,7 @@ ProcessedVideo directPath.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:37362](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37362)
+Defined in: [WAProto/index.d.ts:37362](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37362)
 
 ProcessedVideo fileLength.
 
@@ -92,7 +92,7 @@ ProcessedVideo fileLength.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37353](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37353)
+Defined in: [WAProto/index.d.ts:37353](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37353)
 
 ProcessedVideo fileSha256.
 
@@ -106,7 +106,7 @@ ProcessedVideo fileSha256.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37356](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37356)
+Defined in: [WAProto/index.d.ts:37356](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37356)
 
 ProcessedVideo height.
 
@@ -120,7 +120,7 @@ ProcessedVideo height.
 
 > `optional` **quality**: `null` \| [`VideoQuality`](../namespaces/ProcessedVideo/enumerations/VideoQuality.md)
 
-Defined in: [WAProto/index.d.ts:37368](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37368)
+Defined in: [WAProto/index.d.ts:37368](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37368)
 
 ProcessedVideo quality.
 
@@ -134,7 +134,7 @@ ProcessedVideo quality.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37359](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37359)
+Defined in: [WAProto/index.d.ts:37359](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37359)
 
 ProcessedVideo width.
 
@@ -148,7 +148,7 @@ ProcessedVideo width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37441](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37441)
+Defined in: [WAProto/index.d.ts:37441](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37441)
 
 Converts this ProcessedVideo to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProcessedVideo`](ProcessedVideo.md)
 
-Defined in: [WAProto/index.d.ts:37378](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37378)
+Defined in: [WAProto/index.d.ts:37378](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37378)
 
 Creates a new ProcessedVideo instance using the specified properties.
 
@@ -188,7 +188,7 @@ ProcessedVideo instance
 
 > `static` **decode**(`reader`, `length`?): [`ProcessedVideo`](ProcessedVideo.md)
 
-Defined in: [WAProto/index.d.ts:37404](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37404)
+Defined in: [WAProto/index.d.ts:37404](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37404)
 
 Decodes a ProcessedVideo message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProcessedVideo`](ProcessedVideo.md)
 
-Defined in: [WAProto/index.d.ts:37413](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37413)
+Defined in: [WAProto/index.d.ts:37413](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37413)
 
 Decodes a ProcessedVideo message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37386](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37386)
+Defined in: [WAProto/index.d.ts:37386](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37386)
 
 Encodes the specified ProcessedVideo message. Does not implicitly [verify](ProcessedVideo.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37394](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37394)
+Defined in: [WAProto/index.d.ts:37394](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37394)
 
 Encodes the specified ProcessedVideo message, length delimited. Does not implicitly [verify](ProcessedVideo.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProcessedVideo`](ProcessedVideo.md)
 
-Defined in: [WAProto/index.d.ts:37427](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37427)
+Defined in: [WAProto/index.d.ts:37427](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37427)
 
 Creates a ProcessedVideo message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ ProcessedVideo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37448](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37448)
+Defined in: [WAProto/index.d.ts:37448](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37448)
 
 Gets the default type url for ProcessedVideo
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37435](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37435)
+Defined in: [WAProto/index.d.ts:37435](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37435)
 
 Creates a plain object from a ProcessedVideo message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37420](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L37420)
+Defined in: [WAProto/index.d.ts:37420](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37420)
 
 Verifies a ProcessedVideo message.
 

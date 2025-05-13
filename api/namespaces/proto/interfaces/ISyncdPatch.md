@@ -1,6 +1,6 @@
 # Interface: ISyncdPatch
 
-Defined in: [WAProto/index.d.ts:47077](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47077)
+Defined in: [WAProto/index.d.ts:47077](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47077)
 
 Properties of a SyncdPatch.
 
@@ -10,7 +10,7 @@ Properties of a SyncdPatch.
 
 > `optional` **clientDebugData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:47104](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47104)
+Defined in: [WAProto/index.d.ts:47104](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47104)
 
 SyncdPatch clientDebugData
 
@@ -20,7 +20,7 @@ SyncdPatch clientDebugData
 
 > `optional` **deviceIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:47101](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47101)
+Defined in: [WAProto/index.d.ts:47101](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47101)
 
 SyncdPatch deviceIndex
 
@@ -30,7 +30,7 @@ SyncdPatch deviceIndex
 
 > `optional` **exitCode**: `null` \| [`IExitCode`](IExitCode.md)
 
-Defined in: [WAProto/index.d.ts:47098](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47098)
+Defined in: [WAProto/index.d.ts:47098](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47098)
 
 SyncdPatch exitCode
 
@@ -40,7 +40,7 @@ SyncdPatch exitCode
 
 > `optional` **externalMutations**: `null` \| [`IExternalBlobReference`](IExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:47086](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47086)
+Defined in: [WAProto/index.d.ts:47086](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47086)
 
 SyncdPatch externalMutations
 
@@ -50,7 +50,7 @@ SyncdPatch externalMutations
 
 > `optional` **keyId**: `null` \| [`IKeyId`](IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:47095](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47095)
+Defined in: [WAProto/index.d.ts:47095](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47095)
 
 SyncdPatch keyId
 
@@ -60,7 +60,7 @@ SyncdPatch keyId
 
 > `optional` **mutations**: `null` \| [`ISyncdMutation`](ISyncdMutation.md)[]
 
-Defined in: [WAProto/index.d.ts:47083](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47083)
+Defined in: [WAProto/index.d.ts:47083](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47083)
 
 SyncdPatch mutations
 
@@ -70,7 +70,7 @@ SyncdPatch mutations
 
 > `optional` **patchMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:47092](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47092)
+Defined in: [WAProto/index.d.ts:47092](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47092)
 
 SyncdPatch patchMac
 
@@ -80,7 +80,7 @@ SyncdPatch patchMac
 
 > `optional` **snapshotMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:47089](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47089)
+Defined in: [WAProto/index.d.ts:47089](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47089)
 
 SyncdPatch snapshotMac
 
@@ -90,6 +90,6 @@ SyncdPatch snapshotMac
 
 > `optional` **version**: `null` \| [`ISyncdVersion`](ISyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:47080](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L47080)
+Defined in: [WAProto/index.d.ts:47080](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L47080)
 
 SyncdPatch version

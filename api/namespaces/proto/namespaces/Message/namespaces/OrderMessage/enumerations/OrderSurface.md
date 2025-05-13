@@ -1,6 +1,6 @@
 # Enumeration: OrderSurface
 
-Defined in: [WAProto/index.d.ts:26759](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L26759)
+Defined in: [WAProto/index.d.ts:26759](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L26759)
 
 OrderSurface enum.
 
@@ -10,4 +10,4 @@ OrderSurface enum.
 
 > **CATALOG**: `1`
 
-Defined in: [WAProto/index.d.ts:26760](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L26760)
+Defined in: [WAProto/index.d.ts:26760](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L26760)

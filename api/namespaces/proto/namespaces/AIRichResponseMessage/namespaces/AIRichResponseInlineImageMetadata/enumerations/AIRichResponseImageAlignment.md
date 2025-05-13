@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseImageAlignment
 
-Defined in: [WAProto/index.d.ts:1796](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L1796)
+Defined in: [WAProto/index.d.ts:1796](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L1796)
 
 AIRichResponseImageAlignment enum.
 
@@ -10,7 +10,7 @@ AIRichResponseImageAlignment enum.
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_CENTER\_ALIGNED**: `2`
 
-Defined in: [WAProto/index.d.ts:1799](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L1799)
+Defined in: [WAProto/index.d.ts:1799](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L1799)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1799](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_LEADING\_ALIGNED**: `0`
 
-Defined in: [WAProto/index.d.ts:1797](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L1797)
+Defined in: [WAProto/index.d.ts:1797](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L1797)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:1797](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_TRAILING\_ALIGNED**: `1`
 
-Defined in: [WAProto/index.d.ts:1798](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L1798)
+Defined in: [WAProto/index.d.ts:1798](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L1798)

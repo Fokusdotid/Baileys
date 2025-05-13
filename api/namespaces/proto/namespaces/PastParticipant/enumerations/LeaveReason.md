@@ -1,6 +1,6 @@
 # Enumeration: LeaveReason
 
-Defined in: [WAProto/index.d.ts:35297](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L35297)
+Defined in: [WAProto/index.d.ts:35297](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L35297)
 
 LeaveReason enum.
 
@@ -10,7 +10,7 @@ LeaveReason enum.
 
 > **LEFT**: `0`
 
-Defined in: [WAProto/index.d.ts:35298](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L35298)
+Defined in: [WAProto/index.d.ts:35298](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L35298)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:35298](https://github.com/Fokusdotid/Baileys/blo
 
 > **REMOVED**: `1`
 
-Defined in: [WAProto/index.d.ts:35299](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L35299)
+Defined in: [WAProto/index.d.ts:35299](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L35299)

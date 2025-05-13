@@ -1,6 +1,6 @@
 # Class: AIRichResponseTableRow
 
-Defined in: [WAProto/index.d.ts:2562](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2562)
+Defined in: [WAProto/index.d.ts:2562](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2562)
 
 Represents a AIRichResponseTableRow.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseTableRow.
 
 > **new AIRichResponseTableRow**(`properties`?): [`AIRichResponseTableRow`](AIRichResponseTableRow.md)
 
-Defined in: [WAProto/index.d.ts:2568](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2568)
+Defined in: [WAProto/index.d.ts:2568](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2568)
 
 Constructs a new AIRichResponseTableRow.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isHeading**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2574](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2574)
+Defined in: [WAProto/index.d.ts:2574](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2574)
 
 AIRichResponseTableRow isHeading.
 
@@ -50,7 +50,7 @@ AIRichResponseTableRow isHeading.
 
 > **items**: `string`[]
 
-Defined in: [WAProto/index.d.ts:2571](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2571)
+Defined in: [WAProto/index.d.ts:2571](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2571)
 
 AIRichResponseTableRow items.
 
@@ -64,7 +64,7 @@ AIRichResponseTableRow items.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2644](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2644)
+Defined in: [WAProto/index.d.ts:2644](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2644)
 
 Converts this AIRichResponseTableRow to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseTableRow`](AIRichResponseTableRow.md)
 
-Defined in: [WAProto/index.d.ts:2581](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2581)
+Defined in: [WAProto/index.d.ts:2581](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2581)
 
 Creates a new AIRichResponseTableRow instance using the specified properties.
 
@@ -104,7 +104,7 @@ AIRichResponseTableRow instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseTableRow`](AIRichResponseTableRow.md)
 
-Defined in: [WAProto/index.d.ts:2607](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2607)
+Defined in: [WAProto/index.d.ts:2607](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2607)
 
 Decodes a AIRichResponseTableRow message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseTableRow`](AIRichResponseTableRow.md)
 
-Defined in: [WAProto/index.d.ts:2616](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2616)
+Defined in: [WAProto/index.d.ts:2616](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2616)
 
 Decodes a AIRichResponseTableRow message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2589](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2589)
+Defined in: [WAProto/index.d.ts:2589](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2589)
 
 Encodes the specified AIRichResponseTableRow message. Does not implicitly [verify](AIRichResponseTableRow.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2597](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2597)
+Defined in: [WAProto/index.d.ts:2597](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2597)
 
 Encodes the specified AIRichResponseTableRow message, length delimited. Does not implicitly [verify](AIRichResponseTableRow.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseTableRow`](AIRichResponseTableRow.md)
 
-Defined in: [WAProto/index.d.ts:2630](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2630)
+Defined in: [WAProto/index.d.ts:2630](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2630)
 
 Creates a AIRichResponseTableRow message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AIRichResponseTableRow
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2651](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2651)
+Defined in: [WAProto/index.d.ts:2651](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2651)
 
 Gets the default type url for AIRichResponseTableRow
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2638](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2638)
+Defined in: [WAProto/index.d.ts:2638](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2638)
 
 Creates a plain object from a AIRichResponseTableRow message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2623](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2623)
+Defined in: [WAProto/index.d.ts:2623](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2623)
 
 Verifies a AIRichResponseTableRow message.
 

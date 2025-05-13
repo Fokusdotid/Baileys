@@ -1,4 +1,4 @@
-# baileys
+# wasocket
 
 ## Namespaces
 

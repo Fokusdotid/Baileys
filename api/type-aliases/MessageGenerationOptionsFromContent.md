@@ -2,7 +2,7 @@
 
 > **MessageGenerationOptionsFromContent**: [`MiscMessageGenerationOptions`](MiscMessageGenerationOptions.md) & `object`
 
-Defined in: [src/Types/Message.ts:269](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Types/Message.ts#L269)
+Defined in: [src/Types/Message.ts:269](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/Types/Message.ts#L269)
 
 ## Type declaration
 

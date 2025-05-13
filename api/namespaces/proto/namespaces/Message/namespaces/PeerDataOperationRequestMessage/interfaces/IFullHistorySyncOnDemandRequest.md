@@ -1,6 +1,6 @@
 # Interface: IFullHistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:27008](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L27008)
+Defined in: [WAProto/index.d.ts:27008](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L27008)
 
 Properties of a FullHistorySyncOnDemandRequest.
 
@@ -10,7 +10,7 @@ Properties of a FullHistorySyncOnDemandRequest.
 
 > `optional` **historySyncConfig**: `null` \| [`IHistorySyncConfig`](../../../../DeviceProps/interfaces/IHistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:27014](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L27014)
+Defined in: [WAProto/index.d.ts:27014](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L27014)
 
 FullHistorySyncOnDemandRequest historySyncConfig
 
@@ -20,6 +20,6 @@ FullHistorySyncOnDemandRequest historySyncConfig
 
 > `optional` **requestMetadata**: `null` \| [`IFullHistorySyncOnDemandRequestMetadata`](../../../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
 
-Defined in: [WAProto/index.d.ts:27011](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L27011)
+Defined in: [WAProto/index.d.ts:27011](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L27011)
 
 FullHistorySyncOnDemandRequest requestMetadata

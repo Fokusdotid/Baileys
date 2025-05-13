@@ -1,6 +1,6 @@
 # Enumeration: DeviceType
 
-Defined in: [WAProto/index.d.ts:8631](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8631)
+Defined in: [WAProto/index.d.ts:8631](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8631)
 
 DeviceType enum.
 
@@ -10,7 +10,7 @@ DeviceType enum.
 
 > **DESKTOP**: `2`
 
-Defined in: [WAProto/index.d.ts:8634](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8634)
+Defined in: [WAProto/index.d.ts:8634](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8634)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8634](https://github.com/Fokusdotid/Baileys/blob
 
 > **PHONE**: `0`
 
-Defined in: [WAProto/index.d.ts:8632](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8632)
+Defined in: [WAProto/index.d.ts:8632](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8632)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:8632](https://github.com/Fokusdotid/Baileys/blob
 
 > **TABLET**: `1`
 
-Defined in: [WAProto/index.d.ts:8633](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8633)
+Defined in: [WAProto/index.d.ts:8633](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8633)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:8633](https://github.com/Fokusdotid/Baileys/blob
 
 > **VR**: `4`
 
-Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8636)
+Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8636)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/Baileys/blob
 
 > **WEARABLE**: `3`
 
-Defined in: [WAProto/index.d.ts:8635](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8635)
+Defined in: [WAProto/index.d.ts:8635](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8635)

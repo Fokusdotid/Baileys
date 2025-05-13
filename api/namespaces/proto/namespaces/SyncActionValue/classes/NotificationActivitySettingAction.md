@@ -1,6 +1,6 @@
 # Class: NotificationActivitySettingAction
 
-Defined in: [WAProto/index.d.ts:44097](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44097)
+Defined in: [WAProto/index.d.ts:44097](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44097)
 
 Represents a NotificationActivitySettingAction.
 
@@ -14,7 +14,7 @@ Represents a NotificationActivitySettingAction.
 
 > **new NotificationActivitySettingAction**(`properties`?): [`NotificationActivitySettingAction`](NotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:44103](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44103)
+Defined in: [WAProto/index.d.ts:44103](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44103)
 
 Constructs a new NotificationActivitySettingAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **notificationActivitySetting**: `null` \| [`NotificationActivitySetting`](../namespaces/NotificationActivitySettingAction/enumerations/NotificationActivitySetting.md)
 
-Defined in: [WAProto/index.d.ts:44106](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44106)
+Defined in: [WAProto/index.d.ts:44106](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44106)
 
 NotificationActivitySettingAction notificationActivitySetting.
 
@@ -50,7 +50,7 @@ NotificationActivitySettingAction notificationActivitySetting.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44176](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44176)
+Defined in: [WAProto/index.d.ts:44176](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44176)
 
 Converts this NotificationActivitySettingAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NotificationActivitySettingAction`](NotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:44113](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44113)
+Defined in: [WAProto/index.d.ts:44113](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44113)
 
 Creates a new NotificationActivitySettingAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ NotificationActivitySettingAction instance
 
 > `static` **decode**(`reader`, `length`?): [`NotificationActivitySettingAction`](NotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:44139](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44139)
+Defined in: [WAProto/index.d.ts:44139](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44139)
 
 Decodes a NotificationActivitySettingAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NotificationActivitySettingAction`](NotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:44148](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44148)
+Defined in: [WAProto/index.d.ts:44148](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44148)
 
 Decodes a NotificationActivitySettingAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44121](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44121)
+Defined in: [WAProto/index.d.ts:44121](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44121)
 
 Encodes the specified NotificationActivitySettingAction message. Does not implicitly [verify](NotificationActivitySettingAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44129](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44129)
+Defined in: [WAProto/index.d.ts:44129](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44129)
 
 Encodes the specified NotificationActivitySettingAction message, length delimited. Does not implicitly [verify](NotificationActivitySettingAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NotificationActivitySettingAction`](NotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:44162](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44162)
+Defined in: [WAProto/index.d.ts:44162](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44162)
 
 Creates a NotificationActivitySettingAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ NotificationActivitySettingAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44183](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44183)
+Defined in: [WAProto/index.d.ts:44183](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44183)
 
 Gets the default type url for NotificationActivitySettingAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44170](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44170)
+Defined in: [WAProto/index.d.ts:44170](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44170)
 
 Creates a plain object from a NotificationActivitySettingAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44155](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44155)
+Defined in: [WAProto/index.d.ts:44155](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44155)
 
 Verifies a NotificationActivitySettingAction message.
 

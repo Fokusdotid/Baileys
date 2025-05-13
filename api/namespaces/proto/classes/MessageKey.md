@@ -1,6 +1,6 @@
 # Class: MessageKey
 
-Defined in: [WAProto/index.d.ts:33429](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33429)
+Defined in: [WAProto/index.d.ts:33429](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33429)
 
 Represents a MessageKey.
 
@@ -14,7 +14,7 @@ Represents a MessageKey.
 
 > **new MessageKey**(`properties`?): [`MessageKey`](MessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33435](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33435)
+Defined in: [WAProto/index.d.ts:33435](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33435)
 
 Constructs a new MessageKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fromMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:33441](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33441)
+Defined in: [WAProto/index.d.ts:33441](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33441)
 
 MessageKey fromMe.
 
@@ -50,7 +50,7 @@ MessageKey fromMe.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33444](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33444)
+Defined in: [WAProto/index.d.ts:33444](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33444)
 
 MessageKey id.
 
@@ -64,7 +64,7 @@ MessageKey id.
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33447](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33447)
+Defined in: [WAProto/index.d.ts:33447](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33447)
 
 MessageKey participant.
 
@@ -78,7 +78,7 @@ MessageKey participant.
 
 > `optional` **remoteJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33438](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33438)
+Defined in: [WAProto/index.d.ts:33438](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33438)
 
 MessageKey remoteJid.
 
@@ -92,7 +92,7 @@ MessageKey remoteJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:33517](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33517)
+Defined in: [WAProto/index.d.ts:33517](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33517)
 
 Converts this MessageKey to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageKey`](MessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33454](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33454)
+Defined in: [WAProto/index.d.ts:33454](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33454)
 
 Creates a new MessageKey instance using the specified properties.
 
@@ -132,7 +132,7 @@ MessageKey instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageKey`](MessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33480](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33480)
+Defined in: [WAProto/index.d.ts:33480](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33480)
 
 Decodes a MessageKey message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageKey`](MessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33489](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33489)
+Defined in: [WAProto/index.d.ts:33489](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33489)
 
 Decodes a MessageKey message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33462](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33462)
+Defined in: [WAProto/index.d.ts:33462](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33462)
 
 Encodes the specified MessageKey message. Does not implicitly [verify](MessageKey.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33470](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33470)
+Defined in: [WAProto/index.d.ts:33470](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33470)
 
 Encodes the specified MessageKey message, length delimited. Does not implicitly [verify](MessageKey.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageKey`](MessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33503](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33503)
+Defined in: [WAProto/index.d.ts:33503](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33503)
 
 Creates a MessageKey message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ MessageKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:33524](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33524)
+Defined in: [WAProto/index.d.ts:33524](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33524)
 
 Gets the default type url for MessageKey
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:33511](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33511)
+Defined in: [WAProto/index.d.ts:33511](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33511)
 
 Creates a plain object from a MessageKey message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33496](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L33496)
+Defined in: [WAProto/index.d.ts:33496](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33496)
 
 Verifies a MessageKey message.
 

@@ -2,7 +2,7 @@
 
 > **hkdfInfoKey**(`type`): `string`
 
-Defined in: [src/Utils/messages-media.ts:52](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Utils/messages-media.ts#L52)
+Defined in: [src/Utils/messages-media.ts:52](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/Utils/messages-media.ts#L52)
 
 ## Parameters
 

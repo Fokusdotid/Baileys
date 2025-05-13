@@ -2,7 +2,7 @@
 
 > **getBinaryNodeChildString**(`node`, `childTag`): `undefined` \| `string`
 
-Defined in: [src/WABinary/generic-utils.ts:36](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/WABinary/generic-utils.ts#L36)
+Defined in: [src/WABinary/generic-utils.ts:36](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WABinary/generic-utils.ts#L36)
 
 ## Parameters
 

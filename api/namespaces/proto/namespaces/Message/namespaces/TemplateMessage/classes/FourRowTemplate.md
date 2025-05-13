@@ -1,6 +1,6 @@
 # Class: FourRowTemplate
 
-Defined in: [WAProto/index.d.ts:32326](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32326)
+Defined in: [WAProto/index.d.ts:32326](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32326)
 
 Represents a FourRowTemplate.
 
@@ -14,7 +14,7 @@ Represents a FourRowTemplate.
 
 > **new FourRowTemplate**(`properties`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32332](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32332)
+Defined in: [WAProto/index.d.ts:32332](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32332)
 
 Constructs a new FourRowTemplate.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **buttons**: [`ITemplateButton`](../../../../../interfaces/ITemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:32341](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32341)
+Defined in: [WAProto/index.d.ts:32341](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32341)
 
 FourRowTemplate buttons.
 
@@ -50,7 +50,7 @@ FourRowTemplate buttons.
 
 > `optional` **content**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32335](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32335)
+Defined in: [WAProto/index.d.ts:32335](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32335)
 
 FourRowTemplate content.
 
@@ -64,7 +64,7 @@ FourRowTemplate content.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:32344](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32344)
+Defined in: [WAProto/index.d.ts:32344](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32344)
 
 FourRowTemplate documentMessage.
 
@@ -78,7 +78,7 @@ FourRowTemplate documentMessage.
 
 > `optional` **footer**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32338](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32338)
+Defined in: [WAProto/index.d.ts:32338](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32338)
 
 FourRowTemplate footer.
 
@@ -92,7 +92,7 @@ FourRowTemplate footer.
 
 > `optional` **highlyStructuredMessage**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32347](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32347)
+Defined in: [WAProto/index.d.ts:32347](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32347)
 
 FourRowTemplate highlyStructuredMessage.
 
@@ -106,7 +106,7 @@ FourRowTemplate highlyStructuredMessage.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:32350](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32350)
+Defined in: [WAProto/index.d.ts:32350](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32350)
 
 FourRowTemplate imageMessage.
 
@@ -120,7 +120,7 @@ FourRowTemplate imageMessage.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:32356](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32356)
+Defined in: [WAProto/index.d.ts:32356](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32356)
 
 FourRowTemplate locationMessage.
 
@@ -134,7 +134,7 @@ FourRowTemplate locationMessage.
 
 > `optional` **title**: `"imageMessage"` \| `"locationMessage"` \| `"documentMessage"` \| `"videoMessage"` \| `"highlyStructuredMessage"`
 
-Defined in: [WAProto/index.d.ts:32359](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32359)
+Defined in: [WAProto/index.d.ts:32359](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32359)
 
 FourRowTemplate title.
 
@@ -144,7 +144,7 @@ FourRowTemplate title.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32353](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32353)
+Defined in: [WAProto/index.d.ts:32353](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32353)
 
 FourRowTemplate videoMessage.
 
@@ -158,7 +158,7 @@ FourRowTemplate videoMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32429](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32429)
+Defined in: [WAProto/index.d.ts:32429](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32429)
 
 Converts this FourRowTemplate to JSON.
 
@@ -174,7 +174,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32366](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32366)
+Defined in: [WAProto/index.d.ts:32366](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32366)
 
 Creates a new FourRowTemplate instance using the specified properties.
 
@@ -198,7 +198,7 @@ FourRowTemplate instance
 
 > `static` **decode**(`reader`, `length`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32392](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32392)
+Defined in: [WAProto/index.d.ts:32392](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32392)
 
 Decodes a FourRowTemplate message from the specified reader or buffer.
 
@@ -236,7 +236,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32401](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32401)
+Defined in: [WAProto/index.d.ts:32401](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32401)
 
 Decodes a FourRowTemplate message from the specified reader or buffer, length delimited.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32374](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32374)
+Defined in: [WAProto/index.d.ts:32374](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32374)
 
 Encodes the specified FourRowTemplate message. Does not implicitly [verify](FourRowTemplate.md#verify) messages.
 
@@ -298,7 +298,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32382](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32382)
+Defined in: [WAProto/index.d.ts:32382](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32382)
 
 Encodes the specified FourRowTemplate message, length delimited. Does not implicitly [verify](FourRowTemplate.md#verify) messages.
 
@@ -328,7 +328,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32415](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32415)
+Defined in: [WAProto/index.d.ts:32415](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32415)
 
 Creates a FourRowTemplate message from a plain object. Also converts values to their respective internal types.
 
@@ -350,7 +350,7 @@ FourRowTemplate
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32436](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32436)
+Defined in: [WAProto/index.d.ts:32436](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32436)
 
 Gets the default type url for FourRowTemplate
 
@@ -374,7 +374,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32423](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32423)
+Defined in: [WAProto/index.d.ts:32423](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32423)
 
 Creates a plain object from a FourRowTemplate message. Also converts values to other types if specified.
 
@@ -404,7 +404,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32408](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L32408)
+Defined in: [WAProto/index.d.ts:32408](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32408)
 
 Verifies a FourRowTemplate message.
 

@@ -1,6 +1,6 @@
 # Class: CommentMetadata
 
-Defined in: [WAProto/index.d.ts:8985](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8985)
+Defined in: [WAProto/index.d.ts:8985](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8985)
 
 Represents a CommentMetadata.
 
@@ -14,7 +14,7 @@ Represents a CommentMetadata.
 
 > **new CommentMetadata**(`properties`?): [`CommentMetadata`](CommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:8991](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8991)
+Defined in: [WAProto/index.d.ts:8991](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8991)
 
 Constructs a new CommentMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **commentParentKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:8994](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8994)
+Defined in: [WAProto/index.d.ts:8994](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8994)
 
 CommentMetadata commentParentKey.
 
@@ -50,7 +50,7 @@ CommentMetadata commentParentKey.
 
 > `optional` **replyCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8997](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8997)
+Defined in: [WAProto/index.d.ts:8997](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8997)
 
 CommentMetadata replyCount.
 
@@ -64,7 +64,7 @@ CommentMetadata replyCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9067](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9067)
+Defined in: [WAProto/index.d.ts:9067](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9067)
 
 Converts this CommentMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CommentMetadata`](CommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:9004](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9004)
+Defined in: [WAProto/index.d.ts:9004](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9004)
 
 Creates a new CommentMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ CommentMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`CommentMetadata`](CommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:9030](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9030)
+Defined in: [WAProto/index.d.ts:9030](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9030)
 
 Decodes a CommentMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CommentMetadata`](CommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:9039](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9039)
+Defined in: [WAProto/index.d.ts:9039](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9039)
 
 Decodes a CommentMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9012](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9012)
+Defined in: [WAProto/index.d.ts:9012](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9012)
 
 Encodes the specified CommentMetadata message. Does not implicitly [verify](CommentMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9020](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9020)
+Defined in: [WAProto/index.d.ts:9020](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9020)
 
 Encodes the specified CommentMetadata message, length delimited. Does not implicitly [verify](CommentMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CommentMetadata`](CommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:9053](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9053)
+Defined in: [WAProto/index.d.ts:9053](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9053)
 
 Creates a CommentMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CommentMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9074](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9074)
+Defined in: [WAProto/index.d.ts:9074](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9074)
 
 Gets the default type url for CommentMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9061](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9061)
+Defined in: [WAProto/index.d.ts:9061](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9061)
 
 Creates a plain object from a CommentMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9046](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9046)
+Defined in: [WAProto/index.d.ts:9046](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9046)
 
 Verifies a CommentMetadata message.
 

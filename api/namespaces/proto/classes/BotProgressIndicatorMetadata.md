@@ -1,6 +1,6 @@
 # Class: BotProgressIndicatorMetadata
 
-Defined in: [WAProto/index.d.ts:5035](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5035)
+Defined in: [WAProto/index.d.ts:5035](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5035)
 
 Represents a BotProgressIndicatorMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotProgressIndicatorMetadata.
 
 > **new BotProgressIndicatorMetadata**(`properties`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5041](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5041)
+Defined in: [WAProto/index.d.ts:5041](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5041)
 
 Constructs a new BotProgressIndicatorMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **progressDescription**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5044](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5044)
+Defined in: [WAProto/index.d.ts:5044](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5044)
 
 BotProgressIndicatorMetadata progressDescription.
 
@@ -50,7 +50,7 @@ BotProgressIndicatorMetadata progressDescription.
 
 > **stepsMetadata**: [`IBotPlanningStepMetadata`](../namespaces/BotProgressIndicatorMetadata/interfaces/IBotPlanningStepMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5047](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5047)
+Defined in: [WAProto/index.d.ts:5047](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5047)
 
 BotProgressIndicatorMetadata stepsMetadata.
 
@@ -64,7 +64,7 @@ BotProgressIndicatorMetadata stepsMetadata.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5117](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5117)
+Defined in: [WAProto/index.d.ts:5117](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5117)
 
 Converts this BotProgressIndicatorMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5054](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5054)
+Defined in: [WAProto/index.d.ts:5054](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5054)
 
 Creates a new BotProgressIndicatorMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotProgressIndicatorMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5080](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5080)
+Defined in: [WAProto/index.d.ts:5080](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5080)
 
 Decodes a BotProgressIndicatorMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5089](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5089)
+Defined in: [WAProto/index.d.ts:5089](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5089)
 
 Decodes a BotProgressIndicatorMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5062](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5062)
+Defined in: [WAProto/index.d.ts:5062](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5062)
 
 Encodes the specified BotProgressIndicatorMetadata message. Does not implicitly [verify](BotProgressIndicatorMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5070](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5070)
+Defined in: [WAProto/index.d.ts:5070](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5070)
 
 Encodes the specified BotProgressIndicatorMetadata message, length delimited. Does not implicitly [verify](BotProgressIndicatorMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5103](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5103)
+Defined in: [WAProto/index.d.ts:5103](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5103)
 
 Creates a BotProgressIndicatorMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotProgressIndicatorMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5124](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5124)
+Defined in: [WAProto/index.d.ts:5124](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5124)
 
 Gets the default type url for BotProgressIndicatorMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5111](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5111)
+Defined in: [WAProto/index.d.ts:5111](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5111)
 
 Creates a plain object from a BotProgressIndicatorMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5096](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5096)
+Defined in: [WAProto/index.d.ts:5096](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L5096)
 
 Verifies a BotProgressIndicatorMetadata message.
 

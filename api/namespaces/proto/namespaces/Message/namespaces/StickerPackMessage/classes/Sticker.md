@@ -1,6 +1,6 @@
 # Class: Sticker
 
-Defined in: [WAProto/index.d.ts:31823](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31823)
+Defined in: [WAProto/index.d.ts:31823](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31823)
 
 Represents a Sticker.
 
@@ -14,7 +14,7 @@ Represents a Sticker.
 
 > **new Sticker**(`properties`?): [`Sticker`](Sticker.md)
 
-Defined in: [WAProto/index.d.ts:31829](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31829)
+Defined in: [WAProto/index.d.ts:31829](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31829)
 
 Constructs a new Sticker.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31841](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31841)
+Defined in: [WAProto/index.d.ts:31841](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31841)
 
 Sticker accessibilityLabel.
 
@@ -50,7 +50,7 @@ Sticker accessibilityLabel.
 
 > **emojis**: `string`[]
 
-Defined in: [WAProto/index.d.ts:31838](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31838)
+Defined in: [WAProto/index.d.ts:31838](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31838)
 
 Sticker emojis.
 
@@ -64,7 +64,7 @@ Sticker emojis.
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31832](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31832)
+Defined in: [WAProto/index.d.ts:31832](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31832)
 
 Sticker fileName.
 
@@ -78,7 +78,7 @@ Sticker fileName.
 
 > `optional` **isAnimated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:31835](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31835)
+Defined in: [WAProto/index.d.ts:31835](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31835)
 
 Sticker isAnimated.
 
@@ -92,7 +92,7 @@ Sticker isAnimated.
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:31844](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31844)
+Defined in: [WAProto/index.d.ts:31844](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31844)
 
 Sticker isLottie.
 
@@ -106,7 +106,7 @@ Sticker isLottie.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31847](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31847)
+Defined in: [WAProto/index.d.ts:31847](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31847)
 
 Sticker mimetype.
 
@@ -120,7 +120,7 @@ Sticker mimetype.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31917](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31917)
+Defined in: [WAProto/index.d.ts:31917](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31917)
 
 Converts this Sticker to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Sticker`](Sticker.md)
 
-Defined in: [WAProto/index.d.ts:31854](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31854)
+Defined in: [WAProto/index.d.ts:31854](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31854)
 
 Creates a new Sticker instance using the specified properties.
 
@@ -160,7 +160,7 @@ Sticker instance
 
 > `static` **decode**(`reader`, `length`?): [`Sticker`](Sticker.md)
 
-Defined in: [WAProto/index.d.ts:31880](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31880)
+Defined in: [WAProto/index.d.ts:31880](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31880)
 
 Decodes a Sticker message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Sticker`](Sticker.md)
 
-Defined in: [WAProto/index.d.ts:31889](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31889)
+Defined in: [WAProto/index.d.ts:31889](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31889)
 
 Decodes a Sticker message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31862](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31862)
+Defined in: [WAProto/index.d.ts:31862](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31862)
 
 Encodes the specified Sticker message. Does not implicitly [verify](Sticker.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31870](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31870)
+Defined in: [WAProto/index.d.ts:31870](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31870)
 
 Encodes the specified Sticker message, length delimited. Does not implicitly [verify](Sticker.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Sticker`](Sticker.md)
 
-Defined in: [WAProto/index.d.ts:31903](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31903)
+Defined in: [WAProto/index.d.ts:31903](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31903)
 
 Creates a Sticker message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ Sticker
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31924](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31924)
+Defined in: [WAProto/index.d.ts:31924](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31924)
 
 Gets the default type url for Sticker
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31911](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31911)
+Defined in: [WAProto/index.d.ts:31911](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31911)
 
 Creates a plain object from a Sticker message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31896](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31896)
+Defined in: [WAProto/index.d.ts:31896](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L31896)
 
 Verifies a Sticker message.
 

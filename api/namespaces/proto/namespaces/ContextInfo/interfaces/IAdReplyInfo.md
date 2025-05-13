@@ -1,6 +1,6 @@
 # Interface: IAdReplyInfo
 
-Defined in: [WAProto/index.d.ts:9744](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9744)
+Defined in: [WAProto/index.d.ts:9744](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9744)
 
 Properties of an AdReplyInfo.
 
@@ -10,7 +10,7 @@ Properties of an AdReplyInfo.
 
 > `optional` **advertiserName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9747](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9747)
+Defined in: [WAProto/index.d.ts:9747](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9747)
 
 AdReplyInfo advertiserName
 
@@ -20,7 +20,7 @@ AdReplyInfo advertiserName
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9756](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9756)
+Defined in: [WAProto/index.d.ts:9756](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9756)
 
 AdReplyInfo caption
 
@@ -30,7 +30,7 @@ AdReplyInfo caption
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9753](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9753)
+Defined in: [WAProto/index.d.ts:9753](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9753)
 
 AdReplyInfo jpegThumbnail
 
@@ -40,6 +40,6 @@ AdReplyInfo jpegThumbnail
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/AdReplyInfo/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:9750](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L9750)
+Defined in: [WAProto/index.d.ts:9750](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L9750)
 
 AdReplyInfo mediaType

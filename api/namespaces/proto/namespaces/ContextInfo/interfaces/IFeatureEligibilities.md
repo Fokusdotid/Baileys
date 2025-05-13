@@ -1,6 +1,6 @@
 # Interface: IFeatureEligibilities
 
-Defined in: [WAProto/index.d.ts:10432](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L10432)
+Defined in: [WAProto/index.d.ts:10432](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L10432)
 
 Properties of a FeatureEligibilities.
 
@@ -10,7 +10,7 @@ Properties of a FeatureEligibilities.
 
 > `optional` **canBeReshared**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10444](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L10444)
+Defined in: [WAProto/index.d.ts:10444](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L10444)
 
 FeatureEligibilities canBeReshared
 
@@ -20,7 +20,7 @@ FeatureEligibilities canBeReshared
 
 > `optional` **cannotBeRanked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10438](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L10438)
+Defined in: [WAProto/index.d.ts:10438](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L10438)
 
 FeatureEligibilities cannotBeRanked
 
@@ -30,7 +30,7 @@ FeatureEligibilities cannotBeRanked
 
 > `optional` **cannotBeReactedTo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10435](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L10435)
+Defined in: [WAProto/index.d.ts:10435](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L10435)
 
 FeatureEligibilities cannotBeReactedTo
 
@@ -40,6 +40,6 @@ FeatureEligibilities cannotBeReactedTo
 
 > `optional` **canRequestFeedback**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10441](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L10441)
+Defined in: [WAProto/index.d.ts:10441](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L10441)
 
 FeatureEligibilities canRequestFeedback

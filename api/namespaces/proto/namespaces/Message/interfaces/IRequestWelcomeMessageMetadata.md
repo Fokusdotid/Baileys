@@ -1,6 +1,6 @@
 # Interface: IRequestWelcomeMessageMetadata
 
-Defined in: [WAProto/index.d.ts:30573](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L30573)
+Defined in: [WAProto/index.d.ts:30573](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L30573)
 
 Properties of a RequestWelcomeMessageMetadata.
 
@@ -10,6 +10,6 @@ Properties of a RequestWelcomeMessageMetadata.
 
 > `optional` **localChatState**: `null` \| [`LocalChatState`](../namespaces/RequestWelcomeMessageMetadata/enumerations/LocalChatState.md)
 
-Defined in: [WAProto/index.d.ts:30576](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L30576)
+Defined in: [WAProto/index.d.ts:30576](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L30576)
 
 RequestWelcomeMessageMetadata localChatState
