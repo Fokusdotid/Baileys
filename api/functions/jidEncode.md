@@ -2,7 +2,7 @@
 
 > **jidEncode**(`user`, `server`, `device`?, `agent`?): `string`
 
-Defined in: [src/WABinary/jid-utils.ts:21](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WABinary/jid-utils.ts#L21)
+Defined in: [src/WABinary/jid-utils.ts:21](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WABinary/jid-utils.ts#L21)
 
 ## Parameters
 

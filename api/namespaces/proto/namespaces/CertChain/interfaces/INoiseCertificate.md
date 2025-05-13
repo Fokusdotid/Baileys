@@ -1,6 +1,6 @@
 # Interface: INoiseCertificate
 
-Defined in: [WAProto/index.d.ts:6584](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L6584)
+Defined in: [WAProto/index.d.ts:6584](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L6584)
 
 Properties of a NoiseCertificate.
 
@@ -10,7 +10,7 @@ Properties of a NoiseCertificate.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:6587](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L6587)
+Defined in: [WAProto/index.d.ts:6587](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L6587)
 
 NoiseCertificate details
 
@@ -20,6 +20,6 @@ NoiseCertificate details
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:6590](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L6590)
+Defined in: [WAProto/index.d.ts:6590](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L6590)
 
 NoiseCertificate signature

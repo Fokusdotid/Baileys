@@ -1,6 +1,6 @@
 # Interface: IRow
 
-Defined in: [WAProto/index.d.ts:25422](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25422)
+Defined in: [WAProto/index.d.ts:25422](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25422)
 
 Properties of a Row.
 
@@ -10,7 +10,7 @@ Properties of a Row.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25428](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25428)
+Defined in: [WAProto/index.d.ts:25428](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25428)
 
 Row description
 
@@ -20,7 +20,7 @@ Row description
 
 > `optional` **rowId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25431](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25431)
+Defined in: [WAProto/index.d.ts:25431](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25431)
 
 Row rowId
 
@@ -30,6 +30,6 @@ Row rowId
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25425](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25425)
+Defined in: [WAProto/index.d.ts:25425](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25425)
 
 Row title

@@ -1,6 +1,6 @@
 # Class: PrimaryEphemeralIdentity
 
-Defined in: [WAProto/index.d.ts:37213](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37213)
+Defined in: [WAProto/index.d.ts:37213](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37213)
 
 Represents a PrimaryEphemeralIdentity.
 
@@ -14,7 +14,7 @@ Represents a PrimaryEphemeralIdentity.
 
 > **new PrimaryEphemeralIdentity**(`properties`?): [`PrimaryEphemeralIdentity`](PrimaryEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:37219](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37219)
+Defined in: [WAProto/index.d.ts:37219](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37219)
 
 Constructs a new PrimaryEphemeralIdentity.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **nonce**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37225](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37225)
+Defined in: [WAProto/index.d.ts:37225](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37225)
 
 PrimaryEphemeralIdentity nonce.
 
@@ -50,7 +50,7 @@ PrimaryEphemeralIdentity nonce.
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37222](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37222)
+Defined in: [WAProto/index.d.ts:37222](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37222)
 
 PrimaryEphemeralIdentity publicKey.
 
@@ -64,7 +64,7 @@ PrimaryEphemeralIdentity publicKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37295](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37295)
+Defined in: [WAProto/index.d.ts:37295](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37295)
 
 Converts this PrimaryEphemeralIdentity to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrimaryEphemeralIdentity`](PrimaryEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:37232](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37232)
+Defined in: [WAProto/index.d.ts:37232](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37232)
 
 Creates a new PrimaryEphemeralIdentity instance using the specified properties.
 
@@ -104,7 +104,7 @@ PrimaryEphemeralIdentity instance
 
 > `static` **decode**(`reader`, `length`?): [`PrimaryEphemeralIdentity`](PrimaryEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:37258](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37258)
+Defined in: [WAProto/index.d.ts:37258](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37258)
 
 Decodes a PrimaryEphemeralIdentity message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrimaryEphemeralIdentity`](PrimaryEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:37267](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37267)
+Defined in: [WAProto/index.d.ts:37267](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37267)
 
 Decodes a PrimaryEphemeralIdentity message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37240](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37240)
+Defined in: [WAProto/index.d.ts:37240](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37240)
 
 Encodes the specified PrimaryEphemeralIdentity message. Does not implicitly [verify](PrimaryEphemeralIdentity.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37248](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37248)
+Defined in: [WAProto/index.d.ts:37248](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37248)
 
 Encodes the specified PrimaryEphemeralIdentity message, length delimited. Does not implicitly [verify](PrimaryEphemeralIdentity.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrimaryEphemeralIdentity`](PrimaryEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:37281](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37281)
+Defined in: [WAProto/index.d.ts:37281](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37281)
 
 Creates a PrimaryEphemeralIdentity message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PrimaryEphemeralIdentity
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37302](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37302)
+Defined in: [WAProto/index.d.ts:37302](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37302)
 
 Gets the default type url for PrimaryEphemeralIdentity
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37289](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37289)
+Defined in: [WAProto/index.d.ts:37289](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37289)
 
 Creates a plain object from a PrimaryEphemeralIdentity message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37274](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L37274)
+Defined in: [WAProto/index.d.ts:37274](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L37274)
 
 Verifies a PrimaryEphemeralIdentity message.
 

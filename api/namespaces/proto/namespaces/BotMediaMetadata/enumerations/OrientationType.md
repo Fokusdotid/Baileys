@@ -1,6 +1,6 @@
 # Enumeration: OrientationType
 
-Defined in: [WAProto/index.d.ts:4084](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4084)
+Defined in: [WAProto/index.d.ts:4084](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4084)
 
 OrientationType enum.
 
@@ -10,7 +10,7 @@ OrientationType enum.
 
 > **CENTER**: `1`
 
-Defined in: [WAProto/index.d.ts:4085](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4085)
+Defined in: [WAProto/index.d.ts:4085](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4085)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:4085](https://github.com/Fokusdotid/Baileys/blob
 
 > **LEFT**: `2`
 
-Defined in: [WAProto/index.d.ts:4086](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4086)
+Defined in: [WAProto/index.d.ts:4086](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4086)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:4086](https://github.com/Fokusdotid/Baileys/blob
 
 > **RIGHT**: `3`
 
-Defined in: [WAProto/index.d.ts:4087](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4087)
+Defined in: [WAProto/index.d.ts:4087](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4087)

@@ -1,6 +1,6 @@
 # Interface: IHSMDateTimeUnixEpoch
 
-Defined in: [WAProto/index.d.ts:22554](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L22554)
+Defined in: [WAProto/index.d.ts:22554](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L22554)
 
 Properties of a HSMDateTimeUnixEpoch.
 
@@ -10,6 +10,6 @@ Properties of a HSMDateTimeUnixEpoch.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22557](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L22557)
+Defined in: [WAProto/index.d.ts:22557](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L22557)
 
 HSMDateTimeUnixEpoch timestamp

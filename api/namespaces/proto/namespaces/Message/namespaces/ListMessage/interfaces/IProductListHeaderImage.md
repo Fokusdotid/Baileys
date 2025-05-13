@@ -1,6 +1,6 @@
 # Interface: IProductListHeaderImage
 
-Defined in: [WAProto/index.d.ts:25107](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25107)
+Defined in: [WAProto/index.d.ts:25107](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25107)
 
 Properties of a ProductListHeaderImage.
 
@@ -10,7 +10,7 @@ Properties of a ProductListHeaderImage.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:25113](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25113)
+Defined in: [WAProto/index.d.ts:25113](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25113)
 
 ProductListHeaderImage jpegThumbnail
 
@@ -20,6 +20,6 @@ ProductListHeaderImage jpegThumbnail
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25110](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25110)
+Defined in: [WAProto/index.d.ts:25110](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25110)
 
 ProductListHeaderImage productId

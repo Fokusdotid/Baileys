@@ -1,6 +1,6 @@
 # Class: BotMemoryFact
 
-Defined in: [WAProto/index.d.ts:4102](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4102)
+Defined in: [WAProto/index.d.ts:4102](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4102)
 
 Represents a BotMemoryFact.
 
@@ -14,7 +14,7 @@ Represents a BotMemoryFact.
 
 > **new BotMemoryFact**(`properties`?): [`BotMemoryFact`](BotMemoryFact.md)
 
-Defined in: [WAProto/index.d.ts:4108](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4108)
+Defined in: [WAProto/index.d.ts:4108](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4108)
 
 Constructs a new BotMemoryFact.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fact**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4111](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4111)
+Defined in: [WAProto/index.d.ts:4111](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4111)
 
 BotMemoryFact fact.
 
@@ -50,7 +50,7 @@ BotMemoryFact fact.
 
 > `optional` **factId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4114](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4114)
+Defined in: [WAProto/index.d.ts:4114](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4114)
 
 BotMemoryFact factId.
 
@@ -64,7 +64,7 @@ BotMemoryFact factId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4184](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4184)
+Defined in: [WAProto/index.d.ts:4184](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4184)
 
 Converts this BotMemoryFact to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMemoryFact`](BotMemoryFact.md)
 
-Defined in: [WAProto/index.d.ts:4121](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4121)
+Defined in: [WAProto/index.d.ts:4121](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4121)
 
 Creates a new BotMemoryFact instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotMemoryFact instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMemoryFact`](BotMemoryFact.md)
 
-Defined in: [WAProto/index.d.ts:4147](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4147)
+Defined in: [WAProto/index.d.ts:4147](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4147)
 
 Decodes a BotMemoryFact message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMemoryFact`](BotMemoryFact.md)
 
-Defined in: [WAProto/index.d.ts:4156](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4156)
+Defined in: [WAProto/index.d.ts:4156](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4156)
 
 Decodes a BotMemoryFact message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4129](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4129)
+Defined in: [WAProto/index.d.ts:4129](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4129)
 
 Encodes the specified BotMemoryFact message. Does not implicitly [verify](BotMemoryFact.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4137](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4137)
+Defined in: [WAProto/index.d.ts:4137](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4137)
 
 Encodes the specified BotMemoryFact message, length delimited. Does not implicitly [verify](BotMemoryFact.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMemoryFact`](BotMemoryFact.md)
 
-Defined in: [WAProto/index.d.ts:4170](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4170)
+Defined in: [WAProto/index.d.ts:4170](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4170)
 
 Creates a BotMemoryFact message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotMemoryFact
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4191](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4191)
+Defined in: [WAProto/index.d.ts:4191](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4191)
 
 Gets the default type url for BotMemoryFact
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4178](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4178)
+Defined in: [WAProto/index.d.ts:4178](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4178)
 
 Creates a plain object from a BotMemoryFact message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4163](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4163)
+Defined in: [WAProto/index.d.ts:4163](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4163)
 
 Verifies a BotMemoryFact message.
 

@@ -1,6 +1,6 @@
 # Interface: IFourRowTemplate
 
-Defined in: [WAProto/index.d.ts:32298](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32298)
+Defined in: [WAProto/index.d.ts:32298](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32298)
 
 Properties of a FourRowTemplate.
 
@@ -10,7 +10,7 @@ Properties of a FourRowTemplate.
 
 > `optional` **buttons**: `null` \| [`ITemplateButton`](../../../../../interfaces/ITemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:32307](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32307)
+Defined in: [WAProto/index.d.ts:32307](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32307)
 
 FourRowTemplate buttons
 
@@ -20,7 +20,7 @@ FourRowTemplate buttons
 
 > `optional` **content**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32301](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32301)
+Defined in: [WAProto/index.d.ts:32301](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32301)
 
 FourRowTemplate content
 
@@ -30,7 +30,7 @@ FourRowTemplate content
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:32310](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32310)
+Defined in: [WAProto/index.d.ts:32310](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32310)
 
 FourRowTemplate documentMessage
 
@@ -40,7 +40,7 @@ FourRowTemplate documentMessage
 
 > `optional` **footer**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32304](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32304)
+Defined in: [WAProto/index.d.ts:32304](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32304)
 
 FourRowTemplate footer
 
@@ -50,7 +50,7 @@ FourRowTemplate footer
 
 > `optional` **highlyStructuredMessage**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:32313](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32313)
+Defined in: [WAProto/index.d.ts:32313](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32313)
 
 FourRowTemplate highlyStructuredMessage
 
@@ -60,7 +60,7 @@ FourRowTemplate highlyStructuredMessage
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:32316](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32316)
+Defined in: [WAProto/index.d.ts:32316](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32316)
 
 FourRowTemplate imageMessage
 
@@ -70,7 +70,7 @@ FourRowTemplate imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:32322](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32322)
+Defined in: [WAProto/index.d.ts:32322](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32322)
 
 FourRowTemplate locationMessage
 
@@ -80,6 +80,6 @@ FourRowTemplate locationMessage
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32319](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L32319)
+Defined in: [WAProto/index.d.ts:32319](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L32319)
 
 FourRowTemplate videoMessage

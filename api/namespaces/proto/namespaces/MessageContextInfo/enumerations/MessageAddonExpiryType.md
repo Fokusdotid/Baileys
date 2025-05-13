@@ -1,6 +1,6 @@
 # Enumeration: MessageAddonExpiryType
 
-Defined in: [WAProto/index.d.ts:33406](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33406)
+Defined in: [WAProto/index.d.ts:33406](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L33406)
 
 MessageAddonExpiryType enum.
 
@@ -10,7 +10,7 @@ MessageAddonExpiryType enum.
 
 > **DEPENDENT\_ON\_PARENT**: `2`
 
-Defined in: [WAProto/index.d.ts:33408](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33408)
+Defined in: [WAProto/index.d.ts:33408](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L33408)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:33408](https://github.com/Fokusdotid/Baileys/blo
 
 > **STATIC**: `1`
 
-Defined in: [WAProto/index.d.ts:33407](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L33407)
+Defined in: [WAProto/index.d.ts:33407](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L33407)

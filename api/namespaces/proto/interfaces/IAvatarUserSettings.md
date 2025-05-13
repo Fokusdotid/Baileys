@@ -1,6 +1,6 @@
 # Interface: IAvatarUserSettings
 
-Defined in: [WAProto/index.d.ts:2875](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2875)
+Defined in: [WAProto/index.d.ts:2875](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L2875)
 
 Properties of an AvatarUserSettings.
 
@@ -10,7 +10,7 @@ Properties of an AvatarUserSettings.
 
 > `optional` **fbid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2878](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2878)
+Defined in: [WAProto/index.d.ts:2878](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L2878)
 
 AvatarUserSettings fbid
 
@@ -20,6 +20,6 @@ AvatarUserSettings fbid
 
 > `optional` **password**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2881](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L2881)
+Defined in: [WAProto/index.d.ts:2881](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L2881)
 
 AvatarUserSettings password

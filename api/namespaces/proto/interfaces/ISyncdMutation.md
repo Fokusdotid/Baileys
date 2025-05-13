@@ -1,6 +1,6 @@
 # Interface: ISyncdMutation
 
-Defined in: [WAProto/index.d.ts:46868](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46868)
+Defined in: [WAProto/index.d.ts:46868](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46868)
 
 Properties of a SyncdMutation.
 
@@ -10,7 +10,7 @@ Properties of a SyncdMutation.
 
 > `optional` **operation**: `null` \| [`SyncdOperation`](../namespaces/SyncdMutation/enumerations/SyncdOperation.md)
 
-Defined in: [WAProto/index.d.ts:46871](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46871)
+Defined in: [WAProto/index.d.ts:46871](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46871)
 
 SyncdMutation operation
 
@@ -20,6 +20,6 @@ SyncdMutation operation
 
 > `optional` **record**: `null` \| [`ISyncdRecord`](ISyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:46874](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46874)
+Defined in: [WAProto/index.d.ts:46874](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46874)
 
 SyncdMutation record

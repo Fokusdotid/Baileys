@@ -1,6 +1,6 @@
 # Interface: IStickerMetadata
 
-Defined in: [WAProto/index.d.ts:40239](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40239)
+Defined in: [WAProto/index.d.ts:40239](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40239)
 
 Properties of a StickerMetadata.
 
@@ -10,7 +10,7 @@ Properties of a StickerMetadata.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40263](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40263)
+Defined in: [WAProto/index.d.ts:40263](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40263)
 
 StickerMetadata directPath
 
@@ -20,7 +20,7 @@ StickerMetadata directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40248](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40248)
+Defined in: [WAProto/index.d.ts:40248](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40248)
 
 StickerMetadata fileEncSha256
 
@@ -30,7 +30,7 @@ StickerMetadata fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40266](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40266)
+Defined in: [WAProto/index.d.ts:40266](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40266)
 
 StickerMetadata fileLength
 
@@ -40,7 +40,7 @@ StickerMetadata fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40245](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40245)
+Defined in: [WAProto/index.d.ts:40245](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40245)
 
 StickerMetadata fileSha256
 
@@ -50,7 +50,7 @@ StickerMetadata fileSha256
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40257](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40257)
+Defined in: [WAProto/index.d.ts:40257](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40257)
 
 StickerMetadata height
 
@@ -60,7 +60,7 @@ StickerMetadata height
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:40275](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40275)
+Defined in: [WAProto/index.d.ts:40275](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40275)
 
 StickerMetadata isLottie
 
@@ -70,7 +70,7 @@ StickerMetadata isLottie
 
 > `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40272](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40272)
+Defined in: [WAProto/index.d.ts:40272](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40272)
 
 StickerMetadata lastStickerSentTs
 
@@ -80,7 +80,7 @@ StickerMetadata lastStickerSentTs
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40251](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40251)
+Defined in: [WAProto/index.d.ts:40251](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40251)
 
 StickerMetadata mediaKey
 
@@ -90,7 +90,7 @@ StickerMetadata mediaKey
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40254](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40254)
+Defined in: [WAProto/index.d.ts:40254](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40254)
 
 StickerMetadata mimetype
 
@@ -100,7 +100,7 @@ StickerMetadata mimetype
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40242](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40242)
+Defined in: [WAProto/index.d.ts:40242](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40242)
 
 StickerMetadata url
 
@@ -110,7 +110,7 @@ StickerMetadata url
 
 > `optional` **weight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40269](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40269)
+Defined in: [WAProto/index.d.ts:40269](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40269)
 
 StickerMetadata weight
 
@@ -120,6 +120,6 @@ StickerMetadata weight
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40260](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L40260)
+Defined in: [WAProto/index.d.ts:40260](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L40260)
 
 StickerMetadata width

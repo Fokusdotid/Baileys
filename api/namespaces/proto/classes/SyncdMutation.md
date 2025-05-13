@@ -1,6 +1,6 @@
 # Class: SyncdMutation
 
-Defined in: [WAProto/index.d.ts:46878](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46878)
+Defined in: [WAProto/index.d.ts:46878](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46878)
 
 Represents a SyncdMutation.
 
@@ -14,7 +14,7 @@ Represents a SyncdMutation.
 
 > **new SyncdMutation**(`properties`?): [`SyncdMutation`](SyncdMutation.md)
 
-Defined in: [WAProto/index.d.ts:46884](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46884)
+Defined in: [WAProto/index.d.ts:46884](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46884)
 
 Constructs a new SyncdMutation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **operation**: `null` \| [`SyncdOperation`](../namespaces/SyncdMutation/enumerations/SyncdOperation.md)
 
-Defined in: [WAProto/index.d.ts:46887](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46887)
+Defined in: [WAProto/index.d.ts:46887](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46887)
 
 SyncdMutation operation.
 
@@ -50,7 +50,7 @@ SyncdMutation operation.
 
 > `optional` **record**: `null` \| [`ISyncdRecord`](../interfaces/ISyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:46890](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46890)
+Defined in: [WAProto/index.d.ts:46890](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46890)
 
 SyncdMutation record.
 
@@ -64,7 +64,7 @@ SyncdMutation record.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46960](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46960)
+Defined in: [WAProto/index.d.ts:46960](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46960)
 
 Converts this SyncdMutation to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdMutation`](SyncdMutation.md)
 
-Defined in: [WAProto/index.d.ts:46897](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46897)
+Defined in: [WAProto/index.d.ts:46897](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46897)
 
 Creates a new SyncdMutation instance using the specified properties.
 
@@ -104,7 +104,7 @@ SyncdMutation instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdMutation`](SyncdMutation.md)
 
-Defined in: [WAProto/index.d.ts:46923](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46923)
+Defined in: [WAProto/index.d.ts:46923](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46923)
 
 Decodes a SyncdMutation message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdMutation`](SyncdMutation.md)
 
-Defined in: [WAProto/index.d.ts:46932](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46932)
+Defined in: [WAProto/index.d.ts:46932](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46932)
 
 Decodes a SyncdMutation message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46905](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46905)
+Defined in: [WAProto/index.d.ts:46905](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46905)
 
 Encodes the specified SyncdMutation message. Does not implicitly [verify](SyncdMutation.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46913](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46913)
+Defined in: [WAProto/index.d.ts:46913](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46913)
 
 Encodes the specified SyncdMutation message, length delimited. Does not implicitly [verify](SyncdMutation.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdMutation`](SyncdMutation.md)
 
-Defined in: [WAProto/index.d.ts:46946](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46946)
+Defined in: [WAProto/index.d.ts:46946](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46946)
 
 Creates a SyncdMutation message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SyncdMutation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46967](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46967)
+Defined in: [WAProto/index.d.ts:46967](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46967)
 
 Gets the default type url for SyncdMutation
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46954](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46954)
+Defined in: [WAProto/index.d.ts:46954](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46954)
 
 Creates a plain object from a SyncdMutation message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46939](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46939)
+Defined in: [WAProto/index.d.ts:46939](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46939)
 
 Verifies a SyncdMutation message.
 

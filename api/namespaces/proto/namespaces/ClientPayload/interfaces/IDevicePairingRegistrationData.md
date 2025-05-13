@@ -1,6 +1,6 @@
 # Interface: IDevicePairingRegistrationData
 
-Defined in: [WAProto/index.d.ts:8052](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8052)
+Defined in: [WAProto/index.d.ts:8052](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8052)
 
 Properties of a DevicePairingRegistrationData.
 
@@ -10,7 +10,7 @@ Properties of a DevicePairingRegistrationData.
 
 > `optional` **buildHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8073](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8073)
+Defined in: [WAProto/index.d.ts:8073](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8073)
 
 DevicePairingRegistrationData buildHash
 
@@ -20,7 +20,7 @@ DevicePairingRegistrationData buildHash
 
 > `optional` **deviceProps**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8076](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8076)
+Defined in: [WAProto/index.d.ts:8076](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8076)
 
 DevicePairingRegistrationData deviceProps
 
@@ -30,7 +30,7 @@ DevicePairingRegistrationData deviceProps
 
 > `optional` **eIdent**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8061](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8061)
+Defined in: [WAProto/index.d.ts:8061](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8061)
 
 DevicePairingRegistrationData eIdent
 
@@ -40,7 +40,7 @@ DevicePairingRegistrationData eIdent
 
 > `optional` **eKeytype**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8058](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8058)
+Defined in: [WAProto/index.d.ts:8058](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8058)
 
 DevicePairingRegistrationData eKeytype
 
@@ -50,7 +50,7 @@ DevicePairingRegistrationData eKeytype
 
 > `optional` **eRegid**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8055](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8055)
+Defined in: [WAProto/index.d.ts:8055](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8055)
 
 DevicePairingRegistrationData eRegid
 
@@ -60,7 +60,7 @@ DevicePairingRegistrationData eRegid
 
 > `optional` **eSkeyId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8064](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8064)
+Defined in: [WAProto/index.d.ts:8064](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8064)
 
 DevicePairingRegistrationData eSkeyId
 
@@ -70,7 +70,7 @@ DevicePairingRegistrationData eSkeyId
 
 > `optional` **eSkeySig**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8070](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8070)
+Defined in: [WAProto/index.d.ts:8070](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8070)
 
 DevicePairingRegistrationData eSkeySig
 
@@ -80,6 +80,6 @@ DevicePairingRegistrationData eSkeySig
 
 > `optional` **eSkeyVal**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8067](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L8067)
+Defined in: [WAProto/index.d.ts:8067](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8067)
 
 DevicePairingRegistrationData eSkeyVal

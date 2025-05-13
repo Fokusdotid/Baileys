@@ -1,6 +1,6 @@
 # Interface: IBotMetricsMetadata
 
-Defined in: [WAProto/index.d.ts:4621](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4621)
+Defined in: [WAProto/index.d.ts:4621](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4621)
 
 Properties of a BotMetricsMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMetricsMetadata.
 
 > `optional` **destinationEntryPoint**: `null` \| [`BotMetricsEntryPoint`](../enumerations/BotMetricsEntryPoint.md)
 
-Defined in: [WAProto/index.d.ts:4627](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4627)
+Defined in: [WAProto/index.d.ts:4627](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4627)
 
 BotMetricsMetadata destinationEntryPoint
 
@@ -20,6 +20,6 @@ BotMetricsMetadata destinationEntryPoint
 
 > `optional` **destinationId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4624](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L4624)
+Defined in: [WAProto/index.d.ts:4624](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4624)
 
 BotMetricsMetadata destinationId

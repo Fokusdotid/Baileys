@@ -1,6 +1,6 @@
 # Class: SyncdIndex
 
-Defined in: [WAProto/index.d.ts:46778](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46778)
+Defined in: [WAProto/index.d.ts:46778](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46778)
 
 Represents a SyncdIndex.
 
@@ -14,7 +14,7 @@ Represents a SyncdIndex.
 
 > **new SyncdIndex**(`properties`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46784](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46784)
+Defined in: [WAProto/index.d.ts:46784](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46784)
 
 Constructs a new SyncdIndex.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **blob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:46787](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46787)
+Defined in: [WAProto/index.d.ts:46787](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46787)
 
 SyncdIndex blob.
 
@@ -50,7 +50,7 @@ SyncdIndex blob.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46857](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46857)
+Defined in: [WAProto/index.d.ts:46857](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46857)
 
 Converts this SyncdIndex to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46794](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46794)
+Defined in: [WAProto/index.d.ts:46794](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46794)
 
 Creates a new SyncdIndex instance using the specified properties.
 
@@ -90,7 +90,7 @@ SyncdIndex instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46820](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46820)
+Defined in: [WAProto/index.d.ts:46820](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46820)
 
 Decodes a SyncdIndex message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46829](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46829)
+Defined in: [WAProto/index.d.ts:46829](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46829)
 
 Decodes a SyncdIndex message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46802](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46802)
+Defined in: [WAProto/index.d.ts:46802](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46802)
 
 Encodes the specified SyncdIndex message. Does not implicitly [verify](SyncdIndex.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46810](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46810)
+Defined in: [WAProto/index.d.ts:46810](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46810)
 
 Encodes the specified SyncdIndex message, length delimited. Does not implicitly [verify](SyncdIndex.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46843](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46843)
+Defined in: [WAProto/index.d.ts:46843](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46843)
 
 Creates a SyncdIndex message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SyncdIndex
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46864](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46864)
+Defined in: [WAProto/index.d.ts:46864](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46864)
 
 Gets the default type url for SyncdIndex
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46851](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46851)
+Defined in: [WAProto/index.d.ts:46851](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46851)
 
 Creates a plain object from a SyncdIndex message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46836](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L46836)
+Defined in: [WAProto/index.d.ts:46836](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L46836)
 
 Verifies a SyncdIndex message.
 

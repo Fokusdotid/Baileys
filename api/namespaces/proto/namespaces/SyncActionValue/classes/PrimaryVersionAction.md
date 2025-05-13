@@ -1,6 +1,6 @@
 # Class: PrimaryVersionAction
 
-Defined in: [WAProto/index.d.ts:44690](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44690)
+Defined in: [WAProto/index.d.ts:44690](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44690)
 
 Represents a PrimaryVersionAction.
 
@@ -14,7 +14,7 @@ Represents a PrimaryVersionAction.
 
 > **new PrimaryVersionAction**(`properties`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:44696](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44696)
+Defined in: [WAProto/index.d.ts:44696](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44696)
 
 Constructs a new PrimaryVersionAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **version**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44699](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44699)
+Defined in: [WAProto/index.d.ts:44699](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44699)
 
 PrimaryVersionAction version.
 
@@ -50,7 +50,7 @@ PrimaryVersionAction version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44769](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44769)
+Defined in: [WAProto/index.d.ts:44769](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44769)
 
 Converts this PrimaryVersionAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:44706](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44706)
+Defined in: [WAProto/index.d.ts:44706](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44706)
 
 Creates a new PrimaryVersionAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrimaryVersionAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:44732](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44732)
+Defined in: [WAProto/index.d.ts:44732](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44732)
 
 Decodes a PrimaryVersionAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:44741](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44741)
+Defined in: [WAProto/index.d.ts:44741](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44741)
 
 Decodes a PrimaryVersionAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44714](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44714)
+Defined in: [WAProto/index.d.ts:44714](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44714)
 
 Encodes the specified PrimaryVersionAction message. Does not implicitly [verify](PrimaryVersionAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44722](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44722)
+Defined in: [WAProto/index.d.ts:44722](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44722)
 
 Encodes the specified PrimaryVersionAction message, length delimited. Does not implicitly [verify](PrimaryVersionAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:44755](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44755)
+Defined in: [WAProto/index.d.ts:44755](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44755)
 
 Creates a PrimaryVersionAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrimaryVersionAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44776](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44776)
+Defined in: [WAProto/index.d.ts:44776](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44776)
 
 Gets the default type url for PrimaryVersionAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44763](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44763)
+Defined in: [WAProto/index.d.ts:44763](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44763)
 
 Creates a plain object from a PrimaryVersionAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44748](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L44748)
+Defined in: [WAProto/index.d.ts:44748](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L44748)
 
 Verifies a PrimaryVersionAction message.
 

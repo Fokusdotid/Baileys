@@ -1,6 +1,6 @@
 # Interface: IPendingPreKey
 
-Defined in: [WAProto/index.d.ts:39693](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L39693)
+Defined in: [WAProto/index.d.ts:39693](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L39693)
 
 Properties of a PendingPreKey.
 
@@ -10,7 +10,7 @@ Properties of a PendingPreKey.
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39702](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L39702)
+Defined in: [WAProto/index.d.ts:39702](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L39702)
 
 PendingPreKey baseKey
 
@@ -20,7 +20,7 @@ PendingPreKey baseKey
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39696](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L39696)
+Defined in: [WAProto/index.d.ts:39696](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L39696)
 
 PendingPreKey preKeyId
 
@@ -30,6 +30,6 @@ PendingPreKey preKeyId
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39699](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L39699)
+Defined in: [WAProto/index.d.ts:39699](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L39699)
 
 PendingPreKey signedPreKeyId

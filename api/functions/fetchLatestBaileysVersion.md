@@ -2,7 +2,7 @@
 
 > **fetchLatestBaileysVersion**(`options`): `Promise`\<\{ `error`: `undefined`; `isLatest`: `boolean`; `version`: [`WAVersion`](../type-aliases/WAVersion.md); \} \| \{ `error`: `any`; `isLatest`: `boolean`; `version`: [`WAVersion`](../type-aliases/WAVersion.md); \}\>
 
-Defined in: [src/Utils/generics.ts:248](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/Utils/generics.ts#L248)
+Defined in: [src/Utils/generics.ts:248](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/Utils/generics.ts#L248)
 
 utility that fetches latest baileys version from the master branch.
 Use to ensure your WA connection is always on the latest version

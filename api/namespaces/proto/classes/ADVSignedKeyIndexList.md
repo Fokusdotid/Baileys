@@ -1,6 +1,6 @@
 # Class: ADVSignedKeyIndexList
 
-Defined in: [WAProto/index.d.ts:492](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L492)
+Defined in: [WAProto/index.d.ts:492](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L492)
 
 Represents a ADVSignedKeyIndexList.
 
@@ -14,7 +14,7 @@ Represents a ADVSignedKeyIndexList.
 
 > **new ADVSignedKeyIndexList**(`properties`?): [`ADVSignedKeyIndexList`](ADVSignedKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:498](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L498)
+Defined in: [WAProto/index.d.ts:498](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L498)
 
 Constructs a new ADVSignedKeyIndexList.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:504](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L504)
+Defined in: [WAProto/index.d.ts:504](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L504)
 
 ADVSignedKeyIndexList accountSignature.
 
@@ -50,7 +50,7 @@ ADVSignedKeyIndexList accountSignature.
 
 > `optional` **accountSignatureKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:507](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L507)
+Defined in: [WAProto/index.d.ts:507](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L507)
 
 ADVSignedKeyIndexList accountSignatureKey.
 
@@ -64,7 +64,7 @@ ADVSignedKeyIndexList accountSignatureKey.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:501](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L501)
+Defined in: [WAProto/index.d.ts:501](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L501)
 
 ADVSignedKeyIndexList details.
 
@@ -78,7 +78,7 @@ ADVSignedKeyIndexList details.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:577](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L577)
+Defined in: [WAProto/index.d.ts:577](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L577)
 
 Converts this ADVSignedKeyIndexList to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ADVSignedKeyIndexList`](ADVSignedKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:514](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L514)
+Defined in: [WAProto/index.d.ts:514](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L514)
 
 Creates a new ADVSignedKeyIndexList instance using the specified properties.
 
@@ -118,7 +118,7 @@ ADVSignedKeyIndexList instance
 
 > `static` **decode**(`reader`, `length`?): [`ADVSignedKeyIndexList`](ADVSignedKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:540](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L540)
+Defined in: [WAProto/index.d.ts:540](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L540)
 
 Decodes a ADVSignedKeyIndexList message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ADVSignedKeyIndexList`](ADVSignedKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:549](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L549)
+Defined in: [WAProto/index.d.ts:549](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L549)
 
 Decodes a ADVSignedKeyIndexList message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:522](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L522)
+Defined in: [WAProto/index.d.ts:522](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L522)
 
 Encodes the specified ADVSignedKeyIndexList message. Does not implicitly [verify](ADVSignedKeyIndexList.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:530](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L530)
+Defined in: [WAProto/index.d.ts:530](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L530)
 
 Encodes the specified ADVSignedKeyIndexList message, length delimited. Does not implicitly [verify](ADVSignedKeyIndexList.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ADVSignedKeyIndexList`](ADVSignedKeyIndexList.md)
 
-Defined in: [WAProto/index.d.ts:563](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L563)
+Defined in: [WAProto/index.d.ts:563](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L563)
 
 Creates a ADVSignedKeyIndexList message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ADVSignedKeyIndexList
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:584](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L584)
+Defined in: [WAProto/index.d.ts:584](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L584)
 
 Gets the default type url for ADVSignedKeyIndexList
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:571](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L571)
+Defined in: [WAProto/index.d.ts:571](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L571)
 
 Creates a plain object from a ADVSignedKeyIndexList message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:556](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L556)
+Defined in: [WAProto/index.d.ts:556](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L556)
 
 Verifies a ADVSignedKeyIndexList message.
 

@@ -1,6 +1,6 @@
 # Enumeration: StatusDistributionMode
 
-Defined in: [WAProto/index.d.ts:45685](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L45685)
+Defined in: [WAProto/index.d.ts:45685](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L45685)
 
 StatusDistributionMode enum.
 
@@ -10,7 +10,7 @@ StatusDistributionMode enum.
 
 > **ALLOW\_LIST**: `0`
 
-Defined in: [WAProto/index.d.ts:45686](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L45686)
+Defined in: [WAProto/index.d.ts:45686](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L45686)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:45686](https://github.com/Fokusdotid/Baileys/blo
 
 > **CONTACTS**: `2`
 
-Defined in: [WAProto/index.d.ts:45688](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L45688)
+Defined in: [WAProto/index.d.ts:45688](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L45688)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:45688](https://github.com/Fokusdotid/Baileys/blo
 
 > **DENY\_LIST**: `1`
 
-Defined in: [WAProto/index.d.ts:45687](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L45687)
+Defined in: [WAProto/index.d.ts:45687](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L45687)

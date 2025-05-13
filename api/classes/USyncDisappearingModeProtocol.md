@@ -1,6 +1,6 @@
 # Class: USyncDisappearingModeProtocol
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:9](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L9)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:9](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L9)
 
 ## Implements
 
@@ -22,7 +22,7 @@ Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:9](https://g
 
 > **name**: `string` = `'disappearing_mode'`
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:10](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L10)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:10](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L10)
 
 The name of the protocol
 
@@ -36,7 +36,7 @@ The name of the protocol
 
 > **getQueryElement**(): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:12](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L12)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:12](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L12)
 
 Defines what goes inside the query part of a USyncQuery
 
@@ -54,7 +54,7 @@ Defines what goes inside the query part of a USyncQuery
 
 > **getUserElement**(): `null`
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:19](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L19)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:19](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L19)
 
 Defines what goes inside the user part of a USyncQuery
 
@@ -72,7 +72,7 @@ Defines what goes inside the user part of a USyncQuery
 
 > **parser**(`node`): `undefined` \| [`DisappearingModeData`](../type-aliases/DisappearingModeData.md)
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:23](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L23)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:23](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L23)
 
 Parse the result of the query
 

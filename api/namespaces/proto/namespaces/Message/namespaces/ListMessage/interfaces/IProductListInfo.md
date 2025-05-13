@@ -1,6 +1,6 @@
 # Interface: IProductListInfo
 
-Defined in: [WAProto/index.d.ts:25210](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25210)
+Defined in: [WAProto/index.d.ts:25210](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25210)
 
 Properties of a ProductListInfo.
 
@@ -10,7 +10,7 @@ Properties of a ProductListInfo.
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25219](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25219)
+Defined in: [WAProto/index.d.ts:25219](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25219)
 
 ProductListInfo businessOwnerJid
 
@@ -20,7 +20,7 @@ ProductListInfo businessOwnerJid
 
 > `optional` **headerImage**: `null` \| [`IProductListHeaderImage`](IProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25216](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25216)
+Defined in: [WAProto/index.d.ts:25216](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25216)
 
 ProductListInfo headerImage
 
@@ -30,6 +30,6 @@ ProductListInfo headerImage
 
 > `optional` **productSections**: `null` \| [`IProductSection`](IProductSection.md)[]
 
-Defined in: [WAProto/index.d.ts:25213](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L25213)
+Defined in: [WAProto/index.d.ts:25213](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L25213)
 
 ProductListInfo productSections

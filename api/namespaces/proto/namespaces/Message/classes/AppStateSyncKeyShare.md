@@ -1,6 +1,6 @@
 # Class: AppStateSyncKeyShare
 
-Defined in: [WAProto/index.d.ts:18081](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18081)
+Defined in: [WAProto/index.d.ts:18081](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18081)
 
 Represents an AppStateSyncKeyShare.
 
@@ -14,7 +14,7 @@ Represents an AppStateSyncKeyShare.
 
 > **new AppStateSyncKeyShare**(`properties`?): [`AppStateSyncKeyShare`](AppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:18087](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18087)
+Defined in: [WAProto/index.d.ts:18087](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18087)
 
 Constructs a new AppStateSyncKeyShare.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **keys**: [`IAppStateSyncKey`](../interfaces/IAppStateSyncKey.md)[]
 
-Defined in: [WAProto/index.d.ts:18090](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18090)
+Defined in: [WAProto/index.d.ts:18090](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18090)
 
 AppStateSyncKeyShare keys.
 
@@ -50,7 +50,7 @@ AppStateSyncKeyShare keys.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18160](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18160)
+Defined in: [WAProto/index.d.ts:18160](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18160)
 
 Converts this AppStateSyncKeyShare to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppStateSyncKeyShare`](AppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:18097](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18097)
+Defined in: [WAProto/index.d.ts:18097](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18097)
 
 Creates a new AppStateSyncKeyShare instance using the specified properties.
 
@@ -90,7 +90,7 @@ AppStateSyncKeyShare instance
 
 > `static` **decode**(`reader`, `length`?): [`AppStateSyncKeyShare`](AppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:18123](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18123)
+Defined in: [WAProto/index.d.ts:18123](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18123)
 
 Decodes an AppStateSyncKeyShare message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppStateSyncKeyShare`](AppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:18132](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18132)
+Defined in: [WAProto/index.d.ts:18132](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18132)
 
 Decodes an AppStateSyncKeyShare message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18105](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18105)
+Defined in: [WAProto/index.d.ts:18105](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18105)
 
 Encodes the specified AppStateSyncKeyShare message. Does not implicitly [verify](AppStateSyncKeyShare.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18113](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18113)
+Defined in: [WAProto/index.d.ts:18113](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18113)
 
 Encodes the specified AppStateSyncKeyShare message, length delimited. Does not implicitly [verify](AppStateSyncKeyShare.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppStateSyncKeyShare`](AppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:18146](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18146)
+Defined in: [WAProto/index.d.ts:18146](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18146)
 
 Creates an AppStateSyncKeyShare message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AppStateSyncKeyShare
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18167](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18167)
+Defined in: [WAProto/index.d.ts:18167](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18167)
 
 Gets the default type url for AppStateSyncKeyShare
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18154](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18154)
+Defined in: [WAProto/index.d.ts:18154](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18154)
 
 Creates a plain object from an AppStateSyncKeyShare message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18139](https://github.com/Fokusdotid/Baileys/blob/58a03b5a49cf326e1050515994499cb0bb76662f/WAProto/index.d.ts#L18139)
+Defined in: [WAProto/index.d.ts:18139](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L18139)
 
 Verifies an AppStateSyncKeyShare message.
 
