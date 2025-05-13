@@ -1,6 +1,6 @@
 # Interface: ISecretEncryptedMessage
 
-Defined in: [WAProto/index.d.ts:30910](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L30910)
+Defined in: [WAProto/index.d.ts:30910](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L30910)
 
 Properties of a SecretEncryptedMessage.
 
@@ -10,7 +10,7 @@ Properties of a SecretEncryptedMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:30919](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L30919)
+Defined in: [WAProto/index.d.ts:30919](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L30919)
 
 SecretEncryptedMessage encIv
 
@@ -20,7 +20,7 @@ SecretEncryptedMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:30916](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L30916)
+Defined in: [WAProto/index.d.ts:30916](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L30916)
 
 SecretEncryptedMessage encPayload
 
@@ -30,7 +30,7 @@ SecretEncryptedMessage encPayload
 
 > `optional` **secretEncType**: `null` \| [`SecretEncType`](../namespaces/SecretEncryptedMessage/enumerations/SecretEncType.md)
 
-Defined in: [WAProto/index.d.ts:30922](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L30922)
+Defined in: [WAProto/index.d.ts:30922](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L30922)
 
 SecretEncryptedMessage secretEncType
 
@@ -40,6 +40,6 @@ SecretEncryptedMessage secretEncType
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30913](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L30913)
+Defined in: [WAProto/index.d.ts:30913](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L30913)
 
 SecretEncryptedMessage targetMessageKey

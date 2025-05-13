@@ -1,6 +1,6 @@
 # Class: EncryptedPairingRequest
 
-Defined in: [WAProto/index.d.ts:12721](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12721)
+Defined in: [WAProto/index.d.ts:12721](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12721)
 
 Represents an EncryptedPairingRequest.
 
@@ -14,7 +14,7 @@ Represents an EncryptedPairingRequest.
 
 > **new EncryptedPairingRequest**(`properties`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:12727](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12727)
+Defined in: [WAProto/index.d.ts:12727](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12727)
 
 Constructs a new EncryptedPairingRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encryptedPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12730](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12730)
+Defined in: [WAProto/index.d.ts:12730](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12730)
 
 EncryptedPairingRequest encryptedPayload.
 
@@ -50,7 +50,7 @@ EncryptedPairingRequest encryptedPayload.
 
 > `optional` **iv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12733](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12733)
+Defined in: [WAProto/index.d.ts:12733](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12733)
 
 EncryptedPairingRequest iv.
 
@@ -64,7 +64,7 @@ EncryptedPairingRequest iv.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12803](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12803)
+Defined in: [WAProto/index.d.ts:12803](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12803)
 
 Converts this EncryptedPairingRequest to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:12740](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12740)
+Defined in: [WAProto/index.d.ts:12740](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12740)
 
 Creates a new EncryptedPairingRequest instance using the specified properties.
 
@@ -104,7 +104,7 @@ EncryptedPairingRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:12766](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12766)
+Defined in: [WAProto/index.d.ts:12766](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12766)
 
 Decodes an EncryptedPairingRequest message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:12775](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12775)
+Defined in: [WAProto/index.d.ts:12775](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12775)
 
 Decodes an EncryptedPairingRequest message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12748](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12748)
+Defined in: [WAProto/index.d.ts:12748](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12748)
 
 Encodes the specified EncryptedPairingRequest message. Does not implicitly [verify](EncryptedPairingRequest.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12756](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12756)
+Defined in: [WAProto/index.d.ts:12756](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12756)
 
 Encodes the specified EncryptedPairingRequest message, length delimited. Does not implicitly [verify](EncryptedPairingRequest.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:12789](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12789)
+Defined in: [WAProto/index.d.ts:12789](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12789)
 
 Creates an EncryptedPairingRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ EncryptedPairingRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12810](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12810)
+Defined in: [WAProto/index.d.ts:12810](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12810)
 
 Gets the default type url for EncryptedPairingRequest
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12797](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12797)
+Defined in: [WAProto/index.d.ts:12797](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12797)
 
 Creates a plain object from an EncryptedPairingRequest message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12782](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L12782)
+Defined in: [WAProto/index.d.ts:12782](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L12782)
 
 Verifies an EncryptedPairingRequest message.
 

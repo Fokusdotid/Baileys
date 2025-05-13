@@ -1,6 +1,6 @@
 # Class: InteropData
 
-Defined in: [WAProto/index.d.ts:8211](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8211)
+Defined in: [WAProto/index.d.ts:8211](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8211)
 
 Represents an InteropData.
 
@@ -14,7 +14,7 @@ Represents an InteropData.
 
 > **new InteropData**(`properties`?): [`InteropData`](InteropData.md)
 
-Defined in: [WAProto/index.d.ts:8217](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8217)
+Defined in: [WAProto/index.d.ts:8217](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8217)
 
 Constructs a new InteropData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8220](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8220)
+Defined in: [WAProto/index.d.ts:8220](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8220)
 
 InteropData accountId.
 
@@ -50,7 +50,7 @@ InteropData accountId.
 
 > `optional` **enableReadReceipts**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8226](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8226)
+Defined in: [WAProto/index.d.ts:8226](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8226)
 
 InteropData enableReadReceipts.
 
@@ -64,7 +64,7 @@ InteropData enableReadReceipts.
 
 > `optional` **token**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8223](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8223)
+Defined in: [WAProto/index.d.ts:8223](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8223)
 
 InteropData token.
 
@@ -78,7 +78,7 @@ InteropData token.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8296](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8296)
+Defined in: [WAProto/index.d.ts:8296](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8296)
 
 Converts this InteropData to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteropData`](InteropData.md)
 
-Defined in: [WAProto/index.d.ts:8233](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8233)
+Defined in: [WAProto/index.d.ts:8233](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8233)
 
 Creates a new InteropData instance using the specified properties.
 
@@ -118,7 +118,7 @@ InteropData instance
 
 > `static` **decode**(`reader`, `length`?): [`InteropData`](InteropData.md)
 
-Defined in: [WAProto/index.d.ts:8259](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8259)
+Defined in: [WAProto/index.d.ts:8259](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8259)
 
 Decodes an InteropData message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteropData`](InteropData.md)
 
-Defined in: [WAProto/index.d.ts:8268](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8268)
+Defined in: [WAProto/index.d.ts:8268](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8268)
 
 Decodes an InteropData message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8241](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8241)
+Defined in: [WAProto/index.d.ts:8241](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8241)
 
 Encodes the specified InteropData message. Does not implicitly [verify](InteropData.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8249](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8249)
+Defined in: [WAProto/index.d.ts:8249](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8249)
 
 Encodes the specified InteropData message, length delimited. Does not implicitly [verify](InteropData.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteropData`](InteropData.md)
 
-Defined in: [WAProto/index.d.ts:8282](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8282)
+Defined in: [WAProto/index.d.ts:8282](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8282)
 
 Creates an InteropData message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ InteropData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8303](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8303)
+Defined in: [WAProto/index.d.ts:8303](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8303)
 
 Gets the default type url for InteropData
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8290](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8290)
+Defined in: [WAProto/index.d.ts:8290](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8290)
 
 Creates a plain object from an InteropData message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8275](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L8275)
+Defined in: [WAProto/index.d.ts:8275](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L8275)
 
 Verifies an InteropData message.
 

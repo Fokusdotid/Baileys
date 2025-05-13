@@ -1,6 +1,6 @@
 # Interface: ILinkPreviewResponse
 
-Defined in: [WAProto/index.d.ts:27993](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L27993)
+Defined in: [WAProto/index.d.ts:27993](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L27993)
 
 Properties of a LinkPreviewResponse.
 
@@ -10,7 +10,7 @@ Properties of a LinkPreviewResponse.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28002](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28002)
+Defined in: [WAProto/index.d.ts:28002](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28002)
 
 LinkPreviewResponse description
 
@@ -20,7 +20,7 @@ LinkPreviewResponse description
 
 > `optional` **hqThumbnail**: `null` \| [`ILinkPreviewHighQualityThumbnail`](../namespaces/LinkPreviewResponse/interfaces/ILinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28014](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28014)
+Defined in: [WAProto/index.d.ts:28014](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28014)
 
 LinkPreviewResponse hqThumbnail
 
@@ -30,7 +30,7 @@ LinkPreviewResponse hqThumbnail
 
 > `optional` **matchText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28008](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28008)
+Defined in: [WAProto/index.d.ts:28008](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28008)
 
 LinkPreviewResponse matchText
 
@@ -40,7 +40,7 @@ LinkPreviewResponse matchText
 
 > `optional` **previewType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28011](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28011)
+Defined in: [WAProto/index.d.ts:28011](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28011)
 
 LinkPreviewResponse previewType
 
@@ -50,7 +50,7 @@ LinkPreviewResponse previewType
 
 > `optional` **thumbData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28005](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28005)
+Defined in: [WAProto/index.d.ts:28005](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28005)
 
 LinkPreviewResponse thumbData
 
@@ -60,7 +60,7 @@ LinkPreviewResponse thumbData
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27999](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L27999)
+Defined in: [WAProto/index.d.ts:27999](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L27999)
 
 LinkPreviewResponse title
 
@@ -70,6 +70,6 @@ LinkPreviewResponse title
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27996](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L27996)
+Defined in: [WAProto/index.d.ts:27996](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L27996)
 
 LinkPreviewResponse url

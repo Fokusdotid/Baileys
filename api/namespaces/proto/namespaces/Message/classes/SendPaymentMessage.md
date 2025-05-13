@@ -1,6 +1,6 @@
 # Class: SendPaymentMessage
 
-Defined in: [WAProto/index.d.ts:31047](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31047)
+Defined in: [WAProto/index.d.ts:31047](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31047)
 
 Represents a SendPaymentMessage.
 
@@ -14,7 +14,7 @@ Represents a SendPaymentMessage.
 
 > **new SendPaymentMessage**(`properties`?): [`SendPaymentMessage`](SendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:31053](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31053)
+Defined in: [WAProto/index.d.ts:31053](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31053)
 
 Constructs a new SendPaymentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **background**: `null` \| [`IPaymentBackground`](../../../interfaces/IPaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:31062](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31062)
+Defined in: [WAProto/index.d.ts:31062](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31062)
 
 SendPaymentMessage background.
 
@@ -50,7 +50,7 @@ SendPaymentMessage background.
 
 > `optional` **noteMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:31056](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31056)
+Defined in: [WAProto/index.d.ts:31056](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31056)
 
 SendPaymentMessage noteMessage.
 
@@ -64,7 +64,7 @@ SendPaymentMessage noteMessage.
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31059](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31059)
+Defined in: [WAProto/index.d.ts:31059](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31059)
 
 SendPaymentMessage requestMessageKey.
 
@@ -78,7 +78,7 @@ SendPaymentMessage requestMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31132](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31132)
+Defined in: [WAProto/index.d.ts:31132](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31132)
 
 Converts this SendPaymentMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SendPaymentMessage`](SendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:31069](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31069)
+Defined in: [WAProto/index.d.ts:31069](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31069)
 
 Creates a new SendPaymentMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ SendPaymentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`SendPaymentMessage`](SendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:31095](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31095)
+Defined in: [WAProto/index.d.ts:31095](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31095)
 
 Decodes a SendPaymentMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SendPaymentMessage`](SendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:31104](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31104)
+Defined in: [WAProto/index.d.ts:31104](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31104)
 
 Decodes a SendPaymentMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31077](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31077)
+Defined in: [WAProto/index.d.ts:31077](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31077)
 
 Encodes the specified SendPaymentMessage message. Does not implicitly [verify](SendPaymentMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31085](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31085)
+Defined in: [WAProto/index.d.ts:31085](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31085)
 
 Encodes the specified SendPaymentMessage message, length delimited. Does not implicitly [verify](SendPaymentMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SendPaymentMessage`](SendPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:31118](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31118)
+Defined in: [WAProto/index.d.ts:31118](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31118)
 
 Creates a SendPaymentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ SendPaymentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31139](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31139)
+Defined in: [WAProto/index.d.ts:31139](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31139)
 
 Gets the default type url for SendPaymentMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31126](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31126)
+Defined in: [WAProto/index.d.ts:31126](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31126)
 
 Creates a plain object from a SendPaymentMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31111](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L31111)
+Defined in: [WAProto/index.d.ts:31111](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31111)
 
 Verifies a SendPaymentMessage message.
 

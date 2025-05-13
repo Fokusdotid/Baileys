@@ -2,7 +2,7 @@
 
 > **generateOrGetPreKeys**(`creds`, `range`): `object`
 
-Defined in: [src/Utils/signal.ts:29](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/src/Utils/signal.ts#L29)
+Defined in: [src/Utils/signal.ts:29](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/Utils/signal.ts#L29)
 
 ## Parameters
 

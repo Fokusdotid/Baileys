@@ -1,6 +1,6 @@
 # Enumeration: Encoding
 
-Defined in: [WAProto/index.d.ts:48505](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L48505)
+Defined in: [WAProto/index.d.ts:48505](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L48505)
 
 Encoding enum.
 
@@ -10,7 +10,7 @@ Encoding enum.
 
 > **UTF8**: `0`
 
-Defined in: [WAProto/index.d.ts:48506](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L48506)
+Defined in: [WAProto/index.d.ts:48506](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L48506)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:48506](https://github.com/Fokusdotid/Baileys/blo
 
 > **UTF8\_BROKEN**: `1`
 
-Defined in: [WAProto/index.d.ts:48507](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L48507)
+Defined in: [WAProto/index.d.ts:48507](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L48507)

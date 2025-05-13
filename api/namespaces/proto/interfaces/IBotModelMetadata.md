@@ -1,6 +1,6 @@
 # Interface: IBotModelMetadata
 
-Defined in: [WAProto/index.d.ts:4724](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4724)
+Defined in: [WAProto/index.d.ts:4724](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L4724)
 
 Properties of a BotModelMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotModelMetadata.
 
 > `optional` **modelType**: `null` \| [`ModelType`](../namespaces/BotModelMetadata/enumerations/ModelType.md)
 
-Defined in: [WAProto/index.d.ts:4727](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4727)
+Defined in: [WAProto/index.d.ts:4727](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L4727)
 
 BotModelMetadata modelType
 
@@ -20,6 +20,6 @@ BotModelMetadata modelType
 
 > `optional` **premiumModelStatus**: `null` \| [`PremiumModelStatus`](../namespaces/BotModelMetadata/enumerations/PremiumModelStatus.md)
 
-Defined in: [WAProto/index.d.ts:4730](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L4730)
+Defined in: [WAProto/index.d.ts:4730](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L4730)
 
 BotModelMetadata premiumModelStatus

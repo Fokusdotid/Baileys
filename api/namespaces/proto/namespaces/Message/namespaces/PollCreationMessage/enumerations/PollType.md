@@ -1,6 +1,6 @@
 # Enumeration: PollType
 
-Defined in: [WAProto/index.d.ts:28951](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28951)
+Defined in: [WAProto/index.d.ts:28951](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28951)
 
 PollType enum.
 
@@ -10,7 +10,7 @@ PollType enum.
 
 > **POLL**: `0`
 
-Defined in: [WAProto/index.d.ts:28952](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28952)
+Defined in: [WAProto/index.d.ts:28952](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28952)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:28952](https://github.com/Fokusdotid/Baileys/blo
 
 > **QUIZ**: `1`
 
-Defined in: [WAProto/index.d.ts:28953](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L28953)
+Defined in: [WAProto/index.d.ts:28953](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L28953)

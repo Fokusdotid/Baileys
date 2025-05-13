@@ -1,6 +1,6 @@
 # Interface: ICatalogSnapshot
 
-Defined in: [WAProto/index.d.ts:29708](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L29708)
+Defined in: [WAProto/index.d.ts:29708](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L29708)
 
 Properties of a CatalogSnapshot.
 
@@ -10,7 +10,7 @@ Properties of a CatalogSnapshot.
 
 > `optional` **catalogImage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:29711](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L29711)
+Defined in: [WAProto/index.d.ts:29711](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L29711)
 
 CatalogSnapshot catalogImage
 
@@ -20,7 +20,7 @@ CatalogSnapshot catalogImage
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29717](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L29717)
+Defined in: [WAProto/index.d.ts:29717](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L29717)
 
 CatalogSnapshot description
 
@@ -30,6 +30,6 @@ CatalogSnapshot description
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29714](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L29714)
+Defined in: [WAProto/index.d.ts:29714](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L29714)
 
 CatalogSnapshot title

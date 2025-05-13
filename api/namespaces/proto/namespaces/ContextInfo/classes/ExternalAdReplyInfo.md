@@ -1,6 +1,6 @@
 # Class: ExternalAdReplyInfo
 
-Defined in: [WAProto/index.d.ts:10269](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10269)
+Defined in: [WAProto/index.d.ts:10269](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10269)
 
 Represents an ExternalAdReplyInfo.
 
@@ -14,7 +14,7 @@ Represents an ExternalAdReplyInfo.
 
 > **new ExternalAdReplyInfo**(`properties`?): [`ExternalAdReplyInfo`](ExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10275](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10275)
+Defined in: [WAProto/index.d.ts:10275](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10275)
 
 Constructs a new ExternalAdReplyInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **adContextPreviewDismissed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10323](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10323)
+Defined in: [WAProto/index.d.ts:10323](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10323)
 
 ExternalAdReplyInfo adContextPreviewDismissed.
 
@@ -50,7 +50,7 @@ ExternalAdReplyInfo adContextPreviewDismissed.
 
 > `optional` **automatedGreetingMessageShown**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10329](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10329)
+Defined in: [WAProto/index.d.ts:10329](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10329)
 
 ExternalAdReplyInfo automatedGreetingMessageShown.
 
@@ -64,7 +64,7 @@ ExternalAdReplyInfo automatedGreetingMessageShown.
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10281](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10281)
+Defined in: [WAProto/index.d.ts:10281](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10281)
 
 ExternalAdReplyInfo body.
 
@@ -78,7 +78,7 @@ ExternalAdReplyInfo body.
 
 > `optional` **clickToWhatsappCall**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10320](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10320)
+Defined in: [WAProto/index.d.ts:10320](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10320)
 
 ExternalAdReplyInfo clickToWhatsappCall.
 
@@ -92,7 +92,7 @@ ExternalAdReplyInfo clickToWhatsappCall.
 
 > `optional` **containsAutoReply**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10305](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10305)
+Defined in: [WAProto/index.d.ts:10305](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10305)
 
 ExternalAdReplyInfo containsAutoReply.
 
@@ -106,7 +106,7 @@ ExternalAdReplyInfo containsAutoReply.
 
 > `optional` **ctaPayload**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10335](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10335)
+Defined in: [WAProto/index.d.ts:10335](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10335)
 
 ExternalAdReplyInfo ctaPayload.
 
@@ -120,7 +120,7 @@ ExternalAdReplyInfo ctaPayload.
 
 > `optional` **ctwaClid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10314](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10314)
+Defined in: [WAProto/index.d.ts:10314](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10314)
 
 ExternalAdReplyInfo ctwaClid.
 
@@ -134,7 +134,7 @@ ExternalAdReplyInfo ctwaClid.
 
 > `optional` **disableNudge**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10338](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10338)
+Defined in: [WAProto/index.d.ts:10338](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10338)
 
 ExternalAdReplyInfo disableNudge.
 
@@ -148,7 +148,7 @@ ExternalAdReplyInfo disableNudge.
 
 > `optional` **greetingMessageBody**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10332](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10332)
+Defined in: [WAProto/index.d.ts:10332](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10332)
 
 ExternalAdReplyInfo greetingMessageBody.
 
@@ -162,7 +162,7 @@ ExternalAdReplyInfo greetingMessageBody.
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/ExternalAdReplyInfo/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:10284](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10284)
+Defined in: [WAProto/index.d.ts:10284](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10284)
 
 ExternalAdReplyInfo mediaType.
 
@@ -176,7 +176,7 @@ ExternalAdReplyInfo mediaType.
 
 > `optional` **mediaUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10290](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10290)
+Defined in: [WAProto/index.d.ts:10290](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10290)
 
 ExternalAdReplyInfo mediaUrl.
 
@@ -190,7 +190,7 @@ ExternalAdReplyInfo mediaUrl.
 
 > `optional` **originalImageUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10341](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10341)
+Defined in: [WAProto/index.d.ts:10341](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10341)
 
 ExternalAdReplyInfo originalImageUrl.
 
@@ -204,7 +204,7 @@ ExternalAdReplyInfo originalImageUrl.
 
 > `optional` **ref**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10317](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10317)
+Defined in: [WAProto/index.d.ts:10317](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10317)
 
 ExternalAdReplyInfo ref.
 
@@ -218,7 +218,7 @@ ExternalAdReplyInfo ref.
 
 > `optional` **renderLargerThumbnail**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10308](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10308)
+Defined in: [WAProto/index.d.ts:10308](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10308)
 
 ExternalAdReplyInfo renderLargerThumbnail.
 
@@ -232,7 +232,7 @@ ExternalAdReplyInfo renderLargerThumbnail.
 
 > `optional` **showAdAttribution**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10311](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10311)
+Defined in: [WAProto/index.d.ts:10311](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10311)
 
 ExternalAdReplyInfo showAdAttribution.
 
@@ -246,7 +246,7 @@ ExternalAdReplyInfo showAdAttribution.
 
 > `optional` **sourceApp**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10326](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10326)
+Defined in: [WAProto/index.d.ts:10326](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10326)
 
 ExternalAdReplyInfo sourceApp.
 
@@ -260,7 +260,7 @@ ExternalAdReplyInfo sourceApp.
 
 > `optional` **sourceId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10299](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10299)
+Defined in: [WAProto/index.d.ts:10299](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10299)
 
 ExternalAdReplyInfo sourceId.
 
@@ -274,7 +274,7 @@ ExternalAdReplyInfo sourceId.
 
 > `optional` **sourceType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10296](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10296)
+Defined in: [WAProto/index.d.ts:10296](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10296)
 
 ExternalAdReplyInfo sourceType.
 
@@ -288,7 +288,7 @@ ExternalAdReplyInfo sourceType.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10302](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10302)
+Defined in: [WAProto/index.d.ts:10302](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10302)
 
 ExternalAdReplyInfo sourceUrl.
 
@@ -302,7 +302,7 @@ ExternalAdReplyInfo sourceUrl.
 
 > `optional` **thumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10293](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10293)
+Defined in: [WAProto/index.d.ts:10293](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10293)
 
 ExternalAdReplyInfo thumbnail.
 
@@ -316,7 +316,7 @@ ExternalAdReplyInfo thumbnail.
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10287](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10287)
+Defined in: [WAProto/index.d.ts:10287](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10287)
 
 ExternalAdReplyInfo thumbnailUrl.
 
@@ -330,7 +330,7 @@ ExternalAdReplyInfo thumbnailUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10278](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10278)
+Defined in: [WAProto/index.d.ts:10278](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10278)
 
 ExternalAdReplyInfo title.
 
@@ -344,7 +344,7 @@ ExternalAdReplyInfo title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10411](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10411)
+Defined in: [WAProto/index.d.ts:10411](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10411)
 
 Converts this ExternalAdReplyInfo to JSON.
 
@@ -360,7 +360,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ExternalAdReplyInfo`](ExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10348](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10348)
+Defined in: [WAProto/index.d.ts:10348](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10348)
 
 Creates a new ExternalAdReplyInfo instance using the specified properties.
 
@@ -384,7 +384,7 @@ ExternalAdReplyInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ExternalAdReplyInfo`](ExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10374](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10374)
+Defined in: [WAProto/index.d.ts:10374](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10374)
 
 Decodes an ExternalAdReplyInfo message from the specified reader or buffer.
 
@@ -422,7 +422,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ExternalAdReplyInfo`](ExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10383](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10383)
+Defined in: [WAProto/index.d.ts:10383](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10383)
 
 Decodes an ExternalAdReplyInfo message from the specified reader or buffer, length delimited.
 
@@ -454,7 +454,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10356](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10356)
+Defined in: [WAProto/index.d.ts:10356](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10356)
 
 Encodes the specified ExternalAdReplyInfo message. Does not implicitly [verify](ExternalAdReplyInfo.md#verify) messages.
 
@@ -484,7 +484,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10364](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10364)
+Defined in: [WAProto/index.d.ts:10364](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10364)
 
 Encodes the specified ExternalAdReplyInfo message, length delimited. Does not implicitly [verify](ExternalAdReplyInfo.md#verify) messages.
 
@@ -514,7 +514,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ExternalAdReplyInfo`](ExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10397](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10397)
+Defined in: [WAProto/index.d.ts:10397](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10397)
 
 Creates an ExternalAdReplyInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -536,7 +536,7 @@ ExternalAdReplyInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10418](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10418)
+Defined in: [WAProto/index.d.ts:10418](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10418)
 
 Gets the default type url for ExternalAdReplyInfo
 
@@ -560,7 +560,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10405](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10405)
+Defined in: [WAProto/index.d.ts:10405](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10405)
 
 Creates a plain object from an ExternalAdReplyInfo message. Also converts values to other types if specified.
 
@@ -590,7 +590,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10390](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L10390)
+Defined in: [WAProto/index.d.ts:10390](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L10390)
 
 Verifies an ExternalAdReplyInfo message.
 

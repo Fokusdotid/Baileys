@@ -1,6 +1,6 @@
 # Interface: ILIDMigrationMapping
 
-Defined in: [WAProto/index.d.ts:15687](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L15687)
+Defined in: [WAProto/index.d.ts:15687](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L15687)
 
 Properties of a LIDMigrationMapping.
 
@@ -10,7 +10,7 @@ Properties of a LIDMigrationMapping.
 
 > **assignedLid**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15693](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L15693)
+Defined in: [WAProto/index.d.ts:15693](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L15693)
 
 LIDMigrationMapping assignedLid
 
@@ -20,7 +20,7 @@ LIDMigrationMapping assignedLid
 
 > `optional` **latestLid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15696](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L15696)
+Defined in: [WAProto/index.d.ts:15696](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L15696)
 
 LIDMigrationMapping latestLid
 
@@ -30,6 +30,6 @@ LIDMigrationMapping latestLid
 
 > **pn**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15690](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L15690)
+Defined in: [WAProto/index.d.ts:15690](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L15690)
 
 LIDMigrationMapping pn

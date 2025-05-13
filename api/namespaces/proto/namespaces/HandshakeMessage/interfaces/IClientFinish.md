@@ -1,6 +1,6 @@
 # Interface: IClientFinish
 
-Defined in: [WAProto/index.d.ts:14012](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L14012)
+Defined in: [WAProto/index.d.ts:14012](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L14012)
 
 Properties of a ClientFinish.
 
@@ -10,7 +10,7 @@ Properties of a ClientFinish.
 
 > `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14018](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L14018)
+Defined in: [WAProto/index.d.ts:14018](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L14018)
 
 ClientFinish payload
 
@@ -20,6 +20,6 @@ ClientFinish payload
 
 > `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14015](https://github.com/Fokusdotid/Baileys/blob/3623833a320f5e60f370ef835f3de341453290f5/WAProto/index.d.ts#L14015)
+Defined in: [WAProto/index.d.ts:14015](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L14015)
 
 ClientFinish static
