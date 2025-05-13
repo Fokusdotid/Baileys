@@ -1,6 +1,6 @@
 # Class: ChatRowOpaqueData
 
-Defined in: [WAProto/index.d.ts:6922](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6922)
+Defined in: [WAProto/index.d.ts:6922](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6922)
 
 Represents a ChatRowOpaqueData.
 
@@ -14,7 +14,7 @@ Represents a ChatRowOpaqueData.
 
 > **new ChatRowOpaqueData**(`properties`?): [`ChatRowOpaqueData`](ChatRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:6928](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6928)
+Defined in: [WAProto/index.d.ts:6928](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6928)
 
 Constructs a new ChatRowOpaqueData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **draftMessage**: `null` \| [`IDraftMessage`](../namespaces/ChatRowOpaqueData/interfaces/IDraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:6931](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6931)
+Defined in: [WAProto/index.d.ts:6931](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6931)
 
 ChatRowOpaqueData draftMessage.
 
@@ -50,7 +50,7 @@ ChatRowOpaqueData draftMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7001](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7001)
+Defined in: [WAProto/index.d.ts:7001](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7001)
 
 Converts this ChatRowOpaqueData to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChatRowOpaqueData`](ChatRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:6938](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6938)
+Defined in: [WAProto/index.d.ts:6938](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6938)
 
 Creates a new ChatRowOpaqueData instance using the specified properties.
 
@@ -90,7 +90,7 @@ ChatRowOpaqueData instance
 
 > `static` **decode**(`reader`, `length`?): [`ChatRowOpaqueData`](ChatRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:6964](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6964)
+Defined in: [WAProto/index.d.ts:6964](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6964)
 
 Decodes a ChatRowOpaqueData message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChatRowOpaqueData`](ChatRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:6973](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6973)
+Defined in: [WAProto/index.d.ts:6973](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6973)
 
 Decodes a ChatRowOpaqueData message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6946](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6946)
+Defined in: [WAProto/index.d.ts:6946](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6946)
 
 Encodes the specified ChatRowOpaqueData message. Does not implicitly [verify](ChatRowOpaqueData.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6954](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6954)
+Defined in: [WAProto/index.d.ts:6954](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6954)
 
 Encodes the specified ChatRowOpaqueData message, length delimited. Does not implicitly [verify](ChatRowOpaqueData.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChatRowOpaqueData`](ChatRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:6987](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6987)
+Defined in: [WAProto/index.d.ts:6987](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6987)
 
 Creates a ChatRowOpaqueData message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ChatRowOpaqueData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7008](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7008)
+Defined in: [WAProto/index.d.ts:7008](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7008)
 
 Gets the default type url for ChatRowOpaqueData
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6995](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6995)
+Defined in: [WAProto/index.d.ts:6995](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6995)
 
 Creates a plain object from a ChatRowOpaqueData message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6980](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6980)
+Defined in: [WAProto/index.d.ts:6980](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6980)
 
 Verifies a ChatRowOpaqueData message.
 

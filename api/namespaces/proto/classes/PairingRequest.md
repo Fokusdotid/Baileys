@@ -1,6 +1,6 @@
 # Class: PairingRequest
 
-Defined in: [WAProto/index.d.ts:35090](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35090)
+Defined in: [WAProto/index.d.ts:35090](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35090)
 
 Represents a PairingRequest.
 
@@ -14,7 +14,7 @@ Represents a PairingRequest.
 
 > **new PairingRequest**(`properties`?): [`PairingRequest`](PairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:35096](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35096)
+Defined in: [WAProto/index.d.ts:35096](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35096)
 
 Constructs a new PairingRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **advSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35105](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35105)
+Defined in: [WAProto/index.d.ts:35105](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35105)
 
 PairingRequest advSecret.
 
@@ -50,7 +50,7 @@ PairingRequest advSecret.
 
 > `optional` **companionIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35102](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35102)
+Defined in: [WAProto/index.d.ts:35102](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35102)
 
 PairingRequest companionIdentityKey.
 
@@ -64,7 +64,7 @@ PairingRequest companionIdentityKey.
 
 > `optional` **companionPublicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35099](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35099)
+Defined in: [WAProto/index.d.ts:35099](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35099)
 
 PairingRequest companionPublicKey.
 
@@ -78,7 +78,7 @@ PairingRequest companionPublicKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35175](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35175)
+Defined in: [WAProto/index.d.ts:35175](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35175)
 
 Converts this PairingRequest to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PairingRequest`](PairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:35112](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35112)
+Defined in: [WAProto/index.d.ts:35112](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35112)
 
 Creates a new PairingRequest instance using the specified properties.
 
@@ -118,7 +118,7 @@ PairingRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`PairingRequest`](PairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:35138](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35138)
+Defined in: [WAProto/index.d.ts:35138](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35138)
 
 Decodes a PairingRequest message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PairingRequest`](PairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:35147](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35147)
+Defined in: [WAProto/index.d.ts:35147](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35147)
 
 Decodes a PairingRequest message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35120](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35120)
+Defined in: [WAProto/index.d.ts:35120](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35120)
 
 Encodes the specified PairingRequest message. Does not implicitly [verify](PairingRequest.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35128](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35128)
+Defined in: [WAProto/index.d.ts:35128](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35128)
 
 Encodes the specified PairingRequest message, length delimited. Does not implicitly [verify](PairingRequest.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PairingRequest`](PairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:35161](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35161)
+Defined in: [WAProto/index.d.ts:35161](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35161)
 
 Creates a PairingRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PairingRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35182](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35182)
+Defined in: [WAProto/index.d.ts:35182](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35182)
 
 Gets the default type url for PairingRequest
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35169](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35169)
+Defined in: [WAProto/index.d.ts:35169](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35169)
 
 Creates a plain object from a PairingRequest message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35154](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35154)
+Defined in: [WAProto/index.d.ts:35154](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35154)
 
 Verifies a PairingRequest message.
 

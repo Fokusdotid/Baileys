@@ -1,6 +1,6 @@
 # Interface: IPreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:36870](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36870)
+Defined in: [WAProto/index.d.ts:36870](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L36870)
 
 Properties of a PreKeyRecordStructure.
 
@@ -10,7 +10,7 @@ Properties of a PreKeyRecordStructure.
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36873](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36873)
+Defined in: [WAProto/index.d.ts:36873](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L36873)
 
 PreKeyRecordStructure id
 
@@ -20,7 +20,7 @@ PreKeyRecordStructure id
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36879](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36879)
+Defined in: [WAProto/index.d.ts:36879](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L36879)
 
 PreKeyRecordStructure privateKey
 
@@ -30,6 +30,6 @@ PreKeyRecordStructure privateKey
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36876](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36876)
+Defined in: [WAProto/index.d.ts:36876](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L36876)
 
 PreKeyRecordStructure publicKey

@@ -1,6 +1,6 @@
 # Interface: IOption
 
-Defined in: [WAProto/index.d.ts:28848](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L28848)
+Defined in: [WAProto/index.d.ts:28848](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L28848)
 
 Properties of an Option.
 
@@ -10,7 +10,7 @@ Properties of an Option.
 
 > `optional` **optionHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28854](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L28854)
+Defined in: [WAProto/index.d.ts:28854](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L28854)
 
 Option optionHash
 
@@ -20,6 +20,6 @@ Option optionHash
 
 > `optional` **optionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28851](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L28851)
+Defined in: [WAProto/index.d.ts:28851](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L28851)
 
 Option optionName

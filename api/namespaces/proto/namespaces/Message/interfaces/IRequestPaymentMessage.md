@@ -1,6 +1,6 @@
 # Interface: IRequestPaymentMessage
 
-Defined in: [WAProto/index.d.ts:30343](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30343)
+Defined in: [WAProto/index.d.ts:30343](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30343)
 
 Properties of a RequestPaymentMessage.
 
@@ -10,7 +10,7 @@ Properties of a RequestPaymentMessage.
 
 > `optional` **amount**: `null` \| [`IMoney`](../../../interfaces/IMoney.md)
 
-Defined in: [WAProto/index.d.ts:30361](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30361)
+Defined in: [WAProto/index.d.ts:30361](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30361)
 
 RequestPaymentMessage amount
 
@@ -20,7 +20,7 @@ RequestPaymentMessage amount
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30352](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30352)
+Defined in: [WAProto/index.d.ts:30352](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30352)
 
 RequestPaymentMessage amount1000
 
@@ -30,7 +30,7 @@ RequestPaymentMessage amount1000
 
 > `optional` **background**: `null` \| [`IPaymentBackground`](../../../interfaces/IPaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:30364](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30364)
+Defined in: [WAProto/index.d.ts:30364](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30364)
 
 RequestPaymentMessage background
 
@@ -40,7 +40,7 @@ RequestPaymentMessage background
 
 > `optional` **currencyCodeIso4217**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30349](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30349)
+Defined in: [WAProto/index.d.ts:30349](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30349)
 
 RequestPaymentMessage currencyCodeIso4217
 
@@ -50,7 +50,7 @@ RequestPaymentMessage currencyCodeIso4217
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30358](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30358)
+Defined in: [WAProto/index.d.ts:30358](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30358)
 
 RequestPaymentMessage expiryTimestamp
 
@@ -60,7 +60,7 @@ RequestPaymentMessage expiryTimestamp
 
 > `optional` **noteMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:30346](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30346)
+Defined in: [WAProto/index.d.ts:30346](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30346)
 
 RequestPaymentMessage noteMessage
 
@@ -70,6 +70,6 @@ RequestPaymentMessage noteMessage
 
 > `optional` **requestFrom**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30355](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L30355)
+Defined in: [WAProto/index.d.ts:30355](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L30355)
 
 RequestPaymentMessage requestFrom

@@ -2,7 +2,7 @@
 
 > **downloadMediaMessage**\<`Type`\>(`message`, `type`, `options`, `ctx`?): `Promise`\<`Type` *extends* `"buffer"` ? `Buffer`\<`ArrayBufferLike`\> : `Transform`\>
 
-Defined in: [src/Utils/messages.ts:964](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/messages.ts#L964)
+Defined in: [src/Utils/messages.ts:964](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Utils/messages.ts#L964)
 
 Downloads the given message. Throws an error if it's not a media message
 

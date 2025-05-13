@@ -1,6 +1,6 @@
 # Interface: IPastParticipant
 
-Defined in: [WAProto/index.d.ts:35186](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35186)
+Defined in: [WAProto/index.d.ts:35186](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35186)
 
 Properties of a PastParticipant.
 
@@ -10,7 +10,7 @@ Properties of a PastParticipant.
 
 > `optional` **leaveReason**: `null` \| [`LeaveReason`](../namespaces/PastParticipant/enumerations/LeaveReason.md)
 
-Defined in: [WAProto/index.d.ts:35192](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35192)
+Defined in: [WAProto/index.d.ts:35192](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35192)
 
 PastParticipant leaveReason
 
@@ -20,7 +20,7 @@ PastParticipant leaveReason
 
 > `optional` **leaveTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35195](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35195)
+Defined in: [WAProto/index.d.ts:35195](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35195)
 
 PastParticipant leaveTs
 
@@ -30,6 +30,6 @@ PastParticipant leaveTs
 
 > `optional` **userJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35189](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35189)
+Defined in: [WAProto/index.d.ts:35189](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35189)
 
 PastParticipant userJid

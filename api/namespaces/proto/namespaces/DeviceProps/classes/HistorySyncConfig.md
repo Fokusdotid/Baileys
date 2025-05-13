@@ -1,6 +1,6 @@
 # Class: HistorySyncConfig
 
-Defined in: [WAProto/index.d.ts:12050](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12050)
+Defined in: [WAProto/index.d.ts:12050](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12050)
 
 Represents a HistorySyncConfig.
 
@@ -14,7 +14,7 @@ Represents a HistorySyncConfig.
 
 > **new HistorySyncConfig**(`properties`?): [`HistorySyncConfig`](HistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:12056](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12056)
+Defined in: [WAProto/index.d.ts:12056](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12056)
 
 Constructs a new HistorySyncConfig.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fullSyncDaysLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12059](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12059)
+Defined in: [WAProto/index.d.ts:12059](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12059)
 
 HistorySyncConfig fullSyncDaysLimit.
 
@@ -50,7 +50,7 @@ HistorySyncConfig fullSyncDaysLimit.
 
 > `optional` **fullSyncSizeMbLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12062](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12062)
+Defined in: [WAProto/index.d.ts:12062](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12062)
 
 HistorySyncConfig fullSyncSizeMbLimit.
 
@@ -64,7 +64,7 @@ HistorySyncConfig fullSyncSizeMbLimit.
 
 > `optional` **inlineInitialPayloadInE2EeMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12068](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12068)
+Defined in: [WAProto/index.d.ts:12068](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12068)
 
 HistorySyncConfig inlineInitialPayloadInE2EeMsg.
 
@@ -78,7 +78,7 @@ HistorySyncConfig inlineInitialPayloadInE2EeMsg.
 
 > `optional` **recentSyncDaysLimit**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12071](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12071)
+Defined in: [WAProto/index.d.ts:12071](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12071)
 
 HistorySyncConfig recentSyncDaysLimit.
 
@@ -92,7 +92,7 @@ HistorySyncConfig recentSyncDaysLimit.
 
 > `optional` **storageQuotaMb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12065](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12065)
+Defined in: [WAProto/index.d.ts:12065](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12065)
 
 HistorySyncConfig storageQuotaMb.
 
@@ -106,7 +106,7 @@ HistorySyncConfig storageQuotaMb.
 
 > `optional` **supportAddOnHistorySyncMigration**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12095](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12095)
+Defined in: [WAProto/index.d.ts:12095](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12095)
 
 HistorySyncConfig supportAddOnHistorySyncMigration.
 
@@ -120,7 +120,7 @@ HistorySyncConfig supportAddOnHistorySyncMigration.
 
 > `optional` **supportBizHostedMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12083](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12083)
+Defined in: [WAProto/index.d.ts:12083](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12083)
 
 HistorySyncConfig supportBizHostedMsg.
 
@@ -134,7 +134,7 @@ HistorySyncConfig supportBizHostedMsg.
 
 > `optional` **supportBotUserAgentChatHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12077](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12077)
+Defined in: [WAProto/index.d.ts:12077](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12077)
 
 HistorySyncConfig supportBotUserAgentChatHistory.
 
@@ -148,7 +148,7 @@ HistorySyncConfig supportBotUserAgentChatHistory.
 
 > `optional` **supportCagReactionsAndPolls**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12080](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12080)
+Defined in: [WAProto/index.d.ts:12080](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12080)
 
 HistorySyncConfig supportCagReactionsAndPolls.
 
@@ -162,7 +162,7 @@ HistorySyncConfig supportCagReactionsAndPolls.
 
 > `optional` **supportCallLogHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12074](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12074)
+Defined in: [WAProto/index.d.ts:12074](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12074)
 
 HistorySyncConfig supportCallLogHistory.
 
@@ -176,7 +176,7 @@ HistorySyncConfig supportCallLogHistory.
 
 > `optional` **supportFbidBotChatHistory**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12092](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12092)
+Defined in: [WAProto/index.d.ts:12092](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12092)
 
 HistorySyncConfig supportFbidBotChatHistory.
 
@@ -190,7 +190,7 @@ HistorySyncConfig supportFbidBotChatHistory.
 
 > `optional` **supportHostedGroupMsg**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12089](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12089)
+Defined in: [WAProto/index.d.ts:12089](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12089)
 
 HistorySyncConfig supportHostedGroupMsg.
 
@@ -204,7 +204,7 @@ HistorySyncConfig supportHostedGroupMsg.
 
 > `optional` **supportMessageAssociation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12098](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12098)
+Defined in: [WAProto/index.d.ts:12098](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12098)
 
 HistorySyncConfig supportMessageAssociation.
 
@@ -218,7 +218,7 @@ HistorySyncConfig supportMessageAssociation.
 
 > `optional` **supportRecentSyncChunkMessageCountTuning**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12086](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12086)
+Defined in: [WAProto/index.d.ts:12086](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12086)
 
 HistorySyncConfig supportRecentSyncChunkMessageCountTuning.
 
@@ -232,7 +232,7 @@ HistorySyncConfig supportRecentSyncChunkMessageCountTuning.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12168](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12168)
+Defined in: [WAProto/index.d.ts:12168](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12168)
 
 Converts this HistorySyncConfig to JSON.
 
@@ -248,7 +248,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HistorySyncConfig`](HistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:12105](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12105)
+Defined in: [WAProto/index.d.ts:12105](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12105)
 
 Creates a new HistorySyncConfig instance using the specified properties.
 
@@ -272,7 +272,7 @@ HistorySyncConfig instance
 
 > `static` **decode**(`reader`, `length`?): [`HistorySyncConfig`](HistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:12131](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12131)
+Defined in: [WAProto/index.d.ts:12131](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12131)
 
 Decodes a HistorySyncConfig message from the specified reader or buffer.
 
@@ -310,7 +310,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HistorySyncConfig`](HistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:12140](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12140)
+Defined in: [WAProto/index.d.ts:12140](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12140)
 
 Decodes a HistorySyncConfig message from the specified reader or buffer, length delimited.
 
@@ -342,7 +342,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12113](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12113)
+Defined in: [WAProto/index.d.ts:12113](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12113)
 
 Encodes the specified HistorySyncConfig message. Does not implicitly [verify](HistorySyncConfig.md#verify) messages.
 
@@ -372,7 +372,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12121](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12121)
+Defined in: [WAProto/index.d.ts:12121](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12121)
 
 Encodes the specified HistorySyncConfig message, length delimited. Does not implicitly [verify](HistorySyncConfig.md#verify) messages.
 
@@ -402,7 +402,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HistorySyncConfig`](HistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:12154](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12154)
+Defined in: [WAProto/index.d.ts:12154](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12154)
 
 Creates a HistorySyncConfig message from a plain object. Also converts values to their respective internal types.
 
@@ -424,7 +424,7 @@ HistorySyncConfig
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12175](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12175)
+Defined in: [WAProto/index.d.ts:12175](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12175)
 
 Gets the default type url for HistorySyncConfig
 
@@ -448,7 +448,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12162](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12162)
+Defined in: [WAProto/index.d.ts:12162](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12162)
 
 Creates a plain object from a HistorySyncConfig message. Also converts values to other types if specified.
 
@@ -478,7 +478,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12147](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L12147)
+Defined in: [WAProto/index.d.ts:12147](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L12147)
 
 Verifies a HistorySyncConfig message.
 

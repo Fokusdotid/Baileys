@@ -1,6 +1,6 @@
 # Interface: ITemplateButton
 
-Defined in: [WAProto/index.d.ts:47743](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47743)
+Defined in: [WAProto/index.d.ts:47743](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L47743)
 
 Properties of a TemplateButton.
 
@@ -10,7 +10,7 @@ Properties of a TemplateButton.
 
 > `optional` **callButton**: `null` \| [`ICallButton`](../namespaces/TemplateButton/interfaces/ICallButton.md)
 
-Defined in: [WAProto/index.d.ts:47755](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47755)
+Defined in: [WAProto/index.d.ts:47755](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L47755)
 
 TemplateButton callButton
 
@@ -20,7 +20,7 @@ TemplateButton callButton
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:47746](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47746)
+Defined in: [WAProto/index.d.ts:47746](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L47746)
 
 TemplateButton index
 
@@ -30,7 +30,7 @@ TemplateButton index
 
 > `optional` **quickReplyButton**: `null` \| [`IQuickReplyButton`](../namespaces/TemplateButton/interfaces/IQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:47749](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47749)
+Defined in: [WAProto/index.d.ts:47749](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L47749)
 
 TemplateButton quickReplyButton
 
@@ -40,6 +40,6 @@ TemplateButton quickReplyButton
 
 > `optional` **urlButton**: `null` \| [`IURLButton`](../namespaces/TemplateButton/interfaces/IURLButton.md)
 
-Defined in: [WAProto/index.d.ts:47752](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47752)
+Defined in: [WAProto/index.d.ts:47752](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L47752)
 
 TemplateButton urlButton

@@ -1,6 +1,6 @@
 # Interface: IGroupInviteMessage
 
-Defined in: [WAProto/index.d.ts:21781](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21781)
+Defined in: [WAProto/index.d.ts:21781](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21781)
 
 Properties of a GroupInviteMessage.
 
@@ -10,7 +10,7 @@ Properties of a GroupInviteMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21799](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21799)
+Defined in: [WAProto/index.d.ts:21799](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21799)
 
 GroupInviteMessage caption
 
@@ -20,7 +20,7 @@ GroupInviteMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:21802](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21802)
+Defined in: [WAProto/index.d.ts:21802](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21802)
 
 GroupInviteMessage contextInfo
 
@@ -30,7 +30,7 @@ GroupInviteMessage contextInfo
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21784](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21784)
+Defined in: [WAProto/index.d.ts:21784](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21784)
 
 GroupInviteMessage groupJid
 
@@ -40,7 +40,7 @@ GroupInviteMessage groupJid
 
 > `optional` **groupName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21793](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21793)
+Defined in: [WAProto/index.d.ts:21793](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21793)
 
 GroupInviteMessage groupName
 
@@ -50,7 +50,7 @@ GroupInviteMessage groupName
 
 > `optional` **groupType**: `null` \| [`GroupType`](../namespaces/GroupInviteMessage/enumerations/GroupType.md)
 
-Defined in: [WAProto/index.d.ts:21805](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21805)
+Defined in: [WAProto/index.d.ts:21805](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21805)
 
 GroupInviteMessage groupType
 
@@ -60,7 +60,7 @@ GroupInviteMessage groupType
 
 > `optional` **inviteCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21787](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21787)
+Defined in: [WAProto/index.d.ts:21787](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21787)
 
 GroupInviteMessage inviteCode
 
@@ -70,7 +70,7 @@ GroupInviteMessage inviteCode
 
 > `optional` **inviteExpiration**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21790](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21790)
+Defined in: [WAProto/index.d.ts:21790](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21790)
 
 GroupInviteMessage inviteExpiration
 
@@ -80,6 +80,6 @@ GroupInviteMessage inviteExpiration
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21796](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21796)
+Defined in: [WAProto/index.d.ts:21796](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21796)
 
 GroupInviteMessage jpegThumbnail

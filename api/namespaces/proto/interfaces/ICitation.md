@@ -1,6 +1,6 @@
 # Interface: ICitation
 
-Defined in: [WAProto/index.d.ts:7427](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7427)
+Defined in: [WAProto/index.d.ts:7427](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7427)
 
 Properties of a Citation.
 
@@ -10,7 +10,7 @@ Properties of a Citation.
 
 > **cmsId**: `string`
 
-Defined in: [WAProto/index.d.ts:7436](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7436)
+Defined in: [WAProto/index.d.ts:7436](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7436)
 
 Citation cmsId
 
@@ -20,7 +20,7 @@ Citation cmsId
 
 > **imageUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:7439](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7439)
+Defined in: [WAProto/index.d.ts:7439](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7439)
 
 Citation imageUrl
 
@@ -30,7 +30,7 @@ Citation imageUrl
 
 > **subtitle**: `string`
 
-Defined in: [WAProto/index.d.ts:7433](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7433)
+Defined in: [WAProto/index.d.ts:7433](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7433)
 
 Citation subtitle
 
@@ -40,6 +40,6 @@ Citation subtitle
 
 > **title**: `string`
 
-Defined in: [WAProto/index.d.ts:7430](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7430)
+Defined in: [WAProto/index.d.ts:7430](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7430)
 
 Citation title

@@ -1,6 +1,6 @@
 # Interface: IField
 
-Defined in: [WAProto/index.d.ts:13359](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13359)
+Defined in: [WAProto/index.d.ts:13359](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13359)
 
 Properties of a Field.
 
@@ -10,7 +10,7 @@ Properties of a Field.
 
 > `optional` **isMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:13371](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13371)
+Defined in: [WAProto/index.d.ts:13371](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13371)
 
 Field isMessage
 
@@ -20,7 +20,7 @@ Field isMessage
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:13365](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13365)
+Defined in: [WAProto/index.d.ts:13365](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13365)
 
 Field maxVersion
 
@@ -30,7 +30,7 @@ Field maxVersion
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:13362](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13362)
+Defined in: [WAProto/index.d.ts:13362](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13362)
 
 Field minVersion
 
@@ -40,7 +40,7 @@ Field minVersion
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:13368](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13368)
+Defined in: [WAProto/index.d.ts:13368](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13368)
 
 Field notReportableMinVersion
 
@@ -50,6 +50,6 @@ Field notReportableMinVersion
 
 > `optional` **subfield**: `null` \| \{\}
 
-Defined in: [WAProto/index.d.ts:13374](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L13374)
+Defined in: [WAProto/index.d.ts:13374](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13374)
 
 Field subfield

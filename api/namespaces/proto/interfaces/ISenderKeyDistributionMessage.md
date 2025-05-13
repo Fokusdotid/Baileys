@@ -1,6 +1,6 @@
 # Interface: ISenderKeyDistributionMessage
 
-Defined in: [WAProto/index.d.ts:38208](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L38208)
+Defined in: [WAProto/index.d.ts:38208](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L38208)
 
 Properties of a SenderKeyDistributionMessage.
 
@@ -10,7 +10,7 @@ Properties of a SenderKeyDistributionMessage.
 
 > `optional` **chainKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38217](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L38217)
+Defined in: [WAProto/index.d.ts:38217](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L38217)
 
 SenderKeyDistributionMessage chainKey
 
@@ -20,7 +20,7 @@ SenderKeyDistributionMessage chainKey
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38211](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L38211)
+Defined in: [WAProto/index.d.ts:38211](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L38211)
 
 SenderKeyDistributionMessage id
 
@@ -30,7 +30,7 @@ SenderKeyDistributionMessage id
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38214](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L38214)
+Defined in: [WAProto/index.d.ts:38214](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L38214)
 
 SenderKeyDistributionMessage iteration
 
@@ -40,6 +40,6 @@ SenderKeyDistributionMessage iteration
 
 > `optional` **signingKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38220](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L38220)
+Defined in: [WAProto/index.d.ts:38220](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L38220)
 
 SenderKeyDistributionMessage signingKey

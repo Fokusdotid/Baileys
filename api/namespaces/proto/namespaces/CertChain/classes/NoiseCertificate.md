@@ -1,6 +1,6 @@
 # Class: NoiseCertificate
 
-Defined in: [WAProto/index.d.ts:6594](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6594)
+Defined in: [WAProto/index.d.ts:6594](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6594)
 
 Represents a NoiseCertificate.
 
@@ -14,7 +14,7 @@ Represents a NoiseCertificate.
 
 > **new NoiseCertificate**(`properties`?): [`NoiseCertificate`](NoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6600](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6600)
+Defined in: [WAProto/index.d.ts:6600](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6600)
 
 Constructs a new NoiseCertificate.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:6603](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6603)
+Defined in: [WAProto/index.d.ts:6603](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6603)
 
 NoiseCertificate details.
 
@@ -50,7 +50,7 @@ NoiseCertificate details.
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:6606](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6606)
+Defined in: [WAProto/index.d.ts:6606](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6606)
 
 NoiseCertificate signature.
 
@@ -64,7 +64,7 @@ NoiseCertificate signature.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6676](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6676)
+Defined in: [WAProto/index.d.ts:6676](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6676)
 
 Converts this NoiseCertificate to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NoiseCertificate`](NoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6613](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6613)
+Defined in: [WAProto/index.d.ts:6613](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6613)
 
 Creates a new NoiseCertificate instance using the specified properties.
 
@@ -104,7 +104,7 @@ NoiseCertificate instance
 
 > `static` **decode**(`reader`, `length`?): [`NoiseCertificate`](NoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6639](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6639)
+Defined in: [WAProto/index.d.ts:6639](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6639)
 
 Decodes a NoiseCertificate message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NoiseCertificate`](NoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6648](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6648)
+Defined in: [WAProto/index.d.ts:6648](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6648)
 
 Decodes a NoiseCertificate message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6621](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6621)
+Defined in: [WAProto/index.d.ts:6621](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6621)
 
 Encodes the specified NoiseCertificate message. Does not implicitly [verify](NoiseCertificate.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6629](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6629)
+Defined in: [WAProto/index.d.ts:6629](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6629)
 
 Encodes the specified NoiseCertificate message, length delimited. Does not implicitly [verify](NoiseCertificate.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NoiseCertificate`](NoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:6662](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6662)
+Defined in: [WAProto/index.d.ts:6662](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6662)
 
 Creates a NoiseCertificate message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ NoiseCertificate
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6683](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6683)
+Defined in: [WAProto/index.d.ts:6683](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6683)
 
 Gets the default type url for NoiseCertificate
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6670](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6670)
+Defined in: [WAProto/index.d.ts:6670](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6670)
 
 Creates a plain object from a NoiseCertificate message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6655](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L6655)
+Defined in: [WAProto/index.d.ts:6655](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L6655)
 
 Verifies a NoiseCertificate message.
 

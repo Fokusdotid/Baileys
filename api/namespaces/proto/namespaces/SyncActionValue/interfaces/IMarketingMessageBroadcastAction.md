@@ -1,6 +1,6 @@
 # Interface: IMarketingMessageBroadcastAction
 
-Defined in: [WAProto/index.d.ts:43630](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L43630)
+Defined in: [WAProto/index.d.ts:43630](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L43630)
 
 Properties of a MarketingMessageBroadcastAction.
 
@@ -10,6 +10,6 @@ Properties of a MarketingMessageBroadcastAction.
 
 > `optional` **repliedCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:43633](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L43633)
+Defined in: [WAProto/index.d.ts:43633](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L43633)
 
 MarketingMessageBroadcastAction repliedCount

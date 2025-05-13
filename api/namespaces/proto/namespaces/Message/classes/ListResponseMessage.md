@@ -1,6 +1,6 @@
 # Class: ListResponseMessage
 
-Defined in: [WAProto/index.d.ts:25654](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25654)
+Defined in: [WAProto/index.d.ts:25654](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25654)
 
 Represents a ListResponseMessage.
 
@@ -14,7 +14,7 @@ Represents a ListResponseMessage.
 
 > **new ListResponseMessage**(`properties`?): [`ListResponseMessage`](ListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:25660](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25660)
+Defined in: [WAProto/index.d.ts:25660](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25660)
 
 Constructs a new ListResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:25672](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25672)
+Defined in: [WAProto/index.d.ts:25672](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25672)
 
 ListResponseMessage contextInfo.
 
@@ -50,7 +50,7 @@ ListResponseMessage contextInfo.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25675](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25675)
+Defined in: [WAProto/index.d.ts:25675](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25675)
 
 ListResponseMessage description.
 
@@ -64,7 +64,7 @@ ListResponseMessage description.
 
 > `optional` **listType**: `null` \| [`ListType`](../namespaces/ListResponseMessage/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:25666](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25666)
+Defined in: [WAProto/index.d.ts:25666](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25666)
 
 ListResponseMessage listType.
 
@@ -78,7 +78,7 @@ ListResponseMessage listType.
 
 > `optional` **singleSelectReply**: `null` \| [`ISingleSelectReply`](../namespaces/ListResponseMessage/interfaces/ISingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25669](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25669)
+Defined in: [WAProto/index.d.ts:25669](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25669)
 
 ListResponseMessage singleSelectReply.
 
@@ -92,7 +92,7 @@ ListResponseMessage singleSelectReply.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25663](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25663)
+Defined in: [WAProto/index.d.ts:25663](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25663)
 
 ListResponseMessage title.
 
@@ -106,7 +106,7 @@ ListResponseMessage title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25745](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25745)
+Defined in: [WAProto/index.d.ts:25745](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25745)
 
 Converts this ListResponseMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ListResponseMessage`](ListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:25682](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25682)
+Defined in: [WAProto/index.d.ts:25682](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25682)
 
 Creates a new ListResponseMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ ListResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ListResponseMessage`](ListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:25708](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25708)
+Defined in: [WAProto/index.d.ts:25708](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25708)
 
 Decodes a ListResponseMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ListResponseMessage`](ListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:25717](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25717)
+Defined in: [WAProto/index.d.ts:25717](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25717)
 
 Decodes a ListResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25690](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25690)
+Defined in: [WAProto/index.d.ts:25690](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25690)
 
 Encodes the specified ListResponseMessage message. Does not implicitly [verify](ListResponseMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25698](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25698)
+Defined in: [WAProto/index.d.ts:25698](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25698)
 
 Encodes the specified ListResponseMessage message, length delimited. Does not implicitly [verify](ListResponseMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ListResponseMessage`](ListResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:25731](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25731)
+Defined in: [WAProto/index.d.ts:25731](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25731)
 
 Creates a ListResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ ListResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25752](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25752)
+Defined in: [WAProto/index.d.ts:25752](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25752)
 
 Gets the default type url for ListResponseMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25739](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25739)
+Defined in: [WAProto/index.d.ts:25739](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25739)
 
 Creates a plain object from a ListResponseMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25724](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L25724)
+Defined in: [WAProto/index.d.ts:25724](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L25724)
 
 Verifies a ListResponseMessage message.
 

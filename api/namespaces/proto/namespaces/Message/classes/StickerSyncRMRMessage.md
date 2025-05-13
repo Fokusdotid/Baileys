@@ -1,6 +1,6 @@
 # Class: StickerSyncRMRMessage
 
-Defined in: [WAProto/index.d.ts:31949](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31949)
+Defined in: [WAProto/index.d.ts:31949](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31949)
 
 Represents a StickerSyncRMRMessage.
 
@@ -14,7 +14,7 @@ Represents a StickerSyncRMRMessage.
 
 > **new StickerSyncRMRMessage**(`properties`?): [`StickerSyncRMRMessage`](StickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:31955](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31955)
+Defined in: [WAProto/index.d.ts:31955](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31955)
 
 Constructs a new StickerSyncRMRMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **filehash**: `string`[]
 
-Defined in: [WAProto/index.d.ts:31958](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31958)
+Defined in: [WAProto/index.d.ts:31958](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31958)
 
 StickerSyncRMRMessage filehash.
 
@@ -50,7 +50,7 @@ StickerSyncRMRMessage filehash.
 
 > `optional` **requestTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:31964](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31964)
+Defined in: [WAProto/index.d.ts:31964](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31964)
 
 StickerSyncRMRMessage requestTimestamp.
 
@@ -64,7 +64,7 @@ StickerSyncRMRMessage requestTimestamp.
 
 > `optional` **rmrSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31961](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31961)
+Defined in: [WAProto/index.d.ts:31961](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31961)
 
 StickerSyncRMRMessage rmrSource.
 
@@ -78,7 +78,7 @@ StickerSyncRMRMessage rmrSource.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32034](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32034)
+Defined in: [WAProto/index.d.ts:32034](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32034)
 
 Converts this StickerSyncRMRMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StickerSyncRMRMessage`](StickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:31971](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31971)
+Defined in: [WAProto/index.d.ts:31971](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31971)
 
 Creates a new StickerSyncRMRMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ StickerSyncRMRMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`StickerSyncRMRMessage`](StickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:31997](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31997)
+Defined in: [WAProto/index.d.ts:31997](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31997)
 
 Decodes a StickerSyncRMRMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StickerSyncRMRMessage`](StickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:32006](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32006)
+Defined in: [WAProto/index.d.ts:32006](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32006)
 
 Decodes a StickerSyncRMRMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31979](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31979)
+Defined in: [WAProto/index.d.ts:31979](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31979)
 
 Encodes the specified StickerSyncRMRMessage message. Does not implicitly [verify](StickerSyncRMRMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31987](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31987)
+Defined in: [WAProto/index.d.ts:31987](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L31987)
 
 Encodes the specified StickerSyncRMRMessage message, length delimited. Does not implicitly [verify](StickerSyncRMRMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StickerSyncRMRMessage`](StickerSyncRMRMessage.md)
 
-Defined in: [WAProto/index.d.ts:32020](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32020)
+Defined in: [WAProto/index.d.ts:32020](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32020)
 
 Creates a StickerSyncRMRMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ StickerSyncRMRMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32041](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32041)
+Defined in: [WAProto/index.d.ts:32041](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32041)
 
 Gets the default type url for StickerSyncRMRMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32028](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32028)
+Defined in: [WAProto/index.d.ts:32028](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32028)
 
 Creates a plain object from a StickerSyncRMRMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32013](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L32013)
+Defined in: [WAProto/index.d.ts:32013](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L32013)
 
 Verifies a StickerSyncRMRMessage message.
 

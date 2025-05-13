@@ -1,6 +1,6 @@
 # Interface: IURLButton
 
-Defined in: [WAProto/index.d.ts:48069](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L48069)
+Defined in: [WAProto/index.d.ts:48069](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48069)
 
 Properties of a URLButton.
 
@@ -10,7 +10,7 @@ Properties of a URLButton.
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:48072](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L48072)
+Defined in: [WAProto/index.d.ts:48072](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48072)
 
 URLButton displayText
 
@@ -20,6 +20,6 @@ URLButton displayText
 
 > `optional` **url**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:48075](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L48075)
+Defined in: [WAProto/index.d.ts:48075](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48075)
 
 URLButton url

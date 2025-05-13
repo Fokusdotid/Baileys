@@ -2,7 +2,7 @@
 
 > **encryptedStream**(`media`, `mediaType`, `__namedParameters`): `Promise`\<\{ `bodyPath`: `undefined` \| `string`; `didSaveToTmpPath`: `boolean`; `encWriteStream`: `Readable`; `fileEncSha256`: `Buffer`\<`ArrayBufferLike`\>; `fileLength`: `number`; `fileSha256`: `Buffer`\<`ArrayBufferLike`\>; `mac`: `Buffer`\<`ArrayBuffer`\>; `mediaKey`: `Buffer`\<`ArrayBufferLike`\>; \}\>
 
-Defined in: [src/Utils/messages-media.ts:337](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/messages-media.ts#L337)
+Defined in: [src/Utils/messages-media.ts:337](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Utils/messages-media.ts#L337)
 
 ## Parameters
 

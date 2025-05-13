@@ -2,4 +2,4 @@
 
 > **SignalDataSet**: \{ \[T in keyof SignalDataTypeMap\]?: (id: string) =\> null \| SignalDataTypeMap\[T\] \}
 
-Defined in: [src/Types/Auth.ts:77](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Types/Auth.ts#L77)
+Defined in: [src/Types/Auth.ts:77](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Auth.ts#L77)

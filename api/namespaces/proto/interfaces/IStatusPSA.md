@@ -1,6 +1,6 @@
 # Interface: IStatusPSA
 
-Defined in: [WAProto/index.d.ts:40136](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L40136)
+Defined in: [WAProto/index.d.ts:40136](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L40136)
 
 Properties of a StatusPSA.
 
@@ -10,7 +10,7 @@ Properties of a StatusPSA.
 
 > `optional` **campaignExpirationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40142](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L40142)
+Defined in: [WAProto/index.d.ts:40142](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L40142)
 
 StatusPSA campaignExpirationTimestamp
 
@@ -20,6 +20,6 @@ StatusPSA campaignExpirationTimestamp
 
 > **campaignId**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40139](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L40139)
+Defined in: [WAProto/index.d.ts:40139](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L40139)
 
 StatusPSA campaignId

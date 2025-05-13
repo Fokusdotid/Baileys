@@ -1,6 +1,6 @@
 # Class: EncEventResponseMessage
 
-Defined in: [WAProto/index.d.ts:20837](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20837)
+Defined in: [WAProto/index.d.ts:20837](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20837)
 
 Represents an EncEventResponseMessage.
 
@@ -14,7 +14,7 @@ Represents an EncEventResponseMessage.
 
 > **new EncEventResponseMessage**(`properties`?): [`EncEventResponseMessage`](EncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:20843](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20843)
+Defined in: [WAProto/index.d.ts:20843](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20843)
 
 Constructs a new EncEventResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20852](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20852)
+Defined in: [WAProto/index.d.ts:20852](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20852)
 
 EncEventResponseMessage encIv.
 
@@ -50,7 +50,7 @@ EncEventResponseMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20849](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20849)
+Defined in: [WAProto/index.d.ts:20849](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20849)
 
 EncEventResponseMessage encPayload.
 
@@ -64,7 +64,7 @@ EncEventResponseMessage encPayload.
 
 > `optional` **eventCreationMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:20846](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20846)
+Defined in: [WAProto/index.d.ts:20846](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20846)
 
 EncEventResponseMessage eventCreationMessageKey.
 
@@ -78,7 +78,7 @@ EncEventResponseMessage eventCreationMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20922](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20922)
+Defined in: [WAProto/index.d.ts:20922](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20922)
 
 Converts this EncEventResponseMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncEventResponseMessage`](EncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:20859](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20859)
+Defined in: [WAProto/index.d.ts:20859](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20859)
 
 Creates a new EncEventResponseMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ EncEventResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EncEventResponseMessage`](EncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:20885](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20885)
+Defined in: [WAProto/index.d.ts:20885](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20885)
 
 Decodes an EncEventResponseMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncEventResponseMessage`](EncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:20894](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20894)
+Defined in: [WAProto/index.d.ts:20894](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20894)
 
 Decodes an EncEventResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20867](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20867)
+Defined in: [WAProto/index.d.ts:20867](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20867)
 
 Encodes the specified EncEventResponseMessage message. Does not implicitly [verify](EncEventResponseMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20875](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20875)
+Defined in: [WAProto/index.d.ts:20875](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20875)
 
 Encodes the specified EncEventResponseMessage message, length delimited. Does not implicitly [verify](EncEventResponseMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncEventResponseMessage`](EncEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:20908](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20908)
+Defined in: [WAProto/index.d.ts:20908](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20908)
 
 Creates an EncEventResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ EncEventResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20929](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20929)
+Defined in: [WAProto/index.d.ts:20929](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20929)
 
 Gets the default type url for EncEventResponseMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20916](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20916)
+Defined in: [WAProto/index.d.ts:20916](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20916)
 
 Creates a plain object from an EncEventResponseMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20901](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L20901)
+Defined in: [WAProto/index.d.ts:20901](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L20901)
 
 Verifies an EncEventResponseMessage message.
 

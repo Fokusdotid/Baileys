@@ -1,6 +1,6 @@
 # Interface: IHSMLocalizableParameter
 
-Defined in: [WAProto/index.d.ts:22076](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22076)
+Defined in: [WAProto/index.d.ts:22076](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L22076)
 
 Properties of a HSMLocalizableParameter.
 
@@ -10,7 +10,7 @@ Properties of a HSMLocalizableParameter.
 
 > `optional` **currency**: `null` \| [`IHSMCurrency`](../namespaces/HSMLocalizableParameter/interfaces/IHSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22082](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22082)
+Defined in: [WAProto/index.d.ts:22082](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L22082)
 
 HSMLocalizableParameter currency
 
@@ -20,7 +20,7 @@ HSMLocalizableParameter currency
 
 > `optional` **dateTime**: `null` \| [`IHSMDateTime`](../namespaces/HSMLocalizableParameter/interfaces/IHSMDateTime.md)
 
-Defined in: [WAProto/index.d.ts:22085](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22085)
+Defined in: [WAProto/index.d.ts:22085](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L22085)
 
 HSMLocalizableParameter dateTime
 
@@ -30,6 +30,6 @@ HSMLocalizableParameter dateTime
 
 > `optional` **default**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22079](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22079)
+Defined in: [WAProto/index.d.ts:22079](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L22079)
 
 HSMLocalizableParameter default

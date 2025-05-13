@@ -1,6 +1,6 @@
 # Interface: IClientPairingProps
 
-Defined in: [WAProto/index.d.ts:7542](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7542)
+Defined in: [WAProto/index.d.ts:7542](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7542)
 
 Properties of a ClientPairingProps.
 
@@ -10,7 +10,7 @@ Properties of a ClientPairingProps.
 
 > `optional` **isChatDbLidMigrated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7545](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7545)
+Defined in: [WAProto/index.d.ts:7545](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7545)
 
 ClientPairingProps isChatDbLidMigrated
 
@@ -20,6 +20,6 @@ ClientPairingProps isChatDbLidMigrated
 
 > `optional` **isSyncdPureLidSession**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7548](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L7548)
+Defined in: [WAProto/index.d.ts:7548](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L7548)
 
 ClientPairingProps isSyncdPureLidSession

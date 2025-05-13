@@ -1,6 +1,6 @@
 # Class: PaymentBackground
 
-Defined in: [WAProto/index.d.ts:35614](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35614)
+Defined in: [WAProto/index.d.ts:35614](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35614)
 
 Represents a PaymentBackground.
 
@@ -14,7 +14,7 @@ Represents a PaymentBackground.
 
 > **new PaymentBackground**(`properties`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:35620](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35620)
+Defined in: [WAProto/index.d.ts:35620](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35620)
 
 Constructs a new PaymentBackground.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35626](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35626)
+Defined in: [WAProto/index.d.ts:35626](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35626)
 
 PaymentBackground fileLength.
 
@@ -50,7 +50,7 @@ PaymentBackground fileLength.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35632](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35632)
+Defined in: [WAProto/index.d.ts:35632](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35632)
 
 PaymentBackground height.
 
@@ -64,7 +64,7 @@ PaymentBackground height.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35623](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35623)
+Defined in: [WAProto/index.d.ts:35623](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35623)
 
 PaymentBackground id.
 
@@ -78,7 +78,7 @@ PaymentBackground id.
 
 > `optional` **mediaData**: `null` \| [`IMediaData`](../namespaces/PaymentBackground/interfaces/IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:35647](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35647)
+Defined in: [WAProto/index.d.ts:35647](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35647)
 
 PaymentBackground mediaData.
 
@@ -92,7 +92,7 @@ PaymentBackground mediaData.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35635](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35635)
+Defined in: [WAProto/index.d.ts:35635](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35635)
 
 PaymentBackground mimetype.
 
@@ -106,7 +106,7 @@ PaymentBackground mimetype.
 
 > `optional` **placeholderArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35638](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35638)
+Defined in: [WAProto/index.d.ts:35638](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35638)
 
 PaymentBackground placeholderArgb.
 
@@ -120,7 +120,7 @@ PaymentBackground placeholderArgb.
 
 > `optional` **subtextArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35644](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35644)
+Defined in: [WAProto/index.d.ts:35644](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35644)
 
 PaymentBackground subtextArgb.
 
@@ -134,7 +134,7 @@ PaymentBackground subtextArgb.
 
 > `optional` **textArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35641](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35641)
+Defined in: [WAProto/index.d.ts:35641](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35641)
 
 PaymentBackground textArgb.
 
@@ -148,7 +148,7 @@ PaymentBackground textArgb.
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PaymentBackground/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:35650](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35650)
+Defined in: [WAProto/index.d.ts:35650](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35650)
 
 PaymentBackground type.
 
@@ -162,7 +162,7 @@ PaymentBackground type.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35629](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35629)
+Defined in: [WAProto/index.d.ts:35629](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35629)
 
 PaymentBackground width.
 
@@ -176,7 +176,7 @@ PaymentBackground width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35720](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35720)
+Defined in: [WAProto/index.d.ts:35720](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35720)
 
 Converts this PaymentBackground to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:35657](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35657)
+Defined in: [WAProto/index.d.ts:35657](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35657)
 
 Creates a new PaymentBackground instance using the specified properties.
 
@@ -216,7 +216,7 @@ PaymentBackground instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:35683](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35683)
+Defined in: [WAProto/index.d.ts:35683](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35683)
 
 Decodes a PaymentBackground message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:35692](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35692)
+Defined in: [WAProto/index.d.ts:35692](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35692)
 
 Decodes a PaymentBackground message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35665](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35665)
+Defined in: [WAProto/index.d.ts:35665](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35665)
 
 Encodes the specified PaymentBackground message. Does not implicitly [verify](PaymentBackground.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35673](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35673)
+Defined in: [WAProto/index.d.ts:35673](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35673)
 
 Encodes the specified PaymentBackground message, length delimited. Does not implicitly [verify](PaymentBackground.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:35706](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35706)
+Defined in: [WAProto/index.d.ts:35706](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35706)
 
 Creates a PaymentBackground message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ PaymentBackground
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35727](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35727)
+Defined in: [WAProto/index.d.ts:35727](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35727)
 
 Gets the default type url for PaymentBackground
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35714](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35714)
+Defined in: [WAProto/index.d.ts:35714](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35714)
 
 Creates a plain object from a PaymentBackground message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35699](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L35699)
+Defined in: [WAProto/index.d.ts:35699](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L35699)
 
 Verifies a PaymentBackground message.
 

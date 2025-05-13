@@ -2,7 +2,7 @@
 
 > **parseAndInjectE2ESessions**(`node`, `repository`): `Promise`\<`void`\>
 
-Defined in: [src/Utils/signal.ts:70](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/signal.ts#L70)
+Defined in: [src/Utils/signal.ts:70](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Utils/signal.ts#L70)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Class: PreKeySignalMessage
 
-Defined in: [WAProto/index.d.ts:37001](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37001)
+Defined in: [WAProto/index.d.ts:37001](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37001)
 
 Represents a PreKeySignalMessage.
 
@@ -14,7 +14,7 @@ Represents a PreKeySignalMessage.
 
 > **new PreKeySignalMessage**(`properties`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:37007](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37007)
+Defined in: [WAProto/index.d.ts:37007](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37007)
 
 Constructs a new PreKeySignalMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37019](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37019)
+Defined in: [WAProto/index.d.ts:37019](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37019)
 
 PreKeySignalMessage baseKey.
 
@@ -50,7 +50,7 @@ PreKeySignalMessage baseKey.
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37022](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37022)
+Defined in: [WAProto/index.d.ts:37022](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37022)
 
 PreKeySignalMessage identityKey.
 
@@ -64,7 +64,7 @@ PreKeySignalMessage identityKey.
 
 > `optional` **message**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:37025](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37025)
+Defined in: [WAProto/index.d.ts:37025](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37025)
 
 PreKeySignalMessage message.
 
@@ -78,7 +78,7 @@ PreKeySignalMessage message.
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37013](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37013)
+Defined in: [WAProto/index.d.ts:37013](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37013)
 
 PreKeySignalMessage preKeyId.
 
@@ -92,7 +92,7 @@ PreKeySignalMessage preKeyId.
 
 > `optional` **registrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37010](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37010)
+Defined in: [WAProto/index.d.ts:37010](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37010)
 
 PreKeySignalMessage registrationId.
 
@@ -106,7 +106,7 @@ PreKeySignalMessage registrationId.
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:37016](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37016)
+Defined in: [WAProto/index.d.ts:37016](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37016)
 
 PreKeySignalMessage signedPreKeyId.
 
@@ -120,7 +120,7 @@ PreKeySignalMessage signedPreKeyId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37095](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37095)
+Defined in: [WAProto/index.d.ts:37095](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37095)
 
 Converts this PreKeySignalMessage to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:37032](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37032)
+Defined in: [WAProto/index.d.ts:37032](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37032)
 
 Creates a new PreKeySignalMessage instance using the specified properties.
 
@@ -160,7 +160,7 @@ PreKeySignalMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:37058](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37058)
+Defined in: [WAProto/index.d.ts:37058](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37058)
 
 Decodes a PreKeySignalMessage message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:37067](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37067)
+Defined in: [WAProto/index.d.ts:37067](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37067)
 
 Decodes a PreKeySignalMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37040](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37040)
+Defined in: [WAProto/index.d.ts:37040](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37040)
 
 Encodes the specified PreKeySignalMessage message. Does not implicitly [verify](PreKeySignalMessage.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37048](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37048)
+Defined in: [WAProto/index.d.ts:37048](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37048)
 
 Encodes the specified PreKeySignalMessage message, length delimited. Does not implicitly [verify](PreKeySignalMessage.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:37081](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37081)
+Defined in: [WAProto/index.d.ts:37081](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37081)
 
 Creates a PreKeySignalMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ PreKeySignalMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37102](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37102)
+Defined in: [WAProto/index.d.ts:37102](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37102)
 
 Gets the default type url for PreKeySignalMessage
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37089](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37089)
+Defined in: [WAProto/index.d.ts:37089](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37089)
 
 Creates a plain object from a PreKeySignalMessage message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37074](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37074)
+Defined in: [WAProto/index.d.ts:37074](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L37074)
 
 Verifies a PreKeySignalMessage message.
 
