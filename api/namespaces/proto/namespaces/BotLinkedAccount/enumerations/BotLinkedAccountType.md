@@ -1,6 +1,6 @@
 # Enumeration: BotLinkedAccountType
 
-Defined in: [WAProto/index.d.ts:3840](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3840)
+Defined in: [WAProto/index.d.ts:3840](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3840)
 
 BotLinkedAccountType enum.
 
@@ -10,4 +10,4 @@ BotLinkedAccountType enum.
 
 > **BOT\_LINKED\_ACCOUNT\_TYPE\_1P**: `0`
 
-Defined in: [WAProto/index.d.ts:3841](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3841)
+Defined in: [WAProto/index.d.ts:3841](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3841)

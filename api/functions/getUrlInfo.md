@@ -2,7 +2,7 @@
 
 > **getUrlInfo**(`text`, `opts`): `Promise`\<`undefined` \| [`WAUrlInfo`](../interfaces/WAUrlInfo.md)\>
 
-Defined in: [src/Utils/link-preview.ts:37](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Utils/link-preview.ts#L37)
+Defined in: [src/Utils/link-preview.ts:37](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Utils/link-preview.ts#L37)
 
 Given a piece of text, checks for any URL present, generates link preview for the same and returns it
 Return undefined if the fetch failed or no URL was found

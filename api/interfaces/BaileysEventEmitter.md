@@ -1,6 +1,6 @@
 # Interface: BaileysEventEmitter
 
-Defined in: [src/Types/Events.ts:96](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Events.ts#L96)
+Defined in: [src/Types/Events.ts:96](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Events.ts#L96)
 
 ## Methods
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Events.ts:96](https://github.com/Fokusdotid/Baileys/blob/
 
 > **emit**\<`T`\>(`event`, `arg`): `boolean`
 
-Defined in: [src/Types/Events.ts:100](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Events.ts#L100)
+Defined in: [src/Types/Events.ts:100](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Events.ts#L100)
 
 #### Type Parameters
 
@@ -34,7 +34,7 @@ Defined in: [src/Types/Events.ts:100](https://github.com/Fokusdotid/Baileys/blob
 
 > **off**\<`T`\>(`event`, `listener`): `void`
 
-Defined in: [src/Types/Events.ts:98](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Events.ts#L98)
+Defined in: [src/Types/Events.ts:98](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Events.ts#L98)
 
 #### Type Parameters
 
@@ -60,7 +60,7 @@ Defined in: [src/Types/Events.ts:98](https://github.com/Fokusdotid/Baileys/blob/
 
 > **on**\<`T`\>(`event`, `listener`): `void`
 
-Defined in: [src/Types/Events.ts:97](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Events.ts#L97)
+Defined in: [src/Types/Events.ts:97](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Events.ts#L97)
 
 #### Type Parameters
 
@@ -86,7 +86,7 @@ Defined in: [src/Types/Events.ts:97](https://github.com/Fokusdotid/Baileys/blob/
 
 > **removeAllListeners**\<`T`\>(`event`): `void`
 
-Defined in: [src/Types/Events.ts:99](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Types/Events.ts#L99)
+Defined in: [src/Types/Events.ts:99](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Events.ts#L99)
 
 #### Type Parameters
 

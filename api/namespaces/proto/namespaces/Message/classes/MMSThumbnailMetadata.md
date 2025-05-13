@@ -1,6 +1,6 @@
 # Class: MMSThumbnailMetadata
 
-Defined in: [WAProto/index.d.ts:26201](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26201)
+Defined in: [WAProto/index.d.ts:26201](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26201)
 
 Represents a MMSThumbnailMetadata.
 
@@ -14,7 +14,7 @@ Represents a MMSThumbnailMetadata.
 
 > **new MMSThumbnailMetadata**(`properties`?): [`MMSThumbnailMetadata`](MMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26207](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26207)
+Defined in: [WAProto/index.d.ts:26207](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26207)
 
 Constructs a new MMSThumbnailMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26219](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26219)
+Defined in: [WAProto/index.d.ts:26219](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26219)
 
 MMSThumbnailMetadata mediaKey.
 
@@ -50,7 +50,7 @@ MMSThumbnailMetadata mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26222](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26222)
+Defined in: [WAProto/index.d.ts:26222](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26222)
 
 MMSThumbnailMetadata mediaKeyTimestamp.
 
@@ -64,7 +64,7 @@ MMSThumbnailMetadata mediaKeyTimestamp.
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26210](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26210)
+Defined in: [WAProto/index.d.ts:26210](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26210)
 
 MMSThumbnailMetadata thumbnailDirectPath.
 
@@ -78,7 +78,7 @@ MMSThumbnailMetadata thumbnailDirectPath.
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26216](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26216)
+Defined in: [WAProto/index.d.ts:26216](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26216)
 
 MMSThumbnailMetadata thumbnailEncSha256.
 
@@ -92,7 +92,7 @@ MMSThumbnailMetadata thumbnailEncSha256.
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26225](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26225)
+Defined in: [WAProto/index.d.ts:26225](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26225)
 
 MMSThumbnailMetadata thumbnailHeight.
 
@@ -106,7 +106,7 @@ MMSThumbnailMetadata thumbnailHeight.
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26213](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26213)
+Defined in: [WAProto/index.d.ts:26213](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26213)
 
 MMSThumbnailMetadata thumbnailSha256.
 
@@ -120,7 +120,7 @@ MMSThumbnailMetadata thumbnailSha256.
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26228](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26228)
+Defined in: [WAProto/index.d.ts:26228](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26228)
 
 MMSThumbnailMetadata thumbnailWidth.
 
@@ -134,7 +134,7 @@ MMSThumbnailMetadata thumbnailWidth.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26298](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26298)
+Defined in: [WAProto/index.d.ts:26298](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26298)
 
 Converts this MMSThumbnailMetadata to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MMSThumbnailMetadata`](MMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26235](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26235)
+Defined in: [WAProto/index.d.ts:26235](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26235)
 
 Creates a new MMSThumbnailMetadata instance using the specified properties.
 
@@ -174,7 +174,7 @@ MMSThumbnailMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`MMSThumbnailMetadata`](MMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26261](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26261)
+Defined in: [WAProto/index.d.ts:26261](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26261)
 
 Decodes a MMSThumbnailMetadata message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MMSThumbnailMetadata`](MMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26270](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26270)
+Defined in: [WAProto/index.d.ts:26270](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26270)
 
 Decodes a MMSThumbnailMetadata message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26243](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26243)
+Defined in: [WAProto/index.d.ts:26243](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26243)
 
 Encodes the specified MMSThumbnailMetadata message. Does not implicitly [verify](MMSThumbnailMetadata.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26251](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26251)
+Defined in: [WAProto/index.d.ts:26251](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26251)
 
 Encodes the specified MMSThumbnailMetadata message, length delimited. Does not implicitly [verify](MMSThumbnailMetadata.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MMSThumbnailMetadata`](MMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26284](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26284)
+Defined in: [WAProto/index.d.ts:26284](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26284)
 
 Creates a MMSThumbnailMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ MMSThumbnailMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26305](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26305)
+Defined in: [WAProto/index.d.ts:26305](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26305)
 
 Gets the default type url for MMSThumbnailMetadata
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26292](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26292)
+Defined in: [WAProto/index.d.ts:26292](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26292)
 
 Creates a plain object from a MMSThumbnailMetadata message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26277](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26277)
+Defined in: [WAProto/index.d.ts:26277](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26277)
 
 Verifies a MMSThumbnailMetadata message.
 

@@ -1,6 +1,6 @@
 # Class: ClearChatAction
 
-Defined in: [WAProto/index.d.ts:41638](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41638)
+Defined in: [WAProto/index.d.ts:41638](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41638)
 
 Represents a ClearChatAction.
 
@@ -14,7 +14,7 @@ Represents a ClearChatAction.
 
 > **new ClearChatAction**(`properties`?): [`ClearChatAction`](ClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41644](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41644)
+Defined in: [WAProto/index.d.ts:41644](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41644)
 
 Constructs a new ClearChatAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](../interfaces/ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:41647](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41647)
+Defined in: [WAProto/index.d.ts:41647](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41647)
 
 ClearChatAction messageRange.
 
@@ -50,7 +50,7 @@ ClearChatAction messageRange.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41717](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41717)
+Defined in: [WAProto/index.d.ts:41717](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41717)
 
 Converts this ClearChatAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ClearChatAction`](ClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41654](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41654)
+Defined in: [WAProto/index.d.ts:41654](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41654)
 
 Creates a new ClearChatAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ ClearChatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ClearChatAction`](ClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41680](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41680)
+Defined in: [WAProto/index.d.ts:41680](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41680)
 
 Decodes a ClearChatAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ClearChatAction`](ClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41689](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41689)
+Defined in: [WAProto/index.d.ts:41689](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41689)
 
 Decodes a ClearChatAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41662](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41662)
+Defined in: [WAProto/index.d.ts:41662](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41662)
 
 Encodes the specified ClearChatAction message. Does not implicitly [verify](ClearChatAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41670](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41670)
+Defined in: [WAProto/index.d.ts:41670](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41670)
 
 Encodes the specified ClearChatAction message, length delimited. Does not implicitly [verify](ClearChatAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ClearChatAction`](ClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41703](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41703)
+Defined in: [WAProto/index.d.ts:41703](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41703)
 
 Creates a ClearChatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ClearChatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41724](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41724)
+Defined in: [WAProto/index.d.ts:41724](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41724)
 
 Gets the default type url for ClearChatAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41711](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41711)
+Defined in: [WAProto/index.d.ts:41711](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41711)
 
 Creates a plain object from a ClearChatAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41696](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L41696)
+Defined in: [WAProto/index.d.ts:41696](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L41696)
 
 Verifies a ClearChatAction message.
 

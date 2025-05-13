@@ -1,6 +1,6 @@
 # Interface: IBotMediaMetadata
 
-Defined in: [WAProto/index.d.ts:3949](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3949)
+Defined in: [WAProto/index.d.ts:3949](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3949)
 
 Properties of a BotMediaMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMediaMetadata.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3961](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3961)
+Defined in: [WAProto/index.d.ts:3961](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3961)
 
 BotMediaMetadata directPath
 
@@ -20,7 +20,7 @@ BotMediaMetadata directPath
 
 > `optional` **fileEncSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3958](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3958)
+Defined in: [WAProto/index.d.ts:3958](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3958)
 
 BotMediaMetadata fileEncSha256
 
@@ -30,7 +30,7 @@ BotMediaMetadata fileEncSha256
 
 > `optional` **fileSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3952](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3952)
+Defined in: [WAProto/index.d.ts:3952](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3952)
 
 BotMediaMetadata fileSha256
 
@@ -40,7 +40,7 @@ BotMediaMetadata fileSha256
 
 > `optional` **mediaKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3955](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3955)
+Defined in: [WAProto/index.d.ts:3955](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3955)
 
 BotMediaMetadata mediaKey
 
@@ -50,7 +50,7 @@ BotMediaMetadata mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3964](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3964)
+Defined in: [WAProto/index.d.ts:3964](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3964)
 
 BotMediaMetadata mediaKeyTimestamp
 
@@ -60,7 +60,7 @@ BotMediaMetadata mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3967](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3967)
+Defined in: [WAProto/index.d.ts:3967](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3967)
 
 BotMediaMetadata mimetype
 
@@ -70,6 +70,6 @@ BotMediaMetadata mimetype
 
 > `optional` **orientationType**: `null` \| [`OrientationType`](../namespaces/BotMediaMetadata/enumerations/OrientationType.md)
 
-Defined in: [WAProto/index.d.ts:3970](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3970)
+Defined in: [WAProto/index.d.ts:3970](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3970)
 
 BotMediaMetadata orientationType

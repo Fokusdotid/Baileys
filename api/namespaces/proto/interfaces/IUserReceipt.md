@@ -1,6 +1,6 @@
 # Interface: IUserReceipt
 
-Defined in: [WAProto/index.d.ts:48731](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48731)
+Defined in: [WAProto/index.d.ts:48731](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48731)
 
 Properties of a UserReceipt.
 
@@ -10,7 +10,7 @@ Properties of a UserReceipt.
 
 > `optional` **deliveredDeviceJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:48749](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48749)
+Defined in: [WAProto/index.d.ts:48749](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48749)
 
 UserReceipt deliveredDeviceJid
 
@@ -20,7 +20,7 @@ UserReceipt deliveredDeviceJid
 
 > `optional` **pendingDeviceJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:48746](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48746)
+Defined in: [WAProto/index.d.ts:48746](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48746)
 
 UserReceipt pendingDeviceJid
 
@@ -30,7 +30,7 @@ UserReceipt pendingDeviceJid
 
 > `optional` **playedTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48743](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48743)
+Defined in: [WAProto/index.d.ts:48743](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48743)
 
 UserReceipt playedTimestamp
 
@@ -40,7 +40,7 @@ UserReceipt playedTimestamp
 
 > `optional` **readTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48740](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48740)
+Defined in: [WAProto/index.d.ts:48740](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48740)
 
 UserReceipt readTimestamp
 
@@ -50,7 +50,7 @@ UserReceipt readTimestamp
 
 > `optional` **receiptTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48737](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48737)
+Defined in: [WAProto/index.d.ts:48737](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48737)
 
 UserReceipt receiptTimestamp
 
@@ -60,6 +60,6 @@ UserReceipt receiptTimestamp
 
 > **userJid**: `string`
 
-Defined in: [WAProto/index.d.ts:48734](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L48734)
+Defined in: [WAProto/index.d.ts:48734](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L48734)
 
 UserReceipt userJid

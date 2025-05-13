@@ -1,6 +1,6 @@
 # Class: WebInfo
 
-Defined in: [WAProto/index.d.ts:8705](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8705)
+Defined in: [WAProto/index.d.ts:8705](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8705)
 
 Represents a WebInfo.
 
@@ -14,7 +14,7 @@ Represents a WebInfo.
 
 > **new WebInfo**(`properties`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8711](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8711)
+Defined in: [WAProto/index.d.ts:8711](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8711)
 
 Constructs a new WebInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **refToken**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8714](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8714)
+Defined in: [WAProto/index.d.ts:8714](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8714)
 
 WebInfo refToken.
 
@@ -50,7 +50,7 @@ WebInfo refToken.
 
 > `optional` **version**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8717](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8717)
+Defined in: [WAProto/index.d.ts:8717](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8717)
 
 WebInfo version.
 
@@ -64,7 +64,7 @@ WebInfo version.
 
 > `optional` **webdPayload**: `null` \| [`IWebdPayload`](../namespaces/WebInfo/interfaces/IWebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8720](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8720)
+Defined in: [WAProto/index.d.ts:8720](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8720)
 
 WebInfo webdPayload.
 
@@ -78,7 +78,7 @@ WebInfo webdPayload.
 
 > `optional` **webSubPlatform**: `null` \| [`WebSubPlatform`](../namespaces/WebInfo/enumerations/WebSubPlatform.md)
 
-Defined in: [WAProto/index.d.ts:8723](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8723)
+Defined in: [WAProto/index.d.ts:8723](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8723)
 
 WebInfo webSubPlatform.
 
@@ -92,7 +92,7 @@ WebInfo webSubPlatform.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8793](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8793)
+Defined in: [WAProto/index.d.ts:8793](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8793)
 
 Converts this WebInfo to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8730](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8730)
+Defined in: [WAProto/index.d.ts:8730](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8730)
 
 Creates a new WebInfo instance using the specified properties.
 
@@ -132,7 +132,7 @@ WebInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8756](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8756)
+Defined in: [WAProto/index.d.ts:8756](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8756)
 
 Decodes a WebInfo message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8765](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8765)
+Defined in: [WAProto/index.d.ts:8765](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8765)
 
 Decodes a WebInfo message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8738](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8738)
+Defined in: [WAProto/index.d.ts:8738](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8738)
 
 Encodes the specified WebInfo message. Does not implicitly [verify](WebInfo.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8746](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8746)
+Defined in: [WAProto/index.d.ts:8746](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8746)
 
 Encodes the specified WebInfo message, length delimited. Does not implicitly [verify](WebInfo.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8779](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8779)
+Defined in: [WAProto/index.d.ts:8779](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8779)
 
 Creates a WebInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ WebInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8800](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8800)
+Defined in: [WAProto/index.d.ts:8800](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8800)
 
 Gets the default type url for WebInfo
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8787](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8787)
+Defined in: [WAProto/index.d.ts:8787](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8787)
 
 Creates a plain object from a WebInfo message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8772](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L8772)
+Defined in: [WAProto/index.d.ts:8772](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L8772)
 
 Verifies a WebInfo message.
 

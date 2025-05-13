@@ -2,4 +2,4 @@
 
 > `const` **NO\_MESSAGE\_FOUND\_ERROR\_TEXT**: `"Message absent from node"` = `'Message absent from node'`
 
-Defined in: [src/Utils/decode-wa-message.ts:8](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/Utils/decode-wa-message.ts#L8)
+Defined in: [src/Utils/decode-wa-message.ts:8](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Utils/decode-wa-message.ts#L8)

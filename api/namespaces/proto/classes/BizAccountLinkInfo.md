@@ -1,6 +1,6 @@
 # Class: BizAccountLinkInfo
 
-Defined in: [WAProto/index.d.ts:2997](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L2997)
+Defined in: [WAProto/index.d.ts:2997](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L2997)
 
 Represents a BizAccountLinkInfo.
 
@@ -14,7 +14,7 @@ Represents a BizAccountLinkInfo.
 
 > **new BizAccountLinkInfo**(`properties`?): [`BizAccountLinkInfo`](BizAccountLinkInfo.md)
 
-Defined in: [WAProto/index.d.ts:3003](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3003)
+Defined in: [WAProto/index.d.ts:3003](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3003)
 
 Constructs a new BizAccountLinkInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountType**: `null` \| [`ENTERPRISE`](../namespaces/BizAccountLinkInfo/enumerations/AccountType.md#enterprise)
 
-Defined in: [WAProto/index.d.ts:3018](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3018)
+Defined in: [WAProto/index.d.ts:3018](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3018)
 
 BizAccountLinkInfo accountType.
 
@@ -50,7 +50,7 @@ BizAccountLinkInfo accountType.
 
 > `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizAccountLinkInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3015](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3015)
+Defined in: [WAProto/index.d.ts:3015](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3015)
 
 BizAccountLinkInfo hostStorage.
 
@@ -64,7 +64,7 @@ BizAccountLinkInfo hostStorage.
 
 > `optional` **issueTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3012](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3012)
+Defined in: [WAProto/index.d.ts:3012](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3012)
 
 BizAccountLinkInfo issueTime.
 
@@ -78,7 +78,7 @@ BizAccountLinkInfo issueTime.
 
 > `optional` **whatsappAcctNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3009](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3009)
+Defined in: [WAProto/index.d.ts:3009](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3009)
 
 BizAccountLinkInfo whatsappAcctNumber.
 
@@ -92,7 +92,7 @@ BizAccountLinkInfo whatsappAcctNumber.
 
 > `optional` **whatsappBizAcctFbid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3006](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3006)
+Defined in: [WAProto/index.d.ts:3006](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3006)
 
 BizAccountLinkInfo whatsappBizAcctFbid.
 
@@ -106,7 +106,7 @@ BizAccountLinkInfo whatsappBizAcctFbid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3088](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3088)
+Defined in: [WAProto/index.d.ts:3088](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3088)
 
 Converts this BizAccountLinkInfo to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BizAccountLinkInfo`](BizAccountLinkInfo.md)
 
-Defined in: [WAProto/index.d.ts:3025](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3025)
+Defined in: [WAProto/index.d.ts:3025](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3025)
 
 Creates a new BizAccountLinkInfo instance using the specified properties.
 
@@ -146,7 +146,7 @@ BizAccountLinkInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`BizAccountLinkInfo`](BizAccountLinkInfo.md)
 
-Defined in: [WAProto/index.d.ts:3051](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3051)
+Defined in: [WAProto/index.d.ts:3051](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3051)
 
 Decodes a BizAccountLinkInfo message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BizAccountLinkInfo`](BizAccountLinkInfo.md)
 
-Defined in: [WAProto/index.d.ts:3060](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3060)
+Defined in: [WAProto/index.d.ts:3060](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3060)
 
 Decodes a BizAccountLinkInfo message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3033](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3033)
+Defined in: [WAProto/index.d.ts:3033](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3033)
 
 Encodes the specified BizAccountLinkInfo message. Does not implicitly [verify](BizAccountLinkInfo.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3041](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3041)
+Defined in: [WAProto/index.d.ts:3041](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3041)
 
 Encodes the specified BizAccountLinkInfo message, length delimited. Does not implicitly [verify](BizAccountLinkInfo.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BizAccountLinkInfo`](BizAccountLinkInfo.md)
 
-Defined in: [WAProto/index.d.ts:3074](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3074)
+Defined in: [WAProto/index.d.ts:3074](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3074)
 
 Creates a BizAccountLinkInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ BizAccountLinkInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3095](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3095)
+Defined in: [WAProto/index.d.ts:3095](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3095)
 
 Gets the default type url for BizAccountLinkInfo
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3082](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3082)
+Defined in: [WAProto/index.d.ts:3082](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3082)
 
 Creates a plain object from a BizAccountLinkInfo message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3067](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L3067)
+Defined in: [WAProto/index.d.ts:3067](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3067)
 
 Verifies a BizAccountLinkInfo message.
 

@@ -1,6 +1,6 @@
 # Class: USyncDeviceProtocol
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:22](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L22)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:22](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L22)
 
 ## Implements
 
@@ -22,7 +22,7 @@ Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:22](https://github.com
 
 > **name**: `string` = `'devices'`
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:23](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L23)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:23](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L23)
 
 The name of the protocol
 
@@ -36,7 +36,7 @@ The name of the protocol
 
 > **getQueryElement**(): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:25](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L25)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:25](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L25)
 
 Defines what goes inside the query part of a USyncQuery
 
@@ -54,7 +54,7 @@ Defines what goes inside the query part of a USyncQuery
 
 > **getUserElement**(): `null` \| [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:34](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L34)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:34](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L34)
 
 Defines what goes inside the user part of a USyncQuery
 
@@ -72,7 +72,7 @@ Defines what goes inside the user part of a USyncQuery
 
 > **parser**(`node`): [`ParsedDeviceInfo`](../type-aliases/ParsedDeviceInfo.md)
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:41](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L41)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:41](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L41)
 
 Parse the result of the query
 

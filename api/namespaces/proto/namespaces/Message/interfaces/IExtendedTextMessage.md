@@ -1,6 +1,6 @@
 # Interface: IExtendedTextMessage
 
-Defined in: [WAProto/index.d.ts:21307](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21307)
+Defined in: [WAProto/index.d.ts:21307](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21307)
 
 Properties of an ExtendedTextMessage.
 
@@ -10,7 +10,7 @@ Properties of an ExtendedTextMessage.
 
 > `optional` **backgroundArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21325](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21325)
+Defined in: [WAProto/index.d.ts:21325](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21325)
 
 ExtendedTextMessage backgroundArgb
 
@@ -20,7 +20,7 @@ ExtendedTextMessage backgroundArgb
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:21337](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21337)
+Defined in: [WAProto/index.d.ts:21337](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21337)
 
 ExtendedTextMessage contextInfo
 
@@ -30,7 +30,7 @@ ExtendedTextMessage contextInfo
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21316](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21316)
+Defined in: [WAProto/index.d.ts:21316](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21316)
 
 ExtendedTextMessage description
 
@@ -40,7 +40,7 @@ ExtendedTextMessage description
 
 > `optional` **doNotPlayInline**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21340](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21340)
+Defined in: [WAProto/index.d.ts:21340](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21340)
 
 ExtendedTextMessage doNotPlayInline
 
@@ -50,7 +50,7 @@ ExtendedTextMessage doNotPlayInline
 
 > `optional` **faviconMMSMetadata**: `null` \| [`IMMSThumbnailMetadata`](IMMSThumbnailMetadata.md)
 
-Defined in: [WAProto/index.d.ts:21385](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21385)
+Defined in: [WAProto/index.d.ts:21385](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21385)
 
 ExtendedTextMessage faviconMMSMetadata
 
@@ -60,7 +60,7 @@ ExtendedTextMessage faviconMMSMetadata
 
 > `optional` **font**: `null` \| [`FontType`](../namespaces/ExtendedTextMessage/enumerations/FontType.md)
 
-Defined in: [WAProto/index.d.ts:21328](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21328)
+Defined in: [WAProto/index.d.ts:21328](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21328)
 
 ExtendedTextMessage font
 
@@ -70,7 +70,7 @@ ExtendedTextMessage font
 
 > `optional` **inviteLinkGroupType**: `null` \| [`InviteLinkGroupType`](../namespaces/ExtendedTextMessage/enumerations/InviteLinkGroupType.md)
 
-Defined in: [WAProto/index.d.ts:21364](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21364)
+Defined in: [WAProto/index.d.ts:21364](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21364)
 
 ExtendedTextMessage inviteLinkGroupType
 
@@ -80,7 +80,7 @@ ExtendedTextMessage inviteLinkGroupType
 
 > `optional` **inviteLinkGroupTypeV2**: `null` \| [`InviteLinkGroupType`](../namespaces/ExtendedTextMessage/enumerations/InviteLinkGroupType.md)
 
-Defined in: [WAProto/index.d.ts:21373](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21373)
+Defined in: [WAProto/index.d.ts:21373](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21373)
 
 ExtendedTextMessage inviteLinkGroupTypeV2
 
@@ -90,7 +90,7 @@ ExtendedTextMessage inviteLinkGroupTypeV2
 
 > `optional` **inviteLinkParentGroupSubjectV2**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21367](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21367)
+Defined in: [WAProto/index.d.ts:21367](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21367)
 
 ExtendedTextMessage inviteLinkParentGroupSubjectV2
 
@@ -100,7 +100,7 @@ ExtendedTextMessage inviteLinkParentGroupSubjectV2
 
 > `optional` **inviteLinkParentGroupThumbnailV2**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21370](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21370)
+Defined in: [WAProto/index.d.ts:21370](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21370)
 
 ExtendedTextMessage inviteLinkParentGroupThumbnailV2
 
@@ -110,7 +110,7 @@ ExtendedTextMessage inviteLinkParentGroupThumbnailV2
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21334](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21334)
+Defined in: [WAProto/index.d.ts:21334](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21334)
 
 ExtendedTextMessage jpegThumbnail
 
@@ -120,7 +120,7 @@ ExtendedTextMessage jpegThumbnail
 
 > `optional` **matchedText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21313](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21313)
+Defined in: [WAProto/index.d.ts:21313](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21313)
 
 ExtendedTextMessage matchedText
 
@@ -130,7 +130,7 @@ ExtendedTextMessage matchedText
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21352](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21352)
+Defined in: [WAProto/index.d.ts:21352](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21352)
 
 ExtendedTextMessage mediaKey
 
@@ -140,7 +140,7 @@ ExtendedTextMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21355](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21355)
+Defined in: [WAProto/index.d.ts:21355](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21355)
 
 ExtendedTextMessage mediaKeyTimestamp
 
@@ -150,7 +150,7 @@ ExtendedTextMessage mediaKeyTimestamp
 
 > `optional` **previewType**: `null` \| [`PreviewType`](../namespaces/ExtendedTextMessage/enumerations/PreviewType.md)
 
-Defined in: [WAProto/index.d.ts:21331](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21331)
+Defined in: [WAProto/index.d.ts:21331](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21331)
 
 ExtendedTextMessage previewType
 
@@ -160,7 +160,7 @@ ExtendedTextMessage previewType
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21310](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21310)
+Defined in: [WAProto/index.d.ts:21310](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21310)
 
 ExtendedTextMessage text
 
@@ -170,7 +170,7 @@ ExtendedTextMessage text
 
 > `optional` **textArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21322](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21322)
+Defined in: [WAProto/index.d.ts:21322](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21322)
 
 ExtendedTextMessage textArgb
 
@@ -180,7 +180,7 @@ ExtendedTextMessage textArgb
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21343](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21343)
+Defined in: [WAProto/index.d.ts:21343](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21343)
 
 ExtendedTextMessage thumbnailDirectPath
 
@@ -190,7 +190,7 @@ ExtendedTextMessage thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21349](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21349)
+Defined in: [WAProto/index.d.ts:21349](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21349)
 
 ExtendedTextMessage thumbnailEncSha256
 
@@ -200,7 +200,7 @@ ExtendedTextMessage thumbnailEncSha256
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21358](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21358)
+Defined in: [WAProto/index.d.ts:21358](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21358)
 
 ExtendedTextMessage thumbnailHeight
 
@@ -210,7 +210,7 @@ ExtendedTextMessage thumbnailHeight
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:21346](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21346)
+Defined in: [WAProto/index.d.ts:21346](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21346)
 
 ExtendedTextMessage thumbnailSha256
 
@@ -220,7 +220,7 @@ ExtendedTextMessage thumbnailSha256
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21361](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21361)
+Defined in: [WAProto/index.d.ts:21361](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21361)
 
 ExtendedTextMessage thumbnailWidth
 
@@ -230,7 +230,7 @@ ExtendedTextMessage thumbnailWidth
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21319](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21319)
+Defined in: [WAProto/index.d.ts:21319](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21319)
 
 ExtendedTextMessage title
 
@@ -240,7 +240,7 @@ ExtendedTextMessage title
 
 > `optional` **videoHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21379](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21379)
+Defined in: [WAProto/index.d.ts:21379](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21379)
 
 ExtendedTextMessage videoHeight
 
@@ -250,7 +250,7 @@ ExtendedTextMessage videoHeight
 
 > `optional` **videoWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:21382](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21382)
+Defined in: [WAProto/index.d.ts:21382](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21382)
 
 ExtendedTextMessage videoWidth
 
@@ -260,6 +260,6 @@ ExtendedTextMessage videoWidth
 
 > `optional` **viewOnce**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21376](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21376)
+Defined in: [WAProto/index.d.ts:21376](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21376)
 
 ExtendedTextMessage viewOnce

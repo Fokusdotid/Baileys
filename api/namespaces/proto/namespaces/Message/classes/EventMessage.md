@@ -1,6 +1,6 @@
 # Class: EventMessage
 
-Defined in: [WAProto/index.d.ts:21073](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21073)
+Defined in: [WAProto/index.d.ts:21073](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21073)
 
 Represents an EventMessage.
 
@@ -14,7 +14,7 @@ Represents an EventMessage.
 
 > **new EventMessage**(`properties`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:21079](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21079)
+Defined in: [WAProto/index.d.ts:21079](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21079)
 
 Constructs a new EventMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:21082](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21082)
+Defined in: [WAProto/index.d.ts:21082](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21082)
 
 EventMessage contextInfo.
 
@@ -50,7 +50,7 @@ EventMessage contextInfo.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21091](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21091)
+Defined in: [WAProto/index.d.ts:21091](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21091)
 
 EventMessage description.
 
@@ -64,7 +64,7 @@ EventMessage description.
 
 > `optional` **endTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21103](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21103)
+Defined in: [WAProto/index.d.ts:21103](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21103)
 
 EventMessage endTime.
 
@@ -78,7 +78,7 @@ EventMessage endTime.
 
 > `optional` **extraGuestsAllowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21106](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21106)
+Defined in: [WAProto/index.d.ts:21106](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21106)
 
 EventMessage extraGuestsAllowed.
 
@@ -92,7 +92,7 @@ EventMessage extraGuestsAllowed.
 
 > `optional` **isCanceled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21085](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21085)
+Defined in: [WAProto/index.d.ts:21085](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21085)
 
 EventMessage isCanceled.
 
@@ -106,7 +106,7 @@ EventMessage isCanceled.
 
 > `optional` **joinLink**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21097](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21097)
+Defined in: [WAProto/index.d.ts:21097](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21097)
 
 EventMessage joinLink.
 
@@ -120,7 +120,7 @@ EventMessage joinLink.
 
 > `optional` **location**: `null` \| [`ILocationMessage`](../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:21094](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21094)
+Defined in: [WAProto/index.d.ts:21094](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21094)
 
 EventMessage location.
 
@@ -134,7 +134,7 @@ EventMessage location.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21088](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21088)
+Defined in: [WAProto/index.d.ts:21088](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21088)
 
 EventMessage name.
 
@@ -148,7 +148,7 @@ EventMessage name.
 
 > `optional` **startTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21100](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21100)
+Defined in: [WAProto/index.d.ts:21100](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21100)
 
 EventMessage startTime.
 
@@ -162,7 +162,7 @@ EventMessage startTime.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21176](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21176)
+Defined in: [WAProto/index.d.ts:21176](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21176)
 
 Converts this EventMessage to JSON.
 
@@ -178,7 +178,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:21113](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21113)
+Defined in: [WAProto/index.d.ts:21113](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21113)
 
 Creates a new EventMessage instance using the specified properties.
 
@@ -202,7 +202,7 @@ EventMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:21139](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21139)
+Defined in: [WAProto/index.d.ts:21139](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21139)
 
 Decodes an EventMessage message from the specified reader or buffer.
 
@@ -240,7 +240,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:21148](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21148)
+Defined in: [WAProto/index.d.ts:21148](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21148)
 
 Decodes an EventMessage message from the specified reader or buffer, length delimited.
 
@@ -272,7 +272,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21121](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21121)
+Defined in: [WAProto/index.d.ts:21121](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21121)
 
 Encodes the specified EventMessage message. Does not implicitly [verify](EventMessage.md#verify) messages.
 
@@ -302,7 +302,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21129](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21129)
+Defined in: [WAProto/index.d.ts:21129](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21129)
 
 Encodes the specified EventMessage message, length delimited. Does not implicitly [verify](EventMessage.md#verify) messages.
 
@@ -332,7 +332,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:21162](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21162)
+Defined in: [WAProto/index.d.ts:21162](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21162)
 
 Creates an EventMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -354,7 +354,7 @@ EventMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21183](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21183)
+Defined in: [WAProto/index.d.ts:21183](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21183)
 
 Gets the default type url for EventMessage
 
@@ -378,7 +378,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21170](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21170)
+Defined in: [WAProto/index.d.ts:21170](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21170)
 
 Creates a plain object from an EventMessage message. Also converts values to other types if specified.
 
@@ -408,7 +408,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21155](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21155)
+Defined in: [WAProto/index.d.ts:21155](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21155)
 
 Verifies an EventMessage message.
 

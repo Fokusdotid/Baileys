@@ -1,6 +1,6 @@
 # Interface: IPaymentInviteMessage
 
-Defined in: [WAProto/index.d.ts:26765](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26765)
+Defined in: [WAProto/index.d.ts:26765](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26765)
 
 Properties of a PaymentInviteMessage.
 
@@ -10,7 +10,7 @@ Properties of a PaymentInviteMessage.
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26771](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26771)
+Defined in: [WAProto/index.d.ts:26771](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26771)
 
 PaymentInviteMessage expiryTimestamp
 
@@ -20,6 +20,6 @@ PaymentInviteMessage expiryTimestamp
 
 > `optional` **serviceType**: `null` \| [`ServiceType`](../namespaces/PaymentInviteMessage/enumerations/ServiceType.md)
 
-Defined in: [WAProto/index.d.ts:26768](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L26768)
+Defined in: [WAProto/index.d.ts:26768](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L26768)
 
 PaymentInviteMessage serviceType

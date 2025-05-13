@@ -1,6 +1,6 @@
 # Interface: IStatusMentionMessage
 
-Defined in: [WAProto/index.d.ts:40039](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L40039)
+Defined in: [WAProto/index.d.ts:40039](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L40039)
 
 Properties of a StatusMentionMessage.
 
@@ -10,6 +10,6 @@ Properties of a StatusMentionMessage.
 
 > `optional` **quotedStatus**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:40042](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L40042)
+Defined in: [WAProto/index.d.ts:40042](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L40042)
 
 StatusMentionMessage quotedStatus

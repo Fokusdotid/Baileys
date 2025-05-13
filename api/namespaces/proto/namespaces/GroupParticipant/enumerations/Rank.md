@@ -1,6 +1,6 @@
 # Enumeration: Rank
 
-Defined in: [WAProto/index.d.ts:13893](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13893)
+Defined in: [WAProto/index.d.ts:13893](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L13893)
 
 Rank enum.
 
@@ -10,7 +10,7 @@ Rank enum.
 
 > **ADMIN**: `1`
 
-Defined in: [WAProto/index.d.ts:13895](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13895)
+Defined in: [WAProto/index.d.ts:13895](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L13895)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:13895](https://github.com/Fokusdotid/Baileys/blo
 
 > **REGULAR**: `0`
 
-Defined in: [WAProto/index.d.ts:13894](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13894)
+Defined in: [WAProto/index.d.ts:13894](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L13894)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:13894](https://github.com/Fokusdotid/Baileys/blo
 
 > **SUPERADMIN**: `2`
 
-Defined in: [WAProto/index.d.ts:13896](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L13896)
+Defined in: [WAProto/index.d.ts:13896](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L13896)

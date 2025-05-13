@@ -1,6 +1,6 @@
 # Enumeration: EndOfHistoryTransferType
 
-Defined in: [WAProto/index.d.ts:11300](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L11300)
+Defined in: [WAProto/index.d.ts:11300](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L11300)
 
 EndOfHistoryTransferType enum.
 
@@ -10,7 +10,7 @@ EndOfHistoryTransferType enum.
 
 > **COMPLETE\_AND\_NO\_MORE\_MESSAGE\_REMAIN\_ON\_PRIMARY**: `1`
 
-Defined in: [WAProto/index.d.ts:11302](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L11302)
+Defined in: [WAProto/index.d.ts:11302](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L11302)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:11302](https://github.com/Fokusdotid/Baileys/blo
 
 > **COMPLETE\_BUT\_MORE\_MESSAGES\_REMAIN\_ON\_PRIMARY**: `0`
 
-Defined in: [WAProto/index.d.ts:11301](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L11301)
+Defined in: [WAProto/index.d.ts:11301](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L11301)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:11301](https://github.com/Fokusdotid/Baileys/blo
 
 > **COMPLETE\_ON\_DEMAND\_SYNC\_BUT\_MORE\_MSG\_REMAIN\_ON\_PRIMARY**: `2`
 
-Defined in: [WAProto/index.d.ts:11303](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L11303)
+Defined in: [WAProto/index.d.ts:11303](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L11303)

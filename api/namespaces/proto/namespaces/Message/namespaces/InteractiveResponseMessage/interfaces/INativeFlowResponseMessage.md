@@ -1,6 +1,6 @@
 # Interface: INativeFlowResponseMessage
 
-Defined in: [WAProto/index.d.ts:24483](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L24483)
+Defined in: [WAProto/index.d.ts:24483](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L24483)
 
 Properties of a NativeFlowResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a NativeFlowResponseMessage.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24486](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L24486)
+Defined in: [WAProto/index.d.ts:24486](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L24486)
 
 NativeFlowResponseMessage name
 
@@ -20,7 +20,7 @@ NativeFlowResponseMessage name
 
 > `optional` **paramsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24489](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L24489)
+Defined in: [WAProto/index.d.ts:24489](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L24489)
 
 NativeFlowResponseMessage paramsJson
 
@@ -30,6 +30,6 @@ NativeFlowResponseMessage paramsJson
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24492](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L24492)
+Defined in: [WAProto/index.d.ts:24492](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L24492)
 
 NativeFlowResponseMessage version

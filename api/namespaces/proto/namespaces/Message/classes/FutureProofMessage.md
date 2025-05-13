@@ -1,6 +1,6 @@
 # Class: FutureProofMessage
 
-Defined in: [WAProto/index.d.ts:21691](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21691)
+Defined in: [WAProto/index.d.ts:21691](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21691)
 
 Represents a FutureProofMessage.
 
@@ -14,7 +14,7 @@ Represents a FutureProofMessage.
 
 > **new FutureProofMessage**(`properties`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:21697](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21697)
+Defined in: [WAProto/index.d.ts:21697](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21697)
 
 Constructs a new FutureProofMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:21700](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21700)
+Defined in: [WAProto/index.d.ts:21700](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21700)
 
 FutureProofMessage message.
 
@@ -50,7 +50,7 @@ FutureProofMessage message.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21770](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21770)
+Defined in: [WAProto/index.d.ts:21770](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21770)
 
 Converts this FutureProofMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:21707](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21707)
+Defined in: [WAProto/index.d.ts:21707](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21707)
 
 Creates a new FutureProofMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ FutureProofMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:21733](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21733)
+Defined in: [WAProto/index.d.ts:21733](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21733)
 
 Decodes a FutureProofMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:21742](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21742)
+Defined in: [WAProto/index.d.ts:21742](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21742)
 
 Decodes a FutureProofMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21715](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21715)
+Defined in: [WAProto/index.d.ts:21715](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21715)
 
 Encodes the specified FutureProofMessage message. Does not implicitly [verify](FutureProofMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21723](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21723)
+Defined in: [WAProto/index.d.ts:21723](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21723)
 
 Encodes the specified FutureProofMessage message, length delimited. Does not implicitly [verify](FutureProofMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:21756](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21756)
+Defined in: [WAProto/index.d.ts:21756](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21756)
 
 Creates a FutureProofMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ FutureProofMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21777](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21777)
+Defined in: [WAProto/index.d.ts:21777](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21777)
 
 Gets the default type url for FutureProofMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21764](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21764)
+Defined in: [WAProto/index.d.ts:21764](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21764)
 
 Creates a plain object from a FutureProofMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21749](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L21749)
+Defined in: [WAProto/index.d.ts:21749](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L21749)
 
 Verifies a FutureProofMessage message.
 

@@ -1,6 +1,6 @@
 # Class: DeleteIndividualCallLogAction
 
-Defined in: [WAProto/index.d.ts:42265](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42265)
+Defined in: [WAProto/index.d.ts:42265](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42265)
 
 Represents a DeleteIndividualCallLogAction.
 
@@ -14,7 +14,7 @@ Represents a DeleteIndividualCallLogAction.
 
 > **new DeleteIndividualCallLogAction**(`properties`?): [`DeleteIndividualCallLogAction`](DeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:42271](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42271)
+Defined in: [WAProto/index.d.ts:42271](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42271)
 
 Constructs a new DeleteIndividualCallLogAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isIncoming**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42277](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42277)
+Defined in: [WAProto/index.d.ts:42277](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42277)
 
 DeleteIndividualCallLogAction isIncoming.
 
@@ -50,7 +50,7 @@ DeleteIndividualCallLogAction isIncoming.
 
 > `optional` **peerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42274](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42274)
+Defined in: [WAProto/index.d.ts:42274](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42274)
 
 DeleteIndividualCallLogAction peerJid.
 
@@ -64,7 +64,7 @@ DeleteIndividualCallLogAction peerJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42347](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42347)
+Defined in: [WAProto/index.d.ts:42347](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42347)
 
 Converts this DeleteIndividualCallLogAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeleteIndividualCallLogAction`](DeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:42284](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42284)
+Defined in: [WAProto/index.d.ts:42284](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42284)
 
 Creates a new DeleteIndividualCallLogAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ DeleteIndividualCallLogAction instance
 
 > `static` **decode**(`reader`, `length`?): [`DeleteIndividualCallLogAction`](DeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:42310](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42310)
+Defined in: [WAProto/index.d.ts:42310](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42310)
 
 Decodes a DeleteIndividualCallLogAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeleteIndividualCallLogAction`](DeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:42319](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42319)
+Defined in: [WAProto/index.d.ts:42319](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42319)
 
 Decodes a DeleteIndividualCallLogAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42292](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42292)
+Defined in: [WAProto/index.d.ts:42292](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42292)
 
 Encodes the specified DeleteIndividualCallLogAction message. Does not implicitly [verify](DeleteIndividualCallLogAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42300](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42300)
+Defined in: [WAProto/index.d.ts:42300](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42300)
 
 Encodes the specified DeleteIndividualCallLogAction message, length delimited. Does not implicitly [verify](DeleteIndividualCallLogAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeleteIndividualCallLogAction`](DeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:42333](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42333)
+Defined in: [WAProto/index.d.ts:42333](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42333)
 
 Creates a DeleteIndividualCallLogAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DeleteIndividualCallLogAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42354](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42354)
+Defined in: [WAProto/index.d.ts:42354](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42354)
 
 Gets the default type url for DeleteIndividualCallLogAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42341](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42341)
+Defined in: [WAProto/index.d.ts:42341](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42341)
 
 Creates a plain object from a DeleteIndividualCallLogAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42326](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L42326)
+Defined in: [WAProto/index.d.ts:42326](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42326)
 
 Verifies a DeleteIndividualCallLogAction message.
 

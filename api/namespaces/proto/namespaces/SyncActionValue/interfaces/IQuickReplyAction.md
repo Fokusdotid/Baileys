@@ -1,6 +1,6 @@
 # Interface: IQuickReplyAction
 
-Defined in: [WAProto/index.d.ts:45071](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45071)
+Defined in: [WAProto/index.d.ts:45071](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45071)
 
 Properties of a QuickReplyAction.
 
@@ -10,7 +10,7 @@ Properties of a QuickReplyAction.
 
 > `optional` **count**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45083](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45083)
+Defined in: [WAProto/index.d.ts:45083](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45083)
 
 QuickReplyAction count
 
@@ -20,7 +20,7 @@ QuickReplyAction count
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45086](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45086)
+Defined in: [WAProto/index.d.ts:45086](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45086)
 
 QuickReplyAction deleted
 
@@ -30,7 +30,7 @@ QuickReplyAction deleted
 
 > `optional` **keywords**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:45080](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45080)
+Defined in: [WAProto/index.d.ts:45080](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45080)
 
 QuickReplyAction keywords
 
@@ -40,7 +40,7 @@ QuickReplyAction keywords
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45077](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45077)
+Defined in: [WAProto/index.d.ts:45077](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45077)
 
 QuickReplyAction message
 
@@ -50,6 +50,6 @@ QuickReplyAction message
 
 > `optional` **shortcut**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45074](https://github.com/Fokusdotid/Baileys/blob/4c54e9ae0a9f37422d51e97c3454891bf06f36e1/WAProto/index.d.ts#L45074)
+Defined in: [WAProto/index.d.ts:45074](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L45074)
 
 QuickReplyAction shortcut
