@@ -1,6 +1,6 @@
 # Interface: IActionLink
 
-Defined in: [WAProto/index.d.ts:2657](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2657)
+Defined in: [WAProto/index.d.ts:2657](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2657)
 
 Properties of an ActionLink.
 
@@ -10,7 +10,7 @@ Properties of an ActionLink.
 
 > `optional` **buttonTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2663](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2663)
+Defined in: [WAProto/index.d.ts:2663](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2663)
 
 ActionLink buttonTitle
 
@@ -20,6 +20,6 @@ ActionLink buttonTitle
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2660](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2660)
+Defined in: [WAProto/index.d.ts:2660](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2660)
 
 ActionLink url

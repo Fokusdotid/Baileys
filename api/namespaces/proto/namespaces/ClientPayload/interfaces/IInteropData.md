@@ -1,6 +1,6 @@
 # Interface: IInteropData
 
-Defined in: [WAProto/index.d.ts:8198](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L8198)
+Defined in: [WAProto/index.d.ts:8198](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8198)
 
 Properties of an InteropData.
 
@@ -10,7 +10,7 @@ Properties of an InteropData.
 
 > `optional` **accountId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8201](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L8201)
+Defined in: [WAProto/index.d.ts:8201](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8201)
 
 InteropData accountId
 
@@ -20,7 +20,7 @@ InteropData accountId
 
 > `optional` **enableReadReceipts**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8207](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L8207)
+Defined in: [WAProto/index.d.ts:8207](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8207)
 
 InteropData enableReadReceipts
 
@@ -30,6 +30,6 @@ InteropData enableReadReceipts
 
 > `optional` **token**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8204](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L8204)
+Defined in: [WAProto/index.d.ts:8204](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L8204)
 
 InteropData token

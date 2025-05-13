@@ -1,6 +1,6 @@
 # Class: ProductListHeaderImage
 
-Defined in: [WAProto/index.d.ts:25117](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25117)
+Defined in: [WAProto/index.d.ts:25117](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25117)
 
 Represents a ProductListHeaderImage.
 
@@ -14,7 +14,7 @@ Represents a ProductListHeaderImage.
 
 > **new ProductListHeaderImage**(`properties`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25123](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25123)
+Defined in: [WAProto/index.d.ts:25123](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25123)
 
 Constructs a new ProductListHeaderImage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:25129](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25129)
+Defined in: [WAProto/index.d.ts:25129](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25129)
 
 ProductListHeaderImage jpegThumbnail.
 
@@ -50,7 +50,7 @@ ProductListHeaderImage jpegThumbnail.
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25126](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25126)
+Defined in: [WAProto/index.d.ts:25126](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25126)
 
 ProductListHeaderImage productId.
 
@@ -64,7 +64,7 @@ ProductListHeaderImage productId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25199](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25199)
+Defined in: [WAProto/index.d.ts:25199](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25199)
 
 Converts this ProductListHeaderImage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25136](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25136)
+Defined in: [WAProto/index.d.ts:25136](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25136)
 
 Creates a new ProductListHeaderImage instance using the specified properties.
 
@@ -104,7 +104,7 @@ ProductListHeaderImage instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25162](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25162)
+Defined in: [WAProto/index.d.ts:25162](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25162)
 
 Decodes a ProductListHeaderImage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25171](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25171)
+Defined in: [WAProto/index.d.ts:25171](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25171)
 
 Decodes a ProductListHeaderImage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25144](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25144)
+Defined in: [WAProto/index.d.ts:25144](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25144)
 
 Encodes the specified ProductListHeaderImage message. Does not implicitly [verify](ProductListHeaderImage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25152](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25152)
+Defined in: [WAProto/index.d.ts:25152](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25152)
 
 Encodes the specified ProductListHeaderImage message, length delimited. Does not implicitly [verify](ProductListHeaderImage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:25185](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25185)
+Defined in: [WAProto/index.d.ts:25185](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25185)
 
 Creates a ProductListHeaderImage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ProductListHeaderImage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25206](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25206)
+Defined in: [WAProto/index.d.ts:25206](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25206)
 
 Gets the default type url for ProductListHeaderImage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25193](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25193)
+Defined in: [WAProto/index.d.ts:25193](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25193)
 
 Creates a plain object from a ProductListHeaderImage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25178](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L25178)
+Defined in: [WAProto/index.d.ts:25178](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L25178)
 
 Verifies a ProductListHeaderImage message.
 

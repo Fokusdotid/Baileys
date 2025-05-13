@@ -1,6 +1,6 @@
 # Class: PushNameSetting
 
-Defined in: [WAProto/index.d.ts:44981](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L44981)
+Defined in: [WAProto/index.d.ts:44981](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44981)
 
 Represents a PushNameSetting.
 
@@ -14,7 +14,7 @@ Represents a PushNameSetting.
 
 > **new PushNameSetting**(`properties`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:44987](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L44987)
+Defined in: [WAProto/index.d.ts:44987](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44987)
 
 Constructs a new PushNameSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44990](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L44990)
+Defined in: [WAProto/index.d.ts:44990](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44990)
 
 PushNameSetting name.
 
@@ -50,7 +50,7 @@ PushNameSetting name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45060](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45060)
+Defined in: [WAProto/index.d.ts:45060](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45060)
 
 Converts this PushNameSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:44997](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L44997)
+Defined in: [WAProto/index.d.ts:44997](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L44997)
 
 Creates a new PushNameSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ PushNameSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:45023](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45023)
+Defined in: [WAProto/index.d.ts:45023](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45023)
 
 Decodes a PushNameSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:45032](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45032)
+Defined in: [WAProto/index.d.ts:45032](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45032)
 
 Decodes a PushNameSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45005](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45005)
+Defined in: [WAProto/index.d.ts:45005](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45005)
 
 Encodes the specified PushNameSetting message. Does not implicitly [verify](PushNameSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45013](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45013)
+Defined in: [WAProto/index.d.ts:45013](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45013)
 
 Encodes the specified PushNameSetting message, length delimited. Does not implicitly [verify](PushNameSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:45046](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45046)
+Defined in: [WAProto/index.d.ts:45046](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45046)
 
 Creates a PushNameSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PushNameSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45067](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45067)
+Defined in: [WAProto/index.d.ts:45067](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45067)
 
 Gets the default type url for PushNameSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45054](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45054)
+Defined in: [WAProto/index.d.ts:45054](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45054)
 
 Creates a plain object from a PushNameSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45039](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L45039)
+Defined in: [WAProto/index.d.ts:45039](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L45039)
 
 Verifies a PushNameSetting message.
 

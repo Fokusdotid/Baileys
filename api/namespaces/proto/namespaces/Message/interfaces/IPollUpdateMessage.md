@@ -1,6 +1,6 @@
 # Interface: IPollUpdateMessage
 
-Defined in: [WAProto/index.d.ts:29276](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L29276)
+Defined in: [WAProto/index.d.ts:29276](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L29276)
 
 Properties of a PollUpdateMessage.
 
@@ -10,7 +10,7 @@ Properties of a PollUpdateMessage.
 
 > `optional` **metadata**: `null` \| [`IPollUpdateMessageMetadata`](IPollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:29285](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L29285)
+Defined in: [WAProto/index.d.ts:29285](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L29285)
 
 PollUpdateMessage metadata
 
@@ -20,7 +20,7 @@ PollUpdateMessage metadata
 
 > `optional` **pollCreationMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:29279](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L29279)
+Defined in: [WAProto/index.d.ts:29279](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L29279)
 
 PollUpdateMessage pollCreationMessageKey
 
@@ -30,7 +30,7 @@ PollUpdateMessage pollCreationMessageKey
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29288](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L29288)
+Defined in: [WAProto/index.d.ts:29288](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L29288)
 
 PollUpdateMessage senderTimestampMs
 
@@ -40,6 +40,6 @@ PollUpdateMessage senderTimestampMs
 
 > `optional` **vote**: `null` \| [`IPollEncValue`](IPollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:29282](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L29282)
+Defined in: [WAProto/index.d.ts:29282](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L29282)
 
 PollUpdateMessage vote

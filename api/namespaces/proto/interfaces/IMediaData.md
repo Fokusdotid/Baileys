@@ -1,6 +1,6 @@
 # Interface: IMediaData
 
-Defined in: [WAProto/index.d.ts:16423](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16423)
+Defined in: [WAProto/index.d.ts:16423](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16423)
 
 Properties of a MediaData.
 
@@ -10,6 +10,6 @@ Properties of a MediaData.
 
 > `optional` **localPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16426](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16426)
+Defined in: [WAProto/index.d.ts:16426](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16426)
 
 MediaData localPath

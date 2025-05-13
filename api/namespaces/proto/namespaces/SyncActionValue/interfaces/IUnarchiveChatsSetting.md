@@ -1,6 +1,6 @@
 # Interface: IUnarchiveChatsSetting
 
-Defined in: [WAProto/index.d.ts:46268](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L46268)
+Defined in: [WAProto/index.d.ts:46268](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L46268)
 
 Properties of an UnarchiveChatsSetting.
 
@@ -10,6 +10,6 @@ Properties of an UnarchiveChatsSetting.
 
 > `optional` **unarchiveChats**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46271](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L46271)
+Defined in: [WAProto/index.d.ts:46271](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L46271)
 
 UnarchiveChatsSetting unarchiveChats

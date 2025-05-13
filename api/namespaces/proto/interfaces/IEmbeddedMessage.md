@@ -1,6 +1,6 @@
 # Interface: IEmbeddedMessage
 
-Defined in: [WAProto/index.d.ts:12451](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L12451)
+Defined in: [WAProto/index.d.ts:12451](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L12451)
 
 Properties of an EmbeddedMessage.
 
@@ -10,7 +10,7 @@ Properties of an EmbeddedMessage.
 
 > `optional` **message**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:12457](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L12457)
+Defined in: [WAProto/index.d.ts:12457](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L12457)
 
 EmbeddedMessage message
 
@@ -20,6 +20,6 @@ EmbeddedMessage message
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12454](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L12454)
+Defined in: [WAProto/index.d.ts:12454](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L12454)
 
 EmbeddedMessage stanzaId

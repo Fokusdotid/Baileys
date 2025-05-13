@@ -1,6 +1,6 @@
 # Interface: WAGroupCreateResponse
 
-Defined in: [src/Types/GroupMetadata.ts:53](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/src/Types/GroupMetadata.ts#L53)
+Defined in: [src/Types/GroupMetadata.ts:53](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Types/GroupMetadata.ts#L53)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/GroupMetadata.ts:53](https://github.com/Fokusdotid/Bailey
 
 > `optional` **gid**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:55](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/src/Types/GroupMetadata.ts#L55)
+Defined in: [src/Types/GroupMetadata.ts:55](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Types/GroupMetadata.ts#L55)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/GroupMetadata.ts:55](https://github.com/Fokusdotid/Bailey
 
 > `optional` **participants**: \[\{\}\]
 
-Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/src/Types/GroupMetadata.ts#L56)
+Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Types/GroupMetadata.ts#L56)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/Types/GroupMetadata.ts:56](https://github.com/Fokusdotid/Bailey
 
 > **status**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:54](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/src/Types/GroupMetadata.ts#L54)
+Defined in: [src/Types/GroupMetadata.ts:54](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/src/Types/GroupMetadata.ts#L54)

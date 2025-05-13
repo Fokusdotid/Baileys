@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKeyFingerprint
 
-Defined in: [WAProto/index.d.ts:17771](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17771)
+Defined in: [WAProto/index.d.ts:17771](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17771)
 
 Properties of an AppStateSyncKeyFingerprint.
 
@@ -10,7 +10,7 @@ Properties of an AppStateSyncKeyFingerprint.
 
 > `optional` **currentIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17777](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17777)
+Defined in: [WAProto/index.d.ts:17777](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17777)
 
 AppStateSyncKeyFingerprint currentIndex
 
@@ -20,7 +20,7 @@ AppStateSyncKeyFingerprint currentIndex
 
 > `optional` **deviceIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:17780](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17780)
+Defined in: [WAProto/index.d.ts:17780](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17780)
 
 AppStateSyncKeyFingerprint deviceIndexes
 
@@ -30,6 +30,6 @@ AppStateSyncKeyFingerprint deviceIndexes
 
 > `optional` **rawId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17774](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17774)
+Defined in: [WAProto/index.d.ts:17774](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17774)
 
 AppStateSyncKeyFingerprint rawId

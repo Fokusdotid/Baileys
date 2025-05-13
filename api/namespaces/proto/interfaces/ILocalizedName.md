@@ -1,6 +1,6 @@
 # Interface: ILocalizedName
 
-Defined in: [WAProto/index.d.ts:16205](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16205)
+Defined in: [WAProto/index.d.ts:16205](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16205)
 
 Properties of a LocalizedName.
 
@@ -10,7 +10,7 @@ Properties of a LocalizedName.
 
 > `optional` **lc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16211](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16211)
+Defined in: [WAProto/index.d.ts:16211](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16211)
 
 LocalizedName lc
 
@@ -20,7 +20,7 @@ LocalizedName lc
 
 > `optional` **lg**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16208](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16208)
+Defined in: [WAProto/index.d.ts:16208](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16208)
 
 LocalizedName lg
 
@@ -30,6 +30,6 @@ LocalizedName lg
 
 > `optional` **verifiedName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16214](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L16214)
+Defined in: [WAProto/index.d.ts:16214](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L16214)
 
 LocalizedName verifiedName

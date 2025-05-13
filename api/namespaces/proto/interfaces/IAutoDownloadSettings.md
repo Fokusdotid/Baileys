@@ -1,6 +1,6 @@
 # Interface: IAutoDownloadSettings
 
-Defined in: [WAProto/index.d.ts:2760](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2760)
+Defined in: [WAProto/index.d.ts:2760](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2760)
 
 Properties of an AutoDownloadSettings.
 
@@ -10,7 +10,7 @@ Properties of an AutoDownloadSettings.
 
 > `optional` **downloadAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2766](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2766)
+Defined in: [WAProto/index.d.ts:2766](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2766)
 
 AutoDownloadSettings downloadAudio
 
@@ -20,7 +20,7 @@ AutoDownloadSettings downloadAudio
 
 > `optional` **downloadDocuments**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2772](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2772)
+Defined in: [WAProto/index.d.ts:2772](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2772)
 
 AutoDownloadSettings downloadDocuments
 
@@ -30,7 +30,7 @@ AutoDownloadSettings downloadDocuments
 
 > `optional` **downloadImages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2763](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2763)
+Defined in: [WAProto/index.d.ts:2763](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2763)
 
 AutoDownloadSettings downloadImages
 
@@ -40,6 +40,6 @@ AutoDownloadSettings downloadImages
 
 > `optional` **downloadVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2769](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L2769)
+Defined in: [WAProto/index.d.ts:2769](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L2769)
 
 AutoDownloadSettings downloadVideo

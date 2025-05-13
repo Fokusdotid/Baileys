@@ -1,6 +1,6 @@
 # Interface: IStickerSyncRMRMessage
 
-Defined in: [WAProto/index.d.ts:31936](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L31936)
+Defined in: [WAProto/index.d.ts:31936](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31936)
 
 Properties of a StickerSyncRMRMessage.
 
@@ -10,7 +10,7 @@ Properties of a StickerSyncRMRMessage.
 
 > `optional` **filehash**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:31939](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L31939)
+Defined in: [WAProto/index.d.ts:31939](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31939)
 
 StickerSyncRMRMessage filehash
 
@@ -20,7 +20,7 @@ StickerSyncRMRMessage filehash
 
 > `optional` **requestTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:31945](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L31945)
+Defined in: [WAProto/index.d.ts:31945](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31945)
 
 StickerSyncRMRMessage requestTimestamp
 
@@ -30,6 +30,6 @@ StickerSyncRMRMessage requestTimestamp
 
 > `optional` **rmrSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31942](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L31942)
+Defined in: [WAProto/index.d.ts:31942](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L31942)
 
 StickerSyncRMRMessage rmrSource

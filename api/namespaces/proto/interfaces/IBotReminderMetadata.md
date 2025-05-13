@@ -1,6 +1,6 @@
 # Interface: IBotReminderMetadata
 
-Defined in: [WAProto/index.d.ts:5589](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5589)
+Defined in: [WAProto/index.d.ts:5589](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5589)
 
 Properties of a BotReminderMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotReminderMetadata.
 
 > `optional` **action**: `null` \| [`ReminderAction`](../namespaces/BotReminderMetadata/enumerations/ReminderAction.md)
 
-Defined in: [WAProto/index.d.ts:5595](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5595)
+Defined in: [WAProto/index.d.ts:5595](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5595)
 
 BotReminderMetadata action
 
@@ -20,7 +20,7 @@ BotReminderMetadata action
 
 > `optional` **frequency**: `null` \| [`ReminderFrequency`](../namespaces/BotReminderMetadata/enumerations/ReminderFrequency.md)
 
-Defined in: [WAProto/index.d.ts:5604](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5604)
+Defined in: [WAProto/index.d.ts:5604](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5604)
 
 BotReminderMetadata frequency
 
@@ -30,7 +30,7 @@ BotReminderMetadata frequency
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5598](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5598)
+Defined in: [WAProto/index.d.ts:5598](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5598)
 
 BotReminderMetadata name
 
@@ -40,7 +40,7 @@ BotReminderMetadata name
 
 > `optional` **nextTriggerTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:5601](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5601)
+Defined in: [WAProto/index.d.ts:5601](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5601)
 
 BotReminderMetadata nextTriggerTimestamp
 
@@ -50,6 +50,6 @@ BotReminderMetadata nextTriggerTimestamp
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:5592](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5592)
+Defined in: [WAProto/index.d.ts:5592](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5592)
 
 BotReminderMetadata requestMessageKey

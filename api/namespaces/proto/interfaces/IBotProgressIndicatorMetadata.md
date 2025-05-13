@@ -1,6 +1,6 @@
 # Interface: IBotProgressIndicatorMetadata
 
-Defined in: [WAProto/index.d.ts:5025](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5025)
+Defined in: [WAProto/index.d.ts:5025](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5025)
 
 Properties of a BotProgressIndicatorMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotProgressIndicatorMetadata.
 
 > `optional` **progressDescription**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5028](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5028)
+Defined in: [WAProto/index.d.ts:5028](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5028)
 
 BotProgressIndicatorMetadata progressDescription
 
@@ -20,6 +20,6 @@ BotProgressIndicatorMetadata progressDescription
 
 > `optional` **stepsMetadata**: `null` \| [`IBotPlanningStepMetadata`](../namespaces/BotProgressIndicatorMetadata/interfaces/IBotPlanningStepMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5031](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L5031)
+Defined in: [WAProto/index.d.ts:5031](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L5031)
 
 BotProgressIndicatorMetadata stepsMetadata

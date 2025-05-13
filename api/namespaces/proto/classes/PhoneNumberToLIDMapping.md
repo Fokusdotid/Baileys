@@ -1,6 +1,6 @@
 # Class: PhoneNumberToLIDMapping
 
-Defined in: [WAProto/index.d.ts:36101](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36101)
+Defined in: [WAProto/index.d.ts:36101](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36101)
 
 Represents a PhoneNumberToLIDMapping.
 
@@ -14,7 +14,7 @@ Represents a PhoneNumberToLIDMapping.
 
 > **new PhoneNumberToLIDMapping**(`properties`?): [`PhoneNumberToLIDMapping`](PhoneNumberToLIDMapping.md)
 
-Defined in: [WAProto/index.d.ts:36107](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36107)
+Defined in: [WAProto/index.d.ts:36107](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36107)
 
 Constructs a new PhoneNumberToLIDMapping.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36113](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36113)
+Defined in: [WAProto/index.d.ts:36113](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36113)
 
 PhoneNumberToLIDMapping lidJid.
 
@@ -50,7 +50,7 @@ PhoneNumberToLIDMapping lidJid.
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36110](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36110)
+Defined in: [WAProto/index.d.ts:36110](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36110)
 
 PhoneNumberToLIDMapping pnJid.
 
@@ -64,7 +64,7 @@ PhoneNumberToLIDMapping pnJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36183](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36183)
+Defined in: [WAProto/index.d.ts:36183](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36183)
 
 Converts this PhoneNumberToLIDMapping to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PhoneNumberToLIDMapping`](PhoneNumberToLIDMapping.md)
 
-Defined in: [WAProto/index.d.ts:36120](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36120)
+Defined in: [WAProto/index.d.ts:36120](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36120)
 
 Creates a new PhoneNumberToLIDMapping instance using the specified properties.
 
@@ -104,7 +104,7 @@ PhoneNumberToLIDMapping instance
 
 > `static` **decode**(`reader`, `length`?): [`PhoneNumberToLIDMapping`](PhoneNumberToLIDMapping.md)
 
-Defined in: [WAProto/index.d.ts:36146](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36146)
+Defined in: [WAProto/index.d.ts:36146](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36146)
 
 Decodes a PhoneNumberToLIDMapping message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PhoneNumberToLIDMapping`](PhoneNumberToLIDMapping.md)
 
-Defined in: [WAProto/index.d.ts:36155](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36155)
+Defined in: [WAProto/index.d.ts:36155](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36155)
 
 Decodes a PhoneNumberToLIDMapping message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36128](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36128)
+Defined in: [WAProto/index.d.ts:36128](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36128)
 
 Encodes the specified PhoneNumberToLIDMapping message. Does not implicitly [verify](PhoneNumberToLIDMapping.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36136](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36136)
+Defined in: [WAProto/index.d.ts:36136](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36136)
 
 Encodes the specified PhoneNumberToLIDMapping message, length delimited. Does not implicitly [verify](PhoneNumberToLIDMapping.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PhoneNumberToLIDMapping`](PhoneNumberToLIDMapping.md)
 
-Defined in: [WAProto/index.d.ts:36169](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36169)
+Defined in: [WAProto/index.d.ts:36169](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36169)
 
 Creates a PhoneNumberToLIDMapping message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PhoneNumberToLIDMapping
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36190](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36190)
+Defined in: [WAProto/index.d.ts:36190](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36190)
 
 Gets the default type url for PhoneNumberToLIDMapping
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36177](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36177)
+Defined in: [WAProto/index.d.ts:36177](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36177)
 
 Creates a plain object from a PhoneNumberToLIDMapping message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36162](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L36162)
+Defined in: [WAProto/index.d.ts:36162](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L36162)
 
 Verifies a PhoneNumberToLIDMapping message.
 

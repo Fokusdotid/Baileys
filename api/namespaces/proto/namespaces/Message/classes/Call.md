@@ -1,6 +1,6 @@
 # Class: Call
 
-Defined in: [WAProto/index.d.ts:19295](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19295)
+Defined in: [WAProto/index.d.ts:19295](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19295)
 
 Represents a Call.
 
@@ -14,7 +14,7 @@ Represents a Call.
 
 > **new Call**(`properties`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:19301](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19301)
+Defined in: [WAProto/index.d.ts:19301](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19301)
 
 Constructs a new Call.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19304](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19304)
+Defined in: [WAProto/index.d.ts:19304](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19304)
 
 Call callKey.
 
@@ -50,7 +50,7 @@ Call callKey.
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19310](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19310)
+Defined in: [WAProto/index.d.ts:19310](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19310)
 
 Call conversionData.
 
@@ -64,7 +64,7 @@ Call conversionData.
 
 > `optional` **conversionDelaySeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:19313](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19313)
+Defined in: [WAProto/index.d.ts:19313](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19313)
 
 Call conversionDelaySeconds.
 
@@ -78,7 +78,7 @@ Call conversionDelaySeconds.
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19307](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19307)
+Defined in: [WAProto/index.d.ts:19307](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19307)
 
 Call conversionSource.
 
@@ -92,7 +92,7 @@ Call conversionSource.
 
 > `optional` **ctwaPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19319](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19319)
+Defined in: [WAProto/index.d.ts:19319](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19319)
 
 Call ctwaPayload.
 
@@ -106,7 +106,7 @@ Call ctwaPayload.
 
 > `optional` **ctwaSignals**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19316](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19316)
+Defined in: [WAProto/index.d.ts:19316](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19316)
 
 Call ctwaSignals.
 
@@ -120,7 +120,7 @@ Call ctwaSignals.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19389](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19389)
+Defined in: [WAProto/index.d.ts:19389](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19389)
 
 Converts this Call to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:19326](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19326)
+Defined in: [WAProto/index.d.ts:19326](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19326)
 
 Creates a new Call instance using the specified properties.
 
@@ -160,7 +160,7 @@ Call instance
 
 > `static` **decode**(`reader`, `length`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:19352](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19352)
+Defined in: [WAProto/index.d.ts:19352](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19352)
 
 Decodes a Call message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:19361](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19361)
+Defined in: [WAProto/index.d.ts:19361](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19361)
 
 Decodes a Call message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19334](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19334)
+Defined in: [WAProto/index.d.ts:19334](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19334)
 
 Encodes the specified Call message. Does not implicitly [verify](Call.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19342](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19342)
+Defined in: [WAProto/index.d.ts:19342](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19342)
 
 Encodes the specified Call message, length delimited. Does not implicitly [verify](Call.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:19375](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19375)
+Defined in: [WAProto/index.d.ts:19375](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19375)
 
 Creates a Call message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ Call
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19396](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19396)
+Defined in: [WAProto/index.d.ts:19396](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19396)
 
 Gets the default type url for Call
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19383](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19383)
+Defined in: [WAProto/index.d.ts:19383](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19383)
 
 Creates a plain object from a Call message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19368](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L19368)
+Defined in: [WAProto/index.d.ts:19368](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L19368)
 
 Verifies a Call message.
 

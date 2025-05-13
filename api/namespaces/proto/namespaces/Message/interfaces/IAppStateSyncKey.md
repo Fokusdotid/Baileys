@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKey
 
-Defined in: [WAProto/index.d.ts:17559](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17559)
+Defined in: [WAProto/index.d.ts:17559](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17559)
 
 Properties of an AppStateSyncKey.
 
@@ -10,7 +10,7 @@ Properties of an AppStateSyncKey.
 
 > `optional` **keyData**: `null` \| [`IAppStateSyncKeyData`](IAppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17565](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17565)
+Defined in: [WAProto/index.d.ts:17565](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17565)
 
 AppStateSyncKey keyData
 
@@ -20,6 +20,6 @@ AppStateSyncKey keyData
 
 > `optional` **keyId**: `null` \| [`IAppStateSyncKeyId`](IAppStateSyncKeyId.md)
 
-Defined in: [WAProto/index.d.ts:17562](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L17562)
+Defined in: [WAProto/index.d.ts:17562](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L17562)
 
 AppStateSyncKey keyId

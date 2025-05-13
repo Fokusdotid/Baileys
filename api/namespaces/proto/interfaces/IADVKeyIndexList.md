@@ -1,6 +1,6 @@
 # Interface: IADVKeyIndexList
 
-Defined in: [WAProto/index.d.ts:134](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L134)
+Defined in: [WAProto/index.d.ts:134](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L134)
 
 Properties of a ADVKeyIndexList.
 
@@ -10,7 +10,7 @@ Properties of a ADVKeyIndexList.
 
 > `optional` **accountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:149](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L149)
+Defined in: [WAProto/index.d.ts:149](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L149)
 
 ADVKeyIndexList accountType
 
@@ -20,7 +20,7 @@ ADVKeyIndexList accountType
 
 > `optional` **currentIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:143](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L143)
+Defined in: [WAProto/index.d.ts:143](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L143)
 
 ADVKeyIndexList currentIndex
 
@@ -30,7 +30,7 @@ ADVKeyIndexList currentIndex
 
 > `optional` **rawId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:137](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L137)
+Defined in: [WAProto/index.d.ts:137](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L137)
 
 ADVKeyIndexList rawId
 
@@ -40,7 +40,7 @@ ADVKeyIndexList rawId
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:140](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L140)
+Defined in: [WAProto/index.d.ts:140](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L140)
 
 ADVKeyIndexList timestamp
 
@@ -50,6 +50,6 @@ ADVKeyIndexList timestamp
 
 > `optional` **validIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:146](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L146)
+Defined in: [WAProto/index.d.ts:146](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L146)
 
 ADVKeyIndexList validIndexes

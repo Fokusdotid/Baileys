@@ -1,6 +1,6 @@
 # Interface: IBotSuggestedPromptMetadata
 
-Defined in: [WAProto/index.d.ts:6047](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6047)
+Defined in: [WAProto/index.d.ts:6047](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L6047)
 
 Properties of a BotSuggestedPromptMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotSuggestedPromptMetadata.
 
 > `optional` **promptSuggestions**: `null` \| [`IBotPromptSuggestions`](IBotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6056](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6056)
+Defined in: [WAProto/index.d.ts:6056](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L6056)
 
 BotSuggestedPromptMetadata promptSuggestions
 
@@ -20,7 +20,7 @@ BotSuggestedPromptMetadata promptSuggestions
 
 > `optional` **selectedPromptId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6059](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6059)
+Defined in: [WAProto/index.d.ts:6059](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L6059)
 
 BotSuggestedPromptMetadata selectedPromptId
 
@@ -30,7 +30,7 @@ BotSuggestedPromptMetadata selectedPromptId
 
 > `optional` **selectedPromptIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6053](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6053)
+Defined in: [WAProto/index.d.ts:6053](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L6053)
 
 BotSuggestedPromptMetadata selectedPromptIndex
 
@@ -40,6 +40,6 @@ BotSuggestedPromptMetadata selectedPromptIndex
 
 > `optional` **suggestedPrompts**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:6050](https://github.com/Fokusdotid/Baileys/blob/6a8e2076fa4119b2d5152250d579a4fbed394533/WAProto/index.d.ts#L6050)
+Defined in: [WAProto/index.d.ts:6050](https://github.com/Fokusdotid/Baileys/blob/abcb8d9f2160683543784d4a7641ec0f8c55ed7e/WAProto/index.d.ts#L6050)
 
 BotSuggestedPromptMetadata suggestedPrompts
