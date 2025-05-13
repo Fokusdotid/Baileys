@@ -44,7 +44,7 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Publish in NPM (as `baileys`)
+      - name: Publish in NPM (as `wasocket`)
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
@@ -69,7 +69,7 @@ jobs:
         run: npm pack
 
       - name: Rename Pack
-        run: mv *.tgz baileys.tgz
+        run: mv *.tgz wasocket.tgz
 
       - name: Create Release
         uses: meeDamian/github-release@2.0
@@ -84,6 +84,6 @@ jobs:
           draft: false
           prerelease: false
           files: >
-            baileys.tgz
+            wasocket.tgz
           gzip: folders
           allow_override: true
