@@ -1,6 +1,6 @@
 # Interface: IPhoneNumberToLIDMapping
 
-Defined in: [WAProto/index.d.ts:36091](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L36091)
+Defined in: [WAProto/index.d.ts:36091](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36091)
 
 Properties of a PhoneNumberToLIDMapping.
 
@@ -10,7 +10,7 @@ Properties of a PhoneNumberToLIDMapping.
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36097](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L36097)
+Defined in: [WAProto/index.d.ts:36097](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36097)
 
 PhoneNumberToLIDMapping lidJid
 
@@ -20,6 +20,6 @@ PhoneNumberToLIDMapping lidJid
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36094](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L36094)
+Defined in: [WAProto/index.d.ts:36094](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L36094)
 
 PhoneNumberToLIDMapping pnJid

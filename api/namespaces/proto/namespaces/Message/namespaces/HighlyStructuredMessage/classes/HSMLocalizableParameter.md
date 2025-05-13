@@ -1,6 +1,6 @@
 # Class: HSMLocalizableParameter
 
-Defined in: [WAProto/index.d.ts:22089](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22089)
+Defined in: [WAProto/index.d.ts:22089](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22089)
 
 Represents a HSMLocalizableParameter.
 
@@ -14,7 +14,7 @@ Represents a HSMLocalizableParameter.
 
 > **new HSMLocalizableParameter**(`properties`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:22095](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22095)
+Defined in: [WAProto/index.d.ts:22095](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22095)
 
 Constructs a new HSMLocalizableParameter.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currency**: `null` \| [`IHSMCurrency`](../namespaces/HSMLocalizableParameter/interfaces/IHSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22101](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22101)
+Defined in: [WAProto/index.d.ts:22101](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22101)
 
 HSMLocalizableParameter currency.
 
@@ -50,7 +50,7 @@ HSMLocalizableParameter currency.
 
 > `optional` **dateTime**: `null` \| [`IHSMDateTime`](../namespaces/HSMLocalizableParameter/interfaces/IHSMDateTime.md)
 
-Defined in: [WAProto/index.d.ts:22104](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22104)
+Defined in: [WAProto/index.d.ts:22104](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22104)
 
 HSMLocalizableParameter dateTime.
 
@@ -64,7 +64,7 @@ HSMLocalizableParameter dateTime.
 
 > `optional` **default**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22098](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22098)
+Defined in: [WAProto/index.d.ts:22098](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22098)
 
 HSMLocalizableParameter default.
 
@@ -78,7 +78,7 @@ HSMLocalizableParameter default.
 
 > `optional` **paramOneof**: `"currency"` \| `"dateTime"`
 
-Defined in: [WAProto/index.d.ts:22107](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22107)
+Defined in: [WAProto/index.d.ts:22107](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22107)
 
 HSMLocalizableParameter paramOneof.
 
@@ -88,7 +88,7 @@ HSMLocalizableParameter paramOneof.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22177](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22177)
+Defined in: [WAProto/index.d.ts:22177](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22177)
 
 Converts this HSMLocalizableParameter to JSON.
 
@@ -104,7 +104,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:22114](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22114)
+Defined in: [WAProto/index.d.ts:22114](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22114)
 
 Creates a new HSMLocalizableParameter instance using the specified properties.
 
@@ -128,7 +128,7 @@ HSMLocalizableParameter instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:22140](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22140)
+Defined in: [WAProto/index.d.ts:22140](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22140)
 
 Decodes a HSMLocalizableParameter message from the specified reader or buffer.
 
@@ -166,7 +166,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:22149](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22149)
+Defined in: [WAProto/index.d.ts:22149](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22149)
 
 Decodes a HSMLocalizableParameter message from the specified reader or buffer, length delimited.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22122](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22122)
+Defined in: [WAProto/index.d.ts:22122](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22122)
 
 Encodes the specified HSMLocalizableParameter message. Does not implicitly [verify](HSMLocalizableParameter.md#verify) messages.
 
@@ -228,7 +228,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22130](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22130)
+Defined in: [WAProto/index.d.ts:22130](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22130)
 
 Encodes the specified HSMLocalizableParameter message, length delimited. Does not implicitly [verify](HSMLocalizableParameter.md#verify) messages.
 
@@ -258,7 +258,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:22163](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22163)
+Defined in: [WAProto/index.d.ts:22163](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22163)
 
 Creates a HSMLocalizableParameter message from a plain object. Also converts values to their respective internal types.
 
@@ -280,7 +280,7 @@ HSMLocalizableParameter
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22184](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22184)
+Defined in: [WAProto/index.d.ts:22184](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22184)
 
 Gets the default type url for HSMLocalizableParameter
 
@@ -304,7 +304,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22171](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22171)
+Defined in: [WAProto/index.d.ts:22171](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22171)
 
 Creates a plain object from a HSMLocalizableParameter message. Also converts values to other types if specified.
 
@@ -334,7 +334,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22156](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L22156)
+Defined in: [WAProto/index.d.ts:22156](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L22156)
 
 Verifies a HSMLocalizableParameter message.
 

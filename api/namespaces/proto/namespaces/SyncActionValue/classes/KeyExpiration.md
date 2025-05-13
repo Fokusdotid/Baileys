@@ -1,6 +1,6 @@
 # Class: KeyExpiration
 
-Defined in: [WAProto/index.d.ts:42762](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42762)
+Defined in: [WAProto/index.d.ts:42762](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42762)
 
 Represents a KeyExpiration.
 
@@ -14,7 +14,7 @@ Represents a KeyExpiration.
 
 > **new KeyExpiration**(`properties`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:42768](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42768)
+Defined in: [WAProto/index.d.ts:42768](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42768)
 
 Constructs a new KeyExpiration.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **expiredKeyEpoch**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42771](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42771)
+Defined in: [WAProto/index.d.ts:42771](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42771)
 
 KeyExpiration expiredKeyEpoch.
 
@@ -50,7 +50,7 @@ KeyExpiration expiredKeyEpoch.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42841](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42841)
+Defined in: [WAProto/index.d.ts:42841](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42841)
 
 Converts this KeyExpiration to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:42778](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42778)
+Defined in: [WAProto/index.d.ts:42778](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42778)
 
 Creates a new KeyExpiration instance using the specified properties.
 
@@ -90,7 +90,7 @@ KeyExpiration instance
 
 > `static` **decode**(`reader`, `length`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:42804](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42804)
+Defined in: [WAProto/index.d.ts:42804](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42804)
 
 Decodes a KeyExpiration message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:42813](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42813)
+Defined in: [WAProto/index.d.ts:42813](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42813)
 
 Decodes a KeyExpiration message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42786](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42786)
+Defined in: [WAProto/index.d.ts:42786](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42786)
 
 Encodes the specified KeyExpiration message. Does not implicitly [verify](KeyExpiration.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42794](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42794)
+Defined in: [WAProto/index.d.ts:42794](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42794)
 
 Encodes the specified KeyExpiration message, length delimited. Does not implicitly [verify](KeyExpiration.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:42827](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42827)
+Defined in: [WAProto/index.d.ts:42827](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42827)
 
 Creates a KeyExpiration message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ KeyExpiration
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42848](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42848)
+Defined in: [WAProto/index.d.ts:42848](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42848)
 
 Gets the default type url for KeyExpiration
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42835](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42835)
+Defined in: [WAProto/index.d.ts:42835](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42835)
 
 Creates a plain object from a KeyExpiration message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42820](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L42820)
+Defined in: [WAProto/index.d.ts:42820](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L42820)
 
 Verifies a KeyExpiration message.
 

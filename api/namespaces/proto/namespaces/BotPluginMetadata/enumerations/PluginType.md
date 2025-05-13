@@ -1,6 +1,6 @@
 # Enumeration: PluginType
 
-Defined in: [WAProto/index.d.ts:5009](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L5009)
+Defined in: [WAProto/index.d.ts:5009](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L5009)
 
 PluginType enum.
 
@@ -10,7 +10,7 @@ PluginType enum.
 
 > **REELS**: `1`
 
-Defined in: [WAProto/index.d.ts:5011](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L5011)
+Defined in: [WAProto/index.d.ts:5011](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L5011)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5011](https://github.com/Fokusdotid/Baileys/blob
 
 > **SEARCH**: `2`
 
-Defined in: [WAProto/index.d.ts:5012](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L5012)
+Defined in: [WAProto/index.d.ts:5012](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L5012)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:5012](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN\_PLUGIN**: `0`
 
-Defined in: [WAProto/index.d.ts:5010](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L5010)
+Defined in: [WAProto/index.d.ts:5010](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L5010)

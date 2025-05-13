@@ -1,6 +1,6 @@
 # Class: Pushname
 
-Defined in: [WAProto/index.d.ts:37576](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37576)
+Defined in: [WAProto/index.d.ts:37576](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37576)
 
 Represents a Pushname.
 
@@ -14,7 +14,7 @@ Represents a Pushname.
 
 > **new Pushname**(`properties`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:37582](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37582)
+Defined in: [WAProto/index.d.ts:37582](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37582)
 
 Constructs a new Pushname.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37585](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37585)
+Defined in: [WAProto/index.d.ts:37585](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37585)
 
 Pushname id.
 
@@ -50,7 +50,7 @@ Pushname id.
 
 > `optional` **pushname**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37588](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37588)
+Defined in: [WAProto/index.d.ts:37588](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37588)
 
 Pushname pushname.
 
@@ -64,7 +64,7 @@ Pushname pushname.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37658](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37658)
+Defined in: [WAProto/index.d.ts:37658](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37658)
 
 Converts this Pushname to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:37595](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37595)
+Defined in: [WAProto/index.d.ts:37595](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37595)
 
 Creates a new Pushname instance using the specified properties.
 
@@ -104,7 +104,7 @@ Pushname instance
 
 > `static` **decode**(`reader`, `length`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:37621](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37621)
+Defined in: [WAProto/index.d.ts:37621](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37621)
 
 Decodes a Pushname message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:37630](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37630)
+Defined in: [WAProto/index.d.ts:37630](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37630)
 
 Decodes a Pushname message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37603](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37603)
+Defined in: [WAProto/index.d.ts:37603](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37603)
 
 Encodes the specified Pushname message. Does not implicitly [verify](Pushname.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37611](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37611)
+Defined in: [WAProto/index.d.ts:37611](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37611)
 
 Encodes the specified Pushname message, length delimited. Does not implicitly [verify](Pushname.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:37644](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37644)
+Defined in: [WAProto/index.d.ts:37644](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37644)
 
 Creates a Pushname message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Pushname
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37665](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37665)
+Defined in: [WAProto/index.d.ts:37665](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37665)
 
 Gets the default type url for Pushname
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37652](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37652)
+Defined in: [WAProto/index.d.ts:37652](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37652)
 
 Creates a plain object from a Pushname message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37637](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L37637)
+Defined in: [WAProto/index.d.ts:37637](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L37637)
 
 Verifies a Pushname message.
 

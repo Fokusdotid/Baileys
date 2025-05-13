@@ -1,6 +1,6 @@
 # Interface: IInvoiceMessage
 
-Defined in: [WAProto/index.d.ts:24593](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24593)
+Defined in: [WAProto/index.d.ts:24593](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24593)
 
 Properties of an InvoiceMessage.
 
@@ -10,7 +10,7 @@ Properties of an InvoiceMessage.
 
 > `optional` **attachmentDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24620](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24620)
+Defined in: [WAProto/index.d.ts:24620](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24620)
 
 InvoiceMessage attachmentDirectPath
 
@@ -20,7 +20,7 @@ InvoiceMessage attachmentDirectPath
 
 > `optional` **attachmentFileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24617](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24617)
+Defined in: [WAProto/index.d.ts:24617](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24617)
 
 InvoiceMessage attachmentFileEncSha256
 
@@ -30,7 +30,7 @@ InvoiceMessage attachmentFileEncSha256
 
 > `optional` **attachmentFileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24614](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24614)
+Defined in: [WAProto/index.d.ts:24614](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24614)
 
 InvoiceMessage attachmentFileSha256
 
@@ -40,7 +40,7 @@ InvoiceMessage attachmentFileSha256
 
 > `optional` **attachmentJpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24623](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24623)
+Defined in: [WAProto/index.d.ts:24623](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24623)
 
 InvoiceMessage attachmentJpegThumbnail
 
@@ -50,7 +50,7 @@ InvoiceMessage attachmentJpegThumbnail
 
 > `optional` **attachmentMediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24608](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24608)
+Defined in: [WAProto/index.d.ts:24608](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24608)
 
 InvoiceMessage attachmentMediaKey
 
@@ -60,7 +60,7 @@ InvoiceMessage attachmentMediaKey
 
 > `optional` **attachmentMediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24611](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24611)
+Defined in: [WAProto/index.d.ts:24611](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24611)
 
 InvoiceMessage attachmentMediaKeyTimestamp
 
@@ -70,7 +70,7 @@ InvoiceMessage attachmentMediaKeyTimestamp
 
 > `optional` **attachmentMimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24605](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24605)
+Defined in: [WAProto/index.d.ts:24605](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24605)
 
 InvoiceMessage attachmentMimetype
 
@@ -80,7 +80,7 @@ InvoiceMessage attachmentMimetype
 
 > `optional` **attachmentType**: `null` \| [`AttachmentType`](../namespaces/InvoiceMessage/enumerations/AttachmentType.md)
 
-Defined in: [WAProto/index.d.ts:24602](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24602)
+Defined in: [WAProto/index.d.ts:24602](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24602)
 
 InvoiceMessage attachmentType
 
@@ -90,7 +90,7 @@ InvoiceMessage attachmentType
 
 > `optional` **note**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24596](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24596)
+Defined in: [WAProto/index.d.ts:24596](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24596)
 
 InvoiceMessage note
 
@@ -100,6 +100,6 @@ InvoiceMessage note
 
 > `optional` **token**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24599](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L24599)
+Defined in: [WAProto/index.d.ts:24599](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L24599)
 
 InvoiceMessage token

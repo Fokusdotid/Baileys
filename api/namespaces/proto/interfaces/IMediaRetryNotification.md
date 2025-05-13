@@ -1,6 +1,6 @@
 # Interface: IMediaRetryNotification
 
-Defined in: [WAProto/index.d.ts:16629](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L16629)
+Defined in: [WAProto/index.d.ts:16629](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L16629)
 
 Properties of a MediaRetryNotification.
 
@@ -10,7 +10,7 @@ Properties of a MediaRetryNotification.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16635](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L16635)
+Defined in: [WAProto/index.d.ts:16635](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L16635)
 
 MediaRetryNotification directPath
 
@@ -20,7 +20,7 @@ MediaRetryNotification directPath
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16641](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L16641)
+Defined in: [WAProto/index.d.ts:16641](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L16641)
 
 MediaRetryNotification messageSecret
 
@@ -30,7 +30,7 @@ MediaRetryNotification messageSecret
 
 > `optional` **result**: `null` \| [`ResultType`](../namespaces/MediaRetryNotification/enumerations/ResultType.md)
 
-Defined in: [WAProto/index.d.ts:16638](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L16638)
+Defined in: [WAProto/index.d.ts:16638](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L16638)
 
 MediaRetryNotification result
 
@@ -40,6 +40,6 @@ MediaRetryNotification result
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16632](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L16632)
+Defined in: [WAProto/index.d.ts:16632](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L16632)
 
 MediaRetryNotification stanzaId

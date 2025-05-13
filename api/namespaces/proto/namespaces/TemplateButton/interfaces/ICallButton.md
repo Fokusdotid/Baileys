@@ -1,6 +1,6 @@
 # Interface: ICallButton
 
-Defined in: [WAProto/index.d.ts:47863](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L47863)
+Defined in: [WAProto/index.d.ts:47863](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47863)
 
 Properties of a CallButton.
 
@@ -10,7 +10,7 @@ Properties of a CallButton.
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:47866](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L47866)
+Defined in: [WAProto/index.d.ts:47866](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47866)
 
 CallButton displayText
 
@@ -20,6 +20,6 @@ CallButton displayText
 
 > `optional` **phoneNumber**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:47869](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L47869)
+Defined in: [WAProto/index.d.ts:47869](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L47869)
 
 CallButton phoneNumber

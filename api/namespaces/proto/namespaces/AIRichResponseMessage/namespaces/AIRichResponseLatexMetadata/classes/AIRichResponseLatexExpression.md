@@ -1,6 +1,6 @@
 # Class: AIRichResponseLatexExpression
 
-Defined in: [WAProto/index.d.ts:1928](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1928)
+Defined in: [WAProto/index.d.ts:1928](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1928)
 
 Represents a AIRichResponseLatexExpression.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseLatexExpression.
 
 > **new AIRichResponseLatexExpression**(`properties`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1934](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1934)
+Defined in: [WAProto/index.d.ts:1934](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1934)
 
 Constructs a new AIRichResponseLatexExpression.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fontHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1949](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1949)
+Defined in: [WAProto/index.d.ts:1949](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1949)
 
 AIRichResponseLatexExpression fontHeight.
 
@@ -50,7 +50,7 @@ AIRichResponseLatexExpression fontHeight.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1946](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1946)
+Defined in: [WAProto/index.d.ts:1946](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1946)
 
 AIRichResponseLatexExpression height.
 
@@ -64,7 +64,7 @@ AIRichResponseLatexExpression height.
 
 > `optional` **latexExpression**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1937](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1937)
+Defined in: [WAProto/index.d.ts:1937](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1937)
 
 AIRichResponseLatexExpression latexExpression.
 
@@ -78,7 +78,7 @@ AIRichResponseLatexExpression latexExpression.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1940](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1940)
+Defined in: [WAProto/index.d.ts:1940](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1940)
 
 AIRichResponseLatexExpression url.
 
@@ -92,7 +92,7 @@ AIRichResponseLatexExpression url.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1943](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1943)
+Defined in: [WAProto/index.d.ts:1943](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1943)
 
 AIRichResponseLatexExpression width.
 
@@ -106,7 +106,7 @@ AIRichResponseLatexExpression width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2019](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L2019)
+Defined in: [WAProto/index.d.ts:2019](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L2019)
 
 Converts this AIRichResponseLatexExpression to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1956](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1956)
+Defined in: [WAProto/index.d.ts:1956](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1956)
 
 Creates a new AIRichResponseLatexExpression instance using the specified properties.
 
@@ -146,7 +146,7 @@ AIRichResponseLatexExpression instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1982](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1982)
+Defined in: [WAProto/index.d.ts:1982](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1982)
 
 Decodes a AIRichResponseLatexExpression message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1991](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1991)
+Defined in: [WAProto/index.d.ts:1991](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1991)
 
 Decodes a AIRichResponseLatexExpression message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1964](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1964)
+Defined in: [WAProto/index.d.ts:1964](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1964)
 
 Encodes the specified AIRichResponseLatexExpression message. Does not implicitly [verify](AIRichResponseLatexExpression.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1972](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1972)
+Defined in: [WAProto/index.d.ts:1972](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1972)
 
 Encodes the specified AIRichResponseLatexExpression message, length delimited. Does not implicitly [verify](AIRichResponseLatexExpression.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:2005](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L2005)
+Defined in: [WAProto/index.d.ts:2005](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L2005)
 
 Creates a AIRichResponseLatexExpression message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ AIRichResponseLatexExpression
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2026](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L2026)
+Defined in: [WAProto/index.d.ts:2026](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L2026)
 
 Gets the default type url for AIRichResponseLatexExpression
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2013](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L2013)
+Defined in: [WAProto/index.d.ts:2013](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L2013)
 
 Creates a plain object from a AIRichResponseLatexExpression message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1998](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1998)
+Defined in: [WAProto/index.d.ts:1998](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1998)
 
 Verifies a AIRichResponseLatexExpression message.
 

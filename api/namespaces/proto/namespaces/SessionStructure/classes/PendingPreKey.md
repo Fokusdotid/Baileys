@@ -1,6 +1,6 @@
 # Class: PendingPreKey
 
-Defined in: [WAProto/index.d.ts:39706](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39706)
+Defined in: [WAProto/index.d.ts:39706](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39706)
 
 Represents a PendingPreKey.
 
@@ -14,7 +14,7 @@ Represents a PendingPreKey.
 
 > **new PendingPreKey**(`properties`?): [`PendingPreKey`](PendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39712](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39712)
+Defined in: [WAProto/index.d.ts:39712](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39712)
 
 Constructs a new PendingPreKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39721](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39721)
+Defined in: [WAProto/index.d.ts:39721](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39721)
 
 PendingPreKey baseKey.
 
@@ -50,7 +50,7 @@ PendingPreKey baseKey.
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39715](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39715)
+Defined in: [WAProto/index.d.ts:39715](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39715)
 
 PendingPreKey preKeyId.
 
@@ -64,7 +64,7 @@ PendingPreKey preKeyId.
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39718](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39718)
+Defined in: [WAProto/index.d.ts:39718](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39718)
 
 PendingPreKey signedPreKeyId.
 
@@ -78,7 +78,7 @@ PendingPreKey signedPreKeyId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39791](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39791)
+Defined in: [WAProto/index.d.ts:39791](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39791)
 
 Converts this PendingPreKey to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PendingPreKey`](PendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39728](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39728)
+Defined in: [WAProto/index.d.ts:39728](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39728)
 
 Creates a new PendingPreKey instance using the specified properties.
 
@@ -118,7 +118,7 @@ PendingPreKey instance
 
 > `static` **decode**(`reader`, `length`?): [`PendingPreKey`](PendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39754](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39754)
+Defined in: [WAProto/index.d.ts:39754](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39754)
 
 Decodes a PendingPreKey message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PendingPreKey`](PendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39763](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39763)
+Defined in: [WAProto/index.d.ts:39763](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39763)
 
 Decodes a PendingPreKey message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39736](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39736)
+Defined in: [WAProto/index.d.ts:39736](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39736)
 
 Encodes the specified PendingPreKey message. Does not implicitly [verify](PendingPreKey.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39744](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39744)
+Defined in: [WAProto/index.d.ts:39744](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39744)
 
 Encodes the specified PendingPreKey message, length delimited. Does not implicitly [verify](PendingPreKey.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PendingPreKey`](PendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39777](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39777)
+Defined in: [WAProto/index.d.ts:39777](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39777)
 
 Creates a PendingPreKey message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PendingPreKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39798](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39798)
+Defined in: [WAProto/index.d.ts:39798](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39798)
 
 Gets the default type url for PendingPreKey
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39785](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39785)
+Defined in: [WAProto/index.d.ts:39785](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39785)
 
 Creates a plain object from a PendingPreKey message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39770](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L39770)
+Defined in: [WAProto/index.d.ts:39770](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L39770)
 
 Verifies a PendingPreKey message.
 

@@ -1,6 +1,6 @@
 # Enumeration: GroupType
 
-Defined in: [WAProto/index.d.ts:21922](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L21922)
+Defined in: [WAProto/index.d.ts:21922](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21922)
 
 GroupType enum.
 
@@ -10,7 +10,7 @@ GroupType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:21923](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L21923)
+Defined in: [WAProto/index.d.ts:21923](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21923)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:21923](https://github.com/Fokusdotid/Baileys/blo
 
 > **PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:21924](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L21924)
+Defined in: [WAProto/index.d.ts:21924](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L21924)

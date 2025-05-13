@@ -1,6 +1,6 @@
 # Interface: IWallpaperSettings
 
-Defined in: [WAProto/index.d.ts:49091](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L49091)
+Defined in: [WAProto/index.d.ts:49091](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L49091)
 
 Properties of a WallpaperSettings.
 
@@ -10,7 +10,7 @@ Properties of a WallpaperSettings.
 
 > `optional` **filename**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49094](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L49094)
+Defined in: [WAProto/index.d.ts:49094](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L49094)
 
 WallpaperSettings filename
 
@@ -20,6 +20,6 @@ WallpaperSettings filename
 
 > `optional` **opacity**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:49097](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L49097)
+Defined in: [WAProto/index.d.ts:49097](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L49097)
 
 WallpaperSettings opacity

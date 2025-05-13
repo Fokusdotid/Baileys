@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseDynamicMetadata
 
-Defined in: [WAProto/index.d.ts:1342](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1342)
+Defined in: [WAProto/index.d.ts:1342](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1342)
 
 Properties of a AIRichResponseDynamicMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseDynamicMetadata.
 
 > `optional` **loopCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1354](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1354)
+Defined in: [WAProto/index.d.ts:1354](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1354)
 
 AIRichResponseDynamicMetadata loopCount
 
@@ -20,7 +20,7 @@ AIRichResponseDynamicMetadata loopCount
 
 > `optional` **type**: `null` \| [`AIRichResponseDynamicMetadataType`](../namespaces/AIRichResponseDynamicMetadata/enumerations/AIRichResponseDynamicMetadataType.md)
 
-Defined in: [WAProto/index.d.ts:1345](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1345)
+Defined in: [WAProto/index.d.ts:1345](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1345)
 
 AIRichResponseDynamicMetadata type
 
@@ -30,7 +30,7 @@ AIRichResponseDynamicMetadata type
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1351](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1351)
+Defined in: [WAProto/index.d.ts:1351](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1351)
 
 AIRichResponseDynamicMetadata url
 
@@ -40,6 +40,6 @@ AIRichResponseDynamicMetadata url
 
 > `optional` **version**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:1348](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L1348)
+Defined in: [WAProto/index.d.ts:1348](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L1348)
 
 AIRichResponseDynamicMetadata version

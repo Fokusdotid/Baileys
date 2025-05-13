@@ -1,6 +1,6 @@
 # Class: ArchiveChatAction
 
-Defined in: [WAProto/index.d.ts:41150](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41150)
+Defined in: [WAProto/index.d.ts:41150](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41150)
 
 Represents an ArchiveChatAction.
 
@@ -14,7 +14,7 @@ Represents an ArchiveChatAction.
 
 > **new ArchiveChatAction**(`properties`?): [`ArchiveChatAction`](ArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41156](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41156)
+Defined in: [WAProto/index.d.ts:41156](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41156)
 
 Constructs a new ArchiveChatAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **archived**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41159](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41159)
+Defined in: [WAProto/index.d.ts:41159](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41159)
 
 ArchiveChatAction archived.
 
@@ -50,7 +50,7 @@ ArchiveChatAction archived.
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](../interfaces/ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:41162](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41162)
+Defined in: [WAProto/index.d.ts:41162](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41162)
 
 ArchiveChatAction messageRange.
 
@@ -64,7 +64,7 @@ ArchiveChatAction messageRange.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41232](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41232)
+Defined in: [WAProto/index.d.ts:41232](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41232)
 
 Converts this ArchiveChatAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ArchiveChatAction`](ArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41169](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41169)
+Defined in: [WAProto/index.d.ts:41169](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41169)
 
 Creates a new ArchiveChatAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ ArchiveChatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ArchiveChatAction`](ArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41195](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41195)
+Defined in: [WAProto/index.d.ts:41195](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41195)
 
 Decodes an ArchiveChatAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ArchiveChatAction`](ArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41204](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41204)
+Defined in: [WAProto/index.d.ts:41204](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41204)
 
 Decodes an ArchiveChatAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41177](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41177)
+Defined in: [WAProto/index.d.ts:41177](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41177)
 
 Encodes the specified ArchiveChatAction message. Does not implicitly [verify](ArchiveChatAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41185](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41185)
+Defined in: [WAProto/index.d.ts:41185](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41185)
 
 Encodes the specified ArchiveChatAction message, length delimited. Does not implicitly [verify](ArchiveChatAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ArchiveChatAction`](ArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:41218](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41218)
+Defined in: [WAProto/index.d.ts:41218](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41218)
 
 Creates an ArchiveChatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ArchiveChatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41239](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41239)
+Defined in: [WAProto/index.d.ts:41239](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41239)
 
 Gets the default type url for ArchiveChatAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41226](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41226)
+Defined in: [WAProto/index.d.ts:41226](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41226)
 
 Creates a plain object from an ArchiveChatAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41211](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41211)
+Defined in: [WAProto/index.d.ts:41211](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41211)
 
 Verifies an ArchiveChatAction message.
 

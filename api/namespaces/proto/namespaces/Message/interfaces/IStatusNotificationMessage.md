@@ -1,6 +1,6 @@
 # Interface: IStatusNotificationMessage
 
-Defined in: [WAProto/index.d.ts:31246](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31246)
+Defined in: [WAProto/index.d.ts:31246](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31246)
 
 Properties of a StatusNotificationMessage.
 
@@ -10,7 +10,7 @@ Properties of a StatusNotificationMessage.
 
 > `optional` **originalMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31252](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31252)
+Defined in: [WAProto/index.d.ts:31252](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31252)
 
 StatusNotificationMessage originalMessageKey
 
@@ -20,7 +20,7 @@ StatusNotificationMessage originalMessageKey
 
 > `optional` **responseMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31249](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31249)
+Defined in: [WAProto/index.d.ts:31249](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31249)
 
 StatusNotificationMessage responseMessageKey
 
@@ -30,6 +30,6 @@ StatusNotificationMessage responseMessageKey
 
 > `optional` **type**: `null` \| [`StatusNotificationType`](../namespaces/StatusNotificationMessage/enumerations/StatusNotificationType.md)
 
-Defined in: [WAProto/index.d.ts:31255](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L31255)
+Defined in: [WAProto/index.d.ts:31255](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L31255)
 
 StatusNotificationMessage type

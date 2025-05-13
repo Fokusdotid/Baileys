@@ -2,7 +2,7 @@
 
 > **CatalogResult**: `object`
 
-Defined in: [src/Types/Product.ts:3](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/Types/Product.ts#L3)
+Defined in: [src/Types/Product.ts:3](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Types/Product.ts#L3)
 
 ## Type declaration
 

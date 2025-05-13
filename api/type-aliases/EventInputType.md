@@ -2,4 +2,4 @@
 
 > **EventInputType**: `{ [key in Event["name"]]: { globals: (x: string) => Value; props: { [k in keyof EventByName<key>["props"]]: Value } } }` & `object`
 
-Defined in: [src/WAM/constants.ts:15374](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/WAM/constants.ts#L15374)
+Defined in: [src/WAM/constants.ts:15374](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/WAM/constants.ts#L15374)

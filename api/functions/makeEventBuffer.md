@@ -2,7 +2,7 @@
 
 > **makeEventBuffer**(`logger`): `BaileysBufferableEventEmitter`
 
-Defined in: [src/Utils/event-buffer.ts:62](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/Utils/event-buffer.ts#L62)
+Defined in: [src/Utils/event-buffer.ts:62](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/event-buffer.ts#L62)
 
 The event buffer logically consolidates different events into a single event
 making the data processing more efficient.

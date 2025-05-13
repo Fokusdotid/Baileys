@@ -2,4 +2,4 @@
 
 > `const` **LT\_HASH\_ANTI\_TAMPERING**: `d`
 
-Defined in: [src/Utils/lt-hash.ts:61](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/Utils/lt-hash.ts#L61)
+Defined in: [src/Utils/lt-hash.ts:61](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/lt-hash.ts#L61)

@@ -1,6 +1,6 @@
 # Class: ChatAssignmentOpenedStatusAction
 
-Defined in: [WAProto/index.d.ts:41541](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41541)
+Defined in: [WAProto/index.d.ts:41541](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41541)
 
 Represents a ChatAssignmentOpenedStatusAction.
 
@@ -14,7 +14,7 @@ Represents a ChatAssignmentOpenedStatusAction.
 
 > **new ChatAssignmentOpenedStatusAction**(`properties`?): [`ChatAssignmentOpenedStatusAction`](ChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:41547](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41547)
+Defined in: [WAProto/index.d.ts:41547](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41547)
 
 Constructs a new ChatAssignmentOpenedStatusAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatOpened**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41550](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41550)
+Defined in: [WAProto/index.d.ts:41550](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41550)
 
 ChatAssignmentOpenedStatusAction chatOpened.
 
@@ -50,7 +50,7 @@ ChatAssignmentOpenedStatusAction chatOpened.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41620](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41620)
+Defined in: [WAProto/index.d.ts:41620](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41620)
 
 Converts this ChatAssignmentOpenedStatusAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChatAssignmentOpenedStatusAction`](ChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:41557](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41557)
+Defined in: [WAProto/index.d.ts:41557](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41557)
 
 Creates a new ChatAssignmentOpenedStatusAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ ChatAssignmentOpenedStatusAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ChatAssignmentOpenedStatusAction`](ChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:41583](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41583)
+Defined in: [WAProto/index.d.ts:41583](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41583)
 
 Decodes a ChatAssignmentOpenedStatusAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChatAssignmentOpenedStatusAction`](ChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:41592](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41592)
+Defined in: [WAProto/index.d.ts:41592](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41592)
 
 Decodes a ChatAssignmentOpenedStatusAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41565](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41565)
+Defined in: [WAProto/index.d.ts:41565](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41565)
 
 Encodes the specified ChatAssignmentOpenedStatusAction message. Does not implicitly [verify](ChatAssignmentOpenedStatusAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41573](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41573)
+Defined in: [WAProto/index.d.ts:41573](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41573)
 
 Encodes the specified ChatAssignmentOpenedStatusAction message, length delimited. Does not implicitly [verify](ChatAssignmentOpenedStatusAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChatAssignmentOpenedStatusAction`](ChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:41606](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41606)
+Defined in: [WAProto/index.d.ts:41606](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41606)
 
 Creates a ChatAssignmentOpenedStatusAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ChatAssignmentOpenedStatusAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41627](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41627)
+Defined in: [WAProto/index.d.ts:41627](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41627)
 
 Gets the default type url for ChatAssignmentOpenedStatusAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41614](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41614)
+Defined in: [WAProto/index.d.ts:41614](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41614)
 
 Creates a plain object from a ChatAssignmentOpenedStatusAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41599](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/WAProto/index.d.ts#L41599)
+Defined in: [WAProto/index.d.ts:41599](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/WAProto/index.d.ts#L41599)
 
 Verifies a ChatAssignmentOpenedStatusAction message.
 

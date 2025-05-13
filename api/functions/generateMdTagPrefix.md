@@ -2,7 +2,7 @@
 
 > **generateMdTagPrefix**(): `string`
 
-Defined in: [src/Utils/generics.ts:314](https://github.com/Fokusdotid/Baileys/blob/db1d3e5f41e9eede5877460f9adbb0224021575c/src/Utils/generics.ts#L314)
+Defined in: [src/Utils/generics.ts:314](https://github.com/Fokusdotid/Baileys/blob/039f28db78950e3bac7c407f144ea390dcdf207d/src/Utils/generics.ts#L314)
 
 unique message tag prefix for MD clients
 
