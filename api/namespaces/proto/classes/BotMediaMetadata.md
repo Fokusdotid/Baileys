@@ -1,6 +1,6 @@
 # Class: BotMediaMetadata
 
-Defined in: [WAProto/index.d.ts:3974](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3974)
+Defined in: [WAProto/index.d.ts:3974](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3974)
 
 Represents a BotMediaMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMediaMetadata.
 
 > **new BotMediaMetadata**(`properties`?): [`BotMediaMetadata`](BotMediaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3980](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3980)
+Defined in: [WAProto/index.d.ts:3980](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3980)
 
 Constructs a new BotMediaMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3992](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3992)
+Defined in: [WAProto/index.d.ts:3992](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3992)
 
 BotMediaMetadata directPath.
 
@@ -50,7 +50,7 @@ BotMediaMetadata directPath.
 
 > `optional` **fileEncSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3989](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3989)
+Defined in: [WAProto/index.d.ts:3989](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3989)
 
 BotMediaMetadata fileEncSha256.
 
@@ -64,7 +64,7 @@ BotMediaMetadata fileEncSha256.
 
 > `optional` **fileSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3983](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3983)
+Defined in: [WAProto/index.d.ts:3983](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3983)
 
 BotMediaMetadata fileSha256.
 
@@ -78,7 +78,7 @@ BotMediaMetadata fileSha256.
 
 > `optional` **mediaKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3986](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3986)
+Defined in: [WAProto/index.d.ts:3986](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3986)
 
 BotMediaMetadata mediaKey.
 
@@ -92,7 +92,7 @@ BotMediaMetadata mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3995](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3995)
+Defined in: [WAProto/index.d.ts:3995](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3995)
 
 BotMediaMetadata mediaKeyTimestamp.
 
@@ -106,7 +106,7 @@ BotMediaMetadata mediaKeyTimestamp.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3998](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3998)
+Defined in: [WAProto/index.d.ts:3998](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3998)
 
 BotMediaMetadata mimetype.
 
@@ -120,7 +120,7 @@ BotMediaMetadata mimetype.
 
 > `optional` **orientationType**: `null` \| [`OrientationType`](../namespaces/BotMediaMetadata/enumerations/OrientationType.md)
 
-Defined in: [WAProto/index.d.ts:4001](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4001)
+Defined in: [WAProto/index.d.ts:4001](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4001)
 
 BotMediaMetadata orientationType.
 
@@ -134,7 +134,7 @@ BotMediaMetadata orientationType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4071](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4071)
+Defined in: [WAProto/index.d.ts:4071](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4071)
 
 Converts this BotMediaMetadata to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMediaMetadata`](BotMediaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4008](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4008)
+Defined in: [WAProto/index.d.ts:4008](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4008)
 
 Creates a new BotMediaMetadata instance using the specified properties.
 
@@ -174,7 +174,7 @@ BotMediaMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMediaMetadata`](BotMediaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4034](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4034)
+Defined in: [WAProto/index.d.ts:4034](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4034)
 
 Decodes a BotMediaMetadata message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMediaMetadata`](BotMediaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4043](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4043)
+Defined in: [WAProto/index.d.ts:4043](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4043)
 
 Decodes a BotMediaMetadata message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4016](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4016)
+Defined in: [WAProto/index.d.ts:4016](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4016)
 
 Encodes the specified BotMediaMetadata message. Does not implicitly [verify](BotMediaMetadata.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4024](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4024)
+Defined in: [WAProto/index.d.ts:4024](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4024)
 
 Encodes the specified BotMediaMetadata message, length delimited. Does not implicitly [verify](BotMediaMetadata.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMediaMetadata`](BotMediaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4057](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4057)
+Defined in: [WAProto/index.d.ts:4057](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4057)
 
 Creates a BotMediaMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ BotMediaMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4078](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4078)
+Defined in: [WAProto/index.d.ts:4078](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4078)
 
 Gets the default type url for BotMediaMetadata
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4065](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4065)
+Defined in: [WAProto/index.d.ts:4065](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4065)
 
 Creates a plain object from a BotMediaMetadata message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4050](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4050)
+Defined in: [WAProto/index.d.ts:4050](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4050)
 
 Verifies a BotMediaMetadata message.
 

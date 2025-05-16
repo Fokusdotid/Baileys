@@ -1,6 +1,6 @@
 # Class: ProductSnapshot
 
-Defined in: [WAProto/index.d.ts:29857](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29857)
+Defined in: [WAProto/index.d.ts:29857](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29857)
 
 Represents a ProductSnapshot.
 
@@ -14,7 +14,7 @@ Represents a ProductSnapshot.
 
 > **new ProductSnapshot**(`properties`?): [`ProductSnapshot`](ProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29863](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29863)
+Defined in: [WAProto/index.d.ts:29863](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29863)
 
 Constructs a new ProductSnapshot.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29878](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29878)
+Defined in: [WAProto/index.d.ts:29878](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29878)
 
 ProductSnapshot currencyCode.
 
@@ -50,7 +50,7 @@ ProductSnapshot currencyCode.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29875](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29875)
+Defined in: [WAProto/index.d.ts:29875](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29875)
 
 ProductSnapshot description.
 
@@ -64,7 +64,7 @@ ProductSnapshot description.
 
 > `optional` **firstImageId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29893](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29893)
+Defined in: [WAProto/index.d.ts:29893](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29893)
 
 ProductSnapshot firstImageId.
 
@@ -78,7 +78,7 @@ ProductSnapshot firstImageId.
 
 > `optional` **priceAmount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29881](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29881)
+Defined in: [WAProto/index.d.ts:29881](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29881)
 
 ProductSnapshot priceAmount1000.
 
@@ -92,7 +92,7 @@ ProductSnapshot priceAmount1000.
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29869](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29869)
+Defined in: [WAProto/index.d.ts:29869](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29869)
 
 ProductSnapshot productId.
 
@@ -106,7 +106,7 @@ ProductSnapshot productId.
 
 > `optional` **productImage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:29866](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29866)
+Defined in: [WAProto/index.d.ts:29866](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29866)
 
 ProductSnapshot productImage.
 
@@ -120,7 +120,7 @@ ProductSnapshot productImage.
 
 > `optional` **productImageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:29890](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29890)
+Defined in: [WAProto/index.d.ts:29890](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29890)
 
 ProductSnapshot productImageCount.
 
@@ -134,7 +134,7 @@ ProductSnapshot productImageCount.
 
 > `optional` **retailerId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29884](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29884)
+Defined in: [WAProto/index.d.ts:29884](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29884)
 
 ProductSnapshot retailerId.
 
@@ -148,7 +148,7 @@ ProductSnapshot retailerId.
 
 > `optional` **salePriceAmount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29896](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29896)
+Defined in: [WAProto/index.d.ts:29896](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29896)
 
 ProductSnapshot salePriceAmount1000.
 
@@ -162,7 +162,7 @@ ProductSnapshot salePriceAmount1000.
 
 > `optional` **signedUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29899](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29899)
+Defined in: [WAProto/index.d.ts:29899](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29899)
 
 ProductSnapshot signedUrl.
 
@@ -176,7 +176,7 @@ ProductSnapshot signedUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29872](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29872)
+Defined in: [WAProto/index.d.ts:29872](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29872)
 
 ProductSnapshot title.
 
@@ -190,7 +190,7 @@ ProductSnapshot title.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29887](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29887)
+Defined in: [WAProto/index.d.ts:29887](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29887)
 
 ProductSnapshot url.
 
@@ -204,7 +204,7 @@ ProductSnapshot url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29969](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29969)
+Defined in: [WAProto/index.d.ts:29969](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29969)
 
 Converts this ProductSnapshot to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductSnapshot`](ProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29906](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29906)
+Defined in: [WAProto/index.d.ts:29906](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29906)
 
 Creates a new ProductSnapshot instance using the specified properties.
 
@@ -244,7 +244,7 @@ ProductSnapshot instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductSnapshot`](ProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29932](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29932)
+Defined in: [WAProto/index.d.ts:29932](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29932)
 
 Decodes a ProductSnapshot message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductSnapshot`](ProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29941](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29941)
+Defined in: [WAProto/index.d.ts:29941](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29941)
 
 Decodes a ProductSnapshot message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29914](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29914)
+Defined in: [WAProto/index.d.ts:29914](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29914)
 
 Encodes the specified ProductSnapshot message. Does not implicitly [verify](ProductSnapshot.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29922](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29922)
+Defined in: [WAProto/index.d.ts:29922](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29922)
 
 Encodes the specified ProductSnapshot message, length delimited. Does not implicitly [verify](ProductSnapshot.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductSnapshot`](ProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29955](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29955)
+Defined in: [WAProto/index.d.ts:29955](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29955)
 
 Creates a ProductSnapshot message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ ProductSnapshot
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29976](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29976)
+Defined in: [WAProto/index.d.ts:29976](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29976)
 
 Gets the default type url for ProductSnapshot
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29963](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29963)
+Defined in: [WAProto/index.d.ts:29963](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29963)
 
 Creates a plain object from a ProductSnapshot message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29948](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L29948)
+Defined in: [WAProto/index.d.ts:29948](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29948)
 
 Verifies a ProductSnapshot message.
 

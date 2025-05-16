@@ -1,6 +1,6 @@
 # Enumeration: ActualActorsType
 
-Defined in: [WAProto/index.d.ts:3357](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3357)
+Defined in: [WAProto/index.d.ts:3357](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3357)
 
 ActualActorsType enum.
 
@@ -10,7 +10,7 @@ ActualActorsType enum.
 
 > **BSP**: `1`
 
-Defined in: [WAProto/index.d.ts:3359](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3359)
+Defined in: [WAProto/index.d.ts:3359](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3359)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:3359](https://github.com/Fokusdotid/Baileys/blob
 
 > **SELF**: `0`
 
-Defined in: [WAProto/index.d.ts:3358](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3358)
+Defined in: [WAProto/index.d.ts:3358](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L3358)

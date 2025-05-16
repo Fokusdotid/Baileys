@@ -1,6 +1,6 @@
 # Class: MerchantPaymentPartnerAction
 
-Defined in: [WAProto/index.d.ts:43743](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43743)
+Defined in: [WAProto/index.d.ts:43743](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43743)
 
 Represents a MerchantPaymentPartnerAction.
 
@@ -14,7 +14,7 @@ Represents a MerchantPaymentPartnerAction.
 
 > **new MerchantPaymentPartnerAction**(`properties`?): [`MerchantPaymentPartnerAction`](MerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43749](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43749)
+Defined in: [WAProto/index.d.ts:43749](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43749)
 
 Constructs a new MerchantPaymentPartnerAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **country**: `string`
 
-Defined in: [WAProto/index.d.ts:43755](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43755)
+Defined in: [WAProto/index.d.ts:43755](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43755)
 
 MerchantPaymentPartnerAction country.
 
@@ -50,7 +50,7 @@ MerchantPaymentPartnerAction country.
 
 > `optional` **credentialId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43761](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43761)
+Defined in: [WAProto/index.d.ts:43761](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43761)
 
 MerchantPaymentPartnerAction credentialId.
 
@@ -64,7 +64,7 @@ MerchantPaymentPartnerAction credentialId.
 
 > `optional` **gatewayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43758](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43758)
+Defined in: [WAProto/index.d.ts:43758](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43758)
 
 MerchantPaymentPartnerAction gatewayName.
 
@@ -78,7 +78,7 @@ MerchantPaymentPartnerAction gatewayName.
 
 > **status**: [`Status`](../namespaces/MerchantPaymentPartnerAction/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:43752](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43752)
+Defined in: [WAProto/index.d.ts:43752](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43752)
 
 MerchantPaymentPartnerAction status.
 
@@ -92,7 +92,7 @@ MerchantPaymentPartnerAction status.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43831](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43831)
+Defined in: [WAProto/index.d.ts:43831](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43831)
 
 Converts this MerchantPaymentPartnerAction to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MerchantPaymentPartnerAction`](MerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43768](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43768)
+Defined in: [WAProto/index.d.ts:43768](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43768)
 
 Creates a new MerchantPaymentPartnerAction instance using the specified properties.
 
@@ -132,7 +132,7 @@ MerchantPaymentPartnerAction instance
 
 > `static` **decode**(`reader`, `length`?): [`MerchantPaymentPartnerAction`](MerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43794](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43794)
+Defined in: [WAProto/index.d.ts:43794](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43794)
 
 Decodes a MerchantPaymentPartnerAction message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MerchantPaymentPartnerAction`](MerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43803](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43803)
+Defined in: [WAProto/index.d.ts:43803](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43803)
 
 Decodes a MerchantPaymentPartnerAction message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43776](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43776)
+Defined in: [WAProto/index.d.ts:43776](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43776)
 
 Encodes the specified MerchantPaymentPartnerAction message. Does not implicitly [verify](MerchantPaymentPartnerAction.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43784](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43784)
+Defined in: [WAProto/index.d.ts:43784](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43784)
 
 Encodes the specified MerchantPaymentPartnerAction message, length delimited. Does not implicitly [verify](MerchantPaymentPartnerAction.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MerchantPaymentPartnerAction`](MerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43817](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43817)
+Defined in: [WAProto/index.d.ts:43817](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43817)
 
 Creates a MerchantPaymentPartnerAction message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ MerchantPaymentPartnerAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43838](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43838)
+Defined in: [WAProto/index.d.ts:43838](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43838)
 
 Gets the default type url for MerchantPaymentPartnerAction
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43825](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43825)
+Defined in: [WAProto/index.d.ts:43825](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43825)
 
 Creates a plain object from a MerchantPaymentPartnerAction message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43810](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L43810)
+Defined in: [WAProto/index.d.ts:43810](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L43810)
 
 Verifies a MerchantPaymentPartnerAction message.
 

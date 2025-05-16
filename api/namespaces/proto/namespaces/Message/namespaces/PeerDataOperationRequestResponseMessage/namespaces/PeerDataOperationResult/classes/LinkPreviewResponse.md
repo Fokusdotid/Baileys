@@ -1,6 +1,6 @@
 # Class: LinkPreviewResponse
 
-Defined in: [WAProto/index.d.ts:28018](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28018)
+Defined in: [WAProto/index.d.ts:28018](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28018)
 
 Represents a LinkPreviewResponse.
 
@@ -14,7 +14,7 @@ Represents a LinkPreviewResponse.
 
 > **new LinkPreviewResponse**(`properties`?): [`LinkPreviewResponse`](LinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:28024](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28024)
+Defined in: [WAProto/index.d.ts:28024](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28024)
 
 Constructs a new LinkPreviewResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28033](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28033)
+Defined in: [WAProto/index.d.ts:28033](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28033)
 
 LinkPreviewResponse description.
 
@@ -50,7 +50,7 @@ LinkPreviewResponse description.
 
 > `optional` **hqThumbnail**: `null` \| [`ILinkPreviewHighQualityThumbnail`](../namespaces/LinkPreviewResponse/interfaces/ILinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28045](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28045)
+Defined in: [WAProto/index.d.ts:28045](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28045)
 
 LinkPreviewResponse hqThumbnail.
 
@@ -64,7 +64,7 @@ LinkPreviewResponse hqThumbnail.
 
 > `optional` **matchText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28039](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28039)
+Defined in: [WAProto/index.d.ts:28039](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28039)
 
 LinkPreviewResponse matchText.
 
@@ -78,7 +78,7 @@ LinkPreviewResponse matchText.
 
 > `optional` **previewType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28042](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28042)
+Defined in: [WAProto/index.d.ts:28042](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28042)
 
 LinkPreviewResponse previewType.
 
@@ -92,7 +92,7 @@ LinkPreviewResponse previewType.
 
 > `optional` **thumbData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28036](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28036)
+Defined in: [WAProto/index.d.ts:28036](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28036)
 
 LinkPreviewResponse thumbData.
 
@@ -106,7 +106,7 @@ LinkPreviewResponse thumbData.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28030](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28030)
+Defined in: [WAProto/index.d.ts:28030](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28030)
 
 LinkPreviewResponse title.
 
@@ -120,7 +120,7 @@ LinkPreviewResponse title.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28027](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28027)
+Defined in: [WAProto/index.d.ts:28027](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28027)
 
 LinkPreviewResponse url.
 
@@ -134,7 +134,7 @@ LinkPreviewResponse url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28115](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28115)
+Defined in: [WAProto/index.d.ts:28115](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28115)
 
 Converts this LinkPreviewResponse to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LinkPreviewResponse`](LinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:28052](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28052)
+Defined in: [WAProto/index.d.ts:28052](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28052)
 
 Creates a new LinkPreviewResponse instance using the specified properties.
 
@@ -174,7 +174,7 @@ LinkPreviewResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`LinkPreviewResponse`](LinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:28078](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28078)
+Defined in: [WAProto/index.d.ts:28078](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28078)
 
 Decodes a LinkPreviewResponse message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LinkPreviewResponse`](LinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:28087](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28087)
+Defined in: [WAProto/index.d.ts:28087](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28087)
 
 Decodes a LinkPreviewResponse message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28060](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28060)
+Defined in: [WAProto/index.d.ts:28060](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28060)
 
 Encodes the specified LinkPreviewResponse message. Does not implicitly [verify](LinkPreviewResponse.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28068](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28068)
+Defined in: [WAProto/index.d.ts:28068](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28068)
 
 Encodes the specified LinkPreviewResponse message, length delimited. Does not implicitly [verify](LinkPreviewResponse.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LinkPreviewResponse`](LinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:28101](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28101)
+Defined in: [WAProto/index.d.ts:28101](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28101)
 
 Creates a LinkPreviewResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ LinkPreviewResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28122](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28122)
+Defined in: [WAProto/index.d.ts:28122](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28122)
 
 Gets the default type url for LinkPreviewResponse
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28109](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28109)
+Defined in: [WAProto/index.d.ts:28109](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28109)
 
 Creates a plain object from a LinkPreviewResponse message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28094](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28094)
+Defined in: [WAProto/index.d.ts:28094](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L28094)
 
 Verifies a LinkPreviewResponse message.
 

@@ -1,6 +1,6 @@
 # Enumeration: NotificationActivitySetting
 
-Defined in: [WAProto/index.d.ts:44189](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44189)
+Defined in: [WAProto/index.d.ts:44189](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L44189)
 
 NotificationActivitySetting enum.
 
@@ -10,7 +10,7 @@ NotificationActivitySetting enum.
 
 > **ALL\_MESSAGES**: `1`
 
-Defined in: [WAProto/index.d.ts:44191](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44191)
+Defined in: [WAProto/index.d.ts:44191](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L44191)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:44191](https://github.com/Fokusdotid/Baileys/blo
 
 > **DEFAULT\_ALL\_MESSAGES**: `0`
 
-Defined in: [WAProto/index.d.ts:44190](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44190)
+Defined in: [WAProto/index.d.ts:44190](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L44190)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:44190](https://github.com/Fokusdotid/Baileys/blo
 
 > **DEFAULT\_HIGHLIGHTS**: `3`
 
-Defined in: [WAProto/index.d.ts:44193](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44193)
+Defined in: [WAProto/index.d.ts:44193](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L44193)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:44193](https://github.com/Fokusdotid/Baileys/blo
 
 > **HIGHLIGHTS**: `2`
 
-Defined in: [WAProto/index.d.ts:44192](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44192)
+Defined in: [WAProto/index.d.ts:44192](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L44192)

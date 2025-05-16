@@ -1,6 +1,6 @@
 # Class: RequestPaymentMessage
 
-Defined in: [WAProto/index.d.ts:30368](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30368)
+Defined in: [WAProto/index.d.ts:30368](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30368)
 
 Represents a RequestPaymentMessage.
 
@@ -14,7 +14,7 @@ Represents a RequestPaymentMessage.
 
 > **new RequestPaymentMessage**(`properties`?): [`RequestPaymentMessage`](RequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:30374](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30374)
+Defined in: [WAProto/index.d.ts:30374](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30374)
 
 Constructs a new RequestPaymentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **amount**: `null` \| [`IMoney`](../../../interfaces/IMoney.md)
 
-Defined in: [WAProto/index.d.ts:30392](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30392)
+Defined in: [WAProto/index.d.ts:30392](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30392)
 
 RequestPaymentMessage amount.
 
@@ -50,7 +50,7 @@ RequestPaymentMessage amount.
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30383](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30383)
+Defined in: [WAProto/index.d.ts:30383](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30383)
 
 RequestPaymentMessage amount1000.
 
@@ -64,7 +64,7 @@ RequestPaymentMessage amount1000.
 
 > `optional` **background**: `null` \| [`IPaymentBackground`](../../../interfaces/IPaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:30395](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30395)
+Defined in: [WAProto/index.d.ts:30395](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30395)
 
 RequestPaymentMessage background.
 
@@ -78,7 +78,7 @@ RequestPaymentMessage background.
 
 > `optional` **currencyCodeIso4217**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30380](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30380)
+Defined in: [WAProto/index.d.ts:30380](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30380)
 
 RequestPaymentMessage currencyCodeIso4217.
 
@@ -92,7 +92,7 @@ RequestPaymentMessage currencyCodeIso4217.
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30389](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30389)
+Defined in: [WAProto/index.d.ts:30389](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30389)
 
 RequestPaymentMessage expiryTimestamp.
 
@@ -106,7 +106,7 @@ RequestPaymentMessage expiryTimestamp.
 
 > `optional` **noteMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:30377](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30377)
+Defined in: [WAProto/index.d.ts:30377](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30377)
 
 RequestPaymentMessage noteMessage.
 
@@ -120,7 +120,7 @@ RequestPaymentMessage noteMessage.
 
 > `optional` **requestFrom**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30386](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30386)
+Defined in: [WAProto/index.d.ts:30386](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30386)
 
 RequestPaymentMessage requestFrom.
 
@@ -134,7 +134,7 @@ RequestPaymentMessage requestFrom.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30465](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30465)
+Defined in: [WAProto/index.d.ts:30465](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30465)
 
 Converts this RequestPaymentMessage to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RequestPaymentMessage`](RequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:30402](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30402)
+Defined in: [WAProto/index.d.ts:30402](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30402)
 
 Creates a new RequestPaymentMessage instance using the specified properties.
 
@@ -174,7 +174,7 @@ RequestPaymentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`RequestPaymentMessage`](RequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:30428](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30428)
+Defined in: [WAProto/index.d.ts:30428](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30428)
 
 Decodes a RequestPaymentMessage message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RequestPaymentMessage`](RequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:30437](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30437)
+Defined in: [WAProto/index.d.ts:30437](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30437)
 
 Decodes a RequestPaymentMessage message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30410](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30410)
+Defined in: [WAProto/index.d.ts:30410](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30410)
 
 Encodes the specified RequestPaymentMessage message. Does not implicitly [verify](RequestPaymentMessage.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30418](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30418)
+Defined in: [WAProto/index.d.ts:30418](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30418)
 
 Encodes the specified RequestPaymentMessage message, length delimited. Does not implicitly [verify](RequestPaymentMessage.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RequestPaymentMessage`](RequestPaymentMessage.md)
 
-Defined in: [WAProto/index.d.ts:30451](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30451)
+Defined in: [WAProto/index.d.ts:30451](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30451)
 
 Creates a RequestPaymentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ RequestPaymentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30472](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30472)
+Defined in: [WAProto/index.d.ts:30472](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30472)
 
 Gets the default type url for RequestPaymentMessage
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30459](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30459)
+Defined in: [WAProto/index.d.ts:30459](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30459)
 
 Creates a plain object from a RequestPaymentMessage message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30444](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L30444)
+Defined in: [WAProto/index.d.ts:30444](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L30444)
 
 Verifies a RequestPaymentMessage message.
 

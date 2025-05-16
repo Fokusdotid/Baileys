@@ -1,6 +1,6 @@
 # Class: WaffleAccountLinkStateAction
 
-Defined in: [WAProto/index.d.ts:46575](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46575)
+Defined in: [WAProto/index.d.ts:46575](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46575)
 
 Represents a WaffleAccountLinkStateAction.
 
@@ -14,7 +14,7 @@ Represents a WaffleAccountLinkStateAction.
 
 > **new WaffleAccountLinkStateAction**(`properties`?): [`WaffleAccountLinkStateAction`](WaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:46581](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46581)
+Defined in: [WAProto/index.d.ts:46581](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46581)
 
 Constructs a new WaffleAccountLinkStateAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **linkState**: `null` \| [`ACTIVE`](../namespaces/WaffleAccountLinkStateAction/enumerations/AccountLinkState.md#active)
 
-Defined in: [WAProto/index.d.ts:46584](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46584)
+Defined in: [WAProto/index.d.ts:46584](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46584)
 
 WaffleAccountLinkStateAction linkState.
 
@@ -50,7 +50,7 @@ WaffleAccountLinkStateAction linkState.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46654](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46654)
+Defined in: [WAProto/index.d.ts:46654](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46654)
 
 Converts this WaffleAccountLinkStateAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WaffleAccountLinkStateAction`](WaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:46591](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46591)
+Defined in: [WAProto/index.d.ts:46591](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46591)
 
 Creates a new WaffleAccountLinkStateAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ WaffleAccountLinkStateAction instance
 
 > `static` **decode**(`reader`, `length`?): [`WaffleAccountLinkStateAction`](WaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:46617](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46617)
+Defined in: [WAProto/index.d.ts:46617](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46617)
 
 Decodes a WaffleAccountLinkStateAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WaffleAccountLinkStateAction`](WaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:46626](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46626)
+Defined in: [WAProto/index.d.ts:46626](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46626)
 
 Decodes a WaffleAccountLinkStateAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46599](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46599)
+Defined in: [WAProto/index.d.ts:46599](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46599)
 
 Encodes the specified WaffleAccountLinkStateAction message. Does not implicitly [verify](WaffleAccountLinkStateAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46607](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46607)
+Defined in: [WAProto/index.d.ts:46607](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46607)
 
 Encodes the specified WaffleAccountLinkStateAction message, length delimited. Does not implicitly [verify](WaffleAccountLinkStateAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WaffleAccountLinkStateAction`](WaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:46640](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46640)
+Defined in: [WAProto/index.d.ts:46640](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46640)
 
 Creates a WaffleAccountLinkStateAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ WaffleAccountLinkStateAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46661](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46661)
+Defined in: [WAProto/index.d.ts:46661](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46661)
 
 Gets the default type url for WaffleAccountLinkStateAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46648](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46648)
+Defined in: [WAProto/index.d.ts:46648](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46648)
 
 Creates a plain object from a WaffleAccountLinkStateAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46633](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L46633)
+Defined in: [WAProto/index.d.ts:46633](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46633)
 
 Verifies a WaffleAccountLinkStateAction message.
 

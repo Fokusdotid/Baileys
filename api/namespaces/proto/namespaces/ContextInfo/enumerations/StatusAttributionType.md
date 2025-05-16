@@ -1,6 +1,6 @@
 # Enumeration: StatusAttributionType
 
-Defined in: [WAProto/index.d.ts:10796](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L10796)
+Defined in: [WAProto/index.d.ts:10796](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L10796)
 
 StatusAttributionType enum.
 
@@ -10,7 +10,7 @@ StatusAttributionType enum.
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:10797](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L10797)
+Defined in: [WAProto/index.d.ts:10797](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L10797)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:10797](https://github.com/Fokusdotid/Baileys/blo
 
 > **RESHARED\_FROM\_MENTION**: `1`
 
-Defined in: [WAProto/index.d.ts:10798](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L10798)
+Defined in: [WAProto/index.d.ts:10798](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L10798)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:10798](https://github.com/Fokusdotid/Baileys/blo
 
 > **RESHARED\_FROM\_POST**: `2`
 
-Defined in: [WAProto/index.d.ts:10799](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L10799)
+Defined in: [WAProto/index.d.ts:10799](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L10799)

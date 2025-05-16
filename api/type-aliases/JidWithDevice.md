@@ -2,7 +2,7 @@
 
 > **JidWithDevice**: `object`
 
-Defined in: [src/WABinary/jid-utils.ts:10](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/WABinary/jid-utils.ts#L10)
+Defined in: [src/WABinary/jid-utils.ts:10](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/WABinary/jid-utils.ts#L10)
 
 ## Type declaration
 

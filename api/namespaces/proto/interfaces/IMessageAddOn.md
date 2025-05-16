@@ -1,6 +1,6 @@
 # Interface: IMessageAddOn
 
-Defined in: [WAProto/index.d.ts:32859](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32859)
+Defined in: [WAProto/index.d.ts:32859](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32859)
 
 Properties of a MessageAddOn.
 
@@ -10,7 +10,7 @@ Properties of a MessageAddOn.
 
 > `optional` **addOnContextInfo**: `null` \| [`IMessageAddOnContextInfo`](IMessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32877](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32877)
+Defined in: [WAProto/index.d.ts:32877](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32877)
 
 MessageAddOn addOnContextInfo
 
@@ -20,7 +20,7 @@ MessageAddOn addOnContextInfo
 
 > `optional` **legacyMessage**: `null` \| [`ILegacyMessage`](ILegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:32883](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32883)
+Defined in: [WAProto/index.d.ts:32883](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32883)
 
 MessageAddOn legacyMessage
 
@@ -30,7 +30,7 @@ MessageAddOn legacyMessage
 
 > `optional` **messageAddOn**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:32865](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32865)
+Defined in: [WAProto/index.d.ts:32865](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32865)
 
 MessageAddOn messageAddOn
 
@@ -40,7 +40,7 @@ MessageAddOn messageAddOn
 
 > `optional` **messageAddOnKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:32880](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32880)
+Defined in: [WAProto/index.d.ts:32880](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32880)
 
 MessageAddOn messageAddOnKey
 
@@ -50,7 +50,7 @@ MessageAddOn messageAddOnKey
 
 > `optional` **messageAddOnType**: `null` \| [`MessageAddOnType`](../namespaces/MessageAddOn/enumerations/MessageAddOnType.md)
 
-Defined in: [WAProto/index.d.ts:32862](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32862)
+Defined in: [WAProto/index.d.ts:32862](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32862)
 
 MessageAddOn messageAddOnType
 
@@ -60,7 +60,7 @@ MessageAddOn messageAddOnType
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32868](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32868)
+Defined in: [WAProto/index.d.ts:32868](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32868)
 
 MessageAddOn senderTimestampMs
 
@@ -70,7 +70,7 @@ MessageAddOn senderTimestampMs
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32871](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32871)
+Defined in: [WAProto/index.d.ts:32871](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32871)
 
 MessageAddOn serverTimestampMs
 
@@ -80,6 +80,6 @@ MessageAddOn serverTimestampMs
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:32874](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L32874)
+Defined in: [WAProto/index.d.ts:32874](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L32874)
 
 MessageAddOn status

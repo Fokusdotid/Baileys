@@ -2,7 +2,7 @@
 
 > **URLGenerationOptions**: `object`
 
-Defined in: [src/Utils/link-preview.ts:19](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Utils/link-preview.ts#L19)
+Defined in: [src/Utils/link-preview.ts:19](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/Utils/link-preview.ts#L19)
 
 ## Type declaration
 

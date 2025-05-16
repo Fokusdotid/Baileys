@@ -1,6 +1,6 @@
 # Class: MessageAssociation
 
-Defined in: [WAProto/index.d.ts:33126](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33126)
+Defined in: [WAProto/index.d.ts:33126](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33126)
 
 Represents a MessageAssociation.
 
@@ -14,7 +14,7 @@ Represents a MessageAssociation.
 
 > **new MessageAssociation**(`properties`?): [`MessageAssociation`](MessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:33132](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33132)
+Defined in: [WAProto/index.d.ts:33132](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33132)
 
 Constructs a new MessageAssociation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **associationType**: `null` \| [`AssociationType`](../namespaces/MessageAssociation/enumerations/AssociationType.md)
 
-Defined in: [WAProto/index.d.ts:33135](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33135)
+Defined in: [WAProto/index.d.ts:33135](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33135)
 
 MessageAssociation associationType.
 
@@ -50,7 +50,7 @@ MessageAssociation associationType.
 
 > `optional` **messageIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33141](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33141)
+Defined in: [WAProto/index.d.ts:33141](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33141)
 
 MessageAssociation messageIndex.
 
@@ -64,7 +64,7 @@ MessageAssociation messageIndex.
 
 > `optional` **parentMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33138](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33138)
+Defined in: [WAProto/index.d.ts:33138](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33138)
 
 MessageAssociation parentMessageKey.
 
@@ -78,7 +78,7 @@ MessageAssociation parentMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:33211](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33211)
+Defined in: [WAProto/index.d.ts:33211](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33211)
 
 Converts this MessageAssociation to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageAssociation`](MessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:33148](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33148)
+Defined in: [WAProto/index.d.ts:33148](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33148)
 
 Creates a new MessageAssociation instance using the specified properties.
 
@@ -118,7 +118,7 @@ MessageAssociation instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageAssociation`](MessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:33174](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33174)
+Defined in: [WAProto/index.d.ts:33174](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33174)
 
 Decodes a MessageAssociation message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageAssociation`](MessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:33183](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33183)
+Defined in: [WAProto/index.d.ts:33183](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33183)
 
 Decodes a MessageAssociation message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33156](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33156)
+Defined in: [WAProto/index.d.ts:33156](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33156)
 
 Encodes the specified MessageAssociation message. Does not implicitly [verify](MessageAssociation.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33164](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33164)
+Defined in: [WAProto/index.d.ts:33164](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33164)
 
 Encodes the specified MessageAssociation message, length delimited. Does not implicitly [verify](MessageAssociation.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageAssociation`](MessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:33197](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33197)
+Defined in: [WAProto/index.d.ts:33197](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33197)
 
 Creates a MessageAssociation message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ MessageAssociation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:33218](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33218)
+Defined in: [WAProto/index.d.ts:33218](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33218)
 
 Gets the default type url for MessageAssociation
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:33205](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33205)
+Defined in: [WAProto/index.d.ts:33205](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33205)
 
 Creates a plain object from a MessageAssociation message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33190](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L33190)
+Defined in: [WAProto/index.d.ts:33190](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L33190)
 
 Verifies a MessageAssociation message.
 

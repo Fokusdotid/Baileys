@@ -1,6 +1,6 @@
 # Class: Header
 
-Defined in: [WAProto/index.d.ts:23804](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23804)
+Defined in: [WAProto/index.d.ts:23804](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23804)
 
 Represents a Header.
 
@@ -14,7 +14,7 @@ Represents a Header.
 
 > **new Header**(`properties`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:23810](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23810)
+Defined in: [WAProto/index.d.ts:23810](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23810)
 
 Constructs a new Header.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:23822](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23822)
+Defined in: [WAProto/index.d.ts:23822](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23822)
 
 Header documentMessage.
 
@@ -50,7 +50,7 @@ Header documentMessage.
 
 > `optional` **hasMediaAttachment**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:23819](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23819)
+Defined in: [WAProto/index.d.ts:23819](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23819)
 
 Header hasMediaAttachment.
 
@@ -64,7 +64,7 @@ Header hasMediaAttachment.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23825](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23825)
+Defined in: [WAProto/index.d.ts:23825](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23825)
 
 Header imageMessage.
 
@@ -78,7 +78,7 @@ Header imageMessage.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23828](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23828)
+Defined in: [WAProto/index.d.ts:23828](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23828)
 
 Header jpegThumbnail.
 
@@ -92,7 +92,7 @@ Header jpegThumbnail.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:23834](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23834)
+Defined in: [WAProto/index.d.ts:23834](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23834)
 
 Header locationMessage.
 
@@ -106,7 +106,7 @@ Header locationMessage.
 
 > `optional` **media**: `"imageMessage"` \| `"locationMessage"` \| `"documentMessage"` \| `"videoMessage"` \| `"productMessage"` \| `"jpegThumbnail"`
 
-Defined in: [WAProto/index.d.ts:23840](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23840)
+Defined in: [WAProto/index.d.ts:23840](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23840)
 
 Header media.
 
@@ -116,7 +116,7 @@ Header media.
 
 > `optional` **productMessage**: `null` \| [`IProductMessage`](../../../interfaces/IProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:23837](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23837)
+Defined in: [WAProto/index.d.ts:23837](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23837)
 
 Header productMessage.
 
@@ -130,7 +130,7 @@ Header productMessage.
 
 > `optional` **subtitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23816](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23816)
+Defined in: [WAProto/index.d.ts:23816](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23816)
 
 Header subtitle.
 
@@ -144,7 +144,7 @@ Header subtitle.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23813](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23813)
+Defined in: [WAProto/index.d.ts:23813](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23813)
 
 Header title.
 
@@ -158,7 +158,7 @@ Header title.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:23831](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23831)
+Defined in: [WAProto/index.d.ts:23831](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23831)
 
 Header videoMessage.
 
@@ -172,7 +172,7 @@ Header videoMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23910](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23910)
+Defined in: [WAProto/index.d.ts:23910](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23910)
 
 Converts this Header to JSON.
 
@@ -188,7 +188,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:23847](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23847)
+Defined in: [WAProto/index.d.ts:23847](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23847)
 
 Creates a new Header instance using the specified properties.
 
@@ -212,7 +212,7 @@ Header instance
 
 > `static` **decode**(`reader`, `length`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:23873](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23873)
+Defined in: [WAProto/index.d.ts:23873](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23873)
 
 Decodes a Header message from the specified reader or buffer.
 
@@ -250,7 +250,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:23882](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23882)
+Defined in: [WAProto/index.d.ts:23882](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23882)
 
 Decodes a Header message from the specified reader or buffer, length delimited.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23855](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23855)
+Defined in: [WAProto/index.d.ts:23855](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23855)
 
 Encodes the specified Header message. Does not implicitly [verify](Header.md#verify) messages.
 
@@ -312,7 +312,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23863](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23863)
+Defined in: [WAProto/index.d.ts:23863](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23863)
 
 Encodes the specified Header message, length delimited. Does not implicitly [verify](Header.md#verify) messages.
 
@@ -342,7 +342,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:23896](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23896)
+Defined in: [WAProto/index.d.ts:23896](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23896)
 
 Creates a Header message from a plain object. Also converts values to their respective internal types.
 
@@ -364,7 +364,7 @@ Header
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23917](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23917)
+Defined in: [WAProto/index.d.ts:23917](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23917)
 
 Gets the default type url for Header
 
@@ -388,7 +388,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23904](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23904)
+Defined in: [WAProto/index.d.ts:23904](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23904)
 
 Creates a plain object from a Header message. Also converts values to other types if specified.
 
@@ -418,7 +418,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23889](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L23889)
+Defined in: [WAProto/index.d.ts:23889](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L23889)
 
 Verifies a Header message.
 

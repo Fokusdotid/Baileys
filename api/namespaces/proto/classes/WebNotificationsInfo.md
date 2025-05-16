@@ -1,6 +1,6 @@
 # Class: WebNotificationsInfo
 
-Defined in: [WAProto/index.d.ts:50286](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50286)
+Defined in: [WAProto/index.d.ts:50286](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50286)
 
 Represents a WebNotificationsInfo.
 
@@ -14,7 +14,7 @@ Represents a WebNotificationsInfo.
 
 > **new WebNotificationsInfo**(`properties`?): [`WebNotificationsInfo`](WebNotificationsInfo.md)
 
-Defined in: [WAProto/index.d.ts:50292](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50292)
+Defined in: [WAProto/index.d.ts:50292](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50292)
 
 Constructs a new WebNotificationsInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **notifyMessageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50301](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50301)
+Defined in: [WAProto/index.d.ts:50301](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50301)
 
 WebNotificationsInfo notifyMessageCount.
 
@@ -50,7 +50,7 @@ WebNotificationsInfo notifyMessageCount.
 
 > **notifyMessages**: [`IWebMessageInfo`](../interfaces/IWebMessageInfo.md)[]
 
-Defined in: [WAProto/index.d.ts:50304](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50304)
+Defined in: [WAProto/index.d.ts:50304](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50304)
 
 WebNotificationsInfo notifyMessages.
 
@@ -64,7 +64,7 @@ WebNotificationsInfo notifyMessages.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:50295](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50295)
+Defined in: [WAProto/index.d.ts:50295](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50295)
 
 WebNotificationsInfo timestamp.
 
@@ -78,7 +78,7 @@ WebNotificationsInfo timestamp.
 
 > `optional` **unreadChats**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50298](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50298)
+Defined in: [WAProto/index.d.ts:50298](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50298)
 
 WebNotificationsInfo unreadChats.
 
@@ -92,7 +92,7 @@ WebNotificationsInfo unreadChats.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50374](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50374)
+Defined in: [WAProto/index.d.ts:50374](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50374)
 
 Converts this WebNotificationsInfo to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WebNotificationsInfo`](WebNotificationsInfo.md)
 
-Defined in: [WAProto/index.d.ts:50311](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50311)
+Defined in: [WAProto/index.d.ts:50311](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50311)
 
 Creates a new WebNotificationsInfo instance using the specified properties.
 
@@ -132,7 +132,7 @@ WebNotificationsInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`WebNotificationsInfo`](WebNotificationsInfo.md)
 
-Defined in: [WAProto/index.d.ts:50337](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50337)
+Defined in: [WAProto/index.d.ts:50337](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50337)
 
 Decodes a WebNotificationsInfo message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WebNotificationsInfo`](WebNotificationsInfo.md)
 
-Defined in: [WAProto/index.d.ts:50346](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50346)
+Defined in: [WAProto/index.d.ts:50346](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50346)
 
 Decodes a WebNotificationsInfo message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50319](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50319)
+Defined in: [WAProto/index.d.ts:50319](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50319)
 
 Encodes the specified WebNotificationsInfo message. Does not implicitly [verify](WebNotificationsInfo.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50327](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50327)
+Defined in: [WAProto/index.d.ts:50327](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50327)
 
 Encodes the specified WebNotificationsInfo message, length delimited. Does not implicitly [verify](WebNotificationsInfo.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WebNotificationsInfo`](WebNotificationsInfo.md)
 
-Defined in: [WAProto/index.d.ts:50360](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50360)
+Defined in: [WAProto/index.d.ts:50360](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50360)
 
 Creates a WebNotificationsInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ WebNotificationsInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50381](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50381)
+Defined in: [WAProto/index.d.ts:50381](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50381)
 
 Gets the default type url for WebNotificationsInfo
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50368](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50368)
+Defined in: [WAProto/index.d.ts:50368](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50368)
 
 Creates a plain object from a WebNotificationsInfo message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50353](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L50353)
+Defined in: [WAProto/index.d.ts:50353](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L50353)
 
 Verifies a WebNotificationsInfo message.
 

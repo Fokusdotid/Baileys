@@ -1,6 +1,6 @@
 # Interface: IStatusPrivacyAction
 
-Defined in: [WAProto/index.d.ts:45580](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L45580)
+Defined in: [WAProto/index.d.ts:45580](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L45580)
 
 Properties of a StatusPrivacyAction.
 
@@ -10,7 +10,7 @@ Properties of a StatusPrivacyAction.
 
 > `optional` **mode**: `null` \| [`StatusDistributionMode`](../namespaces/StatusPrivacyAction/enumerations/StatusDistributionMode.md)
 
-Defined in: [WAProto/index.d.ts:45583](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L45583)
+Defined in: [WAProto/index.d.ts:45583](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L45583)
 
 StatusPrivacyAction mode
 
@@ -20,6 +20,6 @@ StatusPrivacyAction mode
 
 > `optional` **userJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:45586](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L45586)
+Defined in: [WAProto/index.d.ts:45586](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L45586)
 
 StatusPrivacyAction userJid

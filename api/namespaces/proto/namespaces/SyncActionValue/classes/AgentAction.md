@@ -1,6 +1,6 @@
 # Class: AgentAction
 
-Defined in: [WAProto/index.d.ts:40947](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40947)
+Defined in: [WAProto/index.d.ts:40947](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40947)
 
 Represents an AgentAction.
 
@@ -14,7 +14,7 @@ Represents an AgentAction.
 
 > **new AgentAction**(`properties`?): [`AgentAction`](AgentAction.md)
 
-Defined in: [WAProto/index.d.ts:40953](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40953)
+Defined in: [WAProto/index.d.ts:40953](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40953)
 
 Constructs a new AgentAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deviceID**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40959](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40959)
+Defined in: [WAProto/index.d.ts:40959](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40959)
 
 AgentAction deviceID.
 
@@ -50,7 +50,7 @@ AgentAction deviceID.
 
 > `optional` **isDeleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:40962](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40962)
+Defined in: [WAProto/index.d.ts:40962](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40962)
 
 AgentAction isDeleted.
 
@@ -64,7 +64,7 @@ AgentAction isDeleted.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40956](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40956)
+Defined in: [WAProto/index.d.ts:40956](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40956)
 
 AgentAction name.
 
@@ -78,7 +78,7 @@ AgentAction name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41032](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41032)
+Defined in: [WAProto/index.d.ts:41032](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41032)
 
 Converts this AgentAction to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AgentAction`](AgentAction.md)
 
-Defined in: [WAProto/index.d.ts:40969](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40969)
+Defined in: [WAProto/index.d.ts:40969](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40969)
 
 Creates a new AgentAction instance using the specified properties.
 
@@ -118,7 +118,7 @@ AgentAction instance
 
 > `static` **decode**(`reader`, `length`?): [`AgentAction`](AgentAction.md)
 
-Defined in: [WAProto/index.d.ts:40995](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40995)
+Defined in: [WAProto/index.d.ts:40995](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40995)
 
 Decodes an AgentAction message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AgentAction`](AgentAction.md)
 
-Defined in: [WAProto/index.d.ts:41004](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41004)
+Defined in: [WAProto/index.d.ts:41004](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41004)
 
 Decodes an AgentAction message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40977](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40977)
+Defined in: [WAProto/index.d.ts:40977](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40977)
 
 Encodes the specified AgentAction message. Does not implicitly [verify](AgentAction.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40985](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L40985)
+Defined in: [WAProto/index.d.ts:40985](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40985)
 
 Encodes the specified AgentAction message, length delimited. Does not implicitly [verify](AgentAction.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AgentAction`](AgentAction.md)
 
-Defined in: [WAProto/index.d.ts:41018](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41018)
+Defined in: [WAProto/index.d.ts:41018](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41018)
 
 Creates an AgentAction message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AgentAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41039](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41039)
+Defined in: [WAProto/index.d.ts:41039](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41039)
 
 Gets the default type url for AgentAction
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41026](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41026)
+Defined in: [WAProto/index.d.ts:41026](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41026)
 
 Creates a plain object from an AgentAction message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41011](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L41011)
+Defined in: [WAProto/index.d.ts:41011](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41011)
 
 Verifies an AgentAction message.
 

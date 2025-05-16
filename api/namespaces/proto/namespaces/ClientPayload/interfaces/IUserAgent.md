@@ -1,6 +1,6 @@
 # Interface: IUserAgent
 
-Defined in: [WAProto/index.d.ts:8321](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8321)
+Defined in: [WAProto/index.d.ts:8321](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8321)
 
 Properties of a UserAgent.
 
@@ -10,7 +10,7 @@ Properties of a UserAgent.
 
 > `optional` **appVersion**: `null` \| [`IAppVersion`](../namespaces/UserAgent/interfaces/IAppVersion.md)
 
-Defined in: [WAProto/index.d.ts:8327](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8327)
+Defined in: [WAProto/index.d.ts:8327](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8327)
 
 UserAgent appVersion
 
@@ -20,7 +20,7 @@ UserAgent appVersion
 
 > `optional` **device**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8342](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8342)
+Defined in: [WAProto/index.d.ts:8342](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8342)
 
 UserAgent device
 
@@ -30,7 +30,7 @@ UserAgent device
 
 > `optional` **deviceBoard**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8360](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8360)
+Defined in: [WAProto/index.d.ts:8360](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8360)
 
 UserAgent deviceBoard
 
@@ -40,7 +40,7 @@ UserAgent deviceBoard
 
 > `optional` **deviceExpId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8363](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8363)
+Defined in: [WAProto/index.d.ts:8363](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8363)
 
 UserAgent deviceExpId
 
@@ -50,7 +50,7 @@ UserAgent deviceExpId
 
 > `optional` **deviceModelType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8369](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8369)
+Defined in: [WAProto/index.d.ts:8369](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8369)
 
 UserAgent deviceModelType
 
@@ -60,7 +60,7 @@ UserAgent deviceModelType
 
 > `optional` **deviceType**: `null` \| [`DeviceType`](../namespaces/UserAgent/enumerations/DeviceType.md)
 
-Defined in: [WAProto/index.d.ts:8366](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8366)
+Defined in: [WAProto/index.d.ts:8366](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8366)
 
 UserAgent deviceType
 
@@ -70,7 +70,7 @@ UserAgent deviceType
 
 > `optional` **localeCountryIso31661Alpha2**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8357](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8357)
+Defined in: [WAProto/index.d.ts:8357](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8357)
 
 UserAgent localeCountryIso31661Alpha2
 
@@ -80,7 +80,7 @@ UserAgent localeCountryIso31661Alpha2
 
 > `optional` **localeLanguageIso6391**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8354](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8354)
+Defined in: [WAProto/index.d.ts:8354](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8354)
 
 UserAgent localeLanguageIso6391
 
@@ -90,7 +90,7 @@ UserAgent localeLanguageIso6391
 
 > `optional` **manufacturer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8339](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8339)
+Defined in: [WAProto/index.d.ts:8339](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8339)
 
 UserAgent manufacturer
 
@@ -100,7 +100,7 @@ UserAgent manufacturer
 
 > `optional` **mcc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8330](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8330)
+Defined in: [WAProto/index.d.ts:8330](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8330)
 
 UserAgent mcc
 
@@ -110,7 +110,7 @@ UserAgent mcc
 
 > `optional` **mnc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8333](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8333)
+Defined in: [WAProto/index.d.ts:8333](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8333)
 
 UserAgent mnc
 
@@ -120,7 +120,7 @@ UserAgent mnc
 
 > `optional` **osBuildNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8345](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8345)
+Defined in: [WAProto/index.d.ts:8345](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8345)
 
 UserAgent osBuildNumber
 
@@ -130,7 +130,7 @@ UserAgent osBuildNumber
 
 > `optional` **osVersion**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8336](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8336)
+Defined in: [WAProto/index.d.ts:8336](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8336)
 
 UserAgent osVersion
 
@@ -140,7 +140,7 @@ UserAgent osVersion
 
 > `optional` **phoneId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8348](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8348)
+Defined in: [WAProto/index.d.ts:8348](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8348)
 
 UserAgent phoneId
 
@@ -150,7 +150,7 @@ UserAgent phoneId
 
 > `optional` **platform**: `null` \| [`Platform`](../namespaces/UserAgent/enumerations/Platform.md)
 
-Defined in: [WAProto/index.d.ts:8324](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8324)
+Defined in: [WAProto/index.d.ts:8324](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8324)
 
 UserAgent platform
 
@@ -160,6 +160,6 @@ UserAgent platform
 
 > `optional` **releaseChannel**: `null` \| [`ReleaseChannel`](../namespaces/UserAgent/enumerations/ReleaseChannel.md)
 
-Defined in: [WAProto/index.d.ts:8351](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L8351)
+Defined in: [WAProto/index.d.ts:8351](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8351)
 
 UserAgent releaseChannel
