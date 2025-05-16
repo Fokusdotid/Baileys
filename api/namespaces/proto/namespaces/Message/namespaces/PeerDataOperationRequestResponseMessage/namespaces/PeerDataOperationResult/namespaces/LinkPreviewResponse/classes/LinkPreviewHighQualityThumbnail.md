@@ -1,6 +1,6 @@
 # Class: LinkPreviewHighQualityThumbnail
 
-Defined in: [WAProto/index.d.ts:28153](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28153)
+Defined in: [WAProto/index.d.ts:28153](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28153)
 
 Represents a LinkPreviewHighQualityThumbnail.
 
@@ -14,7 +14,7 @@ Represents a LinkPreviewHighQualityThumbnail.
 
 > **new LinkPreviewHighQualityThumbnail**(`properties`?): [`LinkPreviewHighQualityThumbnail`](LinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28159](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28159)
+Defined in: [WAProto/index.d.ts:28159](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28159)
 
 Constructs a new LinkPreviewHighQualityThumbnail.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28162](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28162)
+Defined in: [WAProto/index.d.ts:28162](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28162)
 
 LinkPreviewHighQualityThumbnail directPath.
 
@@ -50,7 +50,7 @@ LinkPreviewHighQualityThumbnail directPath.
 
 > `optional` **encThumbHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28168](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28168)
+Defined in: [WAProto/index.d.ts:28168](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28168)
 
 LinkPreviewHighQualityThumbnail encThumbHash.
 
@@ -64,7 +64,7 @@ LinkPreviewHighQualityThumbnail encThumbHash.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28171](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28171)
+Defined in: [WAProto/index.d.ts:28171](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28171)
 
 LinkPreviewHighQualityThumbnail mediaKey.
 
@@ -78,7 +78,7 @@ LinkPreviewHighQualityThumbnail mediaKey.
 
 > `optional` **mediaKeyTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28174](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28174)
+Defined in: [WAProto/index.d.ts:28174](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28174)
 
 LinkPreviewHighQualityThumbnail mediaKeyTimestampMs.
 
@@ -92,7 +92,7 @@ LinkPreviewHighQualityThumbnail mediaKeyTimestampMs.
 
 > `optional` **thumbHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28165](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28165)
+Defined in: [WAProto/index.d.ts:28165](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28165)
 
 LinkPreviewHighQualityThumbnail thumbHash.
 
@@ -106,7 +106,7 @@ LinkPreviewHighQualityThumbnail thumbHash.
 
 > `optional` **thumbHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28180](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28180)
+Defined in: [WAProto/index.d.ts:28180](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28180)
 
 LinkPreviewHighQualityThumbnail thumbHeight.
 
@@ -120,7 +120,7 @@ LinkPreviewHighQualityThumbnail thumbHeight.
 
 > `optional` **thumbWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28177](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28177)
+Defined in: [WAProto/index.d.ts:28177](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28177)
 
 LinkPreviewHighQualityThumbnail thumbWidth.
 
@@ -134,7 +134,7 @@ LinkPreviewHighQualityThumbnail thumbWidth.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28250](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28250)
+Defined in: [WAProto/index.d.ts:28250](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28250)
 
 Converts this LinkPreviewHighQualityThumbnail to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LinkPreviewHighQualityThumbnail`](LinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28187](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28187)
+Defined in: [WAProto/index.d.ts:28187](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28187)
 
 Creates a new LinkPreviewHighQualityThumbnail instance using the specified properties.
 
@@ -174,7 +174,7 @@ LinkPreviewHighQualityThumbnail instance
 
 > `static` **decode**(`reader`, `length`?): [`LinkPreviewHighQualityThumbnail`](LinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28213](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28213)
+Defined in: [WAProto/index.d.ts:28213](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28213)
 
 Decodes a LinkPreviewHighQualityThumbnail message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LinkPreviewHighQualityThumbnail`](LinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28222](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28222)
+Defined in: [WAProto/index.d.ts:28222](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28222)
 
 Decodes a LinkPreviewHighQualityThumbnail message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28195](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28195)
+Defined in: [WAProto/index.d.ts:28195](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28195)
 
 Encodes the specified LinkPreviewHighQualityThumbnail message. Does not implicitly [verify](LinkPreviewHighQualityThumbnail.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28203](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28203)
+Defined in: [WAProto/index.d.ts:28203](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28203)
 
 Encodes the specified LinkPreviewHighQualityThumbnail message, length delimited. Does not implicitly [verify](LinkPreviewHighQualityThumbnail.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LinkPreviewHighQualityThumbnail`](LinkPreviewHighQualityThumbnail.md)
 
-Defined in: [WAProto/index.d.ts:28236](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28236)
+Defined in: [WAProto/index.d.ts:28236](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28236)
 
 Creates a LinkPreviewHighQualityThumbnail message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ LinkPreviewHighQualityThumbnail
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28257](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28257)
+Defined in: [WAProto/index.d.ts:28257](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28257)
 
 Gets the default type url for LinkPreviewHighQualityThumbnail
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28244](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28244)
+Defined in: [WAProto/index.d.ts:28244](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28244)
 
 Creates a plain object from a LinkPreviewHighQualityThumbnail message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28229](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28229)
+Defined in: [WAProto/index.d.ts:28229](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28229)
 
 Verifies a LinkPreviewHighQualityThumbnail message.
 

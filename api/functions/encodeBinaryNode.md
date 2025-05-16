@@ -2,7 +2,7 @@
 
 > **encodeBinaryNode**(`node`, `opts`, `buffer`): `Buffer`
 
-Defined in: [src/WABinary/encode.ts:6](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WABinary/encode.ts#L6)
+Defined in: [src/WABinary/encode.ts:6](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/WABinary/encode.ts#L6)
 
 ## Parameters
 

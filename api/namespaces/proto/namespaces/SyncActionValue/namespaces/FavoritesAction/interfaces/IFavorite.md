@@ -1,6 +1,6 @@
 # Interface: IFavorite
 
-Defined in: [WAProto/index.d.ts:42657](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42657)
+Defined in: [WAProto/index.d.ts:42657](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42657)
 
 Properties of a Favorite.
 
@@ -10,6 +10,6 @@ Properties of a Favorite.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42660](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42660)
+Defined in: [WAProto/index.d.ts:42660](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42660)
 
 Favorite id

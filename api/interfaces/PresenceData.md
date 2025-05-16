@@ -1,6 +1,6 @@
 # Interface: PresenceData
 
-Defined in: [src/Types/Chat.ts:29](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Chat.ts#L29)
+Defined in: [src/Types/Chat.ts:29](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Chat.ts#L29)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Chat.ts:29](https://github.com/Fokusdotid/Baileys/blob/c2
 
 > **lastKnownPresence**: [`WAPresence`](../type-aliases/WAPresence.md)
 
-Defined in: [src/Types/Chat.ts:30](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Chat.ts#L30)
+Defined in: [src/Types/Chat.ts:30](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Chat.ts#L30)
 
 ***
 
@@ -16,4 +16,4 @@ Defined in: [src/Types/Chat.ts:30](https://github.com/Fokusdotid/Baileys/blob/c2
 
 > `optional` **lastSeen**: `number`
 
-Defined in: [src/Types/Chat.ts:31](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Chat.ts#L31)
+Defined in: [src/Types/Chat.ts:31](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Chat.ts#L31)

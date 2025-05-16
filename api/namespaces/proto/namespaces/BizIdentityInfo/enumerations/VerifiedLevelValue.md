@@ -1,6 +1,6 @@
 # Enumeration: VerifiedLevelValue
 
-Defined in: [WAProto/index.d.ts:3369](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3369)
+Defined in: [WAProto/index.d.ts:3369](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3369)
 
 VerifiedLevelValue enum.
 
@@ -10,7 +10,7 @@ VerifiedLevelValue enum.
 
 > **HIGH**: `2`
 
-Defined in: [WAProto/index.d.ts:3372](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3372)
+Defined in: [WAProto/index.d.ts:3372](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3372)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:3372](https://github.com/Fokusdotid/Baileys/blob
 
 > **LOW**: `1`
 
-Defined in: [WAProto/index.d.ts:3371](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3371)
+Defined in: [WAProto/index.d.ts:3371](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3371)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:3371](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:3370](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3370)
+Defined in: [WAProto/index.d.ts:3370](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3370)

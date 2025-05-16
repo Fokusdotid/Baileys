@@ -2,7 +2,7 @@
 
 > **BrowsersMap**: `object`
 
-Defined in: [src/Types/index.ts:18](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/index.ts#L18)
+Defined in: [src/Types/index.ts:18](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/index.ts#L18)
 
 ## Type declaration
 

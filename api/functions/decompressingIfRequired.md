@@ -2,7 +2,7 @@
 
 > **decompressingIfRequired**(`buffer`): `Promise`\<`Buffer`\<`ArrayBufferLike`\>\>
 
-Defined in: [src/WABinary/decode.ts:9](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/WABinary/decode.ts#L9)
+Defined in: [src/WABinary/decode.ts:9](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/WABinary/decode.ts#L9)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Interface: IFavoritesAction
 
-Defined in: [WAProto/index.d.ts:42558](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42558)
+Defined in: [WAProto/index.d.ts:42558](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42558)
 
 Properties of a FavoritesAction.
 
@@ -10,6 +10,6 @@ Properties of a FavoritesAction.
 
 > `optional` **favorites**: `null` \| [`IFavorite`](../namespaces/FavoritesAction/interfaces/IFavorite.md)[]
 
-Defined in: [WAProto/index.d.ts:42561](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42561)
+Defined in: [WAProto/index.d.ts:42561](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42561)
 
 FavoritesAction favorites

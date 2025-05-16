@@ -2,7 +2,7 @@
 
 > **decryptMessageNode**(`stanza`, `meId`, `meLid`, `repository`, `logger`): `object`
 
-Defined in: [src/Utils/decode-wa-message.ts:121](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Utils/decode-wa-message.ts#L121)
+Defined in: [src/Utils/decode-wa-message.ts:121](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Utils/decode-wa-message.ts#L121)
 
 ## Parameters
 

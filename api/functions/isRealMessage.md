@@ -2,7 +2,7 @@
 
 > **isRealMessage**(`message`, `meId`): `undefined` \| `boolean`
 
-Defined in: [src/Utils/process-message.ts:66](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Utils/process-message.ts#L66)
+Defined in: [src/Utils/process-message.ts:66](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Utils/process-message.ts#L66)
 
 ## Parameters
 

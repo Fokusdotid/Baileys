@@ -1,6 +1,6 @@
 # Class: BotRenderingMetadata
 
-Defined in: [WAProto/index.d.ts:5737](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5737)
+Defined in: [WAProto/index.d.ts:5737](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5737)
 
 Represents a BotRenderingMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotRenderingMetadata.
 
 > **new BotRenderingMetadata**(`properties`?): [`BotRenderingMetadata`](BotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5743](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5743)
+Defined in: [WAProto/index.d.ts:5743](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5743)
 
 Constructs a new BotRenderingMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **keywords**: [`IKeyword`](../namespaces/BotRenderingMetadata/interfaces/IKeyword.md)[]
 
-Defined in: [WAProto/index.d.ts:5746](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5746)
+Defined in: [WAProto/index.d.ts:5746](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5746)
 
 BotRenderingMetadata keywords.
 
@@ -50,7 +50,7 @@ BotRenderingMetadata keywords.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5816](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5816)
+Defined in: [WAProto/index.d.ts:5816](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5816)
 
 Converts this BotRenderingMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotRenderingMetadata`](BotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5753](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5753)
+Defined in: [WAProto/index.d.ts:5753](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5753)
 
 Creates a new BotRenderingMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotRenderingMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotRenderingMetadata`](BotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5779](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5779)
+Defined in: [WAProto/index.d.ts:5779](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5779)
 
 Decodes a BotRenderingMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotRenderingMetadata`](BotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5788](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5788)
+Defined in: [WAProto/index.d.ts:5788](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5788)
 
 Decodes a BotRenderingMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5761](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5761)
+Defined in: [WAProto/index.d.ts:5761](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5761)
 
 Encodes the specified BotRenderingMetadata message. Does not implicitly [verify](BotRenderingMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5769](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5769)
+Defined in: [WAProto/index.d.ts:5769](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5769)
 
 Encodes the specified BotRenderingMetadata message, length delimited. Does not implicitly [verify](BotRenderingMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotRenderingMetadata`](BotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5802](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5802)
+Defined in: [WAProto/index.d.ts:5802](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5802)
 
 Creates a BotRenderingMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotRenderingMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5823](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5823)
+Defined in: [WAProto/index.d.ts:5823](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5823)
 
 Gets the default type url for BotRenderingMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5810](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5810)
+Defined in: [WAProto/index.d.ts:5810](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5810)
 
 Creates a plain object from a BotRenderingMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5795](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L5795)
+Defined in: [WAProto/index.d.ts:5795](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L5795)
 
 Verifies a BotRenderingMetadata message.
 

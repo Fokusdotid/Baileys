@@ -2,7 +2,7 @@
 
 > **PollMessageOptions**: `object`
 
-Defined in: [src/Types/Message.ts:104](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Message.ts#L104)
+Defined in: [src/Types/Message.ts:104](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Message.ts#L104)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Enumeration: ModelType
 
-Defined in: [WAProto/index.d.ts:4829](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L4829)
+Defined in: [WAProto/index.d.ts:4829](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4829)
 
 ModelType enum.
 
@@ -10,7 +10,7 @@ ModelType enum.
 
 > **LLAMA\_PROD**: `1`
 
-Defined in: [WAProto/index.d.ts:4831](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L4831)
+Defined in: [WAProto/index.d.ts:4831](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4831)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:4831](https://github.com/Fokusdotid/Baileys/blob
 
 > **LLAMA\_PROD\_PREMIUM**: `2`
 
-Defined in: [WAProto/index.d.ts:4832](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L4832)
+Defined in: [WAProto/index.d.ts:4832](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4832)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:4832](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN\_TYPE**: `0`
 
-Defined in: [WAProto/index.d.ts:4830](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L4830)
+Defined in: [WAProto/index.d.ts:4830](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L4830)

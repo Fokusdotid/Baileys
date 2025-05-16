@@ -2,7 +2,7 @@
 
 > **SignalCreds**: `object`
 
-Defined in: [src/Types/Auth.ts:30](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Auth.ts#L30)
+Defined in: [src/Types/Auth.ts:30](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Auth.ts#L30)
 
 ## Type declaration
 

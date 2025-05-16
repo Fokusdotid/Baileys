@@ -2,4 +2,4 @@
 
 > `const` **MEDIA\_KEYS**: (`"ppic"` \| `"product"` \| `"image"` \| `"video"` \| `"sticker"` \| `"audio"` \| `"gif"` \| `"ptt"` \| `"thumbnail-document"` \| `"thumbnail-image"` \| `"thumbnail-link"` \| `"thumbnail-video"` \| `"md-app-state"` \| `"md-msg-hist"` \| `"document"` \| `"product-catalog-image"` \| `"payment-bg-image"` \| `"ptv"`)[]
 
-Defined in: [src/Defaults/index.ts:104](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Defaults/index.ts#L104)
+Defined in: [src/Defaults/index.ts:104](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Defaults/index.ts#L104)

@@ -1,6 +1,6 @@
 # Class: ServerErrorReceipt
 
-Defined in: [WAProto/index.d.ts:38963](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38963)
+Defined in: [WAProto/index.d.ts:38963](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38963)
 
 Represents a ServerErrorReceipt.
 
@@ -14,7 +14,7 @@ Represents a ServerErrorReceipt.
 
 > **new ServerErrorReceipt**(`properties`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:38969](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38969)
+Defined in: [WAProto/index.d.ts:38969](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38969)
 
 Constructs a new ServerErrorReceipt.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38972](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38972)
+Defined in: [WAProto/index.d.ts:38972](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38972)
 
 ServerErrorReceipt stanzaId.
 
@@ -50,7 +50,7 @@ ServerErrorReceipt stanzaId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39042](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39042)
+Defined in: [WAProto/index.d.ts:39042](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39042)
 
 Converts this ServerErrorReceipt to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:38979](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38979)
+Defined in: [WAProto/index.d.ts:38979](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38979)
 
 Creates a new ServerErrorReceipt instance using the specified properties.
 
@@ -90,7 +90,7 @@ ServerErrorReceipt instance
 
 > `static` **decode**(`reader`, `length`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:39005](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39005)
+Defined in: [WAProto/index.d.ts:39005](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39005)
 
 Decodes a ServerErrorReceipt message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:39014](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39014)
+Defined in: [WAProto/index.d.ts:39014](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39014)
 
 Decodes a ServerErrorReceipt message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38987](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38987)
+Defined in: [WAProto/index.d.ts:38987](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38987)
 
 Encodes the specified ServerErrorReceipt message. Does not implicitly [verify](ServerErrorReceipt.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38995](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L38995)
+Defined in: [WAProto/index.d.ts:38995](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L38995)
 
 Encodes the specified ServerErrorReceipt message, length delimited. Does not implicitly [verify](ServerErrorReceipt.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:39028](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39028)
+Defined in: [WAProto/index.d.ts:39028](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39028)
 
 Creates a ServerErrorReceipt message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ServerErrorReceipt
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39049](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39049)
+Defined in: [WAProto/index.d.ts:39049](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39049)
 
 Gets the default type url for ServerErrorReceipt
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39036](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39036)
+Defined in: [WAProto/index.d.ts:39036](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39036)
 
 Creates a plain object from a ServerErrorReceipt message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39021](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L39021)
+Defined in: [WAProto/index.d.ts:39021](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L39021)
 
 Verifies a ServerErrorReceipt message.
 

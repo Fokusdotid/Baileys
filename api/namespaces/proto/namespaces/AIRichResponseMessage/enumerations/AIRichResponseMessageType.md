@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseMessageType
 
-Defined in: [WAProto/index.d.ts:2282](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L2282)
+Defined in: [WAProto/index.d.ts:2282](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L2282)
 
 AIRichResponseMessageType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseMessageType enum.
 
 > **AI\_RICH\_RESPONSE\_TYPE\_STANDARD**: `1`
 
-Defined in: [WAProto/index.d.ts:2284](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L2284)
+Defined in: [WAProto/index.d.ts:2284](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L2284)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:2284](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_TYPE\_UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:2283](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L2283)
+Defined in: [WAProto/index.d.ts:2283](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L2283)

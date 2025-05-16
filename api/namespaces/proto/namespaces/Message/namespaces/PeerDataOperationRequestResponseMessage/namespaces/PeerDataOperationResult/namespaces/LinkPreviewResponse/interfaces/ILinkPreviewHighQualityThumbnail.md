@@ -1,6 +1,6 @@
 # Interface: ILinkPreviewHighQualityThumbnail
 
-Defined in: [WAProto/index.d.ts:28128](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28128)
+Defined in: [WAProto/index.d.ts:28128](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28128)
 
 Properties of a LinkPreviewHighQualityThumbnail.
 
@@ -10,7 +10,7 @@ Properties of a LinkPreviewHighQualityThumbnail.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28131](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28131)
+Defined in: [WAProto/index.d.ts:28131](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28131)
 
 LinkPreviewHighQualityThumbnail directPath
 
@@ -20,7 +20,7 @@ LinkPreviewHighQualityThumbnail directPath
 
 > `optional` **encThumbHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28137](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28137)
+Defined in: [WAProto/index.d.ts:28137](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28137)
 
 LinkPreviewHighQualityThumbnail encThumbHash
 
@@ -30,7 +30,7 @@ LinkPreviewHighQualityThumbnail encThumbHash
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28140](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28140)
+Defined in: [WAProto/index.d.ts:28140](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28140)
 
 LinkPreviewHighQualityThumbnail mediaKey
 
@@ -40,7 +40,7 @@ LinkPreviewHighQualityThumbnail mediaKey
 
 > `optional` **mediaKeyTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28143](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28143)
+Defined in: [WAProto/index.d.ts:28143](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28143)
 
 LinkPreviewHighQualityThumbnail mediaKeyTimestampMs
 
@@ -50,7 +50,7 @@ LinkPreviewHighQualityThumbnail mediaKeyTimestampMs
 
 > `optional` **thumbHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28134](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28134)
+Defined in: [WAProto/index.d.ts:28134](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28134)
 
 LinkPreviewHighQualityThumbnail thumbHash
 
@@ -60,7 +60,7 @@ LinkPreviewHighQualityThumbnail thumbHash
 
 > `optional` **thumbHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28149](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28149)
+Defined in: [WAProto/index.d.ts:28149](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28149)
 
 LinkPreviewHighQualityThumbnail thumbHeight
 
@@ -70,6 +70,6 @@ LinkPreviewHighQualityThumbnail thumbHeight
 
 > `optional` **thumbWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28146](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L28146)
+Defined in: [WAProto/index.d.ts:28146](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L28146)
 
 LinkPreviewHighQualityThumbnail thumbWidth

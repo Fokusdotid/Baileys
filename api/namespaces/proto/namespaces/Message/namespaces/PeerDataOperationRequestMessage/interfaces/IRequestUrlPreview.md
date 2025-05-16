@@ -1,6 +1,6 @@
 # Interface: IRequestUrlPreview
 
-Defined in: [WAProto/index.d.ts:27432](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L27432)
+Defined in: [WAProto/index.d.ts:27432](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L27432)
 
 Properties of a RequestUrlPreview.
 
@@ -10,7 +10,7 @@ Properties of a RequestUrlPreview.
 
 > `optional` **includeHqThumbnail**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:27438](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L27438)
+Defined in: [WAProto/index.d.ts:27438](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L27438)
 
 RequestUrlPreview includeHqThumbnail
 
@@ -20,6 +20,6 @@ RequestUrlPreview includeHqThumbnail
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27435](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L27435)
+Defined in: [WAProto/index.d.ts:27435](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L27435)
 
 RequestUrlPreview url

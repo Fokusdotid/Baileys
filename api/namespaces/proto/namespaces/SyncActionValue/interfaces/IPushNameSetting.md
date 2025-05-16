@@ -1,6 +1,6 @@
 # Interface: IPushNameSetting
 
-Defined in: [WAProto/index.d.ts:44974](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L44974)
+Defined in: [WAProto/index.d.ts:44974](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44974)
 
 Properties of a PushNameSetting.
 
@@ -10,6 +10,6 @@ Properties of a PushNameSetting.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44977](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L44977)
+Defined in: [WAProto/index.d.ts:44977](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L44977)
 
 PushNameSetting name

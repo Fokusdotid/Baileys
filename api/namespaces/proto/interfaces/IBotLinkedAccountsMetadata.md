@@ -1,6 +1,6 @@
 # Interface: IBotLinkedAccountsMetadata
 
-Defined in: [WAProto/index.d.ts:3846](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3846)
+Defined in: [WAProto/index.d.ts:3846](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3846)
 
 Properties of a BotLinkedAccountsMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotLinkedAccountsMetadata.
 
 > `optional` **acAuthTokens**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:3852](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3852)
+Defined in: [WAProto/index.d.ts:3852](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3852)
 
 BotLinkedAccountsMetadata acAuthTokens
 
@@ -20,6 +20,6 @@ BotLinkedAccountsMetadata acAuthTokens
 
 > `optional` **accounts**: `null` \| [`IBotLinkedAccount`](IBotLinkedAccount.md)[]
 
-Defined in: [WAProto/index.d.ts:3849](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L3849)
+Defined in: [WAProto/index.d.ts:3849](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L3849)
 
 BotLinkedAccountsMetadata accounts

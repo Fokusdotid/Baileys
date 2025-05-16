@@ -2,7 +2,7 @@
 
 > `const` **Curve**: `object`
 
-Defined in: [src/Utils/crypto.ts:16](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Utils/crypto.ts#L16)
+Defined in: [src/Utils/crypto.ts:16](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Utils/crypto.ts#L16)
 
 ## Type declaration
 

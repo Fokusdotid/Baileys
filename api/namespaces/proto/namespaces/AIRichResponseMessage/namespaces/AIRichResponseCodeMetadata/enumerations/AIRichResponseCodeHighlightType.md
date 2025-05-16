@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseCodeHighlightType
 
-Defined in: [WAProto/index.d.ts:1004](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1004)
+Defined in: [WAProto/index.d.ts:1004](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1004)
 
 AIRichResponseCodeHighlightType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseCodeHighlightType enum.
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_COMMENT**: `5`
 
-Defined in: [WAProto/index.d.ts:1010](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1010)
+Defined in: [WAProto/index.d.ts:1010](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1010)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1010](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:1005](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1005)
+Defined in: [WAProto/index.d.ts:1005](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1005)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:1005](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_KEYWORD**: `1`
 
-Defined in: [WAProto/index.d.ts:1006](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1006)
+Defined in: [WAProto/index.d.ts:1006](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1006)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:1006](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_METHOD**: `2`
 
-Defined in: [WAProto/index.d.ts:1007](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1007)
+Defined in: [WAProto/index.d.ts:1007](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1007)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:1007](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_NUMBER**: `4`
 
-Defined in: [WAProto/index.d.ts:1009](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1009)
+Defined in: [WAProto/index.d.ts:1009](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1009)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:1009](https://github.com/Fokusdotid/Baileys/blob
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_STRING**: `3`
 
-Defined in: [WAProto/index.d.ts:1008](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L1008)
+Defined in: [WAProto/index.d.ts:1008](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L1008)

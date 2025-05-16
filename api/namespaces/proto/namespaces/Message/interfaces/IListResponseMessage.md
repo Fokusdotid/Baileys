@@ -1,6 +1,6 @@
 # Interface: IListResponseMessage
 
-Defined in: [WAProto/index.d.ts:25635](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25635)
+Defined in: [WAProto/index.d.ts:25635](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25635)
 
 Properties of a ListResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a ListResponseMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:25647](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25647)
+Defined in: [WAProto/index.d.ts:25647](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25647)
 
 ListResponseMessage contextInfo
 
@@ -20,7 +20,7 @@ ListResponseMessage contextInfo
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25650](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25650)
+Defined in: [WAProto/index.d.ts:25650](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25650)
 
 ListResponseMessage description
 
@@ -30,7 +30,7 @@ ListResponseMessage description
 
 > `optional` **listType**: `null` \| [`ListType`](../namespaces/ListResponseMessage/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:25641](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25641)
+Defined in: [WAProto/index.d.ts:25641](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25641)
 
 ListResponseMessage listType
 
@@ -40,7 +40,7 @@ ListResponseMessage listType
 
 > `optional` **singleSelectReply**: `null` \| [`ISingleSelectReply`](../namespaces/ListResponseMessage/interfaces/ISingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25644](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25644)
+Defined in: [WAProto/index.d.ts:25644](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25644)
 
 ListResponseMessage singleSelectReply
 
@@ -50,6 +50,6 @@ ListResponseMessage singleSelectReply
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25638](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L25638)
+Defined in: [WAProto/index.d.ts:25638](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L25638)
 
 ListResponseMessage title

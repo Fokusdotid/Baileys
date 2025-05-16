@@ -2,4 +2,4 @@
 
 > **WALocationMessage**: [`ILocationMessage`](../namespaces/proto/namespaces/Message/interfaces/ILocationMessage.md)
 
-Defined in: [src/Types/Message.ts:19](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/src/Types/Message.ts#L19)
+Defined in: [src/Types/Message.ts:19](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/src/Types/Message.ts#L19)

@@ -1,6 +1,6 @@
 # Class: PollOption
 
-Defined in: [WAProto/index.d.ts:34211](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34211)
+Defined in: [WAProto/index.d.ts:34211](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34211)
 
 Represents a PollOption.
 
@@ -14,7 +14,7 @@ Represents a PollOption.
 
 > **new PollOption**(`properties`?): [`PollOption`](PollOption.md)
 
-Defined in: [WAProto/index.d.ts:34217](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34217)
+Defined in: [WAProto/index.d.ts:34217](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34217)
 
 Constructs a new PollOption.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **hash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34223](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34223)
+Defined in: [WAProto/index.d.ts:34223](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34223)
 
 PollOption hash.
 
@@ -50,7 +50,7 @@ PollOption hash.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34220](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34220)
+Defined in: [WAProto/index.d.ts:34220](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34220)
 
 PollOption name.
 
@@ -64,7 +64,7 @@ PollOption name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:34293](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34293)
+Defined in: [WAProto/index.d.ts:34293](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34293)
 
 Converts this PollOption to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollOption`](PollOption.md)
 
-Defined in: [WAProto/index.d.ts:34230](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34230)
+Defined in: [WAProto/index.d.ts:34230](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34230)
 
 Creates a new PollOption instance using the specified properties.
 
@@ -104,7 +104,7 @@ PollOption instance
 
 > `static` **decode**(`reader`, `length`?): [`PollOption`](PollOption.md)
 
-Defined in: [WAProto/index.d.ts:34256](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34256)
+Defined in: [WAProto/index.d.ts:34256](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34256)
 
 Decodes a PollOption message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollOption`](PollOption.md)
 
-Defined in: [WAProto/index.d.ts:34265](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34265)
+Defined in: [WAProto/index.d.ts:34265](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34265)
 
 Decodes a PollOption message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34238](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34238)
+Defined in: [WAProto/index.d.ts:34238](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34238)
 
 Encodes the specified PollOption message. Does not implicitly [verify](PollOption.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34246](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34246)
+Defined in: [WAProto/index.d.ts:34246](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34246)
 
 Encodes the specified PollOption message, length delimited. Does not implicitly [verify](PollOption.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollOption`](PollOption.md)
 
-Defined in: [WAProto/index.d.ts:34279](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34279)
+Defined in: [WAProto/index.d.ts:34279](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34279)
 
 Creates a PollOption message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PollOption
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:34300](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34300)
+Defined in: [WAProto/index.d.ts:34300](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34300)
 
 Gets the default type url for PollOption
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:34287](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34287)
+Defined in: [WAProto/index.d.ts:34287](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34287)
 
 Creates a plain object from a PollOption message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34272](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L34272)
+Defined in: [WAProto/index.d.ts:34272](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L34272)
 
 Verifies a PollOption message.
 

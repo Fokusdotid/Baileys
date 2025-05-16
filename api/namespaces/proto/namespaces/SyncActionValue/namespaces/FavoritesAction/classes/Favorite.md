@@ -1,6 +1,6 @@
 # Class: Favorite
 
-Defined in: [WAProto/index.d.ts:42664](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42664)
+Defined in: [WAProto/index.d.ts:42664](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42664)
 
 Represents a Favorite.
 
@@ -14,7 +14,7 @@ Represents a Favorite.
 
 > **new Favorite**(`properties`?): [`Favorite`](Favorite.md)
 
-Defined in: [WAProto/index.d.ts:42670](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42670)
+Defined in: [WAProto/index.d.ts:42670](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42670)
 
 Constructs a new Favorite.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42673](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42673)
+Defined in: [WAProto/index.d.ts:42673](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42673)
 
 Favorite id.
 
@@ -50,7 +50,7 @@ Favorite id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42743](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42743)
+Defined in: [WAProto/index.d.ts:42743](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42743)
 
 Converts this Favorite to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Favorite`](Favorite.md)
 
-Defined in: [WAProto/index.d.ts:42680](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42680)
+Defined in: [WAProto/index.d.ts:42680](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42680)
 
 Creates a new Favorite instance using the specified properties.
 
@@ -90,7 +90,7 @@ Favorite instance
 
 > `static` **decode**(`reader`, `length`?): [`Favorite`](Favorite.md)
 
-Defined in: [WAProto/index.d.ts:42706](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42706)
+Defined in: [WAProto/index.d.ts:42706](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42706)
 
 Decodes a Favorite message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Favorite`](Favorite.md)
 
-Defined in: [WAProto/index.d.ts:42715](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42715)
+Defined in: [WAProto/index.d.ts:42715](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42715)
 
 Decodes a Favorite message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42688](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42688)
+Defined in: [WAProto/index.d.ts:42688](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42688)
 
 Encodes the specified Favorite message. Does not implicitly [verify](Favorite.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42696](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42696)
+Defined in: [WAProto/index.d.ts:42696](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42696)
 
 Encodes the specified Favorite message, length delimited. Does not implicitly [verify](Favorite.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Favorite`](Favorite.md)
 
-Defined in: [WAProto/index.d.ts:42729](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42729)
+Defined in: [WAProto/index.d.ts:42729](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42729)
 
 Creates a Favorite message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ Favorite
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42750](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42750)
+Defined in: [WAProto/index.d.ts:42750](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42750)
 
 Gets the default type url for Favorite
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42737](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42737)
+Defined in: [WAProto/index.d.ts:42737](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42737)
 
 Creates a plain object from a Favorite message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42722](https://github.com/Fokusdotid/Baileys/blob/c2e37a764497a58082d1525ba2f083f341e3eefa/WAProto/index.d.ts#L42722)
+Defined in: [WAProto/index.d.ts:42722](https://github.com/Fokusdotid/Baileys/blob/eb819228f591f9a29a091aefc3a8c91a38d77089/WAProto/index.d.ts#L42722)
 
 Verifies a Favorite message.
 
