@@ -2,7 +2,7 @@
 
 > **OrderDetails**: `object`
 
-Defined in: [src/Types/Product.ts:71](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/Product.ts#L71)
+Defined in: [src/Types/Product.ts:71](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/Product.ts#L71)
 
 ## Type declaration
 

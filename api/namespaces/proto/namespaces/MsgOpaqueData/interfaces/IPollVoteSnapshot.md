@@ -1,6 +1,6 @@
 # Interface: IPollVoteSnapshot
 
-Defined in: [WAProto/index.d.ts:34304](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34304)
+Defined in: [WAProto/index.d.ts:34304](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34304)
 
 Properties of a PollVoteSnapshot.
 
@@ -10,7 +10,7 @@ Properties of a PollVoteSnapshot.
 
 > `optional` **option**: `null` \| [`IPollOption`](IPollOption.md)
 
-Defined in: [WAProto/index.d.ts:34307](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34307)
+Defined in: [WAProto/index.d.ts:34307](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34307)
 
 PollVoteSnapshot option
 
@@ -20,6 +20,6 @@ PollVoteSnapshot option
 
 > `optional` **optionVoteCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34310](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34310)
+Defined in: [WAProto/index.d.ts:34310](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34310)
 
 PollVoteSnapshot optionVoteCount

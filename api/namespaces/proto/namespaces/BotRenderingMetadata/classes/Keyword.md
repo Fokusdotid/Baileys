@@ -1,6 +1,6 @@
 # Class: Keyword
 
-Defined in: [WAProto/index.d.ts:5839](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5839)
+Defined in: [WAProto/index.d.ts:5839](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5839)
 
 Represents a Keyword.
 
@@ -14,7 +14,7 @@ Represents a Keyword.
 
 > **new Keyword**(`properties`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:5845](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5845)
+Defined in: [WAProto/index.d.ts:5845](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5845)
 
 Constructs a new Keyword.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **associatedPrompts**: `string`[]
 
-Defined in: [WAProto/index.d.ts:5851](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5851)
+Defined in: [WAProto/index.d.ts:5851](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5851)
 
 Keyword associatedPrompts.
 
@@ -50,7 +50,7 @@ Keyword associatedPrompts.
 
 > `optional` **value**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5848](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5848)
+Defined in: [WAProto/index.d.ts:5848](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5848)
 
 Keyword value.
 
@@ -64,7 +64,7 @@ Keyword value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5921](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5921)
+Defined in: [WAProto/index.d.ts:5921](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5921)
 
 Converts this Keyword to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:5858](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5858)
+Defined in: [WAProto/index.d.ts:5858](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5858)
 
 Creates a new Keyword instance using the specified properties.
 
@@ -104,7 +104,7 @@ Keyword instance
 
 > `static` **decode**(`reader`, `length`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:5884](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5884)
+Defined in: [WAProto/index.d.ts:5884](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5884)
 
 Decodes a Keyword message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:5893](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5893)
+Defined in: [WAProto/index.d.ts:5893](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5893)
 
 Decodes a Keyword message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5866](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5866)
+Defined in: [WAProto/index.d.ts:5866](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5866)
 
 Encodes the specified Keyword message. Does not implicitly [verify](Keyword.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5874](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5874)
+Defined in: [WAProto/index.d.ts:5874](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5874)
 
 Encodes the specified Keyword message, length delimited. Does not implicitly [verify](Keyword.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:5907](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5907)
+Defined in: [WAProto/index.d.ts:5907](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5907)
 
 Creates a Keyword message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Keyword
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5928](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5928)
+Defined in: [WAProto/index.d.ts:5928](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5928)
 
 Gets the default type url for Keyword
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5915](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5915)
+Defined in: [WAProto/index.d.ts:5915](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5915)
 
 Creates a plain object from a Keyword message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5900](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5900)
+Defined in: [WAProto/index.d.ts:5900](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5900)
 
 Verifies a Keyword message.
 

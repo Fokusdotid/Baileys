@@ -1,6 +1,6 @@
 # Enumeration: DisconnectReason
 
-Defined in: [src/Types/index.ts:26](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L26)
+Defined in: [src/Types/index.ts:26](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L26)
 
 ## Enumeration Members
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/index.ts:26](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **badSession**: `500`
 
-Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L32)
+Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L32)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **connectionClosed**: `428`
 
-Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L27)
+Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L27)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **connectionLost**: `408`
 
-Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L28)
+Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L28)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **connectionReplaced**: `440`
 
-Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L29)
+Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L29)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **forbidden**: `403`
 
-Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L35)
+Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L35)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **loggedOut**: `401`
 
-Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L31)
+Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L31)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **multideviceMismatch**: `411`
 
-Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L34)
+Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L34)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **restartRequired**: `515`
 
-Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L33)
+Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L33)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **timedOut**: `408`
 
-Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L30)
+Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L30)
 
 ***
 
@@ -80,4 +80,4 @@ Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/Baileys/blob/8
 
 > **unavailableService**: `503`
 
-Defined in: [src/Types/index.ts:36](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L36)
+Defined in: [src/Types/index.ts:36](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/index.ts#L36)

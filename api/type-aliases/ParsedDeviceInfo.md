@@ -2,7 +2,7 @@
 
 > **ParsedDeviceInfo**: `object`
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:17](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L17)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:17](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L17)
 
 ## Type declaration
 

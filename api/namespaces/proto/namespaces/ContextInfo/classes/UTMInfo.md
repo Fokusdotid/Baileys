@@ -1,6 +1,6 @@
 # Class: UTMInfo
 
-Defined in: [WAProto/index.d.ts:10813](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10813)
+Defined in: [WAProto/index.d.ts:10813](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10813)
 
 Represents a UTMInfo.
 
@@ -14,7 +14,7 @@ Represents a UTMInfo.
 
 > **new UTMInfo**(`properties`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10819](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10819)
+Defined in: [WAProto/index.d.ts:10819](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10819)
 
 Constructs a new UTMInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **utmCampaign**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10825](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10825)
+Defined in: [WAProto/index.d.ts:10825](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10825)
 
 UTMInfo utmCampaign.
 
@@ -50,7 +50,7 @@ UTMInfo utmCampaign.
 
 > `optional` **utmSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10822](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10822)
+Defined in: [WAProto/index.d.ts:10822](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10822)
 
 UTMInfo utmSource.
 
@@ -64,7 +64,7 @@ UTMInfo utmSource.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10895](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10895)
+Defined in: [WAProto/index.d.ts:10895](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10895)
 
 Converts this UTMInfo to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10832](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10832)
+Defined in: [WAProto/index.d.ts:10832](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10832)
 
 Creates a new UTMInfo instance using the specified properties.
 
@@ -104,7 +104,7 @@ UTMInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10858](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10858)
+Defined in: [WAProto/index.d.ts:10858](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10858)
 
 Decodes a UTMInfo message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10867](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10867)
+Defined in: [WAProto/index.d.ts:10867](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10867)
 
 Decodes a UTMInfo message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10840](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10840)
+Defined in: [WAProto/index.d.ts:10840](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10840)
 
 Encodes the specified UTMInfo message. Does not implicitly [verify](UTMInfo.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10848](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10848)
+Defined in: [WAProto/index.d.ts:10848](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10848)
 
 Encodes the specified UTMInfo message, length delimited. Does not implicitly [verify](UTMInfo.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10881](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10881)
+Defined in: [WAProto/index.d.ts:10881](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10881)
 
 Creates a UTMInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ UTMInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10902](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10902)
+Defined in: [WAProto/index.d.ts:10902](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10902)
 
 Gets the default type url for UTMInfo
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10889](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10889)
+Defined in: [WAProto/index.d.ts:10889](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10889)
 
 Creates a plain object from a UTMInfo message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10874](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L10874)
+Defined in: [WAProto/index.d.ts:10874](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L10874)
 
 Verifies a UTMInfo message.
 

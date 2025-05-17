@@ -1,6 +1,6 @@
 # Class: InteractiveResponseMessage
 
-Defined in: [WAProto/index.d.ts:24270](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24270)
+Defined in: [WAProto/index.d.ts:24270](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24270)
 
 Represents an InteractiveResponseMessage.
 
@@ -14,7 +14,7 @@ Represents an InteractiveResponseMessage.
 
 > **new InteractiveResponseMessage**(`properties`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24276](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24276)
+Defined in: [WAProto/index.d.ts:24276](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24276)
 
 Constructs a new InteractiveResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveResponseMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:24279](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24279)
+Defined in: [WAProto/index.d.ts:24279](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24279)
 
 InteractiveResponseMessage body.
 
@@ -50,7 +50,7 @@ InteractiveResponseMessage body.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:24282](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24282)
+Defined in: [WAProto/index.d.ts:24282](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24282)
 
 InteractiveResponseMessage contextInfo.
 
@@ -64,7 +64,7 @@ InteractiveResponseMessage contextInfo.
 
 > `optional` **interactiveResponseMessage**: `"nativeFlowResponseMessage"`
 
-Defined in: [WAProto/index.d.ts:24288](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24288)
+Defined in: [WAProto/index.d.ts:24288](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24288)
 
 InteractiveResponseMessage interactiveResponseMessage.
 
@@ -74,7 +74,7 @@ InteractiveResponseMessage interactiveResponseMessage.
 
 > `optional` **nativeFlowResponseMessage**: `null` \| [`INativeFlowResponseMessage`](../namespaces/InteractiveResponseMessage/interfaces/INativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24285](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24285)
+Defined in: [WAProto/index.d.ts:24285](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24285)
 
 InteractiveResponseMessage nativeFlowResponseMessage.
 
@@ -88,7 +88,7 @@ InteractiveResponseMessage nativeFlowResponseMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24358](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24358)
+Defined in: [WAProto/index.d.ts:24358](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24358)
 
 Converts this InteractiveResponseMessage to JSON.
 
@@ -104,7 +104,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24295](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24295)
+Defined in: [WAProto/index.d.ts:24295](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24295)
 
 Creates a new InteractiveResponseMessage instance using the specified properties.
 
@@ -128,7 +128,7 @@ InteractiveResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24321](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24321)
+Defined in: [WAProto/index.d.ts:24321](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24321)
 
 Decodes an InteractiveResponseMessage message from the specified reader or buffer.
 
@@ -166,7 +166,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24330](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24330)
+Defined in: [WAProto/index.d.ts:24330](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24330)
 
 Decodes an InteractiveResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24303](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24303)
+Defined in: [WAProto/index.d.ts:24303](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24303)
 
 Encodes the specified InteractiveResponseMessage message. Does not implicitly [verify](InteractiveResponseMessage.md#verify) messages.
 
@@ -228,7 +228,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24311](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24311)
+Defined in: [WAProto/index.d.ts:24311](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24311)
 
 Encodes the specified InteractiveResponseMessage message, length delimited. Does not implicitly [verify](InteractiveResponseMessage.md#verify) messages.
 
@@ -258,7 +258,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24344](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24344)
+Defined in: [WAProto/index.d.ts:24344](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24344)
 
 Creates an InteractiveResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -280,7 +280,7 @@ InteractiveResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24365](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24365)
+Defined in: [WAProto/index.d.ts:24365](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24365)
 
 Gets the default type url for InteractiveResponseMessage
 
@@ -304,7 +304,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24352](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24352)
+Defined in: [WAProto/index.d.ts:24352](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24352)
 
 Creates a plain object from an InteractiveResponseMessage message. Also converts values to other types if specified.
 
@@ -334,7 +334,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24337](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L24337)
+Defined in: [WAProto/index.d.ts:24337](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L24337)
 
 Verifies an InteractiveResponseMessage message.
 

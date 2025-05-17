@@ -1,6 +1,6 @@
 # Enumeration: StickerPackOrigin
 
-Defined in: [WAProto/index.d.ts:31928](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31928)
+Defined in: [WAProto/index.d.ts:31928](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31928)
 
 StickerPackOrigin enum.
 
@@ -10,7 +10,7 @@ StickerPackOrigin enum.
 
 > **FIRST\_PARTY**: `0`
 
-Defined in: [WAProto/index.d.ts:31929](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31929)
+Defined in: [WAProto/index.d.ts:31929](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31929)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:31929](https://github.com/Fokusdotid/Baileys/blo
 
 > **THIRD\_PARTY**: `1`
 
-Defined in: [WAProto/index.d.ts:31930](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31930)
+Defined in: [WAProto/index.d.ts:31930](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31930)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:31930](https://github.com/Fokusdotid/Baileys/blo
 
 > **USER\_CREATED**: `2`
 
-Defined in: [WAProto/index.d.ts:31931](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31931)
+Defined in: [WAProto/index.d.ts:31931](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31931)

@@ -1,6 +1,6 @@
 # Interface: IMessageAssociation
 
-Defined in: [WAProto/index.d.ts:33113](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L33113)
+Defined in: [WAProto/index.d.ts:33113](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L33113)
 
 Properties of a MessageAssociation.
 
@@ -10,7 +10,7 @@ Properties of a MessageAssociation.
 
 > `optional` **associationType**: `null` \| [`AssociationType`](../namespaces/MessageAssociation/enumerations/AssociationType.md)
 
-Defined in: [WAProto/index.d.ts:33116](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L33116)
+Defined in: [WAProto/index.d.ts:33116](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L33116)
 
 MessageAssociation associationType
 
@@ -20,7 +20,7 @@ MessageAssociation associationType
 
 > `optional` **messageIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33122](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L33122)
+Defined in: [WAProto/index.d.ts:33122](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L33122)
 
 MessageAssociation messageIndex
 
@@ -30,6 +30,6 @@ MessageAssociation messageIndex
 
 > `optional` **parentMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33119](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L33119)
+Defined in: [WAProto/index.d.ts:33119](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L33119)
 
 MessageAssociation parentMessageKey

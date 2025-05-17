@@ -1,6 +1,6 @@
 # Interface: ISticker
 
-Defined in: [WAProto/index.d.ts:31801](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31801)
+Defined in: [WAProto/index.d.ts:31801](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31801)
 
 Properties of a Sticker.
 
@@ -10,7 +10,7 @@ Properties of a Sticker.
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31813](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31813)
+Defined in: [WAProto/index.d.ts:31813](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31813)
 
 Sticker accessibilityLabel
 
@@ -20,7 +20,7 @@ Sticker accessibilityLabel
 
 > `optional` **emojis**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:31810](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31810)
+Defined in: [WAProto/index.d.ts:31810](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31810)
 
 Sticker emojis
 
@@ -30,7 +30,7 @@ Sticker emojis
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31804](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31804)
+Defined in: [WAProto/index.d.ts:31804](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31804)
 
 Sticker fileName
 
@@ -40,7 +40,7 @@ Sticker fileName
 
 > `optional` **isAnimated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:31807](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31807)
+Defined in: [WAProto/index.d.ts:31807](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31807)
 
 Sticker isAnimated
 
@@ -50,7 +50,7 @@ Sticker isAnimated
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:31816](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31816)
+Defined in: [WAProto/index.d.ts:31816](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31816)
 
 Sticker isLottie
 
@@ -60,6 +60,6 @@ Sticker isLottie
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31819](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L31819)
+Defined in: [WAProto/index.d.ts:31819](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L31819)
 
 Sticker mimetype

@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseContentItemMetadata
 
-Defined in: [WAProto/index.d.ts:1120](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L1120)
+Defined in: [WAProto/index.d.ts:1120](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L1120)
 
 Properties of a AIRichResponseContentItemMetadata.
 
@@ -10,6 +10,6 @@ Properties of a AIRichResponseContentItemMetadata.
 
 > `optional` **reelItem**: `null` \| [`IAIRichResponseReelItem`](IAIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1123](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L1123)
+Defined in: [WAProto/index.d.ts:1123](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L1123)
 
 AIRichResponseContentItemMetadata reelItem

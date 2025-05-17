@@ -2,7 +2,7 @@
 
 > **encodeSyncdPatch**(`__namedParameters`, `myAppStateKeyId`, `state`, `getAppStateSyncKey`): `Promise`\<\{ `patch`: [`ISyncdPatch`](../namespaces/proto/interfaces/ISyncdPatch.md); `state`: [`LTHashState`](../type-aliases/LTHashState.md); \}\>
 
-Defined in: [src/Utils/chat-utils.ts:123](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Utils/chat-utils.ts#L123)
+Defined in: [src/Utils/chat-utils.ts:123](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Utils/chat-utils.ts#L123)
 
 ## Parameters
 

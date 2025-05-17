@@ -1,6 +1,6 @@
 # Interface: IPollVote
 
-Defined in: [WAProto/index.d.ts:29172](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29172)
+Defined in: [WAProto/index.d.ts:29172](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L29172)
 
 Properties of a PollVote.
 
@@ -10,7 +10,7 @@ Properties of a PollVote.
 
 > `optional` **optionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29175](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29175)
+Defined in: [WAProto/index.d.ts:29175](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L29175)
 
 PollVote optionName
 
@@ -20,6 +20,6 @@ PollVote optionName
 
 > `optional` **optionVoteCount**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29178](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29178)
+Defined in: [WAProto/index.d.ts:29178](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L29178)
 
 PollVote optionVoteCount

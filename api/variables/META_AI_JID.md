@@ -2,4 +2,4 @@
 
 > `const` **META\_AI\_JID**: `"13135550002@c.us"` = `'13135550002@c.us'`
 
-Defined in: [src/WABinary/jid-utils.ts:6](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/WABinary/jid-utils.ts#L6)
+Defined in: [src/WABinary/jid-utils.ts:6](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/WABinary/jid-utils.ts#L6)

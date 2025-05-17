@@ -2,7 +2,7 @@
 
 > `const` **MEDIA\_HKDF\_KEY\_MAPPING**: `object`
 
-Defined in: [src/Defaults/index.ts:83](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Defaults/index.ts#L83)
+Defined in: [src/Defaults/index.ts:83](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Defaults/index.ts#L83)
 
 ## Type declaration
 

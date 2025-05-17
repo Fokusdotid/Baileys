@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseAbstractData
 
-Defined in: [WAProto/index.d.ts:699](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L699)
+Defined in: [WAProto/index.d.ts:699](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L699)
 
 Properties of a AIRichResponseAbstractData.
 
@@ -10,6 +10,6 @@ Properties of a AIRichResponseAbstractData.
 
 > `optional` **data**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:702](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L702)
+Defined in: [WAProto/index.d.ts:702](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L702)
 
 AIRichResponseAbstractData data

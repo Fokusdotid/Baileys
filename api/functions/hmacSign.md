@@ -2,7 +2,7 @@
 
 > **hmacSign**(`buffer`, `key`, `variant`): `Buffer`\<`ArrayBufferLike`\>
 
-Defined in: [src/Utils/crypto.ts:114](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Utils/crypto.ts#L114)
+Defined in: [src/Utils/crypto.ts:114](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Utils/crypto.ts#L114)
 
 ## Parameters
 

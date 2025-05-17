@@ -1,6 +1,6 @@
 # Interface: IKeyExpiration
 
-Defined in: [WAProto/index.d.ts:42755](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42755)
+Defined in: [WAProto/index.d.ts:42755](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42755)
 
 Properties of a KeyExpiration.
 
@@ -10,6 +10,6 @@ Properties of a KeyExpiration.
 
 > `optional` **expiredKeyEpoch**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42758](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42758)
+Defined in: [WAProto/index.d.ts:42758](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42758)
 
 KeyExpiration expiredKeyEpoch

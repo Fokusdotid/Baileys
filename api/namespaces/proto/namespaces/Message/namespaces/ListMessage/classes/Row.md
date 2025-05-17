@@ -1,6 +1,6 @@
 # Class: Row
 
-Defined in: [WAProto/index.d.ts:25435](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25435)
+Defined in: [WAProto/index.d.ts:25435](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25435)
 
 Represents a Row.
 
@@ -14,7 +14,7 @@ Represents a Row.
 
 > **new Row**(`properties`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:25441](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25441)
+Defined in: [WAProto/index.d.ts:25441](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25441)
 
 Constructs a new Row.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25447](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25447)
+Defined in: [WAProto/index.d.ts:25447](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25447)
 
 Row description.
 
@@ -50,7 +50,7 @@ Row description.
 
 > `optional` **rowId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25450](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25450)
+Defined in: [WAProto/index.d.ts:25450](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25450)
 
 Row rowId.
 
@@ -64,7 +64,7 @@ Row rowId.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25444](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25444)
+Defined in: [WAProto/index.d.ts:25444](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25444)
 
 Row title.
 
@@ -78,7 +78,7 @@ Row title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25520](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25520)
+Defined in: [WAProto/index.d.ts:25520](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25520)
 
 Converts this Row to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:25457](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25457)
+Defined in: [WAProto/index.d.ts:25457](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25457)
 
 Creates a new Row instance using the specified properties.
 
@@ -118,7 +118,7 @@ Row instance
 
 > `static` **decode**(`reader`, `length`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:25483](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25483)
+Defined in: [WAProto/index.d.ts:25483](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25483)
 
 Decodes a Row message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:25492](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25492)
+Defined in: [WAProto/index.d.ts:25492](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25492)
 
 Decodes a Row message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25465](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25465)
+Defined in: [WAProto/index.d.ts:25465](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25465)
 
 Encodes the specified Row message. Does not implicitly [verify](Row.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25473](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25473)
+Defined in: [WAProto/index.d.ts:25473](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25473)
 
 Encodes the specified Row message, length delimited. Does not implicitly [verify](Row.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:25506](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25506)
+Defined in: [WAProto/index.d.ts:25506](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25506)
 
 Creates a Row message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ Row
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25527](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25527)
+Defined in: [WAProto/index.d.ts:25527](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25527)
 
 Gets the default type url for Row
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25514](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25514)
+Defined in: [WAProto/index.d.ts:25514](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25514)
 
 Creates a plain object from a Row message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25499](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L25499)
+Defined in: [WAProto/index.d.ts:25499](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L25499)
 
 Verifies a Row message.
 

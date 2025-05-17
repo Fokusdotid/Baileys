@@ -1,6 +1,6 @@
 # Enumeration: VideoQuality
 
-Defined in: [WAProto/index.d.ts:37454](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L37454)
+Defined in: [WAProto/index.d.ts:37454](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L37454)
 
 VideoQuality enum.
 
@@ -10,7 +10,7 @@ VideoQuality enum.
 
 > **HIGH**: `3`
 
-Defined in: [WAProto/index.d.ts:37458](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L37458)
+Defined in: [WAProto/index.d.ts:37458](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L37458)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:37458](https://github.com/Fokusdotid/Baileys/blo
 
 > **LOW**: `1`
 
-Defined in: [WAProto/index.d.ts:37456](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L37456)
+Defined in: [WAProto/index.d.ts:37456](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L37456)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:37456](https://github.com/Fokusdotid/Baileys/blo
 
 > **MID**: `2`
 
-Defined in: [WAProto/index.d.ts:37457](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L37457)
+Defined in: [WAProto/index.d.ts:37457](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L37457)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:37457](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNDEFINED**: `0`
 
-Defined in: [WAProto/index.d.ts:37455](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L37455)
+Defined in: [WAProto/index.d.ts:37455](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L37455)

@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseMessage
 
-Defined in: [WAProto/index.d.ts:588](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L588)
+Defined in: [WAProto/index.d.ts:588](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L588)
 
 Properties of a AIRichResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseMessage.
 
 > `optional` **abstractData**: `null` \| [`IAIRichResponseAbstractData`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:597](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L597)
+Defined in: [WAProto/index.d.ts:597](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L597)
 
 AIRichResponseMessage abstractData
 
@@ -20,7 +20,7 @@ AIRichResponseMessage abstractData
 
 > `optional` **messageType**: `null` \| [`AIRichResponseMessageType`](../namespaces/AIRichResponseMessage/enumerations/AIRichResponseMessageType.md)
 
-Defined in: [WAProto/index.d.ts:591](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L591)
+Defined in: [WAProto/index.d.ts:591](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L591)
 
 AIRichResponseMessage messageType
 
@@ -30,6 +30,6 @@ AIRichResponseMessage messageType
 
 > `optional` **submessages**: `null` \| [`IAIRichResponseSubMessage`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseSubMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:594](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L594)
+Defined in: [WAProto/index.d.ts:594](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L594)
 
 AIRichResponseMessage submessages

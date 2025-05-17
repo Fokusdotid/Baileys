@@ -1,6 +1,6 @@
 # Interface: IMessageKey
 
-Defined in: [WAProto/index.d.ts:39444](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L39444)
+Defined in: [WAProto/index.d.ts:39444](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L39444)
 
 Properties of a MessageKey.
 
@@ -10,7 +10,7 @@ Properties of a MessageKey.
 
 > `optional` **cipherKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39450](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L39450)
+Defined in: [WAProto/index.d.ts:39450](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L39450)
 
 MessageKey cipherKey
 
@@ -20,7 +20,7 @@ MessageKey cipherKey
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39447](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L39447)
+Defined in: [WAProto/index.d.ts:39447](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L39447)
 
 MessageKey index
 
@@ -30,7 +30,7 @@ MessageKey index
 
 > `optional` **iv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39456](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L39456)
+Defined in: [WAProto/index.d.ts:39456](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L39456)
 
 MessageKey iv
 
@@ -40,6 +40,6 @@ MessageKey iv
 
 > `optional` **macKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39453](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L39453)
+Defined in: [WAProto/index.d.ts:39453](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L39453)
 
 MessageKey macKey

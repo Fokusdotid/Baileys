@@ -1,6 +1,6 @@
 # Class: EventLocation
 
-Defined in: [WAProto/index.d.ts:34089](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34089)
+Defined in: [WAProto/index.d.ts:34089](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34089)
 
 Represents an EventLocation.
 
@@ -14,7 +14,7 @@ Represents an EventLocation.
 
 > **new EventLocation**(`properties`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:34095](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34095)
+Defined in: [WAProto/index.d.ts:34095](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34095)
 
 Constructs a new EventLocation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34107](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34107)
+Defined in: [WAProto/index.d.ts:34107](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34107)
 
 EventLocation address.
 
@@ -50,7 +50,7 @@ EventLocation address.
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34098](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34098)
+Defined in: [WAProto/index.d.ts:34098](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34098)
 
 EventLocation degreesLatitude.
 
@@ -64,7 +64,7 @@ EventLocation degreesLatitude.
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34101](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34101)
+Defined in: [WAProto/index.d.ts:34101](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34101)
 
 EventLocation degreesLongitude.
 
@@ -78,7 +78,7 @@ EventLocation degreesLongitude.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34113](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34113)
+Defined in: [WAProto/index.d.ts:34113](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34113)
 
 EventLocation jpegThumbnail.
 
@@ -92,7 +92,7 @@ EventLocation jpegThumbnail.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34104](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34104)
+Defined in: [WAProto/index.d.ts:34104](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34104)
 
 EventLocation name.
 
@@ -106,7 +106,7 @@ EventLocation name.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34110](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34110)
+Defined in: [WAProto/index.d.ts:34110](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34110)
 
 EventLocation url.
 
@@ -120,7 +120,7 @@ EventLocation url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:34183](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34183)
+Defined in: [WAProto/index.d.ts:34183](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34183)
 
 Converts this EventLocation to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:34120](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34120)
+Defined in: [WAProto/index.d.ts:34120](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34120)
 
 Creates a new EventLocation instance using the specified properties.
 
@@ -160,7 +160,7 @@ EventLocation instance
 
 > `static` **decode**(`reader`, `length`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:34146](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34146)
+Defined in: [WAProto/index.d.ts:34146](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34146)
 
 Decodes an EventLocation message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:34155](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34155)
+Defined in: [WAProto/index.d.ts:34155](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34155)
 
 Decodes an EventLocation message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34128](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34128)
+Defined in: [WAProto/index.d.ts:34128](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34128)
 
 Encodes the specified EventLocation message. Does not implicitly [verify](EventLocation.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34136](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34136)
+Defined in: [WAProto/index.d.ts:34136](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34136)
 
 Encodes the specified EventLocation message, length delimited. Does not implicitly [verify](EventLocation.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:34169](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34169)
+Defined in: [WAProto/index.d.ts:34169](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34169)
 
 Creates an EventLocation message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ EventLocation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:34190](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34190)
+Defined in: [WAProto/index.d.ts:34190](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34190)
 
 Gets the default type url for EventLocation
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:34177](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34177)
+Defined in: [WAProto/index.d.ts:34177](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34177)
 
 Creates a plain object from an EventLocation message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34162](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L34162)
+Defined in: [WAProto/index.d.ts:34162](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L34162)
 
 Verifies an EventLocation message.
 

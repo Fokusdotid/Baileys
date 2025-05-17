@@ -1,6 +1,6 @@
 # Enumeration: BotPlanningSearchSourceProvider
 
-Defined in: [WAProto/index.d.ts:5370](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5370)
+Defined in: [WAProto/index.d.ts:5370](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5370)
 
 BotPlanningSearchSourceProvider enum.
 
@@ -10,7 +10,7 @@ BotPlanningSearchSourceProvider enum.
 
 > **BING**: `3`
 
-Defined in: [WAProto/index.d.ts:5374](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5374)
+Defined in: [WAProto/index.d.ts:5374](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5374)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5374](https://github.com/Fokusdotid/Baileys/blob
 
 > **GOOGLE**: `2`
 
-Defined in: [WAProto/index.d.ts:5373](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5373)
+Defined in: [WAProto/index.d.ts:5373](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5373)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5373](https://github.com/Fokusdotid/Baileys/blob
 
 > **OTHER**: `1`
 
-Defined in: [WAProto/index.d.ts:5372](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5372)
+Defined in: [WAProto/index.d.ts:5372](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5372)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5372](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:5371](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L5371)
+Defined in: [WAProto/index.d.ts:5371](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L5371)

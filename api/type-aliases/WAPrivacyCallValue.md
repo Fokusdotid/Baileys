@@ -2,4 +2,4 @@
 
 > **WAPrivacyCallValue**: `"all"` \| `"known"`
 
-Defined in: [src/Types/Chat.ts:18](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/Chat.ts#L18)
+Defined in: [src/Types/Chat.ts:18](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Types/Chat.ts#L18)

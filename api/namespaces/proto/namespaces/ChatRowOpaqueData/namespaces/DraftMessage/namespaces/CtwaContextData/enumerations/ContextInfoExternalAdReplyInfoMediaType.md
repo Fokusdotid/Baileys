@@ -1,6 +1,6 @@
 # Enumeration: ContextInfoExternalAdReplyInfoMediaType
 
-Defined in: [WAProto/index.d.ts:7302](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L7302)
+Defined in: [WAProto/index.d.ts:7302](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7302)
 
 ContextInfoExternalAdReplyInfoMediaType enum.
 
@@ -10,7 +10,7 @@ ContextInfoExternalAdReplyInfoMediaType enum.
 
 > **IMAGE**: `1`
 
-Defined in: [WAProto/index.d.ts:7304](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L7304)
+Defined in: [WAProto/index.d.ts:7304](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7304)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:7304](https://github.com/Fokusdotid/Baileys/blob
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:7303](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L7303)
+Defined in: [WAProto/index.d.ts:7303](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7303)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:7303](https://github.com/Fokusdotid/Baileys/blob
 
 > **VIDEO**: `2`
 
-Defined in: [WAProto/index.d.ts:7305](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L7305)
+Defined in: [WAProto/index.d.ts:7305](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7305)

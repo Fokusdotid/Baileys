@@ -1,6 +1,6 @@
 # Class: FavoritesAction
 
-Defined in: [WAProto/index.d.ts:42565](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42565)
+Defined in: [WAProto/index.d.ts:42565](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42565)
 
 Represents a FavoritesAction.
 
@@ -14,7 +14,7 @@ Represents a FavoritesAction.
 
 > **new FavoritesAction**(`properties`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:42571](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42571)
+Defined in: [WAProto/index.d.ts:42571](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42571)
 
 Constructs a new FavoritesAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **favorites**: [`IFavorite`](../namespaces/FavoritesAction/interfaces/IFavorite.md)[]
 
-Defined in: [WAProto/index.d.ts:42574](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42574)
+Defined in: [WAProto/index.d.ts:42574](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42574)
 
 FavoritesAction favorites.
 
@@ -50,7 +50,7 @@ FavoritesAction favorites.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42644](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42644)
+Defined in: [WAProto/index.d.ts:42644](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42644)
 
 Converts this FavoritesAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:42581](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42581)
+Defined in: [WAProto/index.d.ts:42581](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42581)
 
 Creates a new FavoritesAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ FavoritesAction instance
 
 > `static` **decode**(`reader`, `length`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:42607](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42607)
+Defined in: [WAProto/index.d.ts:42607](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42607)
 
 Decodes a FavoritesAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:42616](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42616)
+Defined in: [WAProto/index.d.ts:42616](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42616)
 
 Decodes a FavoritesAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42589](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42589)
+Defined in: [WAProto/index.d.ts:42589](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42589)
 
 Encodes the specified FavoritesAction message. Does not implicitly [verify](FavoritesAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42597](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42597)
+Defined in: [WAProto/index.d.ts:42597](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42597)
 
 Encodes the specified FavoritesAction message, length delimited. Does not implicitly [verify](FavoritesAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:42630](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42630)
+Defined in: [WAProto/index.d.ts:42630](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42630)
 
 Creates a FavoritesAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ FavoritesAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42651](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42651)
+Defined in: [WAProto/index.d.ts:42651](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42651)
 
 Gets the default type url for FavoritesAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42638](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42638)
+Defined in: [WAProto/index.d.ts:42638](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42638)
 
 Creates a plain object from a FavoritesAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42623](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L42623)
+Defined in: [WAProto/index.d.ts:42623](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L42623)
 
 Verifies a FavoritesAction message.
 

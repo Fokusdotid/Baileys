@@ -1,6 +1,6 @@
 # Class: GroupParticipant
 
-Defined in: [WAProto/index.d.ts:13798](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13798)
+Defined in: [WAProto/index.d.ts:13798](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13798)
 
 Represents a GroupParticipant.
 
@@ -14,7 +14,7 @@ Represents a GroupParticipant.
 
 > **new GroupParticipant**(`properties`?): [`GroupParticipant`](GroupParticipant.md)
 
-Defined in: [WAProto/index.d.ts:13804](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13804)
+Defined in: [WAProto/index.d.ts:13804](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13804)
 
 Constructs a new GroupParticipant.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **rank**: `null` \| [`Rank`](../namespaces/GroupParticipant/enumerations/Rank.md)
 
-Defined in: [WAProto/index.d.ts:13810](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13810)
+Defined in: [WAProto/index.d.ts:13810](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13810)
 
 GroupParticipant rank.
 
@@ -50,7 +50,7 @@ GroupParticipant rank.
 
 > **userJid**: `string`
 
-Defined in: [WAProto/index.d.ts:13807](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13807)
+Defined in: [WAProto/index.d.ts:13807](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13807)
 
 GroupParticipant userJid.
 
@@ -64,7 +64,7 @@ GroupParticipant userJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13880](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13880)
+Defined in: [WAProto/index.d.ts:13880](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13880)
 
 Converts this GroupParticipant to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`GroupParticipant`](GroupParticipant.md)
 
-Defined in: [WAProto/index.d.ts:13817](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13817)
+Defined in: [WAProto/index.d.ts:13817](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13817)
 
 Creates a new GroupParticipant instance using the specified properties.
 
@@ -104,7 +104,7 @@ GroupParticipant instance
 
 > `static` **decode**(`reader`, `length`?): [`GroupParticipant`](GroupParticipant.md)
 
-Defined in: [WAProto/index.d.ts:13843](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13843)
+Defined in: [WAProto/index.d.ts:13843](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13843)
 
 Decodes a GroupParticipant message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`GroupParticipant`](GroupParticipant.md)
 
-Defined in: [WAProto/index.d.ts:13852](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13852)
+Defined in: [WAProto/index.d.ts:13852](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13852)
 
 Decodes a GroupParticipant message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13825](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13825)
+Defined in: [WAProto/index.d.ts:13825](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13825)
 
 Encodes the specified GroupParticipant message. Does not implicitly [verify](GroupParticipant.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13833](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13833)
+Defined in: [WAProto/index.d.ts:13833](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13833)
 
 Encodes the specified GroupParticipant message, length delimited. Does not implicitly [verify](GroupParticipant.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`GroupParticipant`](GroupParticipant.md)
 
-Defined in: [WAProto/index.d.ts:13866](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13866)
+Defined in: [WAProto/index.d.ts:13866](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13866)
 
 Creates a GroupParticipant message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ GroupParticipant
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13887](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13887)
+Defined in: [WAProto/index.d.ts:13887](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13887)
 
 Gets the default type url for GroupParticipant
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13874](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13874)
+Defined in: [WAProto/index.d.ts:13874](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13874)
 
 Creates a plain object from a GroupParticipant message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13859](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L13859)
+Defined in: [WAProto/index.d.ts:13859](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L13859)
 
 Verifies a GroupParticipant message.
 
