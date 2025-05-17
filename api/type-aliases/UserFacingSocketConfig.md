@@ -2,7 +2,7 @@
 
 > **UserFacingSocketConfig**: `Partial`\<[`SocketConfig`](SocketConfig.md)\> & `object`
 
-Defined in: [src/Types/index.ts:16](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/Types/index.ts#L16)
+Defined in: [src/Types/index.ts:16](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Types/index.ts#L16)
 
 ## Type declaration
 

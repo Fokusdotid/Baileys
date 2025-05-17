@@ -1,6 +1,6 @@
 # Class: DeclinePaymentRequestMessage
 
-Defined in: [WAProto/index.d.ts:20299](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20299)
+Defined in: [WAProto/index.d.ts:20299](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20299)
 
 Represents a DeclinePaymentRequestMessage.
 
@@ -14,7 +14,7 @@ Represents a DeclinePaymentRequestMessage.
 
 > **new DeclinePaymentRequestMessage**(`properties`?): [`DeclinePaymentRequestMessage`](DeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:20305](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20305)
+Defined in: [WAProto/index.d.ts:20305](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20305)
 
 Constructs a new DeclinePaymentRequestMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:20308](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20308)
+Defined in: [WAProto/index.d.ts:20308](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20308)
 
 DeclinePaymentRequestMessage key.
 
@@ -50,7 +50,7 @@ DeclinePaymentRequestMessage key.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20378](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20378)
+Defined in: [WAProto/index.d.ts:20378](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20378)
 
 Converts this DeclinePaymentRequestMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeclinePaymentRequestMessage`](DeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:20315](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20315)
+Defined in: [WAProto/index.d.ts:20315](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20315)
 
 Creates a new DeclinePaymentRequestMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ DeclinePaymentRequestMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DeclinePaymentRequestMessage`](DeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:20341](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20341)
+Defined in: [WAProto/index.d.ts:20341](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20341)
 
 Decodes a DeclinePaymentRequestMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeclinePaymentRequestMessage`](DeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:20350](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20350)
+Defined in: [WAProto/index.d.ts:20350](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20350)
 
 Decodes a DeclinePaymentRequestMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20323](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20323)
+Defined in: [WAProto/index.d.ts:20323](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20323)
 
 Encodes the specified DeclinePaymentRequestMessage message. Does not implicitly [verify](DeclinePaymentRequestMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20331](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20331)
+Defined in: [WAProto/index.d.ts:20331](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20331)
 
 Encodes the specified DeclinePaymentRequestMessage message, length delimited. Does not implicitly [verify](DeclinePaymentRequestMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeclinePaymentRequestMessage`](DeclinePaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:20364](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20364)
+Defined in: [WAProto/index.d.ts:20364](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20364)
 
 Creates a DeclinePaymentRequestMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ DeclinePaymentRequestMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20385](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20385)
+Defined in: [WAProto/index.d.ts:20385](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20385)
 
 Gets the default type url for DeclinePaymentRequestMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20372](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20372)
+Defined in: [WAProto/index.d.ts:20372](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20372)
 
 Creates a plain object from a DeclinePaymentRequestMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20357](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20357)
+Defined in: [WAProto/index.d.ts:20357](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20357)
 
 Verifies a DeclinePaymentRequestMessage message.
 

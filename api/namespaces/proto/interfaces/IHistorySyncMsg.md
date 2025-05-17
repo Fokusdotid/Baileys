@@ -1,6 +1,6 @@
 # Interface: IHistorySyncMsg
 
-Defined in: [WAProto/index.d.ts:14541](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L14541)
+Defined in: [WAProto/index.d.ts:14541](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L14541)
 
 Properties of a HistorySyncMsg.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncMsg.
 
 > `optional` **message**: `null` \| [`IWebMessageInfo`](IWebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:14544](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L14544)
+Defined in: [WAProto/index.d.ts:14544](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L14544)
 
 HistorySyncMsg message
 
@@ -20,6 +20,6 @@ HistorySyncMsg message
 
 > `optional` **msgOrderId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14547](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L14547)
+Defined in: [WAProto/index.d.ts:14547](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L14547)
 
 HistorySyncMsg msgOrderId

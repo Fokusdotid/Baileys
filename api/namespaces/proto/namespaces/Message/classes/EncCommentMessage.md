@@ -1,6 +1,6 @@
 # Class: EncCommentMessage
 
-Defined in: [WAProto/index.d.ts:20728](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20728)
+Defined in: [WAProto/index.d.ts:20728](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20728)
 
 Represents an EncCommentMessage.
 
@@ -14,7 +14,7 @@ Represents an EncCommentMessage.
 
 > **new EncCommentMessage**(`properties`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20734](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20734)
+Defined in: [WAProto/index.d.ts:20734](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20734)
 
 Constructs a new EncCommentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20743](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20743)
+Defined in: [WAProto/index.d.ts:20743](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20743)
 
 EncCommentMessage encIv.
 
@@ -50,7 +50,7 @@ EncCommentMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20740](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20740)
+Defined in: [WAProto/index.d.ts:20740](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20740)
 
 EncCommentMessage encPayload.
 
@@ -64,7 +64,7 @@ EncCommentMessage encPayload.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:20737](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20737)
+Defined in: [WAProto/index.d.ts:20737](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20737)
 
 EncCommentMessage targetMessageKey.
 
@@ -78,7 +78,7 @@ EncCommentMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20813](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20813)
+Defined in: [WAProto/index.d.ts:20813](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20813)
 
 Converts this EncCommentMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20750](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20750)
+Defined in: [WAProto/index.d.ts:20750](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20750)
 
 Creates a new EncCommentMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ EncCommentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20776](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20776)
+Defined in: [WAProto/index.d.ts:20776](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20776)
 
 Decodes an EncCommentMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20785](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20785)
+Defined in: [WAProto/index.d.ts:20785](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20785)
 
 Decodes an EncCommentMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20758](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20758)
+Defined in: [WAProto/index.d.ts:20758](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20758)
 
 Encodes the specified EncCommentMessage message. Does not implicitly [verify](EncCommentMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20766](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20766)
+Defined in: [WAProto/index.d.ts:20766](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20766)
 
 Encodes the specified EncCommentMessage message, length delimited. Does not implicitly [verify](EncCommentMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20799](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20799)
+Defined in: [WAProto/index.d.ts:20799](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20799)
 
 Creates an EncCommentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ EncCommentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20820](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20820)
+Defined in: [WAProto/index.d.ts:20820](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20820)
 
 Gets the default type url for EncCommentMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20807](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20807)
+Defined in: [WAProto/index.d.ts:20807](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20807)
 
 Creates a plain object from an EncCommentMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20792](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20792)
+Defined in: [WAProto/index.d.ts:20792](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20792)
 
 Verifies an EncCommentMessage message.
 

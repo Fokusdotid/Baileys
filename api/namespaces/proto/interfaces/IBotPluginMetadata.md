@@ -1,6 +1,6 @@
 # Interface: IBotPluginMetadata
 
-Defined in: [WAProto/index.d.ts:4844](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4844)
+Defined in: [WAProto/index.d.ts:4844](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4844)
 
 Properties of a BotPluginMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotPluginMetadata.
 
 > `optional` **deprecatedField**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:4874](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4874)
+Defined in: [WAProto/index.d.ts:4874](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4874)
 
 BotPluginMetadata deprecatedField
 
@@ -20,7 +20,7 @@ BotPluginMetadata deprecatedField
 
 > `optional` **expectedLinksCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:4865](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4865)
+Defined in: [WAProto/index.d.ts:4865](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4865)
 
 BotPluginMetadata expectedLinksCount
 
@@ -30,7 +30,7 @@ BotPluginMetadata expectedLinksCount
 
 > `optional` **faviconCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4880](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4880)
+Defined in: [WAProto/index.d.ts:4880](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4880)
 
 BotPluginMetadata faviconCdnUrl
 
@@ -40,7 +40,7 @@ BotPluginMetadata faviconCdnUrl
 
 > `optional` **parentPluginMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:4871](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4871)
+Defined in: [WAProto/index.d.ts:4871](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4871)
 
 BotPluginMetadata parentPluginMessageKey
 
@@ -50,7 +50,7 @@ BotPluginMetadata parentPluginMessageKey
 
 > `optional` **parentPluginType**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:4877](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4877)
+Defined in: [WAProto/index.d.ts:4877](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4877)
 
 BotPluginMetadata parentPluginType
 
@@ -60,7 +60,7 @@ BotPluginMetadata parentPluginType
 
 > `optional` **pluginType**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:4850](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4850)
+Defined in: [WAProto/index.d.ts:4850](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4850)
 
 BotPluginMetadata pluginType
 
@@ -70,7 +70,7 @@ BotPluginMetadata pluginType
 
 > `optional` **profilePhotoCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4856](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4856)
+Defined in: [WAProto/index.d.ts:4856](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4856)
 
 BotPluginMetadata profilePhotoCdnUrl
 
@@ -80,7 +80,7 @@ BotPluginMetadata profilePhotoCdnUrl
 
 > `optional` **provider**: `null` \| [`SearchProvider`](../namespaces/BotPluginMetadata/enumerations/SearchProvider.md)
 
-Defined in: [WAProto/index.d.ts:4847](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4847)
+Defined in: [WAProto/index.d.ts:4847](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4847)
 
 BotPluginMetadata provider
 
@@ -90,7 +90,7 @@ BotPluginMetadata provider
 
 > `optional` **referenceIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:4862](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4862)
+Defined in: [WAProto/index.d.ts:4862](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4862)
 
 BotPluginMetadata referenceIndex
 
@@ -100,7 +100,7 @@ BotPluginMetadata referenceIndex
 
 > `optional` **searchProviderUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4859](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4859)
+Defined in: [WAProto/index.d.ts:4859](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4859)
 
 BotPluginMetadata searchProviderUrl
 
@@ -110,7 +110,7 @@ BotPluginMetadata searchProviderUrl
 
 > `optional` **searchQuery**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4868](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4868)
+Defined in: [WAProto/index.d.ts:4868](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4868)
 
 BotPluginMetadata searchQuery
 
@@ -120,6 +120,6 @@ BotPluginMetadata searchQuery
 
 > `optional` **thumbnailCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4853](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4853)
+Defined in: [WAProto/index.d.ts:4853](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4853)
 
 BotPluginMetadata thumbnailCdnUrl

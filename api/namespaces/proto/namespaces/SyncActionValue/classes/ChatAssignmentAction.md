@@ -1,6 +1,6 @@
 # Class: ChatAssignmentAction
 
-Defined in: [WAProto/index.d.ts:41444](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41444)
+Defined in: [WAProto/index.d.ts:41444](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41444)
 
 Represents a ChatAssignmentAction.
 
@@ -14,7 +14,7 @@ Represents a ChatAssignmentAction.
 
 > **new ChatAssignmentAction**(`properties`?): [`ChatAssignmentAction`](ChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:41450](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41450)
+Defined in: [WAProto/index.d.ts:41450](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41450)
 
 Constructs a new ChatAssignmentAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deviceAgentID**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41453](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41453)
+Defined in: [WAProto/index.d.ts:41453](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41453)
 
 ChatAssignmentAction deviceAgentID.
 
@@ -50,7 +50,7 @@ ChatAssignmentAction deviceAgentID.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41523](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41523)
+Defined in: [WAProto/index.d.ts:41523](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41523)
 
 Converts this ChatAssignmentAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChatAssignmentAction`](ChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:41460](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41460)
+Defined in: [WAProto/index.d.ts:41460](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41460)
 
 Creates a new ChatAssignmentAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ ChatAssignmentAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ChatAssignmentAction`](ChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:41486](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41486)
+Defined in: [WAProto/index.d.ts:41486](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41486)
 
 Decodes a ChatAssignmentAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChatAssignmentAction`](ChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:41495](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41495)
+Defined in: [WAProto/index.d.ts:41495](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41495)
 
 Decodes a ChatAssignmentAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41468](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41468)
+Defined in: [WAProto/index.d.ts:41468](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41468)
 
 Encodes the specified ChatAssignmentAction message. Does not implicitly [verify](ChatAssignmentAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41476](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41476)
+Defined in: [WAProto/index.d.ts:41476](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41476)
 
 Encodes the specified ChatAssignmentAction message, length delimited. Does not implicitly [verify](ChatAssignmentAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChatAssignmentAction`](ChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:41509](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41509)
+Defined in: [WAProto/index.d.ts:41509](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41509)
 
 Creates a ChatAssignmentAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ChatAssignmentAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41530](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41530)
+Defined in: [WAProto/index.d.ts:41530](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41530)
 
 Gets the default type url for ChatAssignmentAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41517](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41517)
+Defined in: [WAProto/index.d.ts:41517](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41517)
 
 Creates a plain object from a ChatAssignmentAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41502](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L41502)
+Defined in: [WAProto/index.d.ts:41502](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L41502)
 
 Verifies a ChatAssignmentAction message.
 

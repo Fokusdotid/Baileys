@@ -1,6 +1,6 @@
 # Interface: IBotMetadata
 
-Defined in: [WAProto/index.d.ts:4401](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4401)
+Defined in: [WAProto/index.d.ts:4401](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4401)
 
 Properties of a BotMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMetadata.
 
 > `optional` **avatarMetadata**: `null` \| [`IBotAvatarMetadata`](IBotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4404](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4404)
+Defined in: [WAProto/index.d.ts:4404](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4404)
 
 BotMetadata avatarMetadata
 
@@ -20,7 +20,7 @@ BotMetadata avatarMetadata
 
 > `optional` **botLinkedAccountsMetadata**: `null` \| [`IBotLinkedAccountsMetadata`](IBotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4455](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4455)
+Defined in: [WAProto/index.d.ts:4455](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4455)
 
 BotMetadata botLinkedAccountsMetadata
 
@@ -30,7 +30,7 @@ BotMetadata botLinkedAccountsMetadata
 
 > `optional` **botMetricsMetadata**: `null` \| [`IBotMetricsMetadata`](IBotMetricsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4452](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4452)
+Defined in: [WAProto/index.d.ts:4452](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4452)
 
 BotMetadata botMetricsMetadata
 
@@ -40,7 +40,7 @@ BotMetadata botMetricsMetadata
 
 > `optional` **capabilityMetadata**: `null` \| [`IBotCapabilityMetadata`](IBotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4440](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4440)
+Defined in: [WAProto/index.d.ts:4440](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4440)
 
 BotMetadata capabilityMetadata
 
@@ -50,7 +50,7 @@ BotMetadata capabilityMetadata
 
 > `optional` **imagineMetadata**: `null` \| [`IBotImagineMetadata`](IBotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4443](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4443)
+Defined in: [WAProto/index.d.ts:4443](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4443)
 
 BotMetadata imagineMetadata
 
@@ -60,7 +60,7 @@ BotMetadata imagineMetadata
 
 > `optional` **invokerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4416](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4416)
+Defined in: [WAProto/index.d.ts:4416](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4416)
 
 BotMetadata invokerJid
 
@@ -70,7 +70,7 @@ BotMetadata invokerJid
 
 > `optional` **memoryMetadata**: `null` \| [`IBotMemoryMetadata`](IBotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4446](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4446)
+Defined in: [WAProto/index.d.ts:4446](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4446)
 
 BotMetadata memoryMetadata
 
@@ -80,7 +80,7 @@ BotMetadata memoryMetadata
 
 > `optional` **memuMetadata**: `null` \| [`IBotMemuMetadata`](IBotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4422](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4422)
+Defined in: [WAProto/index.d.ts:4422](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4422)
 
 BotMetadata memuMetadata
 
@@ -90,7 +90,7 @@ BotMetadata memuMetadata
 
 > `optional` **messageDisclaimerText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4434](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4434)
+Defined in: [WAProto/index.d.ts:4434](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4434)
 
 BotMetadata messageDisclaimerText
 
@@ -100,7 +100,7 @@ BotMetadata messageDisclaimerText
 
 > `optional` **modelMetadata**: `null` \| [`IBotModelMetadata`](IBotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4431](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4431)
+Defined in: [WAProto/index.d.ts:4431](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4431)
 
 BotMetadata modelMetadata
 
@@ -110,7 +110,7 @@ BotMetadata modelMetadata
 
 > `optional` **personaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4407](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4407)
+Defined in: [WAProto/index.d.ts:4407](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4407)
 
 BotMetadata personaId
 
@@ -120,7 +120,7 @@ BotMetadata personaId
 
 > `optional` **pluginMetadata**: `null` \| [`IBotPluginMetadata`](IBotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4410](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4410)
+Defined in: [WAProto/index.d.ts:4410](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4410)
 
 BotMetadata pluginMetadata
 
@@ -130,7 +130,7 @@ BotMetadata pluginMetadata
 
 > `optional` **progressIndicatorMetadata**: `null` \| [`IBotProgressIndicatorMetadata`](IBotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4437](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4437)
+Defined in: [WAProto/index.d.ts:4437](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4437)
 
 BotMetadata progressIndicatorMetadata
 
@@ -140,7 +140,7 @@ BotMetadata progressIndicatorMetadata
 
 > `optional` **reminderMetadata**: `null` \| [`IBotReminderMetadata`](IBotReminderMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4428](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4428)
+Defined in: [WAProto/index.d.ts:4428](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4428)
 
 BotMetadata reminderMetadata
 
@@ -150,7 +150,7 @@ BotMetadata reminderMetadata
 
 > `optional` **renderingMetadata**: `null` \| [`IBotRenderingMetadata`](IBotRenderingMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4449](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4449)
+Defined in: [WAProto/index.d.ts:4449](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4449)
 
 BotMetadata renderingMetadata
 
@@ -160,7 +160,7 @@ BotMetadata renderingMetadata
 
 > `optional` **sessionMetadata**: `null` \| [`IBotSessionMetadata`](IBotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4419](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4419)
+Defined in: [WAProto/index.d.ts:4419](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4419)
 
 BotMetadata sessionMetadata
 
@@ -170,7 +170,7 @@ BotMetadata sessionMetadata
 
 > `optional` **suggestedPromptMetadata**: `null` \| [`IBotSuggestedPromptMetadata`](IBotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4413](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4413)
+Defined in: [WAProto/index.d.ts:4413](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4413)
 
 BotMetadata suggestedPromptMetadata
 
@@ -180,6 +180,6 @@ BotMetadata suggestedPromptMetadata
 
 > `optional` **timezone**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4425](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L4425)
+Defined in: [WAProto/index.d.ts:4425](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L4425)
 
 BotMetadata timezone

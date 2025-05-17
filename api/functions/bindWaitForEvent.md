@@ -2,7 +2,7 @@
 
 > **bindWaitForEvent**\<`T`\>(`ev`, `event`): (`check`, `timeoutMs`?) => `Promise`\<`void`\>
 
-Defined in: [src/Utils/generics.ts:207](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/Utils/generics.ts#L207)
+Defined in: [src/Utils/generics.ts:207](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Utils/generics.ts#L207)
 
 ## Type Parameters
 

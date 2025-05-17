@@ -1,6 +1,6 @@
 # Class: ContactMessage
 
-Defined in: [WAProto/index.d.ts:20087](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20087)
+Defined in: [WAProto/index.d.ts:20087](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20087)
 
 Represents a ContactMessage.
 
@@ -14,7 +14,7 @@ Represents a ContactMessage.
 
 > **new ContactMessage**(`properties`?): [`ContactMessage`](ContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:20093](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20093)
+Defined in: [WAProto/index.d.ts:20093](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20093)
 
 Constructs a new ContactMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20102](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20102)
+Defined in: [WAProto/index.d.ts:20102](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20102)
 
 ContactMessage contextInfo.
 
@@ -50,7 +50,7 @@ ContactMessage contextInfo.
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20096](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20096)
+Defined in: [WAProto/index.d.ts:20096](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20096)
 
 ContactMessage displayName.
 
@@ -64,7 +64,7 @@ ContactMessage displayName.
 
 > `optional` **vcard**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20099](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20099)
+Defined in: [WAProto/index.d.ts:20099](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20099)
 
 ContactMessage vcard.
 
@@ -78,7 +78,7 @@ ContactMessage vcard.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20172](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20172)
+Defined in: [WAProto/index.d.ts:20172](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20172)
 
 Converts this ContactMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ContactMessage`](ContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:20109](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20109)
+Defined in: [WAProto/index.d.ts:20109](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20109)
 
 Creates a new ContactMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ ContactMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ContactMessage`](ContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:20135](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20135)
+Defined in: [WAProto/index.d.ts:20135](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20135)
 
 Decodes a ContactMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ContactMessage`](ContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:20144](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20144)
+Defined in: [WAProto/index.d.ts:20144](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20144)
 
 Decodes a ContactMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20117](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20117)
+Defined in: [WAProto/index.d.ts:20117](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20117)
 
 Encodes the specified ContactMessage message. Does not implicitly [verify](ContactMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20125](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20125)
+Defined in: [WAProto/index.d.ts:20125](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20125)
 
 Encodes the specified ContactMessage message, length delimited. Does not implicitly [verify](ContactMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ContactMessage`](ContactMessage.md)
 
-Defined in: [WAProto/index.d.ts:20158](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20158)
+Defined in: [WAProto/index.d.ts:20158](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20158)
 
 Creates a ContactMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ContactMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20179](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20179)
+Defined in: [WAProto/index.d.ts:20179](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20179)
 
 Gets the default type url for ContactMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20166](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20166)
+Defined in: [WAProto/index.d.ts:20166](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20166)
 
 Creates a plain object from a ContactMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20151](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L20151)
+Defined in: [WAProto/index.d.ts:20151](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L20151)
 
 Verifies a ContactMessage message.
 

@@ -2,7 +2,7 @@
 
 > **updateMessageWithReceipt**(`msg`, `receipt`): `void`
 
-Defined in: [src/Utils/messages.ts:843](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/Utils/messages.ts#L843)
+Defined in: [src/Utils/messages.ts:842](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Utils/messages.ts#L842)
 
 Upserts a receipt in the message
 

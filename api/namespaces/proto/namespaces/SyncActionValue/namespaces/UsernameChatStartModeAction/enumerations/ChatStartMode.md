@@ -1,6 +1,6 @@
 # Enumeration: ChatStartMode
 
-Defined in: [WAProto/index.d.ts:46561](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46561)
+Defined in: [WAProto/index.d.ts:46561](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L46561)
 
 ChatStartMode enum.
 
@@ -10,7 +10,7 @@ ChatStartMode enum.
 
 > **LID**: `1`
 
-Defined in: [WAProto/index.d.ts:46562](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46562)
+Defined in: [WAProto/index.d.ts:46562](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L46562)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:46562](https://github.com/Fokusdotid/Baileys/blo
 
 > **PN**: `2`
 
-Defined in: [WAProto/index.d.ts:46563](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L46563)
+Defined in: [WAProto/index.d.ts:46563](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L46563)

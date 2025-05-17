@@ -2,7 +2,7 @@
 
 > **isJidStatusBroadcast**(`jid`): `jid is "status@broadcast"`
 
-Defined in: [src/WABinary/jid-utils.ts:60](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/WABinary/jid-utils.ts#L60)
+Defined in: [src/WABinary/jid-utils.ts:60](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/WABinary/jid-utils.ts#L60)
 
 is the jid the status broadcast
 

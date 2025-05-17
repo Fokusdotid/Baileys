@@ -2,7 +2,7 @@
 
 > **generateWAMessage**(`jid`, `content`, `options`): `Promise`\<[`WebMessageInfo`](../namespaces/proto/classes/WebMessageInfo.md)\>
 
-Defined in: [src/Utils/messages.ts:727](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/src/Utils/messages.ts#L727)
+Defined in: [src/Utils/messages.ts:726](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/src/Utils/messages.ts#L726)
 
 ## Parameters
 

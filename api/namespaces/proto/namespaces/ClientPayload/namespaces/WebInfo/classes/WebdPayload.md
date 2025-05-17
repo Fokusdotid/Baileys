@@ -1,6 +1,6 @@
 # Class: WebdPayload
 
-Defined in: [WAProto/index.d.ts:8853](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8853)
+Defined in: [WAProto/index.d.ts:8853](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8853)
 
 Represents a WebdPayload.
 
@@ -14,7 +14,7 @@ Represents a WebdPayload.
 
 > **new WebdPayload**(`properties`?): [`WebdPayload`](WebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8859](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8859)
+Defined in: [WAProto/index.d.ts:8859](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8859)
 
 Constructs a new WebdPayload.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **documentTypes**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8889](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8889)
+Defined in: [WAProto/index.d.ts:8889](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8889)
 
 WebdPayload documentTypes.
 
@@ -50,7 +50,7 @@ WebdPayload documentTypes.
 
 > `optional` **features**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8892](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8892)
+Defined in: [WAProto/index.d.ts:8892](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8892)
 
 WebdPayload features.
 
@@ -64,7 +64,7 @@ WebdPayload features.
 
 > `optional` **supportsDocumentMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8868](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8868)
+Defined in: [WAProto/index.d.ts:8868](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8868)
 
 WebdPayload supportsDocumentMessages.
 
@@ -78,7 +78,7 @@ WebdPayload supportsDocumentMessages.
 
 > `optional` **supportsE2EAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8883](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8883)
+Defined in: [WAProto/index.d.ts:8883](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8883)
 
 WebdPayload supportsE2EAudio.
 
@@ -92,7 +92,7 @@ WebdPayload supportsE2EAudio.
 
 > `optional` **supportsE2EDocument**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8886](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8886)
+Defined in: [WAProto/index.d.ts:8886](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8886)
 
 WebdPayload supportsE2EDocument.
 
@@ -106,7 +106,7 @@ WebdPayload supportsE2EDocument.
 
 > `optional` **supportsE2EImage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8877](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8877)
+Defined in: [WAProto/index.d.ts:8877](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8877)
 
 WebdPayload supportsE2EImage.
 
@@ -120,7 +120,7 @@ WebdPayload supportsE2EImage.
 
 > `optional` **supportsE2EVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8880](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8880)
+Defined in: [WAProto/index.d.ts:8880](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8880)
 
 WebdPayload supportsE2EVideo.
 
@@ -134,7 +134,7 @@ WebdPayload supportsE2EVideo.
 
 > `optional` **supportsMediaRetry**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8874](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8874)
+Defined in: [WAProto/index.d.ts:8874](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8874)
 
 WebdPayload supportsMediaRetry.
 
@@ -148,7 +148,7 @@ WebdPayload supportsMediaRetry.
 
 > `optional` **supportsStarredMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8865](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8865)
+Defined in: [WAProto/index.d.ts:8865](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8865)
 
 WebdPayload supportsStarredMessages.
 
@@ -162,7 +162,7 @@ WebdPayload supportsStarredMessages.
 
 > `optional` **supportsUrlMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8871](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8871)
+Defined in: [WAProto/index.d.ts:8871](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8871)
 
 WebdPayload supportsUrlMessages.
 
@@ -176,7 +176,7 @@ WebdPayload supportsUrlMessages.
 
 > `optional` **usesParticipantInKey**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8862](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8862)
+Defined in: [WAProto/index.d.ts:8862](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8862)
 
 WebdPayload usesParticipantInKey.
 
@@ -190,7 +190,7 @@ WebdPayload usesParticipantInKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8962](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8962)
+Defined in: [WAProto/index.d.ts:8962](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8962)
 
 Converts this WebdPayload to JSON.
 
@@ -206,7 +206,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WebdPayload`](WebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8899](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8899)
+Defined in: [WAProto/index.d.ts:8899](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8899)
 
 Creates a new WebdPayload instance using the specified properties.
 
@@ -230,7 +230,7 @@ WebdPayload instance
 
 > `static` **decode**(`reader`, `length`?): [`WebdPayload`](WebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8925](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8925)
+Defined in: [WAProto/index.d.ts:8925](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8925)
 
 Decodes a WebdPayload message from the specified reader or buffer.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WebdPayload`](WebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8934](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8934)
+Defined in: [WAProto/index.d.ts:8934](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8934)
 
 Decodes a WebdPayload message from the specified reader or buffer, length delimited.
 
@@ -300,7 +300,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8907](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8907)
+Defined in: [WAProto/index.d.ts:8907](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8907)
 
 Encodes the specified WebdPayload message. Does not implicitly [verify](WebdPayload.md#verify) messages.
 
@@ -330,7 +330,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8915](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8915)
+Defined in: [WAProto/index.d.ts:8915](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8915)
 
 Encodes the specified WebdPayload message, length delimited. Does not implicitly [verify](WebdPayload.md#verify) messages.
 
@@ -360,7 +360,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WebdPayload`](WebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:8948](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8948)
+Defined in: [WAProto/index.d.ts:8948](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8948)
 
 Creates a WebdPayload message from a plain object. Also converts values to their respective internal types.
 
@@ -382,7 +382,7 @@ WebdPayload
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8969](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8969)
+Defined in: [WAProto/index.d.ts:8969](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8969)
 
 Gets the default type url for WebdPayload
 
@@ -406,7 +406,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8956](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8956)
+Defined in: [WAProto/index.d.ts:8956](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8956)
 
 Creates a plain object from a WebdPayload message. Also converts values to other types if specified.
 
@@ -436,7 +436,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8941](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L8941)
+Defined in: [WAProto/index.d.ts:8941](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L8941)
 
 Verifies a WebdPayload message.
 

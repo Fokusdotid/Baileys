@@ -1,6 +1,6 @@
 # Interface: ISyncActionData
 
-Defined in: [WAProto/index.d.ts:40402](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40402)
+Defined in: [WAProto/index.d.ts:40402](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L40402)
 
 Properties of a SyncActionData.
 
@@ -10,7 +10,7 @@ Properties of a SyncActionData.
 
 > `optional` **index**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40405](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40405)
+Defined in: [WAProto/index.d.ts:40405](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L40405)
 
 SyncActionData index
 
@@ -20,7 +20,7 @@ SyncActionData index
 
 > `optional` **padding**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40411](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40411)
+Defined in: [WAProto/index.d.ts:40411](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L40411)
 
 SyncActionData padding
 
@@ -30,7 +30,7 @@ SyncActionData padding
 
 > `optional` **value**: `null` \| [`ISyncActionValue`](ISyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:40408](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40408)
+Defined in: [WAProto/index.d.ts:40408](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L40408)
 
 SyncActionData value
 
@@ -40,6 +40,6 @@ SyncActionData value
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40414](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L40414)
+Defined in: [WAProto/index.d.ts:40414](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L40414)
 
 SyncActionData version

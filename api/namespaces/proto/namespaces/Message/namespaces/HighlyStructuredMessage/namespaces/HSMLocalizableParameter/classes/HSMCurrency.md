@@ -1,6 +1,6 @@
 # Class: HSMCurrency
 
-Defined in: [WAProto/index.d.ts:22200](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22200)
+Defined in: [WAProto/index.d.ts:22200](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22200)
 
 Represents a HSMCurrency.
 
@@ -14,7 +14,7 @@ Represents a HSMCurrency.
 
 > **new HSMCurrency**(`properties`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22206](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22206)
+Defined in: [WAProto/index.d.ts:22206](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22206)
 
 Constructs a new HSMCurrency.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22212](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22212)
+Defined in: [WAProto/index.d.ts:22212](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22212)
 
 HSMCurrency amount1000.
 
@@ -50,7 +50,7 @@ HSMCurrency amount1000.
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22209](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22209)
+Defined in: [WAProto/index.d.ts:22209](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22209)
 
 HSMCurrency currencyCode.
 
@@ -64,7 +64,7 @@ HSMCurrency currencyCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22282](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22282)
+Defined in: [WAProto/index.d.ts:22282](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22282)
 
 Converts this HSMCurrency to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22219](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22219)
+Defined in: [WAProto/index.d.ts:22219](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22219)
 
 Creates a new HSMCurrency instance using the specified properties.
 
@@ -104,7 +104,7 @@ HSMCurrency instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22245](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22245)
+Defined in: [WAProto/index.d.ts:22245](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22245)
 
 Decodes a HSMCurrency message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22254](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22254)
+Defined in: [WAProto/index.d.ts:22254](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22254)
 
 Decodes a HSMCurrency message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22227](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22227)
+Defined in: [WAProto/index.d.ts:22227](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22227)
 
 Encodes the specified HSMCurrency message. Does not implicitly [verify](HSMCurrency.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22235](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22235)
+Defined in: [WAProto/index.d.ts:22235](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22235)
 
 Encodes the specified HSMCurrency message, length delimited. Does not implicitly [verify](HSMCurrency.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:22268](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22268)
+Defined in: [WAProto/index.d.ts:22268](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22268)
 
 Creates a HSMCurrency message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ HSMCurrency
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22289](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22289)
+Defined in: [WAProto/index.d.ts:22289](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22289)
 
 Gets the default type url for HSMCurrency
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22276](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22276)
+Defined in: [WAProto/index.d.ts:22276](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22276)
 
 Creates a plain object from a HSMCurrency message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22261](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L22261)
+Defined in: [WAProto/index.d.ts:22261](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L22261)
 
 Verifies a HSMCurrency message.
 

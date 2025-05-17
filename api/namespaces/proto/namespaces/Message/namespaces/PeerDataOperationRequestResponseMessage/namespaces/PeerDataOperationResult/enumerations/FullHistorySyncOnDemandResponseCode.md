@@ -1,6 +1,6 @@
 # Enumeration: FullHistorySyncOnDemandResponseCode
 
-Defined in: [WAProto/index.d.ts:27982](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27982)
+Defined in: [WAProto/index.d.ts:27982](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27982)
 
 FullHistorySyncOnDemandResponseCode enum.
 
@@ -10,7 +10,7 @@ FullHistorySyncOnDemandResponseCode enum.
 
 > **DECLINED\_SHARING\_HISTORY**: `2`
 
-Defined in: [WAProto/index.d.ts:27985](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27985)
+Defined in: [WAProto/index.d.ts:27985](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27985)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:27985](https://github.com/Fokusdotid/Baileys/blo
 
 > **ERROR\_HOSTED\_DEVICE\_LOGIN\_TIME\_NOT\_SET**: `6`
 
-Defined in: [WAProto/index.d.ts:27989](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27989)
+Defined in: [WAProto/index.d.ts:27989](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27989)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:27989](https://github.com/Fokusdotid/Baileys/blo
 
 > **ERROR\_HOSTED\_DEVICE\_NOT\_CONNECTED**: `5`
 
-Defined in: [WAProto/index.d.ts:27988](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27988)
+Defined in: [WAProto/index.d.ts:27988](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27988)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:27988](https://github.com/Fokusdotid/Baileys/blo
 
 > **ERROR\_REQUEST\_ON\_NON\_SMB\_PRIMARY**: `4`
 
-Defined in: [WAProto/index.d.ts:27987](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27987)
+Defined in: [WAProto/index.d.ts:27987](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27987)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:27987](https://github.com/Fokusdotid/Baileys/blo
 
 > **GENERIC\_ERROR**: `3`
 
-Defined in: [WAProto/index.d.ts:27986](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27986)
+Defined in: [WAProto/index.d.ts:27986](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27986)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:27986](https://github.com/Fokusdotid/Baileys/blo
 
 > **REQUEST\_SUCCESS**: `0`
 
-Defined in: [WAProto/index.d.ts:27983](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27983)
+Defined in: [WAProto/index.d.ts:27983](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27983)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [WAProto/index.d.ts:27983](https://github.com/Fokusdotid/Baileys/blo
 
 > **REQUEST\_TIME\_EXPIRED**: `1`
 
-Defined in: [WAProto/index.d.ts:27984](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L27984)
+Defined in: [WAProto/index.d.ts:27984](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L27984)

@@ -1,6 +1,6 @@
 # Interface: IPollResultSnapshotMessage
 
-Defined in: [WAProto/index.d.ts:29061](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29061)
+Defined in: [WAProto/index.d.ts:29061](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29061)
 
 Properties of a PollResultSnapshotMessage.
 
@@ -10,7 +10,7 @@ Properties of a PollResultSnapshotMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:29070](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29070)
+Defined in: [WAProto/index.d.ts:29070](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29070)
 
 PollResultSnapshotMessage contextInfo
 
@@ -20,7 +20,7 @@ PollResultSnapshotMessage contextInfo
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29064](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29064)
+Defined in: [WAProto/index.d.ts:29064](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29064)
 
 PollResultSnapshotMessage name
 
@@ -30,6 +30,6 @@ PollResultSnapshotMessage name
 
 > `optional` **pollVotes**: `null` \| [`IPollVote`](../namespaces/PollResultSnapshotMessage/interfaces/IPollVote.md)[]
 
-Defined in: [WAProto/index.d.ts:29067](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L29067)
+Defined in: [WAProto/index.d.ts:29067](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L29067)
 
 PollResultSnapshotMessage pollVotes

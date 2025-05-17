@@ -1,6 +1,6 @@
 # Class: PastParticipants
 
-Defined in: [WAProto/index.d.ts:35314](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35314)
+Defined in: [WAProto/index.d.ts:35314](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35314)
 
 Represents a PastParticipants.
 
@@ -14,7 +14,7 @@ Represents a PastParticipants.
 
 > **new PastParticipants**(`properties`?): [`PastParticipants`](PastParticipants.md)
 
-Defined in: [WAProto/index.d.ts:35320](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35320)
+Defined in: [WAProto/index.d.ts:35320](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35320)
 
 Constructs a new PastParticipants.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35323](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35323)
+Defined in: [WAProto/index.d.ts:35323](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35323)
 
 PastParticipants groupJid.
 
@@ -50,7 +50,7 @@ PastParticipants groupJid.
 
 > **pastParticipants**: [`IPastParticipant`](../interfaces/IPastParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:35326](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35326)
+Defined in: [WAProto/index.d.ts:35326](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35326)
 
 PastParticipants pastParticipants.
 
@@ -64,7 +64,7 @@ PastParticipants pastParticipants.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35396](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35396)
+Defined in: [WAProto/index.d.ts:35396](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35396)
 
 Converts this PastParticipants to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PastParticipants`](PastParticipants.md)
 
-Defined in: [WAProto/index.d.ts:35333](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35333)
+Defined in: [WAProto/index.d.ts:35333](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35333)
 
 Creates a new PastParticipants instance using the specified properties.
 
@@ -104,7 +104,7 @@ PastParticipants instance
 
 > `static` **decode**(`reader`, `length`?): [`PastParticipants`](PastParticipants.md)
 
-Defined in: [WAProto/index.d.ts:35359](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35359)
+Defined in: [WAProto/index.d.ts:35359](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35359)
 
 Decodes a PastParticipants message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PastParticipants`](PastParticipants.md)
 
-Defined in: [WAProto/index.d.ts:35368](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35368)
+Defined in: [WAProto/index.d.ts:35368](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35368)
 
 Decodes a PastParticipants message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35341](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35341)
+Defined in: [WAProto/index.d.ts:35341](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35341)
 
 Encodes the specified PastParticipants message. Does not implicitly [verify](PastParticipants.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35349](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35349)
+Defined in: [WAProto/index.d.ts:35349](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35349)
 
 Encodes the specified PastParticipants message, length delimited. Does not implicitly [verify](PastParticipants.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PastParticipants`](PastParticipants.md)
 
-Defined in: [WAProto/index.d.ts:35382](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35382)
+Defined in: [WAProto/index.d.ts:35382](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35382)
 
 Creates a PastParticipants message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PastParticipants
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35403](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35403)
+Defined in: [WAProto/index.d.ts:35403](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35403)
 
 Gets the default type url for PastParticipants
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35390](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35390)
+Defined in: [WAProto/index.d.ts:35390](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35390)
 
 Creates a plain object from a PastParticipants message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35375](https://github.com/Fokusdotid/Baileys/blob/49e815e65b8f4aea31725e09dcf4815734557e39/WAProto/index.d.ts#L35375)
+Defined in: [WAProto/index.d.ts:35375](https://github.com/Fokusdotid/Baileys/blob/86ad0f8078178c8586062ad3364a59e068f4b3b2/WAProto/index.d.ts#L35375)
 
 Verifies a PastParticipants message.
 
