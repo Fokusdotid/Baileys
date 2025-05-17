@@ -413,7 +413,7 @@ export const encryptedStream = async(
 		encFileWriteStream.write(mac)
 
 		encFileWriteStream.end()
-		originalFileWriteStream?.end?.()
+		originalFileStream?.end?.()
 		stream.destroy()
 
 		logger?.debug('encrypted data successfully')
@@ -425,8 +425,7 @@ export const encryptedStream = async(
 			mac,
 			fileEncSha256,
 			fileSha256,
-			fileLength,
-			didSaveToTmpPath
+			fileLength
 		}
 	} catch(error) {
 		// destroy all streams with error
