@@ -2,7 +2,7 @@
 
 > **decodeMessageNode**(`stanza`, `meId`, `meLid`): `object`
 
-Defined in: [src/Utils/decode-wa-message.ts:33](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/src/Utils/decode-wa-message.ts#L33)
+Defined in: [src/Utils/decode-wa-message.ts:33](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/src/Utils/decode-wa-message.ts#L33)
 
 Decode the received node as a message.
 

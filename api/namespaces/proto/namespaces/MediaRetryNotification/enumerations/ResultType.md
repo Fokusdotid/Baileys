@@ -1,6 +1,6 @@
 # Enumeration: ResultType
 
-Defined in: [WAProto/index.d.ts:16746](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16746)
+Defined in: [WAProto/index.d.ts:16746](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16746)
 
 ResultType enum.
 
@@ -10,7 +10,7 @@ ResultType enum.
 
 > **DECRYPTION\_ERROR**: `3`
 
-Defined in: [WAProto/index.d.ts:16750](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16750)
+Defined in: [WAProto/index.d.ts:16750](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16750)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:16750](https://github.com/Fokusdotid/Baileys/blo
 
 > **GENERAL\_ERROR**: `0`
 
-Defined in: [WAProto/index.d.ts:16747](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16747)
+Defined in: [WAProto/index.d.ts:16747](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16747)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:16747](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOT\_FOUND**: `2`
 
-Defined in: [WAProto/index.d.ts:16749](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16749)
+Defined in: [WAProto/index.d.ts:16749](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16749)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:16749](https://github.com/Fokusdotid/Baileys/blo
 
 > **SUCCESS**: `1`
 
-Defined in: [WAProto/index.d.ts:16748](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16748)
+Defined in: [WAProto/index.d.ts:16748](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16748)

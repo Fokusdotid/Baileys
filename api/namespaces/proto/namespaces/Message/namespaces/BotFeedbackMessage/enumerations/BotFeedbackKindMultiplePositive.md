@@ -1,6 +1,6 @@
 # Enumeration: BotFeedbackKindMultiplePositive
 
-Defined in: [WAProto/index.d.ts:18642](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L18642)
+Defined in: [WAProto/index.d.ts:18642](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L18642)
 
 BotFeedbackKindMultiplePositive enum.
 
@@ -10,4 +10,4 @@ BotFeedbackKindMultiplePositive enum.
 
 > **BOT\_FEEDBACK\_MULTIPLE\_POSITIVE\_GENERIC**: `1`
 
-Defined in: [WAProto/index.d.ts:18643](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L18643)
+Defined in: [WAProto/index.d.ts:18643](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L18643)

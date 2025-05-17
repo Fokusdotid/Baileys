@@ -1,6 +1,6 @@
 # Class: HistorySyncMsg
 
-Defined in: [WAProto/index.d.ts:14551](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14551)
+Defined in: [WAProto/index.d.ts:14551](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14551)
 
 Represents a HistorySyncMsg.
 
@@ -14,7 +14,7 @@ Represents a HistorySyncMsg.
 
 > **new HistorySyncMsg**(`properties`?): [`HistorySyncMsg`](HistorySyncMsg.md)
 
-Defined in: [WAProto/index.d.ts:14557](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14557)
+Defined in: [WAProto/index.d.ts:14557](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14557)
 
 Constructs a new HistorySyncMsg.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IWebMessageInfo`](../interfaces/IWebMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:14560](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14560)
+Defined in: [WAProto/index.d.ts:14560](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14560)
 
 HistorySyncMsg message.
 
@@ -50,7 +50,7 @@ HistorySyncMsg message.
 
 > `optional` **msgOrderId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14563](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14563)
+Defined in: [WAProto/index.d.ts:14563](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14563)
 
 HistorySyncMsg msgOrderId.
 
@@ -64,7 +64,7 @@ HistorySyncMsg msgOrderId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14633](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14633)
+Defined in: [WAProto/index.d.ts:14633](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14633)
 
 Converts this HistorySyncMsg to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HistorySyncMsg`](HistorySyncMsg.md)
 
-Defined in: [WAProto/index.d.ts:14570](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14570)
+Defined in: [WAProto/index.d.ts:14570](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14570)
 
 Creates a new HistorySyncMsg instance using the specified properties.
 
@@ -104,7 +104,7 @@ HistorySyncMsg instance
 
 > `static` **decode**(`reader`, `length`?): [`HistorySyncMsg`](HistorySyncMsg.md)
 
-Defined in: [WAProto/index.d.ts:14596](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14596)
+Defined in: [WAProto/index.d.ts:14596](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14596)
 
 Decodes a HistorySyncMsg message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HistorySyncMsg`](HistorySyncMsg.md)
 
-Defined in: [WAProto/index.d.ts:14605](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14605)
+Defined in: [WAProto/index.d.ts:14605](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14605)
 
 Decodes a HistorySyncMsg message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14578](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14578)
+Defined in: [WAProto/index.d.ts:14578](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14578)
 
 Encodes the specified HistorySyncMsg message. Does not implicitly [verify](HistorySyncMsg.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14586](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14586)
+Defined in: [WAProto/index.d.ts:14586](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14586)
 
 Encodes the specified HistorySyncMsg message, length delimited. Does not implicitly [verify](HistorySyncMsg.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HistorySyncMsg`](HistorySyncMsg.md)
 
-Defined in: [WAProto/index.d.ts:14619](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14619)
+Defined in: [WAProto/index.d.ts:14619](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14619)
 
 Creates a HistorySyncMsg message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ HistorySyncMsg
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14640](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14640)
+Defined in: [WAProto/index.d.ts:14640](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14640)
 
 Gets the default type url for HistorySyncMsg
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14627](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14627)
+Defined in: [WAProto/index.d.ts:14627](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14627)
 
 Creates a plain object from a HistorySyncMsg message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14612](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14612)
+Defined in: [WAProto/index.d.ts:14612](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14612)
 
 Verifies a HistorySyncMsg message.
 

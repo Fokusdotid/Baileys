@@ -1,6 +1,6 @@
 # Interface: IMediaNotifyMessage
 
-Defined in: [WAProto/index.d.ts:16520](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16520)
+Defined in: [WAProto/index.d.ts:16520](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16520)
 
 Properties of a MediaNotifyMessage.
 
@@ -10,7 +10,7 @@ Properties of a MediaNotifyMessage.
 
 > `optional` **expressPathUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16523](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16523)
+Defined in: [WAProto/index.d.ts:16523](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16523)
 
 MediaNotifyMessage expressPathUrl
 
@@ -20,7 +20,7 @@ MediaNotifyMessage expressPathUrl
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16526](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16526)
+Defined in: [WAProto/index.d.ts:16526](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16526)
 
 MediaNotifyMessage fileEncSha256
 
@@ -30,6 +30,6 @@ MediaNotifyMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:16529](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16529)
+Defined in: [WAProto/index.d.ts:16529](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16529)
 
 MediaNotifyMessage fileLength

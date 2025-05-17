@@ -1,6 +1,6 @@
 # Class: LIDMigrationMapping
 
-Defined in: [WAProto/index.d.ts:15700](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15700)
+Defined in: [WAProto/index.d.ts:15700](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15700)
 
 Represents a LIDMigrationMapping.
 
@@ -14,7 +14,7 @@ Represents a LIDMigrationMapping.
 
 > **new LIDMigrationMapping**(`properties`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:15706](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15706)
+Defined in: [WAProto/index.d.ts:15706](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15706)
 
 Constructs a new LIDMigrationMapping.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **assignedLid**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15712](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15712)
+Defined in: [WAProto/index.d.ts:15712](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15712)
 
 LIDMigrationMapping assignedLid.
 
@@ -50,7 +50,7 @@ LIDMigrationMapping assignedLid.
 
 > `optional` **latestLid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15715](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15715)
+Defined in: [WAProto/index.d.ts:15715](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15715)
 
 LIDMigrationMapping latestLid.
 
@@ -64,7 +64,7 @@ LIDMigrationMapping latestLid.
 
 > **pn**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15709](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15709)
+Defined in: [WAProto/index.d.ts:15709](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15709)
 
 LIDMigrationMapping pn.
 
@@ -78,7 +78,7 @@ LIDMigrationMapping pn.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15785](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15785)
+Defined in: [WAProto/index.d.ts:15785](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15785)
 
 Converts this LIDMigrationMapping to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:15722](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15722)
+Defined in: [WAProto/index.d.ts:15722](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15722)
 
 Creates a new LIDMigrationMapping instance using the specified properties.
 
@@ -118,7 +118,7 @@ LIDMigrationMapping instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:15748](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15748)
+Defined in: [WAProto/index.d.ts:15748](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15748)
 
 Decodes a LIDMigrationMapping message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:15757](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15757)
+Defined in: [WAProto/index.d.ts:15757](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15757)
 
 Decodes a LIDMigrationMapping message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15730](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15730)
+Defined in: [WAProto/index.d.ts:15730](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15730)
 
 Encodes the specified LIDMigrationMapping message. Does not implicitly [verify](LIDMigrationMapping.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15738](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15738)
+Defined in: [WAProto/index.d.ts:15738](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15738)
 
 Encodes the specified LIDMigrationMapping message, length delimited. Does not implicitly [verify](LIDMigrationMapping.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:15771](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15771)
+Defined in: [WAProto/index.d.ts:15771](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15771)
 
 Creates a LIDMigrationMapping message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ LIDMigrationMapping
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15792](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15792)
+Defined in: [WAProto/index.d.ts:15792](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15792)
 
 Gets the default type url for LIDMigrationMapping
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15779](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15779)
+Defined in: [WAProto/index.d.ts:15779](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15779)
 
 Creates a plain object from a LIDMigrationMapping message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15764](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L15764)
+Defined in: [WAProto/index.d.ts:15764](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L15764)
 
 Verifies a LIDMigrationMapping message.
 

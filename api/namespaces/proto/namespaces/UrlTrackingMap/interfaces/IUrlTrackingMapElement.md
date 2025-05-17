@@ -1,6 +1,6 @@
 # Interface: IUrlTrackingMapElement
 
-Defined in: [WAProto/index.d.ts:48272](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L48272)
+Defined in: [WAProto/index.d.ts:48272](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L48272)
 
 Properties of an UrlTrackingMapElement.
 
@@ -10,7 +10,7 @@ Properties of an UrlTrackingMapElement.
 
 > `optional` **cardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48284](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L48284)
+Defined in: [WAProto/index.d.ts:48284](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L48284)
 
 UrlTrackingMapElement cardIndex
 
@@ -20,7 +20,7 @@ UrlTrackingMapElement cardIndex
 
 > `optional` **consentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48281](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L48281)
+Defined in: [WAProto/index.d.ts:48281](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L48281)
 
 UrlTrackingMapElement consentedUsersUrl
 
@@ -30,7 +30,7 @@ UrlTrackingMapElement consentedUsersUrl
 
 > `optional` **originalUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48275](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L48275)
+Defined in: [WAProto/index.d.ts:48275](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L48275)
 
 UrlTrackingMapElement originalUrl
 
@@ -40,6 +40,6 @@ UrlTrackingMapElement originalUrl
 
 > `optional` **unconsentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48278](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L48278)
+Defined in: [WAProto/index.d.ts:48278](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L48278)
 
 UrlTrackingMapElement unconsentedUsersUrl

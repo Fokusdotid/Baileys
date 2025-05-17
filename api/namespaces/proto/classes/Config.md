@@ -1,6 +1,6 @@
 # Class: Config
 
-Defined in: [WAProto/index.d.ts:9294](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9294)
+Defined in: [WAProto/index.d.ts:9294](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9294)
 
 Represents a Config.
 
@@ -14,7 +14,7 @@ Represents a Config.
 
 > **new Config**(`properties`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:9300](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9300)
+Defined in: [WAProto/index.d.ts:9300](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9300)
 
 Constructs a new Config.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **field**: `object`
 
-Defined in: [WAProto/index.d.ts:9303](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9303)
+Defined in: [WAProto/index.d.ts:9303](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9303)
 
 Config field.
 
@@ -54,7 +54,7 @@ Config field.
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9306](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9306)
+Defined in: [WAProto/index.d.ts:9306](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9306)
 
 Config version.
 
@@ -68,7 +68,7 @@ Config version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9376](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9376)
+Defined in: [WAProto/index.d.ts:9376](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9376)
 
 Converts this Config to JSON.
 
@@ -84,7 +84,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:9313](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9313)
+Defined in: [WAProto/index.d.ts:9313](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9313)
 
 Creates a new Config instance using the specified properties.
 
@@ -108,7 +108,7 @@ Config instance
 
 > `static` **decode**(`reader`, `length`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:9339](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9339)
+Defined in: [WAProto/index.d.ts:9339](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9339)
 
 Decodes a Config message from the specified reader or buffer.
 
@@ -146,7 +146,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:9348](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9348)
+Defined in: [WAProto/index.d.ts:9348](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9348)
 
 Decodes a Config message from the specified reader or buffer, length delimited.
 
@@ -178,7 +178,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9321](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9321)
+Defined in: [WAProto/index.d.ts:9321](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9321)
 
 Encodes the specified Config message. Does not implicitly [verify](Config.md#verify) messages.
 
@@ -208,7 +208,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9329](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9329)
+Defined in: [WAProto/index.d.ts:9329](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9329)
 
 Encodes the specified Config message, length delimited. Does not implicitly [verify](Config.md#verify) messages.
 
@@ -238,7 +238,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:9362](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9362)
+Defined in: [WAProto/index.d.ts:9362](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9362)
 
 Creates a Config message from a plain object. Also converts values to their respective internal types.
 
@@ -260,7 +260,7 @@ Config
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9383](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9383)
+Defined in: [WAProto/index.d.ts:9383](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9383)
 
 Gets the default type url for Config
 
@@ -284,7 +284,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9370](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9370)
+Defined in: [WAProto/index.d.ts:9370](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9370)
 
 Creates a plain object from a Config message. Also converts values to other types if specified.
 
@@ -314,7 +314,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9355](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L9355)
+Defined in: [WAProto/index.d.ts:9355](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9355)
 
 Verifies a Config message.
 

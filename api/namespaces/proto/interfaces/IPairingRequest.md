@@ -1,6 +1,6 @@
 # Interface: IPairingRequest
 
-Defined in: [WAProto/index.d.ts:35077](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L35077)
+Defined in: [WAProto/index.d.ts:35077](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L35077)
 
 Properties of a PairingRequest.
 
@@ -10,7 +10,7 @@ Properties of a PairingRequest.
 
 > `optional` **advSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35086](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L35086)
+Defined in: [WAProto/index.d.ts:35086](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L35086)
 
 PairingRequest advSecret
 
@@ -20,7 +20,7 @@ PairingRequest advSecret
 
 > `optional` **companionIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35083](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L35083)
+Defined in: [WAProto/index.d.ts:35083](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L35083)
 
 PairingRequest companionIdentityKey
 
@@ -30,6 +30,6 @@ PairingRequest companionIdentityKey
 
 > `optional` **companionPublicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35080](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L35080)
+Defined in: [WAProto/index.d.ts:35080](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L35080)
 
 PairingRequest companionPublicKey

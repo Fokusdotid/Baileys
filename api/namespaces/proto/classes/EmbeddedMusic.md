@@ -1,6 +1,6 @@
 # Class: EmbeddedMusic
 
-Defined in: [WAProto/index.d.ts:12591](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12591)
+Defined in: [WAProto/index.d.ts:12591](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12591)
 
 Represents an EmbeddedMusic.
 
@@ -14,7 +14,7 @@ Represents an EmbeddedMusic.
 
 > **new EmbeddedMusic**(`properties`?): [`EmbeddedMusic`](EmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12597](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12597)
+Defined in: [WAProto/index.d.ts:12597](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12597)
 
 Constructs a new EmbeddedMusic.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **artistAttribution**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12624](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12624)
+Defined in: [WAProto/index.d.ts:12624](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12624)
 
 EmbeddedMusic artistAttribution.
 
@@ -50,7 +50,7 @@ EmbeddedMusic artistAttribution.
 
 > `optional` **artworkDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12612](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12612)
+Defined in: [WAProto/index.d.ts:12612](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12612)
 
 EmbeddedMusic artworkDirectPath.
 
@@ -64,7 +64,7 @@ EmbeddedMusic artworkDirectPath.
 
 > `optional` **artworkEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12618](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12618)
+Defined in: [WAProto/index.d.ts:12618](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12618)
 
 EmbeddedMusic artworkEncSha256.
 
@@ -78,7 +78,7 @@ EmbeddedMusic artworkEncSha256.
 
 > `optional` **artworkMediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12621](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12621)
+Defined in: [WAProto/index.d.ts:12621](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12621)
 
 EmbeddedMusic artworkMediaKey.
 
@@ -92,7 +92,7 @@ EmbeddedMusic artworkMediaKey.
 
 > `optional` **artworkSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12615](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12615)
+Defined in: [WAProto/index.d.ts:12615](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12615)
 
 EmbeddedMusic artworkSha256.
 
@@ -106,7 +106,7 @@ EmbeddedMusic artworkSha256.
 
 > `optional` **author**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12606](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12606)
+Defined in: [WAProto/index.d.ts:12606](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12606)
 
 EmbeddedMusic author.
 
@@ -120,7 +120,7 @@ EmbeddedMusic author.
 
 > `optional` **countryBlocklist**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12627](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12627)
+Defined in: [WAProto/index.d.ts:12627](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12627)
 
 EmbeddedMusic countryBlocklist.
 
@@ -134,7 +134,7 @@ EmbeddedMusic countryBlocklist.
 
 > `optional` **isExplicit**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12630](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12630)
+Defined in: [WAProto/index.d.ts:12630](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12630)
 
 EmbeddedMusic isExplicit.
 
@@ -148,7 +148,7 @@ EmbeddedMusic isExplicit.
 
 > `optional` **musicContentMediaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12600](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12600)
+Defined in: [WAProto/index.d.ts:12600](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12600)
 
 EmbeddedMusic musicContentMediaId.
 
@@ -162,7 +162,7 @@ EmbeddedMusic musicContentMediaId.
 
 > `optional` **songId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12603](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12603)
+Defined in: [WAProto/index.d.ts:12603](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12603)
 
 EmbeddedMusic songId.
 
@@ -176,7 +176,7 @@ EmbeddedMusic songId.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12609](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12609)
+Defined in: [WAProto/index.d.ts:12609](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12609)
 
 EmbeddedMusic title.
 
@@ -190,7 +190,7 @@ EmbeddedMusic title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12700](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12700)
+Defined in: [WAProto/index.d.ts:12700](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12700)
 
 Converts this EmbeddedMusic to JSON.
 
@@ -206,7 +206,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EmbeddedMusic`](EmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12637](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12637)
+Defined in: [WAProto/index.d.ts:12637](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12637)
 
 Creates a new EmbeddedMusic instance using the specified properties.
 
@@ -230,7 +230,7 @@ EmbeddedMusic instance
 
 > `static` **decode**(`reader`, `length`?): [`EmbeddedMusic`](EmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12663](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12663)
+Defined in: [WAProto/index.d.ts:12663](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12663)
 
 Decodes an EmbeddedMusic message from the specified reader or buffer.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EmbeddedMusic`](EmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12672](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12672)
+Defined in: [WAProto/index.d.ts:12672](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12672)
 
 Decodes an EmbeddedMusic message from the specified reader or buffer, length delimited.
 
@@ -300,7 +300,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12645](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12645)
+Defined in: [WAProto/index.d.ts:12645](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12645)
 
 Encodes the specified EmbeddedMusic message. Does not implicitly [verify](EmbeddedMusic.md#verify) messages.
 
@@ -330,7 +330,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12653](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12653)
+Defined in: [WAProto/index.d.ts:12653](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12653)
 
 Encodes the specified EmbeddedMusic message, length delimited. Does not implicitly [verify](EmbeddedMusic.md#verify) messages.
 
@@ -360,7 +360,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EmbeddedMusic`](EmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:12686](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12686)
+Defined in: [WAProto/index.d.ts:12686](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12686)
 
 Creates an EmbeddedMusic message from a plain object. Also converts values to their respective internal types.
 
@@ -382,7 +382,7 @@ EmbeddedMusic
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12707](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12707)
+Defined in: [WAProto/index.d.ts:12707](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12707)
 
 Gets the default type url for EmbeddedMusic
 
@@ -406,7 +406,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12694](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12694)
+Defined in: [WAProto/index.d.ts:12694](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12694)
 
 Creates a plain object from an EmbeddedMusic message. Also converts values to other types if specified.
 
@@ -436,7 +436,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12679](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L12679)
+Defined in: [WAProto/index.d.ts:12679](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L12679)
 
 Verifies an EmbeddedMusic message.
 

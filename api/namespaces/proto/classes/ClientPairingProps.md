@@ -1,6 +1,6 @@
 # Class: ClientPairingProps
 
-Defined in: [WAProto/index.d.ts:7552](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7552)
+Defined in: [WAProto/index.d.ts:7552](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7552)
 
 Represents a ClientPairingProps.
 
@@ -14,7 +14,7 @@ Represents a ClientPairingProps.
 
 > **new ClientPairingProps**(`properties`?): [`ClientPairingProps`](ClientPairingProps.md)
 
-Defined in: [WAProto/index.d.ts:7558](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7558)
+Defined in: [WAProto/index.d.ts:7558](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7558)
 
 Constructs a new ClientPairingProps.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isChatDbLidMigrated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7561](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7561)
+Defined in: [WAProto/index.d.ts:7561](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7561)
 
 ClientPairingProps isChatDbLidMigrated.
 
@@ -50,7 +50,7 @@ ClientPairingProps isChatDbLidMigrated.
 
 > `optional` **isSyncdPureLidSession**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7564](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7564)
+Defined in: [WAProto/index.d.ts:7564](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7564)
 
 ClientPairingProps isSyncdPureLidSession.
 
@@ -64,7 +64,7 @@ ClientPairingProps isSyncdPureLidSession.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7634](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7634)
+Defined in: [WAProto/index.d.ts:7634](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7634)
 
 Converts this ClientPairingProps to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ClientPairingProps`](ClientPairingProps.md)
 
-Defined in: [WAProto/index.d.ts:7571](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7571)
+Defined in: [WAProto/index.d.ts:7571](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7571)
 
 Creates a new ClientPairingProps instance using the specified properties.
 
@@ -104,7 +104,7 @@ ClientPairingProps instance
 
 > `static` **decode**(`reader`, `length`?): [`ClientPairingProps`](ClientPairingProps.md)
 
-Defined in: [WAProto/index.d.ts:7597](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7597)
+Defined in: [WAProto/index.d.ts:7597](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7597)
 
 Decodes a ClientPairingProps message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ClientPairingProps`](ClientPairingProps.md)
 
-Defined in: [WAProto/index.d.ts:7606](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7606)
+Defined in: [WAProto/index.d.ts:7606](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7606)
 
 Decodes a ClientPairingProps message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7579](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7579)
+Defined in: [WAProto/index.d.ts:7579](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7579)
 
 Encodes the specified ClientPairingProps message. Does not implicitly [verify](ClientPairingProps.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7587](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7587)
+Defined in: [WAProto/index.d.ts:7587](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7587)
 
 Encodes the specified ClientPairingProps message, length delimited. Does not implicitly [verify](ClientPairingProps.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ClientPairingProps`](ClientPairingProps.md)
 
-Defined in: [WAProto/index.d.ts:7620](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7620)
+Defined in: [WAProto/index.d.ts:7620](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7620)
 
 Creates a ClientPairingProps message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ClientPairingProps
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7641](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7641)
+Defined in: [WAProto/index.d.ts:7641](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7641)
 
 Gets the default type url for ClientPairingProps
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7628](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7628)
+Defined in: [WAProto/index.d.ts:7628](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7628)
 
 Creates a plain object from a ClientPairingProps message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7613](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L7613)
+Defined in: [WAProto/index.d.ts:7613](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L7613)
 
 Verifies a ClientPairingProps message.
 

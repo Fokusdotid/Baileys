@@ -1,6 +1,6 @@
 # Enumeration: Trigger
 
-Defined in: [WAProto/index.d.ts:16198](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16198)
+Defined in: [WAProto/index.d.ts:16198](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16198)
 
 Trigger enum.
 
@@ -10,7 +10,7 @@ Trigger enum.
 
 > **BIZ\_SUPPORTS\_FB\_HOSTING**: `1`
 
-Defined in: [WAProto/index.d.ts:16200](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16200)
+Defined in: [WAProto/index.d.ts:16200](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16200)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:16200](https://github.com/Fokusdotid/Baileys/blo
 
 > **CHAT\_SETTING**: `0`
 
-Defined in: [WAProto/index.d.ts:16199](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L16199)
+Defined in: [WAProto/index.d.ts:16199](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16199)

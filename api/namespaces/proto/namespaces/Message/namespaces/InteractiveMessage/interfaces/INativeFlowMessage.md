@@ -1,6 +1,6 @@
 # Interface: INativeFlowMessage
 
-Defined in: [WAProto/index.d.ts:23921](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L23921)
+Defined in: [WAProto/index.d.ts:23921](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L23921)
 
 Properties of a NativeFlowMessage.
 
@@ -10,7 +10,7 @@ Properties of a NativeFlowMessage.
 
 > `optional` **buttons**: `null` \| [`INativeFlowButton`](../namespaces/NativeFlowMessage/interfaces/INativeFlowButton.md)[]
 
-Defined in: [WAProto/index.d.ts:23924](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L23924)
+Defined in: [WAProto/index.d.ts:23924](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L23924)
 
 NativeFlowMessage buttons
 
@@ -20,7 +20,7 @@ NativeFlowMessage buttons
 
 > `optional` **messageParamsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23927](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L23927)
+Defined in: [WAProto/index.d.ts:23927](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L23927)
 
 NativeFlowMessage messageParamsJson
 
@@ -30,6 +30,6 @@ NativeFlowMessage messageParamsJson
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:23930](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L23930)
+Defined in: [WAProto/index.d.ts:23930](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L23930)
 
 NativeFlowMessage messageVersion

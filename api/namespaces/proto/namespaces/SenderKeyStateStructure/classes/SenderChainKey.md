@@ -1,6 +1,6 @@
 # Class: SenderChainKey
 
-Defined in: [WAProto/index.d.ts:38656](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38656)
+Defined in: [WAProto/index.d.ts:38656](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38656)
 
 Represents a SenderChainKey.
 
@@ -14,7 +14,7 @@ Represents a SenderChainKey.
 
 > **new SenderChainKey**(`properties`?): [`SenderChainKey`](SenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38662](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38662)
+Defined in: [WAProto/index.d.ts:38662](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38662)
 
 Constructs a new SenderChainKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38665](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38665)
+Defined in: [WAProto/index.d.ts:38665](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38665)
 
 SenderChainKey iteration.
 
@@ -50,7 +50,7 @@ SenderChainKey iteration.
 
 > `optional` **seed**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38668](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38668)
+Defined in: [WAProto/index.d.ts:38668](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38668)
 
 SenderChainKey seed.
 
@@ -64,7 +64,7 @@ SenderChainKey seed.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:38738](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38738)
+Defined in: [WAProto/index.d.ts:38738](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38738)
 
 Converts this SenderChainKey to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderChainKey`](SenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38675](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38675)
+Defined in: [WAProto/index.d.ts:38675](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38675)
 
 Creates a new SenderChainKey instance using the specified properties.
 
@@ -104,7 +104,7 @@ SenderChainKey instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderChainKey`](SenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38701](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38701)
+Defined in: [WAProto/index.d.ts:38701](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38701)
 
 Decodes a SenderChainKey message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderChainKey`](SenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38710](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38710)
+Defined in: [WAProto/index.d.ts:38710](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38710)
 
 Decodes a SenderChainKey message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38683](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38683)
+Defined in: [WAProto/index.d.ts:38683](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38683)
 
 Encodes the specified SenderChainKey message. Does not implicitly [verify](SenderChainKey.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38691](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38691)
+Defined in: [WAProto/index.d.ts:38691](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38691)
 
 Encodes the specified SenderChainKey message, length delimited. Does not implicitly [verify](SenderChainKey.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderChainKey`](SenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38724](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38724)
+Defined in: [WAProto/index.d.ts:38724](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38724)
 
 Creates a SenderChainKey message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SenderChainKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:38745](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38745)
+Defined in: [WAProto/index.d.ts:38745](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38745)
 
 Gets the default type url for SenderChainKey
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:38732](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38732)
+Defined in: [WAProto/index.d.ts:38732](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38732)
 
 Creates a plain object from a SenderChainKey message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38717](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L38717)
+Defined in: [WAProto/index.d.ts:38717](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L38717)
 
 Verifies a SenderChainKey message.
 

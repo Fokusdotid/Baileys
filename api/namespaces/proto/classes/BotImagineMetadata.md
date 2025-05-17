@@ -1,6 +1,6 @@
 # Class: BotImagineMetadata
 
-Defined in: [WAProto/index.d.ts:3639](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3639)
+Defined in: [WAProto/index.d.ts:3639](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3639)
 
 Represents a BotImagineMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotImagineMetadata.
 
 > **new BotImagineMetadata**(`properties`?): [`BotImagineMetadata`](BotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3645](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3645)
+Defined in: [WAProto/index.d.ts:3645](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3645)
 
 Constructs a new BotImagineMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **imagineType**: `null` \| [`ImagineType`](../namespaces/BotImagineMetadata/enumerations/ImagineType.md)
 
-Defined in: [WAProto/index.d.ts:3648](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3648)
+Defined in: [WAProto/index.d.ts:3648](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3648)
 
 BotImagineMetadata imagineType.
 
@@ -50,7 +50,7 @@ BotImagineMetadata imagineType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3718](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3718)
+Defined in: [WAProto/index.d.ts:3718](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3718)
 
 Converts this BotImagineMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotImagineMetadata`](BotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3655](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3655)
+Defined in: [WAProto/index.d.ts:3655](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3655)
 
 Creates a new BotImagineMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotImagineMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotImagineMetadata`](BotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3681](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3681)
+Defined in: [WAProto/index.d.ts:3681](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3681)
 
 Decodes a BotImagineMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotImagineMetadata`](BotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3690](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3690)
+Defined in: [WAProto/index.d.ts:3690](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3690)
 
 Decodes a BotImagineMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3663](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3663)
+Defined in: [WAProto/index.d.ts:3663](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3663)
 
 Encodes the specified BotImagineMetadata message. Does not implicitly [verify](BotImagineMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3671](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3671)
+Defined in: [WAProto/index.d.ts:3671](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3671)
 
 Encodes the specified BotImagineMetadata message, length delimited. Does not implicitly [verify](BotImagineMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotImagineMetadata`](BotImagineMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3704](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3704)
+Defined in: [WAProto/index.d.ts:3704](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3704)
 
 Creates a BotImagineMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotImagineMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3725](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3725)
+Defined in: [WAProto/index.d.ts:3725](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3725)
 
 Gets the default type url for BotImagineMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3712](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3712)
+Defined in: [WAProto/index.d.ts:3712](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3712)
 
 Creates a plain object from a BotImagineMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3697](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L3697)
+Defined in: [WAProto/index.d.ts:3697](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L3697)
 
 Verifies a BotImagineMetadata message.
 

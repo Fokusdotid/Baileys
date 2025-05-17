@@ -1,6 +1,6 @@
 # Interface: IScheduledCallCreationMessage
 
-Defined in: [WAProto/index.d.ts:30679](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L30679)
+Defined in: [WAProto/index.d.ts:30679](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L30679)
 
 Properties of a ScheduledCallCreationMessage.
 
@@ -10,7 +10,7 @@ Properties of a ScheduledCallCreationMessage.
 
 > `optional` **callType**: `null` \| [`CallType`](../namespaces/ScheduledCallCreationMessage/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:30685](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L30685)
+Defined in: [WAProto/index.d.ts:30685](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L30685)
 
 ScheduledCallCreationMessage callType
 
@@ -20,7 +20,7 @@ ScheduledCallCreationMessage callType
 
 > `optional` **scheduledTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30682](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L30682)
+Defined in: [WAProto/index.d.ts:30682](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L30682)
 
 ScheduledCallCreationMessage scheduledTimestampMs
 
@@ -30,6 +30,6 @@ ScheduledCallCreationMessage scheduledTimestampMs
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30688](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L30688)
+Defined in: [WAProto/index.d.ts:30688](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L30688)
 
 ScheduledCallCreationMessage title

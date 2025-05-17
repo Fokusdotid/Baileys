@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKeyData
 
-Defined in: [WAProto/index.d.ts:17662](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17662)
+Defined in: [WAProto/index.d.ts:17662](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17662)
 
 Properties of an AppStateSyncKeyData.
 
@@ -10,7 +10,7 @@ Properties of an AppStateSyncKeyData.
 
 > `optional` **fingerprint**: `null` \| [`IAppStateSyncKeyFingerprint`](IAppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17668](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17668)
+Defined in: [WAProto/index.d.ts:17668](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17668)
 
 AppStateSyncKeyData fingerprint
 
@@ -20,7 +20,7 @@ AppStateSyncKeyData fingerprint
 
 > `optional` **keyData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:17665](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17665)
+Defined in: [WAProto/index.d.ts:17665](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17665)
 
 AppStateSyncKeyData keyData
 
@@ -30,6 +30,6 @@ AppStateSyncKeyData keyData
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17671](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17671)
+Defined in: [WAProto/index.d.ts:17671](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17671)
 
 AppStateSyncKeyData timestamp

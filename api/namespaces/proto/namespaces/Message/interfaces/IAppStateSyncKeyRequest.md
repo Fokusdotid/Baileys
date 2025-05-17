@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKeyRequest
 
-Defined in: [WAProto/index.d.ts:17977](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17977)
+Defined in: [WAProto/index.d.ts:17977](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17977)
 
 Properties of an AppStateSyncKeyRequest.
 
@@ -10,6 +10,6 @@ Properties of an AppStateSyncKeyRequest.
 
 > `optional` **keyIds**: `null` \| [`IAppStateSyncKeyId`](IAppStateSyncKeyId.md)[]
 
-Defined in: [WAProto/index.d.ts:17980](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L17980)
+Defined in: [WAProto/index.d.ts:17980](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L17980)
 
 AppStateSyncKeyRequest keyIds

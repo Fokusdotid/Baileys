@@ -1,6 +1,6 @@
 # Class: HydratedQuickReplyButton
 
-Defined in: [WAProto/index.d.ts:14877](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14877)
+Defined in: [WAProto/index.d.ts:14877](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14877)
 
 Represents a HydratedQuickReplyButton.
 
@@ -14,7 +14,7 @@ Represents a HydratedQuickReplyButton.
 
 > **new HydratedQuickReplyButton**(`properties`?): [`HydratedQuickReplyButton`](HydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:14883](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14883)
+Defined in: [WAProto/index.d.ts:14883](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14883)
 
 Constructs a new HydratedQuickReplyButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14886](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14886)
+Defined in: [WAProto/index.d.ts:14886](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14886)
 
 HydratedQuickReplyButton displayText.
 
@@ -50,7 +50,7 @@ HydratedQuickReplyButton displayText.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14889](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14889)
+Defined in: [WAProto/index.d.ts:14889](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14889)
 
 HydratedQuickReplyButton id.
 
@@ -64,7 +64,7 @@ HydratedQuickReplyButton id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14959](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14959)
+Defined in: [WAProto/index.d.ts:14959](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14959)
 
 Converts this HydratedQuickReplyButton to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HydratedQuickReplyButton`](HydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:14896](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14896)
+Defined in: [WAProto/index.d.ts:14896](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14896)
 
 Creates a new HydratedQuickReplyButton instance using the specified properties.
 
@@ -104,7 +104,7 @@ HydratedQuickReplyButton instance
 
 > `static` **decode**(`reader`, `length`?): [`HydratedQuickReplyButton`](HydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:14922](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14922)
+Defined in: [WAProto/index.d.ts:14922](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14922)
 
 Decodes a HydratedQuickReplyButton message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HydratedQuickReplyButton`](HydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:14931](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14931)
+Defined in: [WAProto/index.d.ts:14931](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14931)
 
 Decodes a HydratedQuickReplyButton message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14904](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14904)
+Defined in: [WAProto/index.d.ts:14904](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14904)
 
 Encodes the specified HydratedQuickReplyButton message. Does not implicitly [verify](HydratedQuickReplyButton.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14912](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14912)
+Defined in: [WAProto/index.d.ts:14912](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14912)
 
 Encodes the specified HydratedQuickReplyButton message, length delimited. Does not implicitly [verify](HydratedQuickReplyButton.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HydratedQuickReplyButton`](HydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:14945](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14945)
+Defined in: [WAProto/index.d.ts:14945](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14945)
 
 Creates a HydratedQuickReplyButton message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ HydratedQuickReplyButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14966](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14966)
+Defined in: [WAProto/index.d.ts:14966](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14966)
 
 Gets the default type url for HydratedQuickReplyButton
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14953](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14953)
+Defined in: [WAProto/index.d.ts:14953](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14953)
 
 Creates a plain object from a HydratedQuickReplyButton message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14938](https://github.com/Fokusdotid/Baileys/blob/a954da2ee3c892812cf9528a5a214092693c872f/WAProto/index.d.ts#L14938)
+Defined in: [WAProto/index.d.ts:14938](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L14938)
 
 Verifies a HydratedQuickReplyButton message.
 
