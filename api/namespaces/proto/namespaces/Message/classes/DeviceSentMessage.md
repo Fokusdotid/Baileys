@@ -1,6 +1,6 @@
 # Class: DeviceSentMessage
 
-Defined in: [WAProto/index.d.ts:20402](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20402)
+Defined in: [WAProto/index.d.ts:20402](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20402)
 
 Represents a DeviceSentMessage.
 
@@ -14,7 +14,7 @@ Represents a DeviceSentMessage.
 
 > **new DeviceSentMessage**(`properties`?): [`DeviceSentMessage`](DeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20408](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20408)
+Defined in: [WAProto/index.d.ts:20408](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20408)
 
 Constructs a new DeviceSentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **destinationJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20411](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20411)
+Defined in: [WAProto/index.d.ts:20411](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20411)
 
 DeviceSentMessage destinationJid.
 
@@ -50,7 +50,7 @@ DeviceSentMessage destinationJid.
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:20414](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20414)
+Defined in: [WAProto/index.d.ts:20414](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20414)
 
 DeviceSentMessage message.
 
@@ -64,7 +64,7 @@ DeviceSentMessage message.
 
 > `optional` **phash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20417](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20417)
+Defined in: [WAProto/index.d.ts:20417](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20417)
 
 DeviceSentMessage phash.
 
@@ -78,7 +78,7 @@ DeviceSentMessage phash.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20487](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20487)
+Defined in: [WAProto/index.d.ts:20487](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20487)
 
 Converts this DeviceSentMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceSentMessage`](DeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20424](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20424)
+Defined in: [WAProto/index.d.ts:20424](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20424)
 
 Creates a new DeviceSentMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ DeviceSentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceSentMessage`](DeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20450](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20450)
+Defined in: [WAProto/index.d.ts:20450](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20450)
 
 Decodes a DeviceSentMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceSentMessage`](DeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20459](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20459)
+Defined in: [WAProto/index.d.ts:20459](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20459)
 
 Decodes a DeviceSentMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20432](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20432)
+Defined in: [WAProto/index.d.ts:20432](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20432)
 
 Encodes the specified DeviceSentMessage message. Does not implicitly [verify](DeviceSentMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20440](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20440)
+Defined in: [WAProto/index.d.ts:20440](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20440)
 
 Encodes the specified DeviceSentMessage message, length delimited. Does not implicitly [verify](DeviceSentMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceSentMessage`](DeviceSentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20473](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20473)
+Defined in: [WAProto/index.d.ts:20473](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20473)
 
 Creates a DeviceSentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ DeviceSentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20494](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20494)
+Defined in: [WAProto/index.d.ts:20494](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20494)
 
 Gets the default type url for DeviceSentMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20481](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20481)
+Defined in: [WAProto/index.d.ts:20481](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20481)
 
 Creates a plain object from a DeviceSentMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20466](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L20466)
+Defined in: [WAProto/index.d.ts:20466](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20466)
 
 Verifies a DeviceSentMessage message.
 

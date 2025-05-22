@@ -1,6 +1,6 @@
 # Enumeration: Flag
 
-Defined in: [WAProto/index.d.ts:49557](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L49557)
+Defined in: [WAProto/index.d.ts:49557](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L49557)
 
 Flag enum.
 
@@ -10,7 +10,7 @@ Flag enum.
 
 > **DEVELOPMENT**: `2`
 
-Defined in: [WAProto/index.d.ts:49560](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L49560)
+Defined in: [WAProto/index.d.ts:49560](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L49560)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:49560](https://github.com/Fokusdotid/Baileys/blo
 
 > **FORCE\_UPGRADE**: `1`
 
-Defined in: [WAProto/index.d.ts:49559](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L49559)
+Defined in: [WAProto/index.d.ts:49559](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L49559)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:49559](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOT\_STARTED**: `0`
 
-Defined in: [WAProto/index.d.ts:49558](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L49558)
+Defined in: [WAProto/index.d.ts:49558](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L49558)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:49558](https://github.com/Fokusdotid/Baileys/blo
 
 > **PRODUCTION**: `3`
 
-Defined in: [WAProto/index.d.ts:49561](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L49561)
+Defined in: [WAProto/index.d.ts:49561](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L49561)

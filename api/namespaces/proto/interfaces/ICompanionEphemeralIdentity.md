@@ -1,6 +1,6 @@
 # Interface: ICompanionEphemeralIdentity
 
-Defined in: [WAProto/index.d.ts:9175](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9175)
+Defined in: [WAProto/index.d.ts:9175](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L9175)
 
 Properties of a CompanionEphemeralIdentity.
 
@@ -10,7 +10,7 @@ Properties of a CompanionEphemeralIdentity.
 
 > `optional` **deviceType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:9181](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9181)
+Defined in: [WAProto/index.d.ts:9181](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L9181)
 
 CompanionEphemeralIdentity deviceType
 
@@ -20,7 +20,7 @@ CompanionEphemeralIdentity deviceType
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9178](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9178)
+Defined in: [WAProto/index.d.ts:9178](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L9178)
 
 CompanionEphemeralIdentity publicKey
 
@@ -30,6 +30,6 @@ CompanionEphemeralIdentity publicKey
 
 > `optional` **ref**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9184](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L9184)
+Defined in: [WAProto/index.d.ts:9184](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L9184)
 
 CompanionEphemeralIdentity ref

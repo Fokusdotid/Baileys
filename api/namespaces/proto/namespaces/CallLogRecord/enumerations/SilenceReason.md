@@ -1,6 +1,6 @@
 # Enumeration: SilenceReason
 
-Defined in: [WAProto/index.d.ts:6470](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L6470)
+Defined in: [WAProto/index.d.ts:6470](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L6470)
 
 SilenceReason enum.
 
@@ -10,7 +10,7 @@ SilenceReason enum.
 
 > **LIGHTWEIGHT**: `3`
 
-Defined in: [WAProto/index.d.ts:6474](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L6474)
+Defined in: [WAProto/index.d.ts:6474](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L6474)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:6474](https://github.com/Fokusdotid/Baileys/blob
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:6471](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L6471)
+Defined in: [WAProto/index.d.ts:6471](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L6471)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:6471](https://github.com/Fokusdotid/Baileys/blob
 
 > **PRIVACY**: `2`
 
-Defined in: [WAProto/index.d.ts:6473](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L6473)
+Defined in: [WAProto/index.d.ts:6473](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L6473)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:6473](https://github.com/Fokusdotid/Baileys/blob
 
 > **SCHEDULED**: `1`
 
-Defined in: [WAProto/index.d.ts:6472](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L6472)
+Defined in: [WAProto/index.d.ts:6472](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L6472)

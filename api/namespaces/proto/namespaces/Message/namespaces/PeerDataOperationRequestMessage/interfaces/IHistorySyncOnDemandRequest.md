@@ -1,6 +1,6 @@
 # Interface: IHistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:27111](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27111)
+Defined in: [WAProto/index.d.ts:27111](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27111)
 
 Properties of a HistorySyncOnDemandRequest.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncOnDemandRequest.
 
 > `optional` **accountLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27129](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27129)
+Defined in: [WAProto/index.d.ts:27129](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27129)
 
 HistorySyncOnDemandRequest accountLid
 
@@ -20,7 +20,7 @@ HistorySyncOnDemandRequest accountLid
 
 > `optional` **chatJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27114](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27114)
+Defined in: [WAProto/index.d.ts:27114](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27114)
 
 HistorySyncOnDemandRequest chatJid
 
@@ -30,7 +30,7 @@ HistorySyncOnDemandRequest chatJid
 
 > `optional` **oldestMsgFromMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:27120](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27120)
+Defined in: [WAProto/index.d.ts:27120](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27120)
 
 HistorySyncOnDemandRequest oldestMsgFromMe
 
@@ -40,7 +40,7 @@ HistorySyncOnDemandRequest oldestMsgFromMe
 
 > `optional` **oldestMsgId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27117](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27117)
+Defined in: [WAProto/index.d.ts:27117](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27117)
 
 HistorySyncOnDemandRequest oldestMsgId
 
@@ -50,7 +50,7 @@ HistorySyncOnDemandRequest oldestMsgId
 
 > `optional` **oldestMsgTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:27126](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27126)
+Defined in: [WAProto/index.d.ts:27126](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27126)
 
 HistorySyncOnDemandRequest oldestMsgTimestampMs
 
@@ -60,6 +60,6 @@ HistorySyncOnDemandRequest oldestMsgTimestampMs
 
 > `optional` **onDemandMsgCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27123](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L27123)
+Defined in: [WAProto/index.d.ts:27123](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L27123)
 
 HistorySyncOnDemandRequest onDemandMsgCount

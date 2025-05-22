@@ -1,6 +1,6 @@
 # Interface: IChatAssignmentAction
 
-Defined in: [WAProto/index.d.ts:41437](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L41437)
+Defined in: [WAProto/index.d.ts:41437](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L41437)
 
 Properties of a ChatAssignmentAction.
 
@@ -10,6 +10,6 @@ Properties of a ChatAssignmentAction.
 
 > `optional` **deviceAgentID**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41440](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L41440)
+Defined in: [WAProto/index.d.ts:41440](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L41440)
 
 ChatAssignmentAction deviceAgentID

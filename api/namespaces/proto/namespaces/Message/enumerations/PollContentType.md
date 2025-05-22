@@ -1,6 +1,6 @@
 # Enumeration: PollContentType
 
-Defined in: [WAProto/index.d.ts:28700](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L28700)
+Defined in: [WAProto/index.d.ts:28700](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L28700)
 
 PollContentType enum.
 
@@ -10,7 +10,7 @@ PollContentType enum.
 
 > **IMAGE**: `2`
 
-Defined in: [WAProto/index.d.ts:28703](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L28703)
+Defined in: [WAProto/index.d.ts:28703](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L28703)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:28703](https://github.com/Fokusdotid/Baileys/blo
 
 > **TEXT**: `1`
 
-Defined in: [WAProto/index.d.ts:28702](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L28702)
+Defined in: [WAProto/index.d.ts:28702](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L28702)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:28702](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:28701](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L28701)
+Defined in: [WAProto/index.d.ts:28701](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L28701)

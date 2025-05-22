@@ -1,6 +1,6 @@
 # Interface: ICommentMessage
 
-Defined in: [WAProto/index.d.ts:19971](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19971)
+Defined in: [WAProto/index.d.ts:19971](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19971)
 
 Properties of a CommentMessage.
 
@@ -10,7 +10,7 @@ Properties of a CommentMessage.
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:19974](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19974)
+Defined in: [WAProto/index.d.ts:19974](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19974)
 
 CommentMessage message
 
@@ -20,6 +20,6 @@ CommentMessage message
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:19977](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19977)
+Defined in: [WAProto/index.d.ts:19977](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19977)
 
 CommentMessage targetMessageKey

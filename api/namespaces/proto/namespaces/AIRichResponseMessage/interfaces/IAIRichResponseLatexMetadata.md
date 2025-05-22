@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseLatexMetadata
 
-Defined in: [WAProto/index.d.ts:1804](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L1804)
+Defined in: [WAProto/index.d.ts:1804](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1804)
 
 Properties of a AIRichResponseLatexMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseLatexMetadata.
 
 > `optional` **expressions**: `null` \| [`IAIRichResponseLatexExpression`](../namespaces/AIRichResponseLatexMetadata/interfaces/IAIRichResponseLatexExpression.md)[]
 
-Defined in: [WAProto/index.d.ts:1810](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L1810)
+Defined in: [WAProto/index.d.ts:1810](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1810)
 
 AIRichResponseLatexMetadata expressions
 
@@ -20,6 +20,6 @@ AIRichResponseLatexMetadata expressions
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1807](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L1807)
+Defined in: [WAProto/index.d.ts:1807](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1807)
 
 AIRichResponseLatexMetadata text

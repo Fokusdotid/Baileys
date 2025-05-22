@@ -2,4 +2,4 @@
 
 > **MessageUserReceipt**: [`IUserReceipt`](../namespaces/proto/interfaces/IUserReceipt.md)
 
-Defined in: [src/Types/Message.ts:303](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/src/Types/Message.ts#L303)
+Defined in: [src/Types/Message.ts:303](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/src/Types/Message.ts#L303)

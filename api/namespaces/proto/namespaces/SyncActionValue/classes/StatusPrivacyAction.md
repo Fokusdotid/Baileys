@@ -1,6 +1,6 @@
 # Class: StatusPrivacyAction
 
-Defined in: [WAProto/index.d.ts:45590](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45590)
+Defined in: [WAProto/index.d.ts:45590](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45590)
 
 Represents a StatusPrivacyAction.
 
@@ -14,7 +14,7 @@ Represents a StatusPrivacyAction.
 
 > **new StatusPrivacyAction**(`properties`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:45596](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45596)
+Defined in: [WAProto/index.d.ts:45596](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45596)
 
 Constructs a new StatusPrivacyAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **mode**: `null` \| [`StatusDistributionMode`](../namespaces/StatusPrivacyAction/enumerations/StatusDistributionMode.md)
 
-Defined in: [WAProto/index.d.ts:45599](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45599)
+Defined in: [WAProto/index.d.ts:45599](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45599)
 
 StatusPrivacyAction mode.
 
@@ -50,7 +50,7 @@ StatusPrivacyAction mode.
 
 > **userJid**: `string`[]
 
-Defined in: [WAProto/index.d.ts:45602](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45602)
+Defined in: [WAProto/index.d.ts:45602](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45602)
 
 StatusPrivacyAction userJid.
 
@@ -64,7 +64,7 @@ StatusPrivacyAction userJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45672](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45672)
+Defined in: [WAProto/index.d.ts:45672](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45672)
 
 Converts this StatusPrivacyAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:45609](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45609)
+Defined in: [WAProto/index.d.ts:45609](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45609)
 
 Creates a new StatusPrivacyAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ StatusPrivacyAction instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:45635](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45635)
+Defined in: [WAProto/index.d.ts:45635](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45635)
 
 Decodes a StatusPrivacyAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:45644](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45644)
+Defined in: [WAProto/index.d.ts:45644](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45644)
 
 Decodes a StatusPrivacyAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45617](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45617)
+Defined in: [WAProto/index.d.ts:45617](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45617)
 
 Encodes the specified StatusPrivacyAction message. Does not implicitly [verify](StatusPrivacyAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45625](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45625)
+Defined in: [WAProto/index.d.ts:45625](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45625)
 
 Encodes the specified StatusPrivacyAction message, length delimited. Does not implicitly [verify](StatusPrivacyAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:45658](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45658)
+Defined in: [WAProto/index.d.ts:45658](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45658)
 
 Creates a StatusPrivacyAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ StatusPrivacyAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45679](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45679)
+Defined in: [WAProto/index.d.ts:45679](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45679)
 
 Gets the default type url for StatusPrivacyAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45666](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45666)
+Defined in: [WAProto/index.d.ts:45666](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45666)
 
 Creates a plain object from a StatusPrivacyAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45651](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L45651)
+Defined in: [WAProto/index.d.ts:45651](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45651)
 
 Verifies a StatusPrivacyAction message.
 

@@ -1,6 +1,6 @@
 # Class: Money
 
-Defined in: [WAProto/index.d.ts:33650](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33650)
+Defined in: [WAProto/index.d.ts:33650](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33650)
 
 Represents a Money.
 
@@ -14,7 +14,7 @@ Represents a Money.
 
 > **new Money**(`properties`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:33656](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33656)
+Defined in: [WAProto/index.d.ts:33656](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33656)
 
 Constructs a new Money.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33665](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33665)
+Defined in: [WAProto/index.d.ts:33665](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33665)
 
 Money currencyCode.
 
@@ -50,7 +50,7 @@ Money currencyCode.
 
 > `optional` **offset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33662](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33662)
+Defined in: [WAProto/index.d.ts:33662](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33662)
 
 Money offset.
 
@@ -64,7 +64,7 @@ Money offset.
 
 > `optional` **value**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33659](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33659)
+Defined in: [WAProto/index.d.ts:33659](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33659)
 
 Money value.
 
@@ -78,7 +78,7 @@ Money value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:33735](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33735)
+Defined in: [WAProto/index.d.ts:33735](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33735)
 
 Converts this Money to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:33672](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33672)
+Defined in: [WAProto/index.d.ts:33672](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33672)
 
 Creates a new Money instance using the specified properties.
 
@@ -118,7 +118,7 @@ Money instance
 
 > `static` **decode**(`reader`, `length`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:33698](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33698)
+Defined in: [WAProto/index.d.ts:33698](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33698)
 
 Decodes a Money message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:33707](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33707)
+Defined in: [WAProto/index.d.ts:33707](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33707)
 
 Decodes a Money message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33680](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33680)
+Defined in: [WAProto/index.d.ts:33680](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33680)
 
 Encodes the specified Money message. Does not implicitly [verify](Money.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33688](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33688)
+Defined in: [WAProto/index.d.ts:33688](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33688)
 
 Encodes the specified Money message, length delimited. Does not implicitly [verify](Money.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:33721](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33721)
+Defined in: [WAProto/index.d.ts:33721](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33721)
 
 Creates a Money message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ Money
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:33742](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33742)
+Defined in: [WAProto/index.d.ts:33742](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33742)
 
 Gets the default type url for Money
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:33729](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33729)
+Defined in: [WAProto/index.d.ts:33729](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33729)
 
 Creates a plain object from a Money message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33714](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L33714)
+Defined in: [WAProto/index.d.ts:33714](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L33714)
 
 Verifies a Money message.
 

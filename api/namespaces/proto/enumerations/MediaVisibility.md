@@ -1,6 +1,6 @@
 # Enumeration: MediaVisibility
 
-Defined in: [WAProto/index.d.ts:16755](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16755)
+Defined in: [WAProto/index.d.ts:16755](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16755)
 
 MediaVisibility enum.
 
@@ -10,7 +10,7 @@ MediaVisibility enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:16756](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16756)
+Defined in: [WAProto/index.d.ts:16756](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16756)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:16756](https://github.com/Fokusdotid/Baileys/blo
 
 > **OFF**: `1`
 
-Defined in: [WAProto/index.d.ts:16757](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16757)
+Defined in: [WAProto/index.d.ts:16757](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16757)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:16757](https://github.com/Fokusdotid/Baileys/blo
 
 > **ON**: `2`
 
-Defined in: [WAProto/index.d.ts:16758](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16758)
+Defined in: [WAProto/index.d.ts:16758](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16758)

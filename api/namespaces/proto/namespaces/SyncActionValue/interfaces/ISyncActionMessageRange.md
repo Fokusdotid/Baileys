@@ -1,6 +1,6 @@
 # Interface: ISyncActionMessageRange
 
-Defined in: [WAProto/index.d.ts:46062](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46062)
+Defined in: [WAProto/index.d.ts:46062](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46062)
 
 Properties of a SyncActionMessageRange.
 
@@ -10,7 +10,7 @@ Properties of a SyncActionMessageRange.
 
 > `optional` **lastMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:46065](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46065)
+Defined in: [WAProto/index.d.ts:46065](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46065)
 
 SyncActionMessageRange lastMessageTimestamp
 
@@ -20,7 +20,7 @@ SyncActionMessageRange lastMessageTimestamp
 
 > `optional` **lastSystemMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:46068](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46068)
+Defined in: [WAProto/index.d.ts:46068](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46068)
 
 SyncActionMessageRange lastSystemMessageTimestamp
 
@@ -30,6 +30,6 @@ SyncActionMessageRange lastSystemMessageTimestamp
 
 > `optional` **messages**: `null` \| [`ISyncActionMessage`](ISyncActionMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:46071](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46071)
+Defined in: [WAProto/index.d.ts:46071](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46071)
 
 SyncActionMessageRange messages

@@ -1,6 +1,6 @@
 # Class: CatalogSnapshot
 
-Defined in: [WAProto/index.d.ts:29721](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29721)
+Defined in: [WAProto/index.d.ts:29721](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29721)
 
 Represents a CatalogSnapshot.
 
@@ -14,7 +14,7 @@ Represents a CatalogSnapshot.
 
 > **new CatalogSnapshot**(`properties`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29727](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29727)
+Defined in: [WAProto/index.d.ts:29727](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29727)
 
 Constructs a new CatalogSnapshot.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **catalogImage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:29730](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29730)
+Defined in: [WAProto/index.d.ts:29730](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29730)
 
 CatalogSnapshot catalogImage.
 
@@ -50,7 +50,7 @@ CatalogSnapshot catalogImage.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29736](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29736)
+Defined in: [WAProto/index.d.ts:29736](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29736)
 
 CatalogSnapshot description.
 
@@ -64,7 +64,7 @@ CatalogSnapshot description.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29733](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29733)
+Defined in: [WAProto/index.d.ts:29733](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29733)
 
 CatalogSnapshot title.
 
@@ -78,7 +78,7 @@ CatalogSnapshot title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29806](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29806)
+Defined in: [WAProto/index.d.ts:29806](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29806)
 
 Converts this CatalogSnapshot to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29743](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29743)
+Defined in: [WAProto/index.d.ts:29743](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29743)
 
 Creates a new CatalogSnapshot instance using the specified properties.
 
@@ -118,7 +118,7 @@ CatalogSnapshot instance
 
 > `static` **decode**(`reader`, `length`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29769](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29769)
+Defined in: [WAProto/index.d.ts:29769](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29769)
 
 Decodes a CatalogSnapshot message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29778](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29778)
+Defined in: [WAProto/index.d.ts:29778](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29778)
 
 Decodes a CatalogSnapshot message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29751](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29751)
+Defined in: [WAProto/index.d.ts:29751](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29751)
 
 Encodes the specified CatalogSnapshot message. Does not implicitly [verify](CatalogSnapshot.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29759](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29759)
+Defined in: [WAProto/index.d.ts:29759](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29759)
 
 Encodes the specified CatalogSnapshot message, length delimited. Does not implicitly [verify](CatalogSnapshot.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29792](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29792)
+Defined in: [WAProto/index.d.ts:29792](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29792)
 
 Creates a CatalogSnapshot message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ CatalogSnapshot
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29813](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29813)
+Defined in: [WAProto/index.d.ts:29813](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29813)
 
 Gets the default type url for CatalogSnapshot
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29800](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29800)
+Defined in: [WAProto/index.d.ts:29800](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29800)
 
 Creates a plain object from a CatalogSnapshot message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29785](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L29785)
+Defined in: [WAProto/index.d.ts:29785](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L29785)
 
 Verifies a CatalogSnapshot message.
 

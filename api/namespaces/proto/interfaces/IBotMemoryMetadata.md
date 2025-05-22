@@ -1,6 +1,6 @@
 # Interface: IBotMemoryMetadata
 
-Defined in: [WAProto/index.d.ts:4195](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L4195)
+Defined in: [WAProto/index.d.ts:4195](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4195)
 
 Properties of a BotMemoryMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMemoryMetadata.
 
 > `optional` **addedFacts**: `null` \| [`IBotMemoryFact`](IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4198](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L4198)
+Defined in: [WAProto/index.d.ts:4198](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4198)
 
 BotMemoryMetadata addedFacts
 
@@ -20,7 +20,7 @@ BotMemoryMetadata addedFacts
 
 > `optional` **disclaimer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4204](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L4204)
+Defined in: [WAProto/index.d.ts:4204](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4204)
 
 BotMemoryMetadata disclaimer
 
@@ -30,6 +30,6 @@ BotMemoryMetadata disclaimer
 
 > `optional` **removedFacts**: `null` \| [`IBotMemoryFact`](IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4201](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L4201)
+Defined in: [WAProto/index.d.ts:4201](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4201)
 
 BotMemoryMetadata removedFacts

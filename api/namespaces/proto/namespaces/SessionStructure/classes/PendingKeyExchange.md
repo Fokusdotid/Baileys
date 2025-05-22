@@ -1,6 +1,6 @@
 # Class: PendingKeyExchange
 
-Defined in: [WAProto/index.d.ts:39585](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39585)
+Defined in: [WAProto/index.d.ts:39585](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39585)
 
 Represents a PendingKeyExchange.
 
@@ -14,7 +14,7 @@ Represents a PendingKeyExchange.
 
 > **new PendingKeyExchange**(`properties`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39591](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39591)
+Defined in: [WAProto/index.d.ts:39591](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39591)
 
 Constructs a new PendingKeyExchange.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **localBaseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39597](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39597)
+Defined in: [WAProto/index.d.ts:39597](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39597)
 
 PendingKeyExchange localBaseKey.
 
@@ -50,7 +50,7 @@ PendingKeyExchange localBaseKey.
 
 > `optional` **localBaseKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39600](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39600)
+Defined in: [WAProto/index.d.ts:39600](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39600)
 
 PendingKeyExchange localBaseKeyPrivate.
 
@@ -64,7 +64,7 @@ PendingKeyExchange localBaseKeyPrivate.
 
 > `optional` **localIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39609](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39609)
+Defined in: [WAProto/index.d.ts:39609](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39609)
 
 PendingKeyExchange localIdentityKey.
 
@@ -78,7 +78,7 @@ PendingKeyExchange localIdentityKey.
 
 > `optional` **localIdentityKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39612](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39612)
+Defined in: [WAProto/index.d.ts:39612](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39612)
 
 PendingKeyExchange localIdentityKeyPrivate.
 
@@ -92,7 +92,7 @@ PendingKeyExchange localIdentityKeyPrivate.
 
 > `optional` **localRatchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39603](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39603)
+Defined in: [WAProto/index.d.ts:39603](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39603)
 
 PendingKeyExchange localRatchetKey.
 
@@ -106,7 +106,7 @@ PendingKeyExchange localRatchetKey.
 
 > `optional` **localRatchetKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39606](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39606)
+Defined in: [WAProto/index.d.ts:39606](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39606)
 
 PendingKeyExchange localRatchetKeyPrivate.
 
@@ -120,7 +120,7 @@ PendingKeyExchange localRatchetKeyPrivate.
 
 > `optional` **sequence**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39594](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39594)
+Defined in: [WAProto/index.d.ts:39594](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39594)
 
 PendingKeyExchange sequence.
 
@@ -134,7 +134,7 @@ PendingKeyExchange sequence.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39682](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39682)
+Defined in: [WAProto/index.d.ts:39682](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39682)
 
 Converts this PendingKeyExchange to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39619](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39619)
+Defined in: [WAProto/index.d.ts:39619](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39619)
 
 Creates a new PendingKeyExchange instance using the specified properties.
 
@@ -174,7 +174,7 @@ PendingKeyExchange instance
 
 > `static` **decode**(`reader`, `length`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39645](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39645)
+Defined in: [WAProto/index.d.ts:39645](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39645)
 
 Decodes a PendingKeyExchange message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39654](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39654)
+Defined in: [WAProto/index.d.ts:39654](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39654)
 
 Decodes a PendingKeyExchange message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39627](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39627)
+Defined in: [WAProto/index.d.ts:39627](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39627)
 
 Encodes the specified PendingKeyExchange message. Does not implicitly [verify](PendingKeyExchange.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39635](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39635)
+Defined in: [WAProto/index.d.ts:39635](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39635)
 
 Encodes the specified PendingKeyExchange message, length delimited. Does not implicitly [verify](PendingKeyExchange.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39668](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39668)
+Defined in: [WAProto/index.d.ts:39668](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39668)
 
 Creates a PendingKeyExchange message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ PendingKeyExchange
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39689](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39689)
+Defined in: [WAProto/index.d.ts:39689](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39689)
 
 Gets the default type url for PendingKeyExchange
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39676](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39676)
+Defined in: [WAProto/index.d.ts:39676](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39676)
 
 Creates a plain object from a PendingKeyExchange message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39661](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L39661)
+Defined in: [WAProto/index.d.ts:39661](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L39661)
 
 Verifies a PendingKeyExchange message.
 

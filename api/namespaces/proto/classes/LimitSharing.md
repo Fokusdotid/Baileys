@@ -1,6 +1,6 @@
 # Class: LimitSharing
 
-Defined in: [WAProto/index.d.ts:16103](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16103)
+Defined in: [WAProto/index.d.ts:16103](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16103)
 
 Represents a LimitSharing.
 
@@ -14,7 +14,7 @@ Represents a LimitSharing.
 
 > **new LimitSharing**(`properties`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:16109](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16109)
+Defined in: [WAProto/index.d.ts:16109](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16109)
 
 Constructs a new LimitSharing.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **sharingLimited**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16112](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16112)
+Defined in: [WAProto/index.d.ts:16112](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16112)
 
 LimitSharing sharingLimited.
 
@@ -50,7 +50,7 @@ LimitSharing sharingLimited.
 
 > `optional` **trigger**: `null` \| [`Trigger`](../namespaces/LimitSharing/enumerations/Trigger.md)
 
-Defined in: [WAProto/index.d.ts:16115](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16115)
+Defined in: [WAProto/index.d.ts:16115](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16115)
 
 LimitSharing trigger.
 
@@ -64,7 +64,7 @@ LimitSharing trigger.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16185](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16185)
+Defined in: [WAProto/index.d.ts:16185](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16185)
 
 Converts this LimitSharing to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:16122](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16122)
+Defined in: [WAProto/index.d.ts:16122](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16122)
 
 Creates a new LimitSharing instance using the specified properties.
 
@@ -104,7 +104,7 @@ LimitSharing instance
 
 > `static` **decode**(`reader`, `length`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:16148](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16148)
+Defined in: [WAProto/index.d.ts:16148](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16148)
 
 Decodes a LimitSharing message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:16157](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16157)
+Defined in: [WAProto/index.d.ts:16157](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16157)
 
 Decodes a LimitSharing message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16130](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16130)
+Defined in: [WAProto/index.d.ts:16130](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16130)
 
 Encodes the specified LimitSharing message. Does not implicitly [verify](LimitSharing.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16138](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16138)
+Defined in: [WAProto/index.d.ts:16138](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16138)
 
 Encodes the specified LimitSharing message, length delimited. Does not implicitly [verify](LimitSharing.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:16171](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16171)
+Defined in: [WAProto/index.d.ts:16171](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16171)
 
 Creates a LimitSharing message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ LimitSharing
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16192](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16192)
+Defined in: [WAProto/index.d.ts:16192](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16192)
 
 Gets the default type url for LimitSharing
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16179](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16179)
+Defined in: [WAProto/index.d.ts:16179](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16179)
 
 Creates a plain object from a LimitSharing message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16164](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L16164)
+Defined in: [WAProto/index.d.ts:16164](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16164)
 
 Verifies a LimitSharing message.
 

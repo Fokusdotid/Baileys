@@ -1,6 +1,6 @@
 # Interface: ICloudAPIThreadControlNotification
 
-Defined in: [WAProto/index.d.ts:19846](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19846)
+Defined in: [WAProto/index.d.ts:19846](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19846)
 
 Properties of a CloudAPIThreadControlNotification.
 
@@ -10,7 +10,7 @@ Properties of a CloudAPIThreadControlNotification.
 
 > `optional` **consumerLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19855](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19855)
+Defined in: [WAProto/index.d.ts:19855](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19855)
 
 CloudAPIThreadControlNotification consumerLid
 
@@ -20,7 +20,7 @@ CloudAPIThreadControlNotification consumerLid
 
 > `optional` **consumerPhoneNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19858](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19858)
+Defined in: [WAProto/index.d.ts:19858](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19858)
 
 CloudAPIThreadControlNotification consumerPhoneNumber
 
@@ -30,7 +30,7 @@ CloudAPIThreadControlNotification consumerPhoneNumber
 
 > `optional` **senderNotificationTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:19852](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19852)
+Defined in: [WAProto/index.d.ts:19852](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19852)
 
 CloudAPIThreadControlNotification senderNotificationTimestampMs
 
@@ -40,6 +40,6 @@ CloudAPIThreadControlNotification senderNotificationTimestampMs
 
 > `optional` **status**: `null` \| [`CloudAPIThreadControl`](../namespaces/CloudAPIThreadControlNotification/enumerations/CloudAPIThreadControl.md)
 
-Defined in: [WAProto/index.d.ts:19849](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L19849)
+Defined in: [WAProto/index.d.ts:19849](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19849)
 
 CloudAPIThreadControlNotification status

@@ -1,6 +1,6 @@
 # Class: UserStatusMuteAction
 
-Defined in: [WAProto/index.d.ts:46372](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46372)
+Defined in: [WAProto/index.d.ts:46372](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46372)
 
 Represents a UserStatusMuteAction.
 
@@ -14,7 +14,7 @@ Represents a UserStatusMuteAction.
 
 > **new UserStatusMuteAction**(`properties`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46378](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46378)
+Defined in: [WAProto/index.d.ts:46378](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46378)
 
 Constructs a new UserStatusMuteAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **muted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46381](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46381)
+Defined in: [WAProto/index.d.ts:46381](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46381)
 
 UserStatusMuteAction muted.
 
@@ -50,7 +50,7 @@ UserStatusMuteAction muted.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46451](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46451)
+Defined in: [WAProto/index.d.ts:46451](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46451)
 
 Converts this UserStatusMuteAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46388](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46388)
+Defined in: [WAProto/index.d.ts:46388](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46388)
 
 Creates a new UserStatusMuteAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ UserStatusMuteAction instance
 
 > `static` **decode**(`reader`, `length`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46414](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46414)
+Defined in: [WAProto/index.d.ts:46414](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46414)
 
 Decodes a UserStatusMuteAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46423](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46423)
+Defined in: [WAProto/index.d.ts:46423](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46423)
 
 Decodes a UserStatusMuteAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46396](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46396)
+Defined in: [WAProto/index.d.ts:46396](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46396)
 
 Encodes the specified UserStatusMuteAction message. Does not implicitly [verify](UserStatusMuteAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46404](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46404)
+Defined in: [WAProto/index.d.ts:46404](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46404)
 
 Encodes the specified UserStatusMuteAction message, length delimited. Does not implicitly [verify](UserStatusMuteAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46437](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46437)
+Defined in: [WAProto/index.d.ts:46437](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46437)
 
 Creates a UserStatusMuteAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UserStatusMuteAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46458](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46458)
+Defined in: [WAProto/index.d.ts:46458](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46458)
 
 Gets the default type url for UserStatusMuteAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46445](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46445)
+Defined in: [WAProto/index.d.ts:46445](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46445)
 
 Creates a plain object from a UserStatusMuteAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46430](https://github.com/Fokusdotid/Baileys/blob/acae94a55f1d32612d8d312d52b001d93f2ac5e2/WAProto/index.d.ts#L46430)
+Defined in: [WAProto/index.d.ts:46430](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L46430)
 
 Verifies a UserStatusMuteAction message.
 
