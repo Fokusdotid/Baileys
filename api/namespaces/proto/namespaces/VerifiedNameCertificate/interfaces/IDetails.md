@@ -1,6 +1,6 @@
 # Interface: IDetails
 
-Defined in: [WAProto/index.d.ts:48969](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48969)
+Defined in: [WAProto/index.d.ts:48969](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48969)
 
 Properties of a Details.
 
@@ -10,7 +10,7 @@ Properties of a Details.
 
 > `optional` **issuer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48975](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48975)
+Defined in: [WAProto/index.d.ts:48975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48975)
 
 Details issuer
 
@@ -20,7 +20,7 @@ Details issuer
 
 > `optional` **issueTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48984](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48984)
+Defined in: [WAProto/index.d.ts:48984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48984)
 
 Details issueTime
 
@@ -30,7 +30,7 @@ Details issueTime
 
 > `optional` **localizedNames**: `null` \| [`ILocalizedName`](../../../interfaces/ILocalizedName.md)[]
 
-Defined in: [WAProto/index.d.ts:48981](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48981)
+Defined in: [WAProto/index.d.ts:48981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48981)
 
 Details localizedNames
 
@@ -40,7 +40,7 @@ Details localizedNames
 
 > `optional` **serial**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48972](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48972)
+Defined in: [WAProto/index.d.ts:48972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48972)
 
 Details serial
 
@@ -50,6 +50,6 @@ Details serial
 
 > `optional` **verifiedName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48978](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L48978)
+Defined in: [WAProto/index.d.ts:48978](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48978)
 
 Details verifiedName

@@ -1,6 +1,6 @@
 # Interface: IMessageHistoryBundle
 
-Defined in: [WAProto/index.d.ts:26309](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26309)
+Defined in: [WAProto/index.d.ts:26309](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26309)
 
 Properties of a MessageHistoryBundle.
 
@@ -10,7 +10,7 @@ Properties of a MessageHistoryBundle.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26330](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26330)
+Defined in: [WAProto/index.d.ts:26330](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26330)
 
 MessageHistoryBundle contextInfo
 
@@ -20,7 +20,7 @@ MessageHistoryBundle contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26324](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26324)
+Defined in: [WAProto/index.d.ts:26324](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26324)
 
 MessageHistoryBundle directPath
 
@@ -30,7 +30,7 @@ MessageHistoryBundle directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26321](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26321)
+Defined in: [WAProto/index.d.ts:26321](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26321)
 
 MessageHistoryBundle fileEncSha256
 
@@ -40,7 +40,7 @@ MessageHistoryBundle fileEncSha256
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26315](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26315)
+Defined in: [WAProto/index.d.ts:26315](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26315)
 
 MessageHistoryBundle fileSha256
 
@@ -50,7 +50,7 @@ MessageHistoryBundle fileSha256
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26318](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26318)
+Defined in: [WAProto/index.d.ts:26318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26318)
 
 MessageHistoryBundle mediaKey
 
@@ -60,7 +60,7 @@ MessageHistoryBundle mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26327](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26327)
+Defined in: [WAProto/index.d.ts:26327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26327)
 
 MessageHistoryBundle mediaKeyTimestamp
 
@@ -70,7 +70,7 @@ MessageHistoryBundle mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26312](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26312)
+Defined in: [WAProto/index.d.ts:26312](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26312)
 
 MessageHistoryBundle mimetype
 
@@ -80,6 +80,6 @@ MessageHistoryBundle mimetype
 
 > `optional` **participants**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:26333](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L26333)
+Defined in: [WAProto/index.d.ts:26333](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26333)
 
 MessageHistoryBundle participants

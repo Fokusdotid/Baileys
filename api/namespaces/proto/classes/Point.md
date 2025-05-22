@@ -1,6 +1,6 @@
 # Class: Point
 
-Defined in: [WAProto/index.d.ts:36450](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36450)
+Defined in: [WAProto/index.d.ts:36450](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36450)
 
 Represents a Point.
 
@@ -14,7 +14,7 @@ Represents a Point.
 
 > **new Point**(`properties`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:36456](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36456)
+Defined in: [WAProto/index.d.ts:36456](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36456)
 
 Constructs a new Point.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **x**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36465](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36465)
+Defined in: [WAProto/index.d.ts:36465](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36465)
 
 Point x.
 
@@ -50,7 +50,7 @@ Point x.
 
 > `optional` **xDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36459](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36459)
+Defined in: [WAProto/index.d.ts:36459](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36459)
 
 Point xDeprecated.
 
@@ -64,7 +64,7 @@ Point xDeprecated.
 
 > `optional` **y**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36468](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36468)
+Defined in: [WAProto/index.d.ts:36468](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36468)
 
 Point y.
 
@@ -78,7 +78,7 @@ Point y.
 
 > `optional` **yDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36462](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36462)
+Defined in: [WAProto/index.d.ts:36462](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36462)
 
 Point yDeprecated.
 
@@ -92,7 +92,7 @@ Point yDeprecated.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36538](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36538)
+Defined in: [WAProto/index.d.ts:36538](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36538)
 
 Converts this Point to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:36475](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36475)
+Defined in: [WAProto/index.d.ts:36475](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36475)
 
 Creates a new Point instance using the specified properties.
 
@@ -132,7 +132,7 @@ Point instance
 
 > `static` **decode**(`reader`, `length`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:36501](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36501)
+Defined in: [WAProto/index.d.ts:36501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36501)
 
 Decodes a Point message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:36510](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36510)
+Defined in: [WAProto/index.d.ts:36510](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36510)
 
 Decodes a Point message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36483](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36483)
+Defined in: [WAProto/index.d.ts:36483](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36483)
 
 Encodes the specified Point message. Does not implicitly [verify](Point.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36491](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36491)
+Defined in: [WAProto/index.d.ts:36491](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36491)
 
 Encodes the specified Point message, length delimited. Does not implicitly [verify](Point.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:36524](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36524)
+Defined in: [WAProto/index.d.ts:36524](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36524)
 
 Creates a Point message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Point
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36545](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36545)
+Defined in: [WAProto/index.d.ts:36545](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36545)
 
 Gets the default type url for Point
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36532](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36532)
+Defined in: [WAProto/index.d.ts:36532](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36532)
 
 Creates a plain object from a Point message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36517](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L36517)
+Defined in: [WAProto/index.d.ts:36517](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36517)
 
 Verifies a Point message.
 

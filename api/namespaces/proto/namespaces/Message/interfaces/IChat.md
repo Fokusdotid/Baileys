@@ -1,6 +1,6 @@
 # Interface: IChat
 
-Defined in: [WAProto/index.d.ts:19743](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19743)
+Defined in: [WAProto/index.d.ts:19743](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19743)
 
 Properties of a Chat.
 
@@ -10,7 +10,7 @@ Properties of a Chat.
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19746](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19746)
+Defined in: [WAProto/index.d.ts:19746](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19746)
 
 Chat displayName
 
@@ -20,6 +20,6 @@ Chat displayName
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19749](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19749)
+Defined in: [WAProto/index.d.ts:19749](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19749)
 
 Chat id

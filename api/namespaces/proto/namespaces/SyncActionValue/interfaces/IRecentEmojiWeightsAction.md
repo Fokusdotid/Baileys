@@ -1,6 +1,6 @@
 # Interface: IRecentEmojiWeightsAction
 
-Defined in: [WAProto/index.d.ts:45192](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45192)
+Defined in: [WAProto/index.d.ts:45192](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45192)
 
 Properties of a RecentEmojiWeightsAction.
 
@@ -10,6 +10,6 @@ Properties of a RecentEmojiWeightsAction.
 
 > `optional` **weights**: `null` \| [`IRecentEmojiWeight`](../../../interfaces/IRecentEmojiWeight.md)[]
 
-Defined in: [WAProto/index.d.ts:45195](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L45195)
+Defined in: [WAProto/index.d.ts:45195](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45195)
 
 RecentEmojiWeightsAction weights

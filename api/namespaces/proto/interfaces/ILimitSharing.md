@@ -1,6 +1,6 @@
 # Interface: ILimitSharing
 
-Defined in: [WAProto/index.d.ts:16093](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16093)
+Defined in: [WAProto/index.d.ts:16093](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16093)
 
 Properties of a LimitSharing.
 
@@ -10,7 +10,7 @@ Properties of a LimitSharing.
 
 > `optional` **sharingLimited**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16096](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16096)
+Defined in: [WAProto/index.d.ts:16096](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16096)
 
 LimitSharing sharingLimited
 
@@ -20,6 +20,6 @@ LimitSharing sharingLimited
 
 > `optional` **trigger**: `null` \| [`Trigger`](../namespaces/LimitSharing/enumerations/Trigger.md)
 
-Defined in: [WAProto/index.d.ts:16099](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L16099)
+Defined in: [WAProto/index.d.ts:16099](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16099)
 
 LimitSharing trigger

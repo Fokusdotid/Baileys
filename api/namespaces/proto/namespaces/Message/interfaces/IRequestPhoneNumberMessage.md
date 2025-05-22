@@ -1,6 +1,6 @@
 # Interface: IRequestPhoneNumberMessage
 
-Defined in: [WAProto/index.d.ts:30476](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L30476)
+Defined in: [WAProto/index.d.ts:30476](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30476)
 
 Properties of a RequestPhoneNumberMessage.
 
@@ -10,6 +10,6 @@ Properties of a RequestPhoneNumberMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:30479](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L30479)
+Defined in: [WAProto/index.d.ts:30479](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30479)
 
 RequestPhoneNumberMessage contextInfo

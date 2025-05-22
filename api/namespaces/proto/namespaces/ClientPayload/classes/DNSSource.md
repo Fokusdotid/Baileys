@@ -1,6 +1,6 @@
 # Class: DNSSource
 
-Defined in: [WAProto/index.d.ts:7946](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7946)
+Defined in: [WAProto/index.d.ts:7946](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7946)
 
 Represents a DNSSource.
 
@@ -14,7 +14,7 @@ Represents a DNSSource.
 
 > **new DNSSource**(`properties`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:7952](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7952)
+Defined in: [WAProto/index.d.ts:7952](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7952)
 
 Constructs a new DNSSource.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **appCached**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7958](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7958)
+Defined in: [WAProto/index.d.ts:7958](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7958)
 
 DNSSource appCached.
 
@@ -50,7 +50,7 @@ DNSSource appCached.
 
 > `optional` **dnsMethod**: `null` \| [`DNSResolutionMethod`](../namespaces/DNSSource/enumerations/DNSResolutionMethod.md)
 
-Defined in: [WAProto/index.d.ts:7955](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7955)
+Defined in: [WAProto/index.d.ts:7955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7955)
 
 DNSSource dnsMethod.
 
@@ -64,7 +64,7 @@ DNSSource dnsMethod.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8028](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8028)
+Defined in: [WAProto/index.d.ts:8028](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8028)
 
 Converts this DNSSource to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:7965](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7965)
+Defined in: [WAProto/index.d.ts:7965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7965)
 
 Creates a new DNSSource instance using the specified properties.
 
@@ -104,7 +104,7 @@ DNSSource instance
 
 > `static` **decode**(`reader`, `length`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:7991](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7991)
+Defined in: [WAProto/index.d.ts:7991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7991)
 
 Decodes a DNSSource message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:8000](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8000)
+Defined in: [WAProto/index.d.ts:8000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8000)
 
 Decodes a DNSSource message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7973](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7973)
+Defined in: [WAProto/index.d.ts:7973](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7973)
 
 Encodes the specified DNSSource message. Does not implicitly [verify](DNSSource.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7981](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L7981)
+Defined in: [WAProto/index.d.ts:7981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7981)
 
 Encodes the specified DNSSource message, length delimited. Does not implicitly [verify](DNSSource.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:8014](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8014)
+Defined in: [WAProto/index.d.ts:8014](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8014)
 
 Creates a DNSSource message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DNSSource
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8035](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8035)
+Defined in: [WAProto/index.d.ts:8035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8035)
 
 Gets the default type url for DNSSource
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8022](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8022)
+Defined in: [WAProto/index.d.ts:8022](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8022)
 
 Creates a plain object from a DNSSource message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8007](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L8007)
+Defined in: [WAProto/index.d.ts:8007](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8007)
 
 Verifies a DNSSource message.
 

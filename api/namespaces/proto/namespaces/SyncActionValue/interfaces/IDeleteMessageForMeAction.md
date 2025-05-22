@@ -1,6 +1,6 @@
 # Interface: IDeleteMessageForMeAction
 
-Defined in: [WAProto/index.d.ts:42358](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L42358)
+Defined in: [WAProto/index.d.ts:42358](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42358)
 
 Properties of a DeleteMessageForMeAction.
 
@@ -10,7 +10,7 @@ Properties of a DeleteMessageForMeAction.
 
 > `optional` **deleteMedia**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42361](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L42361)
+Defined in: [WAProto/index.d.ts:42361](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42361)
 
 DeleteMessageForMeAction deleteMedia
 
@@ -20,6 +20,6 @@ DeleteMessageForMeAction deleteMedia
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42364](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L42364)
+Defined in: [WAProto/index.d.ts:42364](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42364)
 
 DeleteMessageForMeAction messageTimestamp

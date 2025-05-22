@@ -1,6 +1,6 @@
 # Enumeration: ListType
 
-Defined in: [WAProto/index.d.ts:25758](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L25758)
+Defined in: [WAProto/index.d.ts:25758](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25758)
 
 ListType enum.
 
@@ -10,7 +10,7 @@ ListType enum.
 
 > **SINGLE\_SELECT**: `1`
 
-Defined in: [WAProto/index.d.ts:25760](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L25760)
+Defined in: [WAProto/index.d.ts:25760](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25760)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:25760](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:25759](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L25759)
+Defined in: [WAProto/index.d.ts:25759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25759)

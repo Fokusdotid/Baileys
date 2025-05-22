@@ -1,6 +1,6 @@
 # Enumeration: PremiumModelStatus
 
-Defined in: [WAProto/index.d.ts:4836](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4836)
+Defined in: [WAProto/index.d.ts:4836](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4836)
 
 PremiumModelStatus enum.
 
@@ -10,7 +10,7 @@ PremiumModelStatus enum.
 
 > **AVAILABLE**: `1`
 
-Defined in: [WAProto/index.d.ts:4838](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4838)
+Defined in: [WAProto/index.d.ts:4838](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4838)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:4838](https://github.com/Fokusdotid/Baileys/blob
 
 > **QUOTA\_EXCEED\_LIMIT**: `2`
 
-Defined in: [WAProto/index.d.ts:4839](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4839)
+Defined in: [WAProto/index.d.ts:4839](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4839)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:4839](https://github.com/Fokusdotid/Baileys/blob
 
 > **UNKNOWN\_STATUS**: `0`
 
-Defined in: [WAProto/index.d.ts:4837](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4837)
+Defined in: [WAProto/index.d.ts:4837](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4837)

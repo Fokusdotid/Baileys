@@ -1,6 +1,6 @@
 # Enumeration: MarketingMessagePrototypeType
 
-Defined in: [WAProto/index.d.ts:43624](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L43624)
+Defined in: [WAProto/index.d.ts:43624](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43624)
 
 MarketingMessagePrototypeType enum.
 
@@ -10,4 +10,4 @@ MarketingMessagePrototypeType enum.
 
 > **PERSONALIZED**: `0`
 
-Defined in: [WAProto/index.d.ts:43625](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L43625)
+Defined in: [WAProto/index.d.ts:43625](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43625)

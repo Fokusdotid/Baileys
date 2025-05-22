@@ -1,6 +1,6 @@
 # Interface: IForwardedAIBotMessageInfo
 
-Defined in: [WAProto/index.d.ts:10547](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L10547)
+Defined in: [WAProto/index.d.ts:10547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10547)
 
 Properties of a ForwardedAIBotMessageInfo.
 
@@ -10,7 +10,7 @@ Properties of a ForwardedAIBotMessageInfo.
 
 > `optional` **botJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10553](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L10553)
+Defined in: [WAProto/index.d.ts:10553](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10553)
 
 ForwardedAIBotMessageInfo botJid
 
@@ -20,7 +20,7 @@ ForwardedAIBotMessageInfo botJid
 
 > `optional` **botName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10550](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L10550)
+Defined in: [WAProto/index.d.ts:10550](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10550)
 
 ForwardedAIBotMessageInfo botName
 
@@ -30,6 +30,6 @@ ForwardedAIBotMessageInfo botName
 
 > `optional` **creatorName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10556](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L10556)
+Defined in: [WAProto/index.d.ts:10556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10556)
 
 ForwardedAIBotMessageInfo creatorName

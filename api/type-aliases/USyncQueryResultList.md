@@ -2,7 +2,7 @@
 
 > **USyncQueryResultList**: `object`
 
-Defined in: [src/WAUSync/USyncQuery.ts:8](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/src/WAUSync/USyncQuery.ts#L8)
+Defined in: [src/WAUSync/USyncQuery.ts:8](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/USyncQuery.ts#L8)
 
 ## Type declaration
 

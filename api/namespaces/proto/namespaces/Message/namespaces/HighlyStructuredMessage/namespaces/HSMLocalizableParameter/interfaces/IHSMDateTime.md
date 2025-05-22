@@ -1,6 +1,6 @@
 # Interface: IHSMDateTime
 
-Defined in: [WAProto/index.d.ts:22293](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L22293)
+Defined in: [WAProto/index.d.ts:22293](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22293)
 
 Properties of a HSMDateTime.
 
@@ -10,7 +10,7 @@ Properties of a HSMDateTime.
 
 > `optional` **component**: `null` \| [`IHSMDateTimeComponent`](../namespaces/HSMDateTime/interfaces/IHSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:22296](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L22296)
+Defined in: [WAProto/index.d.ts:22296](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22296)
 
 HSMDateTime component
 
@@ -20,6 +20,6 @@ HSMDateTime component
 
 > `optional` **unixEpoch**: `null` \| [`IHSMDateTimeUnixEpoch`](../namespaces/HSMDateTime/interfaces/IHSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:22299](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L22299)
+Defined in: [WAProto/index.d.ts:22299](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22299)
 
 HSMDateTime unixEpoch

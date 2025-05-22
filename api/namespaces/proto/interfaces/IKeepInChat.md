@@ -1,6 +1,6 @@
 # Interface: IKeepInChat
 
-Defined in: [WAProto/index.d.ts:15335](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15335)
+Defined in: [WAProto/index.d.ts:15335](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15335)
 
 Properties of a KeepInChat.
 
@@ -10,7 +10,7 @@ Properties of a KeepInChat.
 
 > `optional` **clientTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15350](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15350)
+Defined in: [WAProto/index.d.ts:15350](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15350)
 
 KeepInChat clientTimestampMs
 
@@ -20,7 +20,7 @@ KeepInChat clientTimestampMs
 
 > `optional` **deviceJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15347](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15347)
+Defined in: [WAProto/index.d.ts:15347](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15347)
 
 KeepInChat deviceJid
 
@@ -30,7 +30,7 @@ KeepInChat deviceJid
 
 > `optional` **keepType**: `null` \| [`KeepType`](../enumerations/KeepType.md)
 
-Defined in: [WAProto/index.d.ts:15338](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15338)
+Defined in: [WAProto/index.d.ts:15338](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15338)
 
 KeepInChat keepType
 
@@ -40,7 +40,7 @@ KeepInChat keepType
 
 > `optional` **key**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:15344](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15344)
+Defined in: [WAProto/index.d.ts:15344](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15344)
 
 KeepInChat key
 
@@ -50,7 +50,7 @@ KeepInChat key
 
 > `optional` **serverTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15341](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15341)
+Defined in: [WAProto/index.d.ts:15341](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15341)
 
 KeepInChat serverTimestamp
 
@@ -60,6 +60,6 @@ KeepInChat serverTimestamp
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15353](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15353)
+Defined in: [WAProto/index.d.ts:15353](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15353)
 
 KeepInChat serverTimestampMs

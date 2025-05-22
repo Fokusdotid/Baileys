@@ -1,6 +1,6 @@
 # Class: AIRichResponseAbstractData
 
-Defined in: [WAProto/index.d.ts:706](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L706)
+Defined in: [WAProto/index.d.ts:706](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L706)
 
 Represents a AIRichResponseAbstractData.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseAbstractData.
 
 > **new AIRichResponseAbstractData**(`properties`?): [`AIRichResponseAbstractData`](AIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:712](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L712)
+Defined in: [WAProto/index.d.ts:712](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L712)
 
 Constructs a new AIRichResponseAbstractData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **data**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:715](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L715)
+Defined in: [WAProto/index.d.ts:715](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L715)
 
 AIRichResponseAbstractData data.
 
@@ -50,7 +50,7 @@ AIRichResponseAbstractData data.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:785](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L785)
+Defined in: [WAProto/index.d.ts:785](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L785)
 
 Converts this AIRichResponseAbstractData to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseAbstractData`](AIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:722](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L722)
+Defined in: [WAProto/index.d.ts:722](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L722)
 
 Creates a new AIRichResponseAbstractData instance using the specified properties.
 
@@ -90,7 +90,7 @@ AIRichResponseAbstractData instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseAbstractData`](AIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:748](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L748)
+Defined in: [WAProto/index.d.ts:748](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L748)
 
 Decodes a AIRichResponseAbstractData message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseAbstractData`](AIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:757](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L757)
+Defined in: [WAProto/index.d.ts:757](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L757)
 
 Decodes a AIRichResponseAbstractData message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:730](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L730)
+Defined in: [WAProto/index.d.ts:730](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L730)
 
 Encodes the specified AIRichResponseAbstractData message. Does not implicitly [verify](AIRichResponseAbstractData.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:738](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L738)
+Defined in: [WAProto/index.d.ts:738](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L738)
 
 Encodes the specified AIRichResponseAbstractData message, length delimited. Does not implicitly [verify](AIRichResponseAbstractData.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseAbstractData`](AIRichResponseAbstractData.md)
 
-Defined in: [WAProto/index.d.ts:771](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L771)
+Defined in: [WAProto/index.d.ts:771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L771)
 
 Creates a AIRichResponseAbstractData message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AIRichResponseAbstractData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:792](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L792)
+Defined in: [WAProto/index.d.ts:792](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L792)
 
 Gets the default type url for AIRichResponseAbstractData
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:779](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L779)
+Defined in: [WAProto/index.d.ts:779](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L779)
 
 Creates a plain object from a AIRichResponseAbstractData message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:764](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L764)
+Defined in: [WAProto/index.d.ts:764](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L764)
 
 Verifies a AIRichResponseAbstractData message.
 

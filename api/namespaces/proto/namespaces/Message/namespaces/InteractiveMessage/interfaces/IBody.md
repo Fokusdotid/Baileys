@@ -1,6 +1,6 @@
 # Interface: IBody
 
-Defined in: [WAProto/index.d.ts:23367](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L23367)
+Defined in: [WAProto/index.d.ts:23367](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23367)
 
 Properties of a Body.
 
@@ -10,6 +10,6 @@ Properties of a Body.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23370](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L23370)
+Defined in: [WAProto/index.d.ts:23370](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23370)
 
 Body text

@@ -1,6 +1,6 @@
 # Class: Chat
 
-Defined in: [WAProto/index.d.ts:19753](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19753)
+Defined in: [WAProto/index.d.ts:19753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19753)
 
 Represents a Chat.
 
@@ -14,7 +14,7 @@ Represents a Chat.
 
 > **new Chat**(`properties`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:19759](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19759)
+Defined in: [WAProto/index.d.ts:19759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19759)
 
 Constructs a new Chat.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19762](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19762)
+Defined in: [WAProto/index.d.ts:19762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19762)
 
 Chat displayName.
 
@@ -50,7 +50,7 @@ Chat displayName.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19765](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19765)
+Defined in: [WAProto/index.d.ts:19765](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19765)
 
 Chat id.
 
@@ -64,7 +64,7 @@ Chat id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19835](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19835)
+Defined in: [WAProto/index.d.ts:19835](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19835)
 
 Converts this Chat to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:19772](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19772)
+Defined in: [WAProto/index.d.ts:19772](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19772)
 
 Creates a new Chat instance using the specified properties.
 
@@ -104,7 +104,7 @@ Chat instance
 
 > `static` **decode**(`reader`, `length`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:19798](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19798)
+Defined in: [WAProto/index.d.ts:19798](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19798)
 
 Decodes a Chat message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:19807](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19807)
+Defined in: [WAProto/index.d.ts:19807](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19807)
 
 Decodes a Chat message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19780](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19780)
+Defined in: [WAProto/index.d.ts:19780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19780)
 
 Encodes the specified Chat message. Does not implicitly [verify](Chat.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19788](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19788)
+Defined in: [WAProto/index.d.ts:19788](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19788)
 
 Encodes the specified Chat message, length delimited. Does not implicitly [verify](Chat.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:19821](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19821)
+Defined in: [WAProto/index.d.ts:19821](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19821)
 
 Creates a Chat message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Chat
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19842](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19842)
+Defined in: [WAProto/index.d.ts:19842](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19842)
 
 Gets the default type url for Chat
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19829](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19829)
+Defined in: [WAProto/index.d.ts:19829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19829)
 
 Creates a plain object from a Chat message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19814](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19814)
+Defined in: [WAProto/index.d.ts:19814](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19814)
 
 Verifies a Chat message.
 

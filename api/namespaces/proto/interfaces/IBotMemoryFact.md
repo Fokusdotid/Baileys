@@ -1,6 +1,6 @@
 # Interface: IBotMemoryFact
 
-Defined in: [WAProto/index.d.ts:4092](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4092)
+Defined in: [WAProto/index.d.ts:4092](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4092)
 
 Properties of a BotMemoryFact.
 
@@ -10,7 +10,7 @@ Properties of a BotMemoryFact.
 
 > `optional` **fact**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4095](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4095)
+Defined in: [WAProto/index.d.ts:4095](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4095)
 
 BotMemoryFact fact
 
@@ -20,6 +20,6 @@ BotMemoryFact fact
 
 > `optional` **factId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4098](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L4098)
+Defined in: [WAProto/index.d.ts:4098](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4098)
 
 BotMemoryFact factId

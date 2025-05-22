@@ -1,6 +1,6 @@
 # Class: LIDMigrationMappingSyncMessage
 
-Defined in: [WAProto/index.d.ts:15803](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15803)
+Defined in: [WAProto/index.d.ts:15803](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15803)
 
 Represents a LIDMigrationMappingSyncMessage.
 
@@ -14,7 +14,7 @@ Represents a LIDMigrationMappingSyncMessage.
 
 > **new LIDMigrationMappingSyncMessage**(`properties`?): [`LIDMigrationMappingSyncMessage`](LIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:15809](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15809)
+Defined in: [WAProto/index.d.ts:15809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15809)
 
 Constructs a new LIDMigrationMappingSyncMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encodedMappingPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15812](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15812)
+Defined in: [WAProto/index.d.ts:15812](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15812)
 
 LIDMigrationMappingSyncMessage encodedMappingPayload.
 
@@ -50,7 +50,7 @@ LIDMigrationMappingSyncMessage encodedMappingPayload.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15882](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15882)
+Defined in: [WAProto/index.d.ts:15882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15882)
 
 Converts this LIDMigrationMappingSyncMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigrationMappingSyncMessage`](LIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:15819](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15819)
+Defined in: [WAProto/index.d.ts:15819](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15819)
 
 Creates a new LIDMigrationMappingSyncMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ LIDMigrationMappingSyncMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigrationMappingSyncMessage`](LIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:15845](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15845)
+Defined in: [WAProto/index.d.ts:15845](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15845)
 
 Decodes a LIDMigrationMappingSyncMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigrationMappingSyncMessage`](LIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:15854](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15854)
+Defined in: [WAProto/index.d.ts:15854](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15854)
 
 Decodes a LIDMigrationMappingSyncMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15827](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15827)
+Defined in: [WAProto/index.d.ts:15827](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15827)
 
 Encodes the specified LIDMigrationMappingSyncMessage message. Does not implicitly [verify](LIDMigrationMappingSyncMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15835](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15835)
+Defined in: [WAProto/index.d.ts:15835](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15835)
 
 Encodes the specified LIDMigrationMappingSyncMessage message, length delimited. Does not implicitly [verify](LIDMigrationMappingSyncMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigrationMappingSyncMessage`](LIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:15868](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15868)
+Defined in: [WAProto/index.d.ts:15868](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15868)
 
 Creates a LIDMigrationMappingSyncMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LIDMigrationMappingSyncMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15889](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15889)
+Defined in: [WAProto/index.d.ts:15889](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15889)
 
 Gets the default type url for LIDMigrationMappingSyncMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15876](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15876)
+Defined in: [WAProto/index.d.ts:15876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15876)
 
 Creates a plain object from a LIDMigrationMappingSyncMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15861](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15861)
+Defined in: [WAProto/index.d.ts:15861](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15861)
 
 Verifies a LIDMigrationMappingSyncMessage message.
 

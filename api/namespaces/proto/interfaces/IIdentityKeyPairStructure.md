@@ -1,6 +1,6 @@
 # Interface: IIdentityKeyPairStructure
 
-Defined in: [WAProto/index.d.ts:15096](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15096)
+Defined in: [WAProto/index.d.ts:15096](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15096)
 
 Properties of an IdentityKeyPairStructure.
 
@@ -10,7 +10,7 @@ Properties of an IdentityKeyPairStructure.
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15102](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15102)
+Defined in: [WAProto/index.d.ts:15102](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15102)
 
 IdentityKeyPairStructure privateKey
 
@@ -20,6 +20,6 @@ IdentityKeyPairStructure privateKey
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15099](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L15099)
+Defined in: [WAProto/index.d.ts:15099](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15099)
 
 IdentityKeyPairStructure publicKey

@@ -1,6 +1,6 @@
 # Class: DocumentMessage
 
-Defined in: [WAProto/index.d.ts:20565](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20565)
+Defined in: [WAProto/index.d.ts:20565](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20565)
 
 Represents a DocumentMessage.
 
@@ -14,7 +14,7 @@ Represents a DocumentMessage.
 
 > **new DocumentMessage**(`properties`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20571](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20571)
+Defined in: [WAProto/index.d.ts:20571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20571)
 
 Constructs a new DocumentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20634](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20634)
+Defined in: [WAProto/index.d.ts:20634](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20634)
 
 DocumentMessage accessibilityLabel.
 
@@ -50,7 +50,7 @@ DocumentMessage accessibilityLabel.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20631](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20631)
+Defined in: [WAProto/index.d.ts:20631](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20631)
 
 DocumentMessage caption.
 
@@ -64,7 +64,7 @@ DocumentMessage caption.
 
 > `optional` **contactVcard**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:20607](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20607)
+Defined in: [WAProto/index.d.ts:20607](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20607)
 
 DocumentMessage contactVcard.
 
@@ -78,7 +78,7 @@ DocumentMessage contactVcard.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20622](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20622)
+Defined in: [WAProto/index.d.ts:20622](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20622)
 
 DocumentMessage contextInfo.
 
@@ -92,7 +92,7 @@ DocumentMessage contextInfo.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20601](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20601)
+Defined in: [WAProto/index.d.ts:20601](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20601)
 
 DocumentMessage directPath.
 
@@ -106,7 +106,7 @@ DocumentMessage directPath.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20598](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20598)
+Defined in: [WAProto/index.d.ts:20598](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20598)
 
 DocumentMessage fileEncSha256.
 
@@ -120,7 +120,7 @@ DocumentMessage fileEncSha256.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:20586](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20586)
+Defined in: [WAProto/index.d.ts:20586](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20586)
 
 DocumentMessage fileLength.
 
@@ -134,7 +134,7 @@ DocumentMessage fileLength.
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20595](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20595)
+Defined in: [WAProto/index.d.ts:20595](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20595)
 
 DocumentMessage fileName.
 
@@ -148,7 +148,7 @@ DocumentMessage fileName.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20583](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20583)
+Defined in: [WAProto/index.d.ts:20583](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20583)
 
 DocumentMessage fileSha256.
 
@@ -162,7 +162,7 @@ DocumentMessage fileSha256.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20619](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20619)
+Defined in: [WAProto/index.d.ts:20619](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20619)
 
 DocumentMessage jpegThumbnail.
 
@@ -176,7 +176,7 @@ DocumentMessage jpegThumbnail.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20592](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20592)
+Defined in: [WAProto/index.d.ts:20592](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20592)
 
 DocumentMessage mediaKey.
 
@@ -190,7 +190,7 @@ DocumentMessage mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:20604](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20604)
+Defined in: [WAProto/index.d.ts:20604](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20604)
 
 DocumentMessage mediaKeyTimestamp.
 
@@ -204,7 +204,7 @@ DocumentMessage mediaKeyTimestamp.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20577](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20577)
+Defined in: [WAProto/index.d.ts:20577](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20577)
 
 DocumentMessage mimetype.
 
@@ -218,7 +218,7 @@ DocumentMessage mimetype.
 
 > `optional` **pageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20589](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20589)
+Defined in: [WAProto/index.d.ts:20589](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20589)
 
 DocumentMessage pageCount.
 
@@ -232,7 +232,7 @@ DocumentMessage pageCount.
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20610](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20610)
+Defined in: [WAProto/index.d.ts:20610](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20610)
 
 DocumentMessage thumbnailDirectPath.
 
@@ -246,7 +246,7 @@ DocumentMessage thumbnailDirectPath.
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20616](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20616)
+Defined in: [WAProto/index.d.ts:20616](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20616)
 
 DocumentMessage thumbnailEncSha256.
 
@@ -260,7 +260,7 @@ DocumentMessage thumbnailEncSha256.
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20625](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20625)
+Defined in: [WAProto/index.d.ts:20625](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20625)
 
 DocumentMessage thumbnailHeight.
 
@@ -274,7 +274,7 @@ DocumentMessage thumbnailHeight.
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20613](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20613)
+Defined in: [WAProto/index.d.ts:20613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20613)
 
 DocumentMessage thumbnailSha256.
 
@@ -288,7 +288,7 @@ DocumentMessage thumbnailSha256.
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20628](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20628)
+Defined in: [WAProto/index.d.ts:20628](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20628)
 
 DocumentMessage thumbnailWidth.
 
@@ -302,7 +302,7 @@ DocumentMessage thumbnailWidth.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20580](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20580)
+Defined in: [WAProto/index.d.ts:20580](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20580)
 
 DocumentMessage title.
 
@@ -316,7 +316,7 @@ DocumentMessage title.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20574](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20574)
+Defined in: [WAProto/index.d.ts:20574](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20574)
 
 DocumentMessage url.
 
@@ -330,7 +330,7 @@ DocumentMessage url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20704](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20704)
+Defined in: [WAProto/index.d.ts:20704](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20704)
 
 Converts this DocumentMessage to JSON.
 
@@ -346,7 +346,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20641](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20641)
+Defined in: [WAProto/index.d.ts:20641](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20641)
 
 Creates a new DocumentMessage instance using the specified properties.
 
@@ -370,7 +370,7 @@ DocumentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20667](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20667)
+Defined in: [WAProto/index.d.ts:20667](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20667)
 
 Decodes a DocumentMessage message from the specified reader or buffer.
 
@@ -408,7 +408,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20676](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20676)
+Defined in: [WAProto/index.d.ts:20676](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20676)
 
 Decodes a DocumentMessage message from the specified reader or buffer, length delimited.
 
@@ -440,7 +440,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20649](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20649)
+Defined in: [WAProto/index.d.ts:20649](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20649)
 
 Encodes the specified DocumentMessage message. Does not implicitly [verify](DocumentMessage.md#verify) messages.
 
@@ -470,7 +470,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20657](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20657)
+Defined in: [WAProto/index.d.ts:20657](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20657)
 
 Encodes the specified DocumentMessage message, length delimited. Does not implicitly [verify](DocumentMessage.md#verify) messages.
 
@@ -500,7 +500,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20690](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20690)
+Defined in: [WAProto/index.d.ts:20690](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20690)
 
 Creates a DocumentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -522,7 +522,7 @@ DocumentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20711](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20711)
+Defined in: [WAProto/index.d.ts:20711](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20711)
 
 Gets the default type url for DocumentMessage
 
@@ -546,7 +546,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20698](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20698)
+Defined in: [WAProto/index.d.ts:20698](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20698)
 
 Creates a plain object from a DocumentMessage message. Also converts values to other types if specified.
 
@@ -576,7 +576,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20683](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20683)
+Defined in: [WAProto/index.d.ts:20683](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20683)
 
 Verifies a DocumentMessage message.
 

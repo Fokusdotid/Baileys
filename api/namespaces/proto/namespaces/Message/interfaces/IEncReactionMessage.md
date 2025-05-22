@@ -1,6 +1,6 @@
 # Interface: IEncReactionMessage
 
-Defined in: [WAProto/index.d.ts:20933](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20933)
+Defined in: [WAProto/index.d.ts:20933](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20933)
 
 Properties of an EncReactionMessage.
 
@@ -10,7 +10,7 @@ Properties of an EncReactionMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20942](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20942)
+Defined in: [WAProto/index.d.ts:20942](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20942)
 
 EncReactionMessage encIv
 
@@ -20,7 +20,7 @@ EncReactionMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20939](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20939)
+Defined in: [WAProto/index.d.ts:20939](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20939)
 
 EncReactionMessage encPayload
 
@@ -30,6 +30,6 @@ EncReactionMessage encPayload
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:20936](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20936)
+Defined in: [WAProto/index.d.ts:20936](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20936)
 
 EncReactionMessage targetMessageKey

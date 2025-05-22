@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseReelItem
 
-Defined in: [WAProto/index.d.ts:1220](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1220)
+Defined in: [WAProto/index.d.ts:1220](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L1220)
 
 Properties of a AIRichResponseReelItem.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseReelItem.
 
 > `optional` **profileIconUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1226](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1226)
+Defined in: [WAProto/index.d.ts:1226](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L1226)
 
 AIRichResponseReelItem profileIconUrl
 
@@ -20,7 +20,7 @@ AIRichResponseReelItem profileIconUrl
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1229](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1229)
+Defined in: [WAProto/index.d.ts:1229](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L1229)
 
 AIRichResponseReelItem thumbnailUrl
 
@@ -30,7 +30,7 @@ AIRichResponseReelItem thumbnailUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1223](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1223)
+Defined in: [WAProto/index.d.ts:1223](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L1223)
 
 AIRichResponseReelItem title
 
@@ -40,6 +40,6 @@ AIRichResponseReelItem title
 
 > `optional` **videoUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1232](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L1232)
+Defined in: [WAProto/index.d.ts:1232](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L1232)
 
 AIRichResponseReelItem videoUrl

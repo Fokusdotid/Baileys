@@ -1,6 +1,6 @@
 # Interface: IBizAccountPayload
 
-Defined in: [WAProto/index.d.ts:3113](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L3113)
+Defined in: [WAProto/index.d.ts:3113](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3113)
 
 Properties of a BizAccountPayload.
 
@@ -10,7 +10,7 @@ Properties of a BizAccountPayload.
 
 > `optional` **bizAcctLinkInfo**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:3119](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L3119)
+Defined in: [WAProto/index.d.ts:3119](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3119)
 
 BizAccountPayload bizAcctLinkInfo
 
@@ -20,6 +20,6 @@ BizAccountPayload bizAcctLinkInfo
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3116](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L3116)
+Defined in: [WAProto/index.d.ts:3116](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3116)
 
 BizAccountPayload vnameCert

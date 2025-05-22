@@ -1,6 +1,6 @@
 # Class: CommentMessage
 
-Defined in: [WAProto/index.d.ts:19981](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19981)
+Defined in: [WAProto/index.d.ts:19981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19981)
 
 Represents a CommentMessage.
 
@@ -14,7 +14,7 @@ Represents a CommentMessage.
 
 > **new CommentMessage**(`properties`?): [`CommentMessage`](CommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:19987](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19987)
+Defined in: [WAProto/index.d.ts:19987](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19987)
 
 Constructs a new CommentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:19990](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19990)
+Defined in: [WAProto/index.d.ts:19990](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19990)
 
 CommentMessage message.
 
@@ -50,7 +50,7 @@ CommentMessage message.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:19993](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L19993)
+Defined in: [WAProto/index.d.ts:19993](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19993)
 
 CommentMessage targetMessageKey.
 
@@ -64,7 +64,7 @@ CommentMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20063](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20063)
+Defined in: [WAProto/index.d.ts:20063](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20063)
 
 Converts this CommentMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CommentMessage`](CommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20000](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20000)
+Defined in: [WAProto/index.d.ts:20000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20000)
 
 Creates a new CommentMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ CommentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CommentMessage`](CommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20026](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20026)
+Defined in: [WAProto/index.d.ts:20026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20026)
 
 Decodes a CommentMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CommentMessage`](CommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20035](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20035)
+Defined in: [WAProto/index.d.ts:20035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20035)
 
 Decodes a CommentMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20008](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20008)
+Defined in: [WAProto/index.d.ts:20008](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20008)
 
 Encodes the specified CommentMessage message. Does not implicitly [verify](CommentMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20016](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20016)
+Defined in: [WAProto/index.d.ts:20016](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20016)
 
 Encodes the specified CommentMessage message, length delimited. Does not implicitly [verify](CommentMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CommentMessage`](CommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20049](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20049)
+Defined in: [WAProto/index.d.ts:20049](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20049)
 
 Creates a CommentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CommentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20070](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20070)
+Defined in: [WAProto/index.d.ts:20070](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20070)
 
 Gets the default type url for CommentMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20057](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20057)
+Defined in: [WAProto/index.d.ts:20057](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20057)
 
 Creates a plain object from a CommentMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20042](https://github.com/Fokusdotid/Baileys/blob/b457796e9982984bfe7323cdd6fea8bc613c4ed0/WAProto/index.d.ts#L20042)
+Defined in: [WAProto/index.d.ts:20042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20042)
 
 Verifies a CommentMessage message.
 
