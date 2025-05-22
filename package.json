@@ -50,6 +50,7 @@
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
     "protobufjs": "^7.2.4",
+    "protobufjs-cli": "^1.1.3",
     "ws": "^8.13.0"
   },
   "devDependencies": {
