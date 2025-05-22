@@ -1,6 +1,6 @@
 # Class: BotWelcomeRequestAction
 
-Defined in: [WAProto/index.d.ts:41250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41250)
+Defined in: [WAProto/index.d.ts:32396](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32396)
 
 Represents a BotWelcomeRequestAction.
 
@@ -14,7 +14,7 @@ Represents a BotWelcomeRequestAction.
 
 > **new BotWelcomeRequestAction**(`properties`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:41256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41256)
+Defined in: [WAProto/index.d.ts:32402](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32402)
 
 Constructs a new BotWelcomeRequestAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### isSent?
+### isSent
 
-> `optional` **isSent**: `null` \| `boolean`
+> **isSent**: `boolean`
 
-Defined in: [WAProto/index.d.ts:41259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41259)
+Defined in: [WAProto/index.d.ts:32405](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32405)
 
 BotWelcomeRequestAction isSent.
 
@@ -50,7 +50,7 @@ BotWelcomeRequestAction isSent.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41329](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41329)
+Defined in: [WAProto/index.d.ts:32475](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32475)
 
 Converts this BotWelcomeRequestAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:41266](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41266)
+Defined in: [WAProto/index.d.ts:32412](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32412)
 
 Creates a new BotWelcomeRequestAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotWelcomeRequestAction instance
 
 > `static` **decode**(`reader`, `length`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:41292](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41292)
+Defined in: [WAProto/index.d.ts:32438](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32438)
 
 Decodes a BotWelcomeRequestAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:41301](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41301)
+Defined in: [WAProto/index.d.ts:32447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32447)
 
 Decodes a BotWelcomeRequestAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41274](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41274)
+Defined in: [WAProto/index.d.ts:32420](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32420)
 
 Encodes the specified BotWelcomeRequestAction message. Does not implicitly [verify](BotWelcomeRequestAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41282](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41282)
+Defined in: [WAProto/index.d.ts:32428](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32428)
 
 Encodes the specified BotWelcomeRequestAction message, length delimited. Does not implicitly [verify](BotWelcomeRequestAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:41315](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41315)
+Defined in: [WAProto/index.d.ts:32461](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32461)
 
 Creates a BotWelcomeRequestAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotWelcomeRequestAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41336](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41336)
+Defined in: [WAProto/index.d.ts:32482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32482)
 
 Gets the default type url for BotWelcomeRequestAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41323](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41323)
+Defined in: [WAProto/index.d.ts:32469](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32469)
 
 Creates a plain object from a BotWelcomeRequestAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41308](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41308)
+Defined in: [WAProto/index.d.ts:32454](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32454)
 
 Verifies a BotWelcomeRequestAction message.
 

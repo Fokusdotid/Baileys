@@ -1,6 +1,6 @@
 # Class: InvoiceMessage
 
-Defined in: [WAProto/index.d.ts:24627](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24627)
+Defined in: [WAProto/index.d.ts:17954](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17954)
 
 Represents an InvoiceMessage.
 
@@ -14,7 +14,7 @@ Represents an InvoiceMessage.
 
 > **new InvoiceMessage**(`properties`?): [`InvoiceMessage`](InvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:24633](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24633)
+Defined in: [WAProto/index.d.ts:17960](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17960)
 
 Constructs a new InvoiceMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### attachmentDirectPath?
+### attachmentDirectPath
 
-> `optional` **attachmentDirectPath**: `null` \| `string`
+> **attachmentDirectPath**: `string`
 
-Defined in: [WAProto/index.d.ts:24660](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24660)
+Defined in: [WAProto/index.d.ts:17987](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17987)
 
 InvoiceMessage attachmentDirectPath.
 
@@ -46,11 +46,11 @@ InvoiceMessage attachmentDirectPath.
 
 ***
 
-### attachmentFileEncSha256?
+### attachmentFileEncSha256
 
-> `optional` **attachmentFileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **attachmentFileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:24657](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24657)
+Defined in: [WAProto/index.d.ts:17984](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17984)
 
 InvoiceMessage attachmentFileEncSha256.
 
@@ -60,11 +60,11 @@ InvoiceMessage attachmentFileEncSha256.
 
 ***
 
-### attachmentFileSha256?
+### attachmentFileSha256
 
-> `optional` **attachmentFileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **attachmentFileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:24654](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24654)
+Defined in: [WAProto/index.d.ts:17981](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17981)
 
 InvoiceMessage attachmentFileSha256.
 
@@ -74,11 +74,11 @@ InvoiceMessage attachmentFileSha256.
 
 ***
 
-### attachmentJpegThumbnail?
+### attachmentJpegThumbnail
 
-> `optional` **attachmentJpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **attachmentJpegThumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:24663](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24663)
+Defined in: [WAProto/index.d.ts:17990](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17990)
 
 InvoiceMessage attachmentJpegThumbnail.
 
@@ -88,11 +88,11 @@ InvoiceMessage attachmentJpegThumbnail.
 
 ***
 
-### attachmentMediaKey?
+### attachmentMediaKey
 
-> `optional` **attachmentMediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **attachmentMediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:24648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24648)
+Defined in: [WAProto/index.d.ts:17975](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17975)
 
 InvoiceMessage attachmentMediaKey.
 
@@ -102,11 +102,11 @@ InvoiceMessage attachmentMediaKey.
 
 ***
 
-### attachmentMediaKeyTimestamp?
+### attachmentMediaKeyTimestamp
 
-> `optional` **attachmentMediaKeyTimestamp**: `null` \| `number` \| `Long`
+> **attachmentMediaKeyTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24651](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24651)
+Defined in: [WAProto/index.d.ts:17978](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17978)
 
 InvoiceMessage attachmentMediaKeyTimestamp.
 
@@ -116,11 +116,11 @@ InvoiceMessage attachmentMediaKeyTimestamp.
 
 ***
 
-### attachmentMimetype?
+### attachmentMimetype
 
-> `optional` **attachmentMimetype**: `null` \| `string`
+> **attachmentMimetype**: `string`
 
-Defined in: [WAProto/index.d.ts:24645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24645)
+Defined in: [WAProto/index.d.ts:17972](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17972)
 
 InvoiceMessage attachmentMimetype.
 
@@ -130,11 +130,11 @@ InvoiceMessage attachmentMimetype.
 
 ***
 
-### attachmentType?
+### attachmentType
 
-> `optional` **attachmentType**: `null` \| [`AttachmentType`](../namespaces/InvoiceMessage/enumerations/AttachmentType.md)
+> **attachmentType**: [`AttachmentType`](../namespaces/InvoiceMessage/enumerations/AttachmentType.md)
 
-Defined in: [WAProto/index.d.ts:24642](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24642)
+Defined in: [WAProto/index.d.ts:17969](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17969)
 
 InvoiceMessage attachmentType.
 
@@ -144,11 +144,11 @@ InvoiceMessage attachmentType.
 
 ***
 
-### note?
+### note
 
-> `optional` **note**: `null` \| `string`
+> **note**: `string`
 
-Defined in: [WAProto/index.d.ts:24636](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24636)
+Defined in: [WAProto/index.d.ts:17963](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17963)
 
 InvoiceMessage note.
 
@@ -158,11 +158,11 @@ InvoiceMessage note.
 
 ***
 
-### token?
+### token
 
-> `optional` **token**: `null` \| `string`
+> **token**: `string`
 
-Defined in: [WAProto/index.d.ts:24639](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24639)
+Defined in: [WAProto/index.d.ts:17966](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17966)
 
 InvoiceMessage token.
 
@@ -176,7 +176,7 @@ InvoiceMessage token.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24733](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24733)
+Defined in: [WAProto/index.d.ts:18060](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18060)
 
 Converts this InvoiceMessage to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InvoiceMessage`](InvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:24670](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24670)
+Defined in: [WAProto/index.d.ts:17997](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17997)
 
 Creates a new InvoiceMessage instance using the specified properties.
 
@@ -216,7 +216,7 @@ InvoiceMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`InvoiceMessage`](InvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:24696](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24696)
+Defined in: [WAProto/index.d.ts:18023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18023)
 
 Decodes an InvoiceMessage message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InvoiceMessage`](InvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:24705](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24705)
+Defined in: [WAProto/index.d.ts:18032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18032)
 
 Decodes an InvoiceMessage message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24678](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24678)
+Defined in: [WAProto/index.d.ts:18005](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18005)
 
 Encodes the specified InvoiceMessage message. Does not implicitly [verify](InvoiceMessage.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24686](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24686)
+Defined in: [WAProto/index.d.ts:18013](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18013)
 
 Encodes the specified InvoiceMessage message, length delimited. Does not implicitly [verify](InvoiceMessage.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InvoiceMessage`](InvoiceMessage.md)
 
-Defined in: [WAProto/index.d.ts:24719](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24719)
+Defined in: [WAProto/index.d.ts:18046](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18046)
 
 Creates an InvoiceMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ InvoiceMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24740)
+Defined in: [WAProto/index.d.ts:18067](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18067)
 
 Gets the default type url for InvoiceMessage
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24727](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24727)
+Defined in: [WAProto/index.d.ts:18054](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18054)
 
 Creates a plain object from an InvoiceMessage message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24712](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24712)
+Defined in: [WAProto/index.d.ts:18039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18039)
 
 Verifies an InvoiceMessage message.
 

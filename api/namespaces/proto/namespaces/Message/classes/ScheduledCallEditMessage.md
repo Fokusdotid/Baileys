@@ -1,6 +1,6 @@
 # Class: ScheduledCallEditMessage
 
-Defined in: [WAProto/index.d.ts:30808](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30808)
+Defined in: [WAProto/index.d.ts:23275](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23275)
 
 Represents a ScheduledCallEditMessage.
 
@@ -14,7 +14,7 @@ Represents a ScheduledCallEditMessage.
 
 > **new ScheduledCallEditMessage**(`properties`?): [`ScheduledCallEditMessage`](ScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:30814](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30814)
+Defined in: [WAProto/index.d.ts:23281](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23281)
 
 Constructs a new ScheduledCallEditMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### editType?
+### editType
 
-> `optional` **editType**: `null` \| [`EditType`](../namespaces/ScheduledCallEditMessage/enumerations/EditType.md)
+> **editType**: [`EditType`](../namespaces/ScheduledCallEditMessage/enumerations/EditType.md)
 
-Defined in: [WAProto/index.d.ts:30820](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30820)
+Defined in: [WAProto/index.d.ts:23287](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23287)
 
 ScheduledCallEditMessage editType.
 
@@ -50,7 +50,7 @@ ScheduledCallEditMessage editType.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30817](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30817)
+Defined in: [WAProto/index.d.ts:23284](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23284)
 
 ScheduledCallEditMessage key.
 
@@ -64,7 +64,7 @@ ScheduledCallEditMessage key.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30890](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30890)
+Defined in: [WAProto/index.d.ts:23357](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23357)
 
 Converts this ScheduledCallEditMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ScheduledCallEditMessage`](ScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:30827](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30827)
+Defined in: [WAProto/index.d.ts:23294](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23294)
 
 Creates a new ScheduledCallEditMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ ScheduledCallEditMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ScheduledCallEditMessage`](ScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:30853](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30853)
+Defined in: [WAProto/index.d.ts:23320](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23320)
 
 Decodes a ScheduledCallEditMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ScheduledCallEditMessage`](ScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:30862](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30862)
+Defined in: [WAProto/index.d.ts:23329](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23329)
 
 Decodes a ScheduledCallEditMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30835](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30835)
+Defined in: [WAProto/index.d.ts:23302](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23302)
 
 Encodes the specified ScheduledCallEditMessage message. Does not implicitly [verify](ScheduledCallEditMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30843](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30843)
+Defined in: [WAProto/index.d.ts:23310](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23310)
 
 Encodes the specified ScheduledCallEditMessage message, length delimited. Does not implicitly [verify](ScheduledCallEditMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ScheduledCallEditMessage`](ScheduledCallEditMessage.md)
 
-Defined in: [WAProto/index.d.ts:30876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30876)
+Defined in: [WAProto/index.d.ts:23343](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23343)
 
 Creates a ScheduledCallEditMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ScheduledCallEditMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30897](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30897)
+Defined in: [WAProto/index.d.ts:23364](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23364)
 
 Gets the default type url for ScheduledCallEditMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30884](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30884)
+Defined in: [WAProto/index.d.ts:23351](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23351)
 
 Creates a plain object from a ScheduledCallEditMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30869](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30869)
+Defined in: [WAProto/index.d.ts:23336](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23336)
 
 Verifies a ScheduledCallEditMessage message.
 

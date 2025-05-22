@@ -1,6 +1,6 @@
 # Class: SyncdRecord
 
-Defined in: [WAProto/index.d.ts:47235](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47235)
+Defined in: [WAProto/index.d.ts:37716](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37716)
 
 Represents a SyncdRecord.
 
@@ -14,7 +14,7 @@ Represents a SyncdRecord.
 
 > **new SyncdRecord**(`properties`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:47241](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47241)
+Defined in: [WAProto/index.d.ts:37722](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37722)
 
 Constructs a new SyncdRecord.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **index**: `null` \| [`ISyncdIndex`](../interfaces/ISyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:47244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47244)
+Defined in: [WAProto/index.d.ts:37725](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37725)
 
 SyncdRecord index.
 
@@ -50,7 +50,7 @@ SyncdRecord index.
 
 > `optional` **keyId**: `null` \| [`IKeyId`](../interfaces/IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:47250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47250)
+Defined in: [WAProto/index.d.ts:37731](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37731)
 
 SyncdRecord keyId.
 
@@ -64,7 +64,7 @@ SyncdRecord keyId.
 
 > `optional` **value**: `null` \| [`ISyncdValue`](../interfaces/ISyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47247)
+Defined in: [WAProto/index.d.ts:37728](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37728)
 
 SyncdRecord value.
 
@@ -78,7 +78,7 @@ SyncdRecord value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47320)
+Defined in: [WAProto/index.d.ts:37801](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37801)
 
 Converts this SyncdRecord to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:47257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47257)
+Defined in: [WAProto/index.d.ts:37738](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37738)
 
 Creates a new SyncdRecord instance using the specified properties.
 
@@ -118,7 +118,7 @@ SyncdRecord instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:47283](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47283)
+Defined in: [WAProto/index.d.ts:37764](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37764)
 
 Decodes a SyncdRecord message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:47292](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47292)
+Defined in: [WAProto/index.d.ts:37773](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37773)
 
 Decodes a SyncdRecord message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47265](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47265)
+Defined in: [WAProto/index.d.ts:37746](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37746)
 
 Encodes the specified SyncdRecord message. Does not implicitly [verify](SyncdRecord.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47273](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47273)
+Defined in: [WAProto/index.d.ts:37754](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37754)
 
 Encodes the specified SyncdRecord message, length delimited. Does not implicitly [verify](SyncdRecord.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:47306](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47306)
+Defined in: [WAProto/index.d.ts:37787](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37787)
 
 Creates a SyncdRecord message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ SyncdRecord
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47327)
+Defined in: [WAProto/index.d.ts:37808](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37808)
 
 Gets the default type url for SyncdRecord
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47314](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47314)
+Defined in: [WAProto/index.d.ts:37795](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37795)
 
 Creates a plain object from a SyncdRecord message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47299](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47299)
+Defined in: [WAProto/index.d.ts:37780](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37780)
 
 Verifies a SyncdRecord message.
 

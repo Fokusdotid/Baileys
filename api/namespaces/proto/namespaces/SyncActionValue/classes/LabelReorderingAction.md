@@ -1,6 +1,6 @@
 # Class: LabelReorderingAction
 
-Defined in: [WAProto/index.d.ts:43102](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43102)
+Defined in: [WAProto/index.d.ts:34026](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34026)
 
 Represents a LabelReorderingAction.
 
@@ -14,7 +14,7 @@ Represents a LabelReorderingAction.
 
 > **new LabelReorderingAction**(`properties`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43108](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43108)
+Defined in: [WAProto/index.d.ts:34032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34032)
 
 Constructs a new LabelReorderingAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **sortedLabelIds**: `number`[]
 
-Defined in: [WAProto/index.d.ts:43111](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43111)
+Defined in: [WAProto/index.d.ts:34035](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34035)
 
 LabelReorderingAction sortedLabelIds.
 
@@ -50,7 +50,7 @@ LabelReorderingAction sortedLabelIds.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43181](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43181)
+Defined in: [WAProto/index.d.ts:34105](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34105)
 
 Converts this LabelReorderingAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43118)
+Defined in: [WAProto/index.d.ts:34042](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34042)
 
 Creates a new LabelReorderingAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ LabelReorderingAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43144](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43144)
+Defined in: [WAProto/index.d.ts:34068](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34068)
 
 Decodes a LabelReorderingAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43153](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43153)
+Defined in: [WAProto/index.d.ts:34077](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34077)
 
 Decodes a LabelReorderingAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43126](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43126)
+Defined in: [WAProto/index.d.ts:34050](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34050)
 
 Encodes the specified LabelReorderingAction message. Does not implicitly [verify](LabelReorderingAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43134](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43134)
+Defined in: [WAProto/index.d.ts:34058](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34058)
 
 Encodes the specified LabelReorderingAction message, length delimited. Does not implicitly [verify](LabelReorderingAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43167](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43167)
+Defined in: [WAProto/index.d.ts:34091](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34091)
 
 Creates a LabelReorderingAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LabelReorderingAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43188](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43188)
+Defined in: [WAProto/index.d.ts:34112](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34112)
 
 Gets the default type url for LabelReorderingAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43175](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43175)
+Defined in: [WAProto/index.d.ts:34099](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34099)
 
 Creates a plain object from a LabelReorderingAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43160](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43160)
+Defined in: [WAProto/index.d.ts:34084](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34084)
 
 Verifies a LabelReorderingAction message.
 

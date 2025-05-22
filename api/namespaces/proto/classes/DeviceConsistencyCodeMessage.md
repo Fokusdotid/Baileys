@@ -1,6 +1,6 @@
 # Class: DeviceConsistencyCodeMessage
 
-Defined in: [WAProto/index.d.ts:11528](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11528)
+Defined in: [WAProto/index.d.ts:6124](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6124)
 
 Represents a DeviceConsistencyCodeMessage.
 
@@ -14,7 +14,7 @@ Represents a DeviceConsistencyCodeMessage.
 
 > **new DeviceConsistencyCodeMessage**(`properties`?): [`DeviceConsistencyCodeMessage`](DeviceConsistencyCodeMessage.md)
 
-Defined in: [WAProto/index.d.ts:11534](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11534)
+Defined in: [WAProto/index.d.ts:6130](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6130)
 
 Constructs a new DeviceConsistencyCodeMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### generation?
+### generation
 
-> `optional` **generation**: `null` \| `number`
+> **generation**: `number`
 
-Defined in: [WAProto/index.d.ts:11537](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11537)
+Defined in: [WAProto/index.d.ts:6133](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6133)
 
 DeviceConsistencyCodeMessage generation.
 
@@ -46,11 +46,11 @@ DeviceConsistencyCodeMessage generation.
 
 ***
 
-### signature?
+### signature
 
-> `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **signature**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:11540](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11540)
+Defined in: [WAProto/index.d.ts:6136](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6136)
 
 DeviceConsistencyCodeMessage signature.
 
@@ -64,7 +64,7 @@ DeviceConsistencyCodeMessage signature.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11610](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11610)
+Defined in: [WAProto/index.d.ts:6206](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6206)
 
 Converts this DeviceConsistencyCodeMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceConsistencyCodeMessage`](DeviceConsistencyCodeMessage.md)
 
-Defined in: [WAProto/index.d.ts:11547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11547)
+Defined in: [WAProto/index.d.ts:6143](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6143)
 
 Creates a new DeviceConsistencyCodeMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ DeviceConsistencyCodeMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceConsistencyCodeMessage`](DeviceConsistencyCodeMessage.md)
 
-Defined in: [WAProto/index.d.ts:11573](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11573)
+Defined in: [WAProto/index.d.ts:6169](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6169)
 
 Decodes a DeviceConsistencyCodeMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceConsistencyCodeMessage`](DeviceConsistencyCodeMessage.md)
 
-Defined in: [WAProto/index.d.ts:11582](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11582)
+Defined in: [WAProto/index.d.ts:6178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6178)
 
 Decodes a DeviceConsistencyCodeMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11555](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11555)
+Defined in: [WAProto/index.d.ts:6151](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6151)
 
 Encodes the specified DeviceConsistencyCodeMessage message. Does not implicitly [verify](DeviceConsistencyCodeMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11563](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11563)
+Defined in: [WAProto/index.d.ts:6159](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6159)
 
 Encodes the specified DeviceConsistencyCodeMessage message, length delimited. Does not implicitly [verify](DeviceConsistencyCodeMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceConsistencyCodeMessage`](DeviceConsistencyCodeMessage.md)
 
-Defined in: [WAProto/index.d.ts:11596](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11596)
+Defined in: [WAProto/index.d.ts:6192](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6192)
 
 Creates a DeviceConsistencyCodeMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DeviceConsistencyCodeMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11617](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11617)
+Defined in: [WAProto/index.d.ts:6213](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6213)
 
 Gets the default type url for DeviceConsistencyCodeMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11604](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11604)
+Defined in: [WAProto/index.d.ts:6200](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6200)
 
 Creates a plain object from a DeviceConsistencyCodeMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11589](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11589)
+Defined in: [WAProto/index.d.ts:6185](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6185)
 
 Verifies a DeviceConsistencyCodeMessage message.
 

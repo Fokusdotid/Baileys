@@ -1,6 +1,6 @@
 # Interface: IPastParticipants
 
-Defined in: [WAProto/index.d.ts:35304](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35304)
+Defined in: [WAProto/index.d.ts:26616](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26616)
 
 Properties of a PastParticipants.
 
@@ -10,7 +10,7 @@ Properties of a PastParticipants.
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35307](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35307)
+Defined in: [WAProto/index.d.ts:26619](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26619)
 
 PastParticipants groupJid
 
@@ -20,6 +20,6 @@ PastParticipants groupJid
 
 > `optional` **pastParticipants**: `null` \| [`IPastParticipant`](IPastParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:35310](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35310)
+Defined in: [WAProto/index.d.ts:26622](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26622)
 
 PastParticipants pastParticipants

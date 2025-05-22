@@ -1,6 +1,6 @@
 # Class: AppStateSyncKeyData
 
-Defined in: [WAProto/index.d.ts:17675](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17675)
+Defined in: [WAProto/index.d.ts:11321](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11321)
 
 Represents an AppStateSyncKeyData.
 
@@ -14,7 +14,7 @@ Represents an AppStateSyncKeyData.
 
 > **new AppStateSyncKeyData**(`properties`?): [`AppStateSyncKeyData`](AppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17681)
+Defined in: [WAProto/index.d.ts:11327](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11327)
 
 Constructs a new AppStateSyncKeyData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fingerprint**: `null` \| [`IAppStateSyncKeyFingerprint`](../interfaces/IAppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17687](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17687)
+Defined in: [WAProto/index.d.ts:11333](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11333)
 
 AppStateSyncKeyData fingerprint.
 
@@ -46,11 +46,11 @@ AppStateSyncKeyData fingerprint.
 
 ***
 
-### keyData?
+### keyData
 
-> `optional` **keyData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **keyData**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:17684](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17684)
+Defined in: [WAProto/index.d.ts:11330](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11330)
 
 AppStateSyncKeyData keyData.
 
@@ -60,11 +60,11 @@ AppStateSyncKeyData keyData.
 
 ***
 
-### timestamp?
+### timestamp
 
-> `optional` **timestamp**: `null` \| `number` \| `Long`
+> **timestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17690](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17690)
+Defined in: [WAProto/index.d.ts:11336](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11336)
 
 AppStateSyncKeyData timestamp.
 
@@ -78,7 +78,7 @@ AppStateSyncKeyData timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17760](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17760)
+Defined in: [WAProto/index.d.ts:11406](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11406)
 
 Converts this AppStateSyncKeyData to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppStateSyncKeyData`](AppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17697](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17697)
+Defined in: [WAProto/index.d.ts:11343](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11343)
 
 Creates a new AppStateSyncKeyData instance using the specified properties.
 
@@ -118,7 +118,7 @@ AppStateSyncKeyData instance
 
 > `static` **decode**(`reader`, `length`?): [`AppStateSyncKeyData`](AppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17723](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17723)
+Defined in: [WAProto/index.d.ts:11369](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11369)
 
 Decodes an AppStateSyncKeyData message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppStateSyncKeyData`](AppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17732](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17732)
+Defined in: [WAProto/index.d.ts:11378](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11378)
 
 Decodes an AppStateSyncKeyData message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17705](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17705)
+Defined in: [WAProto/index.d.ts:11351](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11351)
 
 Encodes the specified AppStateSyncKeyData message. Does not implicitly [verify](AppStateSyncKeyData.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17713](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17713)
+Defined in: [WAProto/index.d.ts:11359](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11359)
 
 Encodes the specified AppStateSyncKeyData message, length delimited. Does not implicitly [verify](AppStateSyncKeyData.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppStateSyncKeyData`](AppStateSyncKeyData.md)
 
-Defined in: [WAProto/index.d.ts:17746](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17746)
+Defined in: [WAProto/index.d.ts:11392](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11392)
 
 Creates an AppStateSyncKeyData message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AppStateSyncKeyData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17767](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17767)
+Defined in: [WAProto/index.d.ts:11413](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11413)
 
 Gets the default type url for AppStateSyncKeyData
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17754](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17754)
+Defined in: [WAProto/index.d.ts:11400](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11400)
 
 Creates a plain object from an AppStateSyncKeyData message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17739](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17739)
+Defined in: [WAProto/index.d.ts:11385](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11385)
 
 Verifies an AppStateSyncKeyData message.
 

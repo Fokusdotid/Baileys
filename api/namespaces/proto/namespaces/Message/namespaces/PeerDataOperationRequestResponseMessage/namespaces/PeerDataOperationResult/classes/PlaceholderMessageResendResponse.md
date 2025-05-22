@@ -1,6 +1,6 @@
 # Class: PlaceholderMessageResendResponse
 
-Defined in: [WAProto/index.d.ts:28269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28269)
+Defined in: [WAProto/index.d.ts:21125](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21125)
 
 Represents a PlaceholderMessageResendResponse.
 
@@ -14,7 +14,7 @@ Represents a PlaceholderMessageResendResponse.
 
 > **new PlaceholderMessageResendResponse**(`properties`?): [`PlaceholderMessageResendResponse`](PlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:28275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28275)
+Defined in: [WAProto/index.d.ts:21131](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21131)
 
 Constructs a new PlaceholderMessageResendResponse.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### webMessageInfoBytes?
+### webMessageInfoBytes
 
-> `optional` **webMessageInfoBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **webMessageInfoBytes**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:28278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28278)
+Defined in: [WAProto/index.d.ts:21134](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21134)
 
 PlaceholderMessageResendResponse webMessageInfoBytes.
 
@@ -50,7 +50,7 @@ PlaceholderMessageResendResponse webMessageInfoBytes.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28348](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28348)
+Defined in: [WAProto/index.d.ts:21204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21204)
 
 Converts this PlaceholderMessageResendResponse to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PlaceholderMessageResendResponse`](PlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:28285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28285)
+Defined in: [WAProto/index.d.ts:21141](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21141)
 
 Creates a new PlaceholderMessageResendResponse instance using the specified properties.
 
@@ -90,7 +90,7 @@ PlaceholderMessageResendResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`PlaceholderMessageResendResponse`](PlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:28311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28311)
+Defined in: [WAProto/index.d.ts:21167](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21167)
 
 Decodes a PlaceholderMessageResendResponse message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PlaceholderMessageResendResponse`](PlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:28320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28320)
+Defined in: [WAProto/index.d.ts:21176](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21176)
 
 Decodes a PlaceholderMessageResendResponse message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28293](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28293)
+Defined in: [WAProto/index.d.ts:21149](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21149)
 
 Encodes the specified PlaceholderMessageResendResponse message. Does not implicitly [verify](PlaceholderMessageResendResponse.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28301](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28301)
+Defined in: [WAProto/index.d.ts:21157](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21157)
 
 Encodes the specified PlaceholderMessageResendResponse message, length delimited. Does not implicitly [verify](PlaceholderMessageResendResponse.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PlaceholderMessageResendResponse`](PlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:28334](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28334)
+Defined in: [WAProto/index.d.ts:21190](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21190)
 
 Creates a PlaceholderMessageResendResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PlaceholderMessageResendResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28355](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28355)
+Defined in: [WAProto/index.d.ts:21211](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21211)
 
 Gets the default type url for PlaceholderMessageResendResponse
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28342](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28342)
+Defined in: [WAProto/index.d.ts:21198](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21198)
 
 Creates a plain object from a PlaceholderMessageResendResponse message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28327)
+Defined in: [WAProto/index.d.ts:21183](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21183)
 
 Verifies a PlaceholderMessageResendResponse message.
 

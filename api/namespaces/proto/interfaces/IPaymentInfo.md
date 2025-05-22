@@ -1,6 +1,6 @@
 # Interface: IPaymentInfo
 
-Defined in: [WAProto/index.d.ts:35861](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35861)
+Defined in: [WAProto/index.d.ts:27171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27171)
 
 Properties of a PaymentInfo.
 
@@ -10,7 +10,7 @@ Properties of a PaymentInfo.
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35867](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35867)
+Defined in: [WAProto/index.d.ts:27177](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27177)
 
 PaymentInfo amount1000
 
@@ -20,7 +20,7 @@ PaymentInfo amount1000
 
 > `optional` **currency**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35888](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35888)
+Defined in: [WAProto/index.d.ts:27198](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27198)
 
 PaymentInfo currency
 
@@ -30,7 +30,7 @@ PaymentInfo currency
 
 > `optional` **currencyDeprecated**: `null` \| [`Currency`](../namespaces/PaymentInfo/enumerations/Currency.md)
 
-Defined in: [WAProto/index.d.ts:35864](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35864)
+Defined in: [WAProto/index.d.ts:27174](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27174)
 
 PaymentInfo currencyDeprecated
 
@@ -40,7 +40,7 @@ PaymentInfo currencyDeprecated
 
 > `optional` **exchangeAmount**: `null` \| [`IMoney`](IMoney.md)
 
-Defined in: [WAProto/index.d.ts:35900](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35900)
+Defined in: [WAProto/index.d.ts:27210](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27210)
 
 PaymentInfo exchangeAmount
 
@@ -50,7 +50,7 @@ PaymentInfo exchangeAmount
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35882)
+Defined in: [WAProto/index.d.ts:27192](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27192)
 
 PaymentInfo expiryTimestamp
 
@@ -60,7 +60,7 @@ PaymentInfo expiryTimestamp
 
 > `optional` **futureproofed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35885](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35885)
+Defined in: [WAProto/index.d.ts:27195](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27195)
 
 PaymentInfo futureproofed
 
@@ -70,7 +70,7 @@ PaymentInfo futureproofed
 
 > `optional` **primaryAmount**: `null` \| [`IMoney`](IMoney.md)
 
-Defined in: [WAProto/index.d.ts:35897](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35897)
+Defined in: [WAProto/index.d.ts:27207](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27207)
 
 PaymentInfo primaryAmount
 
@@ -80,7 +80,7 @@ PaymentInfo primaryAmount
 
 > `optional` **receiverJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35870](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35870)
+Defined in: [WAProto/index.d.ts:27180](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27180)
 
 PaymentInfo receiverJid
 
@@ -90,7 +90,7 @@ PaymentInfo receiverJid
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:35879](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35879)
+Defined in: [WAProto/index.d.ts:27189](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27189)
 
 PaymentInfo requestMessageKey
 
@@ -100,7 +100,7 @@ PaymentInfo requestMessageKey
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/PaymentInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:35873](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35873)
+Defined in: [WAProto/index.d.ts:27183](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27183)
 
 PaymentInfo status
 
@@ -110,7 +110,7 @@ PaymentInfo status
 
 > `optional` **transactionTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35876)
+Defined in: [WAProto/index.d.ts:27186](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27186)
 
 PaymentInfo transactionTimestamp
 
@@ -120,7 +120,7 @@ PaymentInfo transactionTimestamp
 
 > `optional` **txnStatus**: `null` \| [`TxnStatus`](../namespaces/PaymentInfo/enumerations/TxnStatus.md)
 
-Defined in: [WAProto/index.d.ts:35891](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35891)
+Defined in: [WAProto/index.d.ts:27201](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27201)
 
 PaymentInfo txnStatus
 
@@ -130,6 +130,6 @@ PaymentInfo txnStatus
 
 > `optional` **useNoviFiatFormat**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35894](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35894)
+Defined in: [WAProto/index.d.ts:27204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27204)
 
 PaymentInfo useNoviFiatFormat

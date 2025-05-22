@@ -1,6 +1,6 @@
 # Interface: ISenderKeyStateStructure
 
-Defined in: [WAProto/index.d.ts:38529](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38529)
+Defined in: [WAProto/index.d.ts:29802](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29802)
 
 Properties of a SenderKeyStateStructure.
 
@@ -10,7 +10,7 @@ Properties of a SenderKeyStateStructure.
 
 > `optional` **senderChainKey**: `null` \| [`ISenderChainKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:38535](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38535)
+Defined in: [WAProto/index.d.ts:29808](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29808)
 
 SenderKeyStateStructure senderChainKey
 
@@ -20,7 +20,7 @@ SenderKeyStateStructure senderChainKey
 
 > `optional` **senderKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38532](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38532)
+Defined in: [WAProto/index.d.ts:29805](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29805)
 
 SenderKeyStateStructure senderKeyId
 
@@ -30,7 +30,7 @@ SenderKeyStateStructure senderKeyId
 
 > `optional` **senderMessageKeys**: `null` \| [`ISenderMessageKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderMessageKey.md)[]
 
-Defined in: [WAProto/index.d.ts:38541](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38541)
+Defined in: [WAProto/index.d.ts:29814](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29814)
 
 SenderKeyStateStructure senderMessageKeys
 
@@ -40,6 +40,6 @@ SenderKeyStateStructure senderMessageKeys
 
 > `optional` **senderSigningKey**: `null` \| [`ISenderSigningKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:38538](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38538)
+Defined in: [WAProto/index.d.ts:29811](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29811)
 
 SenderKeyStateStructure senderSigningKey

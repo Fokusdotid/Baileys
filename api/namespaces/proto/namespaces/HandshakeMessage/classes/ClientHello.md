@@ -1,6 +1,6 @@
 # Class: ClientHello
 
-Defined in: [WAProto/index.d.ts:14128](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14128)
+Defined in: [WAProto/index.d.ts:8107](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8107)
 
 Represents a ClientHello.
 
@@ -14,7 +14,7 @@ Represents a ClientHello.
 
 > **new ClientHello**(`properties`?): [`ClientHello`](ClientHello.md)
 
-Defined in: [WAProto/index.d.ts:14134](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14134)
+Defined in: [WAProto/index.d.ts:8113](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8113)
 
 Constructs a new ClientHello.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### ephemeral?
+### ephemeral
 
-> `optional` **ephemeral**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **ephemeral**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14137](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14137)
+Defined in: [WAProto/index.d.ts:8116](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8116)
 
 ClientHello ephemeral.
 
@@ -46,11 +46,11 @@ ClientHello ephemeral.
 
 ***
 
-### payload?
+### payload
 
-> `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **payload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14143](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14143)
+Defined in: [WAProto/index.d.ts:8122](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8122)
 
 ClientHello payload.
 
@@ -60,11 +60,11 @@ ClientHello payload.
 
 ***
 
-### static?
+### static
 
-> `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **static**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14140](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14140)
+Defined in: [WAProto/index.d.ts:8119](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8119)
 
 ClientHello static.
 
@@ -78,7 +78,7 @@ ClientHello static.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14213](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14213)
+Defined in: [WAProto/index.d.ts:8192](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8192)
 
 Converts this ClientHello to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ClientHello`](ClientHello.md)
 
-Defined in: [WAProto/index.d.ts:14150](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14150)
+Defined in: [WAProto/index.d.ts:8129](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8129)
 
 Creates a new ClientHello instance using the specified properties.
 
@@ -118,7 +118,7 @@ ClientHello instance
 
 > `static` **decode**(`reader`, `length`?): [`ClientHello`](ClientHello.md)
 
-Defined in: [WAProto/index.d.ts:14176](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14176)
+Defined in: [WAProto/index.d.ts:8155](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8155)
 
 Decodes a ClientHello message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ClientHello`](ClientHello.md)
 
-Defined in: [WAProto/index.d.ts:14185](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14185)
+Defined in: [WAProto/index.d.ts:8164](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8164)
 
 Decodes a ClientHello message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14158](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14158)
+Defined in: [WAProto/index.d.ts:8137](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8137)
 
 Encodes the specified ClientHello message. Does not implicitly [verify](ClientHello.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14166](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14166)
+Defined in: [WAProto/index.d.ts:8145](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8145)
 
 Encodes the specified ClientHello message, length delimited. Does not implicitly [verify](ClientHello.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ClientHello`](ClientHello.md)
 
-Defined in: [WAProto/index.d.ts:14199](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14199)
+Defined in: [WAProto/index.d.ts:8178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8178)
 
 Creates a ClientHello message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ClientHello
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14220](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14220)
+Defined in: [WAProto/index.d.ts:8199](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8199)
 
 Gets the default type url for ClientHello
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14207](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14207)
+Defined in: [WAProto/index.d.ts:8186](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8186)
 
 Creates a plain object from a ClientHello message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14192](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14192)
+Defined in: [WAProto/index.d.ts:8171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8171)
 
 Verifies a ClientHello message.
 

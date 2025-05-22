@@ -1,6 +1,6 @@
 # Enumeration: Product
 
-Defined in: [WAProto/index.d.ts:8307](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8307)
+Defined in: [WAProto/index.d.ts:3830](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3830)
 
 Product enum.
 
@@ -10,7 +10,7 @@ Product enum.
 
 > **INTEROP**: `2`
 
-Defined in: [WAProto/index.d.ts:8310](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8310)
+Defined in: [WAProto/index.d.ts:3833](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3833)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8310](https://github.com/Fokusdotid/Baileys/blob
 
 > **INTEROP\_MSGR**: `3`
 
-Defined in: [WAProto/index.d.ts:8311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8311)
+Defined in: [WAProto/index.d.ts:3834](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3834)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:8311](https://github.com/Fokusdotid/Baileys/blob
 
 > **MESSENGER**: `1`
 
-Defined in: [WAProto/index.d.ts:8309](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8309)
+Defined in: [WAProto/index.d.ts:3832](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3832)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:8309](https://github.com/Fokusdotid/Baileys/blob
 
 > **WHATSAPP**: `0`
 
-Defined in: [WAProto/index.d.ts:8308](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8308)
+Defined in: [WAProto/index.d.ts:3831](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3831)

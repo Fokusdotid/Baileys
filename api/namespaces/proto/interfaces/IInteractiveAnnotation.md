@@ -1,36 +1,16 @@
 # Interface: IInteractiveAnnotation
 
-Defined in: [WAProto/index.d.ts:15199](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15199)
+Defined in: [WAProto/index.d.ts:9166](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9166)
 
 Properties of an InteractiveAnnotation.
 
 ## Properties
 
-### embeddedAction?
-
-> `optional` **embeddedAction**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:15217](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15217)
-
-InteractiveAnnotation embeddedAction
-
-***
-
-### embeddedContent?
-
-> `optional` **embeddedContent**: `null` \| [`IEmbeddedContent`](IEmbeddedContent.md)
-
-Defined in: [WAProto/index.d.ts:15208](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15208)
-
-InteractiveAnnotation embeddedContent
-
-***
-
 ### location?
 
 > `optional` **location**: `null` \| [`ILocation`](ILocation.md)
 
-Defined in: [WAProto/index.d.ts:15211](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15211)
+Defined in: [WAProto/index.d.ts:9175](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9175)
 
 InteractiveAnnotation location
 
@@ -40,7 +20,7 @@ InteractiveAnnotation location
 
 > `optional` **newsletter**: `null` \| [`IForwardedNewsletterMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:15214](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15214)
+Defined in: [WAProto/index.d.ts:9178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9178)
 
 InteractiveAnnotation newsletter
 
@@ -50,7 +30,7 @@ InteractiveAnnotation newsletter
 
 > `optional` **polygonVertices**: `null` \| [`IPoint`](IPoint.md)[]
 
-Defined in: [WAProto/index.d.ts:15202](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15202)
+Defined in: [WAProto/index.d.ts:9169](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9169)
 
 InteractiveAnnotation polygonVertices
 
@@ -60,16 +40,6 @@ InteractiveAnnotation polygonVertices
 
 > `optional` **shouldSkipConfirmation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:15205](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15205)
+Defined in: [WAProto/index.d.ts:9172](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9172)
 
 InteractiveAnnotation shouldSkipConfirmation
-
-***
-
-### tapAction?
-
-> `optional` **tapAction**: `null` \| [`ITapLinkAction`](ITapLinkAction.md)
-
-Defined in: [WAProto/index.d.ts:15220](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15220)
-
-InteractiveAnnotation tapAction

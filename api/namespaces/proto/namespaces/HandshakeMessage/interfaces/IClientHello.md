@@ -1,6 +1,6 @@
 # Interface: IClientHello
 
-Defined in: [WAProto/index.d.ts:14115](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14115)
+Defined in: [WAProto/index.d.ts:8094](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8094)
 
 Properties of a ClientHello.
 
@@ -10,7 +10,7 @@ Properties of a ClientHello.
 
 > `optional` **ephemeral**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14118)
+Defined in: [WAProto/index.d.ts:8097](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8097)
 
 ClientHello ephemeral
 
@@ -20,7 +20,7 @@ ClientHello ephemeral
 
 > `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14124](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14124)
+Defined in: [WAProto/index.d.ts:8103](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8103)
 
 ClientHello payload
 
@@ -30,6 +30,6 @@ ClientHello payload
 
 > `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14121](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14121)
+Defined in: [WAProto/index.d.ts:8100](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8100)
 
 ClientHello static

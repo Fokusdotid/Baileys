@@ -1,6 +1,6 @@
 # Interface: IPrivacySettingDisableLinkPreviewsAction
 
-Defined in: [WAProto/index.d.ts:44780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44780)
+Defined in: [WAProto/index.d.ts:35472](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35472)
 
 Properties of a PrivacySettingDisableLinkPreviewsAction.
 
@@ -10,6 +10,6 @@ Properties of a PrivacySettingDisableLinkPreviewsAction.
 
 > `optional` **isPreviewsDisabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44783](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44783)
+Defined in: [WAProto/index.d.ts:35475](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35475)
 
 PrivacySettingDisableLinkPreviewsAction isPreviewsDisabled

@@ -1,6 +1,6 @@
 # Class: ButtonsResponseMessage
 
-Defined in: [WAProto/index.d.ts:19162](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19162)
+Defined in: [WAProto/index.d.ts:12788](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12788)
 
 Represents a ButtonsResponseMessage.
 
@@ -14,7 +14,7 @@ Represents a ButtonsResponseMessage.
 
 > **new ButtonsResponseMessage**(`properties`?): [`ButtonsResponseMessage`](ButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:19168](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19168)
+Defined in: [WAProto/index.d.ts:12794](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12794)
 
 Constructs a new ButtonsResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:19174](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19174)
+Defined in: [WAProto/index.d.ts:12800](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12800)
 
 ButtonsResponseMessage contextInfo.
 
@@ -50,17 +50,17 @@ ButtonsResponseMessage contextInfo.
 
 > `optional` **response**: `"selectedDisplayText"`
 
-Defined in: [WAProto/index.d.ts:19183](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19183)
+Defined in: [WAProto/index.d.ts:12809](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12809)
 
 ButtonsResponseMessage response.
 
 ***
 
-### selectedButtonId?
+### selectedButtonId
 
-> `optional` **selectedButtonId**: `null` \| `string`
+> **selectedButtonId**: `string`
 
-Defined in: [WAProto/index.d.ts:19171](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19171)
+Defined in: [WAProto/index.d.ts:12797](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12797)
 
 ButtonsResponseMessage selectedButtonId.
 
@@ -74,7 +74,7 @@ ButtonsResponseMessage selectedButtonId.
 
 > `optional` **selectedDisplayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19180](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19180)
+Defined in: [WAProto/index.d.ts:12806](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12806)
 
 ButtonsResponseMessage selectedDisplayText.
 
@@ -84,11 +84,11 @@ ButtonsResponseMessage selectedDisplayText.
 
 ***
 
-### type?
+### type
 
-> `optional` **type**: `null` \| [`Type`](../namespaces/ButtonsResponseMessage/enumerations/Type.md)
+> **type**: [`Type`](../namespaces/ButtonsResponseMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:19177](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19177)
+Defined in: [WAProto/index.d.ts:12803](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12803)
 
 ButtonsResponseMessage type.
 
@@ -102,7 +102,7 @@ ButtonsResponseMessage type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19253)
+Defined in: [WAProto/index.d.ts:12879](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12879)
 
 Converts this ButtonsResponseMessage to JSON.
 
@@ -118,7 +118,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ButtonsResponseMessage`](ButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:19190](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19190)
+Defined in: [WAProto/index.d.ts:12816](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12816)
 
 Creates a new ButtonsResponseMessage instance using the specified properties.
 
@@ -142,7 +142,7 @@ ButtonsResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ButtonsResponseMessage`](ButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:19216](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19216)
+Defined in: [WAProto/index.d.ts:12842](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12842)
 
 Decodes a ButtonsResponseMessage message from the specified reader or buffer.
 
@@ -180,7 +180,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ButtonsResponseMessage`](ButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:19225](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19225)
+Defined in: [WAProto/index.d.ts:12851](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12851)
 
 Decodes a ButtonsResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19198](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19198)
+Defined in: [WAProto/index.d.ts:12824](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12824)
 
 Encodes the specified ButtonsResponseMessage message. Does not implicitly [verify](ButtonsResponseMessage.md#verify) messages.
 
@@ -242,7 +242,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19206](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19206)
+Defined in: [WAProto/index.d.ts:12832](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12832)
 
 Encodes the specified ButtonsResponseMessage message, length delimited. Does not implicitly [verify](ButtonsResponseMessage.md#verify) messages.
 
@@ -272,7 +272,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ButtonsResponseMessage`](ButtonsResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:19239](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19239)
+Defined in: [WAProto/index.d.ts:12865](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12865)
 
 Creates a ButtonsResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -294,7 +294,7 @@ ButtonsResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19260](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19260)
+Defined in: [WAProto/index.d.ts:12886](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12886)
 
 Gets the default type url for ButtonsResponseMessage
 
@@ -318,7 +318,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19247)
+Defined in: [WAProto/index.d.ts:12873](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12873)
 
 Creates a plain object from a ButtonsResponseMessage message. Also converts values to other types if specified.
 
@@ -348,7 +348,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19232](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19232)
+Defined in: [WAProto/index.d.ts:12858](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12858)
 
 Verifies a ButtonsResponseMessage message.
 

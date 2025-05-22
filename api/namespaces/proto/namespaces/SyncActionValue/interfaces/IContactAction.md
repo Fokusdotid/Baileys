@@ -1,6 +1,6 @@
 # Interface: IContactAction
 
-Defined in: [WAProto/index.d.ts:41728](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41728)
+Defined in: [WAProto/index.d.ts:32874](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32874)
 
 Properties of a ContactAction.
 
@@ -10,7 +10,7 @@ Properties of a ContactAction.
 
 > `optional` **firstName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41734](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41734)
+Defined in: [WAProto/index.d.ts:32880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32880)
 
 ContactAction firstName
 
@@ -20,7 +20,7 @@ ContactAction firstName
 
 > `optional` **fullName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41731](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41731)
+Defined in: [WAProto/index.d.ts:32877](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32877)
 
 ContactAction fullName
 
@@ -30,7 +30,7 @@ ContactAction fullName
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41737](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41737)
+Defined in: [WAProto/index.d.ts:32883](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32883)
 
 ContactAction lidJid
 
@@ -40,6 +40,6 @@ ContactAction lidJid
 
 > `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41740)
+Defined in: [WAProto/index.d.ts:32886](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32886)
 
 ContactAction saveOnPrimaryAddressbook

@@ -1,6 +1,6 @@
 # Class: LocaleSetting
 
-Defined in: [WAProto/index.d.ts:43199](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43199)
+Defined in: [WAProto/index.d.ts:34123](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34123)
 
 Represents a LocaleSetting.
 
@@ -14,7 +14,7 @@ Represents a LocaleSetting.
 
 > **new LocaleSetting**(`properties`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43205](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43205)
+Defined in: [WAProto/index.d.ts:34129](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34129)
 
 Constructs a new LocaleSetting.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### locale?
+### locale
 
-> `optional` **locale**: `null` \| `string`
+> **locale**: `string`
 
-Defined in: [WAProto/index.d.ts:43208](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43208)
+Defined in: [WAProto/index.d.ts:34132](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34132)
 
 LocaleSetting locale.
 
@@ -50,7 +50,7 @@ LocaleSetting locale.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43278)
+Defined in: [WAProto/index.d.ts:34202](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34202)
 
 Converts this LocaleSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43215](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43215)
+Defined in: [WAProto/index.d.ts:34139](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34139)
 
 Creates a new LocaleSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ LocaleSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43241](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43241)
+Defined in: [WAProto/index.d.ts:34165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34165)
 
 Decodes a LocaleSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43250)
+Defined in: [WAProto/index.d.ts:34174](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34174)
 
 Decodes a LocaleSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43223](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43223)
+Defined in: [WAProto/index.d.ts:34147](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34147)
 
 Encodes the specified LocaleSetting message. Does not implicitly [verify](LocaleSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43231](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43231)
+Defined in: [WAProto/index.d.ts:34155](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34155)
 
 Encodes the specified LocaleSetting message, length delimited. Does not implicitly [verify](LocaleSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43264](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43264)
+Defined in: [WAProto/index.d.ts:34188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34188)
 
 Creates a LocaleSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LocaleSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43285)
+Defined in: [WAProto/index.d.ts:34209](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34209)
 
 Gets the default type url for LocaleSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43272](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43272)
+Defined in: [WAProto/index.d.ts:34196](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34196)
 
 Creates a plain object from a LocaleSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43257)
+Defined in: [WAProto/index.d.ts:34181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34181)
 
 Verifies a LocaleSetting message.
 

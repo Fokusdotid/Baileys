@@ -1,6 +1,6 @@
 # Class: RequestUrlPreview
 
-Defined in: [WAProto/index.d.ts:27442](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27442)
+Defined in: [WAProto/index.d.ts:20521](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20521)
 
 Represents a RequestUrlPreview.
 
@@ -14,7 +14,7 @@ Represents a RequestUrlPreview.
 
 > **new RequestUrlPreview**(`properties`?): [`RequestUrlPreview`](RequestUrlPreview.md)
 
-Defined in: [WAProto/index.d.ts:27448](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27448)
+Defined in: [WAProto/index.d.ts:20527](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20527)
 
 Constructs a new RequestUrlPreview.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### includeHqThumbnail?
+### includeHqThumbnail
 
-> `optional` **includeHqThumbnail**: `null` \| `boolean`
+> **includeHqThumbnail**: `boolean`
 
-Defined in: [WAProto/index.d.ts:27454](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27454)
+Defined in: [WAProto/index.d.ts:20533](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20533)
 
 RequestUrlPreview includeHqThumbnail.
 
@@ -46,11 +46,11 @@ RequestUrlPreview includeHqThumbnail.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:27451](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27451)
+Defined in: [WAProto/index.d.ts:20530](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20530)
 
 RequestUrlPreview url.
 
@@ -64,7 +64,7 @@ RequestUrlPreview url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27524](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27524)
+Defined in: [WAProto/index.d.ts:20603](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20603)
 
 Converts this RequestUrlPreview to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RequestUrlPreview`](RequestUrlPreview.md)
 
-Defined in: [WAProto/index.d.ts:27461](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27461)
+Defined in: [WAProto/index.d.ts:20540](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20540)
 
 Creates a new RequestUrlPreview instance using the specified properties.
 
@@ -104,7 +104,7 @@ RequestUrlPreview instance
 
 > `static` **decode**(`reader`, `length`?): [`RequestUrlPreview`](RequestUrlPreview.md)
 
-Defined in: [WAProto/index.d.ts:27487](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27487)
+Defined in: [WAProto/index.d.ts:20566](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20566)
 
 Decodes a RequestUrlPreview message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RequestUrlPreview`](RequestUrlPreview.md)
 
-Defined in: [WAProto/index.d.ts:27496](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27496)
+Defined in: [WAProto/index.d.ts:20575](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20575)
 
 Decodes a RequestUrlPreview message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27469](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27469)
+Defined in: [WAProto/index.d.ts:20548](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20548)
 
 Encodes the specified RequestUrlPreview message. Does not implicitly [verify](RequestUrlPreview.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27477](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27477)
+Defined in: [WAProto/index.d.ts:20556](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20556)
 
 Encodes the specified RequestUrlPreview message, length delimited. Does not implicitly [verify](RequestUrlPreview.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RequestUrlPreview`](RequestUrlPreview.md)
 
-Defined in: [WAProto/index.d.ts:27510](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27510)
+Defined in: [WAProto/index.d.ts:20589](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20589)
 
 Creates a RequestUrlPreview message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ RequestUrlPreview
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27531](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27531)
+Defined in: [WAProto/index.d.ts:20610](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20610)
 
 Gets the default type url for RequestUrlPreview
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27518](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27518)
+Defined in: [WAProto/index.d.ts:20597](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20597)
 
 Creates a plain object from a RequestUrlPreview message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27503](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27503)
+Defined in: [WAProto/index.d.ts:20582](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20582)
 
 Verifies a RequestUrlPreview message.
 

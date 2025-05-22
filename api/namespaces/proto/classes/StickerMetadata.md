@@ -1,6 +1,6 @@
 # Class: StickerMetadata
 
-Defined in: [WAProto/index.d.ts:40279](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40279)
+Defined in: [WAProto/index.d.ts:31455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31455)
 
 Represents a StickerMetadata.
 
@@ -14,7 +14,7 @@ Represents a StickerMetadata.
 
 > **new StickerMetadata**(`properties`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:40285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40285)
+Defined in: [WAProto/index.d.ts:31461](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31461)
 
 Constructs a new StickerMetadata.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:40309](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40309)
+Defined in: [WAProto/index.d.ts:31485](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31485)
 
 StickerMetadata directPath.
 
@@ -46,11 +46,11 @@ StickerMetadata directPath.
 
 ***
 
-### fileEncSha256?
+### fileEncSha256
 
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:40294](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40294)
+Defined in: [WAProto/index.d.ts:31470](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31470)
 
 StickerMetadata fileEncSha256.
 
@@ -60,11 +60,11 @@ StickerMetadata fileEncSha256.
 
 ***
 
-### fileLength?
+### fileLength
 
-> `optional` **fileLength**: `null` \| `number` \| `Long`
+> **fileLength**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40312](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40312)
+Defined in: [WAProto/index.d.ts:31488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31488)
 
 StickerMetadata fileLength.
 
@@ -74,11 +74,11 @@ StickerMetadata fileLength.
 
 ***
 
-### fileSha256?
+### fileSha256
 
-> `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:40291](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40291)
+Defined in: [WAProto/index.d.ts:31467](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31467)
 
 StickerMetadata fileSha256.
 
@@ -88,11 +88,11 @@ StickerMetadata fileSha256.
 
 ***
 
-### height?
+### height
 
-> `optional` **height**: `null` \| `number`
+> **height**: `number`
 
-Defined in: [WAProto/index.d.ts:40303](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40303)
+Defined in: [WAProto/index.d.ts:31479](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31479)
 
 StickerMetadata height.
 
@@ -102,11 +102,11 @@ StickerMetadata height.
 
 ***
 
-### isLottie?
+### isLottie
 
-> `optional` **isLottie**: `null` \| `boolean`
+> **isLottie**: `boolean`
 
-Defined in: [WAProto/index.d.ts:40321](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40321)
+Defined in: [WAProto/index.d.ts:31497](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31497)
 
 StickerMetadata isLottie.
 
@@ -116,11 +116,11 @@ StickerMetadata isLottie.
 
 ***
 
-### lastStickerSentTs?
+### lastStickerSentTs
 
-> `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
+> **lastStickerSentTs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40318)
+Defined in: [WAProto/index.d.ts:31494](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31494)
 
 StickerMetadata lastStickerSentTs.
 
@@ -130,11 +130,11 @@ StickerMetadata lastStickerSentTs.
 
 ***
 
-### mediaKey?
+### mediaKey
 
-> `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **mediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:40297](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40297)
+Defined in: [WAProto/index.d.ts:31473](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31473)
 
 StickerMetadata mediaKey.
 
@@ -144,11 +144,11 @@ StickerMetadata mediaKey.
 
 ***
 
-### mimetype?
+### mimetype
 
-> `optional` **mimetype**: `null` \| `string`
+> **mimetype**: `string`
 
-Defined in: [WAProto/index.d.ts:40300](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40300)
+Defined in: [WAProto/index.d.ts:31476](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31476)
 
 StickerMetadata mimetype.
 
@@ -158,11 +158,11 @@ StickerMetadata mimetype.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:40288](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40288)
+Defined in: [WAProto/index.d.ts:31464](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31464)
 
 StickerMetadata url.
 
@@ -172,11 +172,11 @@ StickerMetadata url.
 
 ***
 
-### weight?
+### weight
 
-> `optional` **weight**: `null` \| `number`
+> **weight**: `number`
 
-Defined in: [WAProto/index.d.ts:40315](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40315)
+Defined in: [WAProto/index.d.ts:31491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31491)
 
 StickerMetadata weight.
 
@@ -186,11 +186,11 @@ StickerMetadata weight.
 
 ***
 
-### width?
+### width
 
-> `optional` **width**: `null` \| `number`
+> **width**: `number`
 
-Defined in: [WAProto/index.d.ts:40306](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40306)
+Defined in: [WAProto/index.d.ts:31482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31482)
 
 StickerMetadata width.
 
@@ -204,7 +204,7 @@ StickerMetadata width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40391](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40391)
+Defined in: [WAProto/index.d.ts:31567](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31567)
 
 Converts this StickerMetadata to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:40328](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40328)
+Defined in: [WAProto/index.d.ts:31504](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31504)
 
 Creates a new StickerMetadata instance using the specified properties.
 
@@ -244,7 +244,7 @@ StickerMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:40354](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40354)
+Defined in: [WAProto/index.d.ts:31530](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31530)
 
 Decodes a StickerMetadata message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:40363](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40363)
+Defined in: [WAProto/index.d.ts:31539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31539)
 
 Decodes a StickerMetadata message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40336](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40336)
+Defined in: [WAProto/index.d.ts:31512](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31512)
 
 Encodes the specified StickerMetadata message. Does not implicitly [verify](StickerMetadata.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40344](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40344)
+Defined in: [WAProto/index.d.ts:31520](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31520)
 
 Encodes the specified StickerMetadata message, length delimited. Does not implicitly [verify](StickerMetadata.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:40377](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40377)
+Defined in: [WAProto/index.d.ts:31553](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31553)
 
 Creates a StickerMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ StickerMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40398](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40398)
+Defined in: [WAProto/index.d.ts:31574](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31574)
 
 Gets the default type url for StickerMetadata
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40385](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40385)
+Defined in: [WAProto/index.d.ts:31561](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31561)
 
 Creates a plain object from a StickerMetadata message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40370](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40370)
+Defined in: [WAProto/index.d.ts:31546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31546)
 
 Verifies a StickerMetadata message.
 

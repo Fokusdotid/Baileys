@@ -1,6 +1,6 @@
 # Interface: ILocation
 
-Defined in: [WAProto/index.d.ts:16314](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16314)
+Defined in: [WAProto/index.d.ts:9745](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9745)
 
 Properties of a Location.
 
@@ -10,7 +10,7 @@ Properties of a Location.
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16317](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16317)
+Defined in: [WAProto/index.d.ts:9748](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9748)
 
 Location degreesLatitude
 
@@ -20,7 +20,7 @@ Location degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16320)
+Defined in: [WAProto/index.d.ts:9751](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9751)
 
 Location degreesLongitude
 
@@ -30,6 +30,6 @@ Location degreesLongitude
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16323](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16323)
+Defined in: [WAProto/index.d.ts:9754](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9754)
 
 Location name

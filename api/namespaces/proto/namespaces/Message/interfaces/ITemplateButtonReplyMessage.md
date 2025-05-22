@@ -1,6 +1,6 @@
 # Interface: ITemplateButtonReplyMessage
 
-Defined in: [WAProto/index.d.ts:32045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32045)
+Defined in: [WAProto/index.d.ts:24027](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24027)
 
 Properties of a TemplateButtonReplyMessage.
 
@@ -10,7 +10,7 @@ Properties of a TemplateButtonReplyMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32054](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32054)
+Defined in: [WAProto/index.d.ts:24036](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24036)
 
 TemplateButtonReplyMessage contextInfo
 
@@ -20,7 +20,7 @@ TemplateButtonReplyMessage contextInfo
 
 > `optional` **selectedCarouselCardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:32060](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32060)
+Defined in: [WAProto/index.d.ts:24042](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24042)
 
 TemplateButtonReplyMessage selectedCarouselCardIndex
 
@@ -30,7 +30,7 @@ TemplateButtonReplyMessage selectedCarouselCardIndex
 
 > `optional` **selectedDisplayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32051](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32051)
+Defined in: [WAProto/index.d.ts:24033](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24033)
 
 TemplateButtonReplyMessage selectedDisplayText
 
@@ -40,7 +40,7 @@ TemplateButtonReplyMessage selectedDisplayText
 
 > `optional` **selectedId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32048)
+Defined in: [WAProto/index.d.ts:24030](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24030)
 
 TemplateButtonReplyMessage selectedId
 
@@ -50,6 +50,6 @@ TemplateButtonReplyMessage selectedId
 
 > `optional` **selectedIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:32057](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32057)
+Defined in: [WAProto/index.d.ts:24039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24039)
 
 TemplateButtonReplyMessage selectedIndex

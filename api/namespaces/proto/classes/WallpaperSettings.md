@@ -1,6 +1,6 @@
 # Class: WallpaperSettings
 
-Defined in: [WAProto/index.d.ts:49101](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49101)
+Defined in: [WAProto/index.d.ts:39263](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39263)
 
 Represents a WallpaperSettings.
 
@@ -14,7 +14,7 @@ Represents a WallpaperSettings.
 
 > **new WallpaperSettings**(`properties`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:49107](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49107)
+Defined in: [WAProto/index.d.ts:39269](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39269)
 
 Constructs a new WallpaperSettings.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### filename?
+### filename
 
-> `optional` **filename**: `null` \| `string`
+> **filename**: `string`
 
-Defined in: [WAProto/index.d.ts:49110](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49110)
+Defined in: [WAProto/index.d.ts:39272](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39272)
 
 WallpaperSettings filename.
 
@@ -46,11 +46,11 @@ WallpaperSettings filename.
 
 ***
 
-### opacity?
+### opacity
 
-> `optional` **opacity**: `null` \| `number`
+> **opacity**: `number`
 
-Defined in: [WAProto/index.d.ts:49113](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49113)
+Defined in: [WAProto/index.d.ts:39275](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39275)
 
 WallpaperSettings opacity.
 
@@ -64,7 +64,7 @@ WallpaperSettings opacity.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49183](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49183)
+Defined in: [WAProto/index.d.ts:39345](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39345)
 
 Converts this WallpaperSettings to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:49120](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49120)
+Defined in: [WAProto/index.d.ts:39282](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39282)
 
 Creates a new WallpaperSettings instance using the specified properties.
 
@@ -104,7 +104,7 @@ WallpaperSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:49146](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49146)
+Defined in: [WAProto/index.d.ts:39308](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39308)
 
 Decodes a WallpaperSettings message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:49155](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49155)
+Defined in: [WAProto/index.d.ts:39317](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39317)
 
 Decodes a WallpaperSettings message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49128](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49128)
+Defined in: [WAProto/index.d.ts:39290](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39290)
 
 Encodes the specified WallpaperSettings message. Does not implicitly [verify](WallpaperSettings.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49136](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49136)
+Defined in: [WAProto/index.d.ts:39298](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39298)
 
 Encodes the specified WallpaperSettings message, length delimited. Does not implicitly [verify](WallpaperSettings.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:49169](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49169)
+Defined in: [WAProto/index.d.ts:39331](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39331)
 
 Creates a WallpaperSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ WallpaperSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49190](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49190)
+Defined in: [WAProto/index.d.ts:39352](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39352)
 
 Gets the default type url for WallpaperSettings
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49177](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49177)
+Defined in: [WAProto/index.d.ts:39339](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39339)
 
 Creates a plain object from a WallpaperSettings message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49162](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49162)
+Defined in: [WAProto/index.d.ts:39324](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39324)
 
 Verifies a WallpaperSettings message.
 

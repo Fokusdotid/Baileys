@@ -1,6 +1,6 @@
 # Enumeration: EventResponseType
 
-Defined in: [WAProto/index.d.ts:21298](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21298)
+Defined in: [WAProto/index.d.ts:14763](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14763)
 
 EventResponseType enum.
 
@@ -10,15 +10,7 @@ EventResponseType enum.
 
 > **GOING**: `1`
 
-Defined in: [WAProto/index.d.ts:21300](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21300)
-
-***
-
-### MAYBE
-
-> **MAYBE**: `3`
-
-Defined in: [WAProto/index.d.ts:21302](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21302)
+Defined in: [WAProto/index.d.ts:14765](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14765)
 
 ***
 
@@ -26,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21302](https://github.com/Fokusdotid/Baileys/blo
 
 > **NOT\_GOING**: `2`
 
-Defined in: [WAProto/index.d.ts:21301](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21301)
+Defined in: [WAProto/index.d.ts:14766](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14766)
 
 ***
 
@@ -34,4 +26,4 @@ Defined in: [WAProto/index.d.ts:21301](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:21299](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21299)
+Defined in: [WAProto/index.d.ts:14764](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14764)

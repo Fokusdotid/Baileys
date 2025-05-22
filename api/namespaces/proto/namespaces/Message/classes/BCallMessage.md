@@ -1,6 +1,6 @@
 # Class: BCallMessage
 
-Defined in: [WAProto/index.d.ts:18374](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18374)
+Defined in: [WAProto/index.d.ts:12014](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12014)
 
 Represents a BCallMessage.
 
@@ -14,7 +14,7 @@ Represents a BCallMessage.
 
 > **new BCallMessage**(`properties`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:18380](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18380)
+Defined in: [WAProto/index.d.ts:12020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12020)
 
 Constructs a new BCallMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### caption?
+### caption
 
-> `optional` **caption**: `null` \| `string`
+> **caption**: `string`
 
-Defined in: [WAProto/index.d.ts:18392](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18392)
+Defined in: [WAProto/index.d.ts:12032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12032)
 
 BCallMessage caption.
 
@@ -46,11 +46,11 @@ BCallMessage caption.
 
 ***
 
-### masterKey?
+### masterKey
 
-> `optional` **masterKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **masterKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18389](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18389)
+Defined in: [WAProto/index.d.ts:12029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12029)
 
 BCallMessage masterKey.
 
@@ -60,11 +60,11 @@ BCallMessage masterKey.
 
 ***
 
-### mediaType?
+### mediaType
 
-> `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/BCallMessage/enumerations/MediaType.md)
+> **mediaType**: [`MediaType`](../namespaces/BCallMessage/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:18386](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18386)
+Defined in: [WAProto/index.d.ts:12026](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12026)
 
 BCallMessage mediaType.
 
@@ -74,11 +74,11 @@ BCallMessage mediaType.
 
 ***
 
-### sessionId?
+### sessionId
 
-> `optional` **sessionId**: `null` \| `string`
+> **sessionId**: `string`
 
-Defined in: [WAProto/index.d.ts:18383](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18383)
+Defined in: [WAProto/index.d.ts:12023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12023)
 
 BCallMessage sessionId.
 
@@ -92,7 +92,7 @@ BCallMessage sessionId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18462](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18462)
+Defined in: [WAProto/index.d.ts:12102](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12102)
 
 Converts this BCallMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:18399](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18399)
+Defined in: [WAProto/index.d.ts:12039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12039)
 
 Creates a new BCallMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ BCallMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:18425](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18425)
+Defined in: [WAProto/index.d.ts:12065](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12065)
 
 Decodes a BCallMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:18434](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18434)
+Defined in: [WAProto/index.d.ts:12074](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12074)
 
 Decodes a BCallMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18407](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18407)
+Defined in: [WAProto/index.d.ts:12047](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12047)
 
 Encodes the specified BCallMessage message. Does not implicitly [verify](BCallMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18415](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18415)
+Defined in: [WAProto/index.d.ts:12055](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12055)
 
 Encodes the specified BCallMessage message, length delimited. Does not implicitly [verify](BCallMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:18448](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18448)
+Defined in: [WAProto/index.d.ts:12088](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12088)
 
 Creates a BCallMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ BCallMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18469](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18469)
+Defined in: [WAProto/index.d.ts:12109](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12109)
 
 Gets the default type url for BCallMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18456](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18456)
+Defined in: [WAProto/index.d.ts:12096](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12096)
 
 Creates a plain object from a BCallMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18441](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18441)
+Defined in: [WAProto/index.d.ts:12081](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12081)
 
 Verifies a BCallMessage message.
 

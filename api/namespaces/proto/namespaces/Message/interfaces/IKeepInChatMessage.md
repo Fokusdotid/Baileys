@@ -1,6 +1,6 @@
 # Interface: IKeepInChatMessage
 
-Defined in: [WAProto/index.d.ts:24753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24753)
+Defined in: [WAProto/index.d.ts:18080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18080)
 
 Properties of a KeepInChatMessage.
 
@@ -10,7 +10,7 @@ Properties of a KeepInChatMessage.
 
 > `optional` **keepType**: `null` \| [`KeepType`](../../../enumerations/KeepType.md)
 
-Defined in: [WAProto/index.d.ts:24759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24759)
+Defined in: [WAProto/index.d.ts:18086](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18086)
 
 KeepInChatMessage keepType
 
@@ -20,7 +20,7 @@ KeepInChatMessage keepType
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:24756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24756)
+Defined in: [WAProto/index.d.ts:18083](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18083)
 
 KeepInChatMessage key
 
@@ -30,6 +30,6 @@ KeepInChatMessage key
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24762)
+Defined in: [WAProto/index.d.ts:18089](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18089)
 
 KeepInChatMessage timestampMs

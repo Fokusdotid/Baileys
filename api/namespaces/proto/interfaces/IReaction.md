@@ -1,6 +1,6 @@
 # Interface: IReaction
 
-Defined in: [WAProto/index.d.ts:37669](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37669)
+Defined in: [WAProto/index.d.ts:29057](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29057)
 
 Properties of a Reaction.
 
@@ -10,7 +10,7 @@ Properties of a Reaction.
 
 > `optional` **groupingKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37678](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37678)
+Defined in: [WAProto/index.d.ts:29066](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29066)
 
 Reaction groupingKey
 
@@ -20,7 +20,7 @@ Reaction groupingKey
 
 > `optional` **key**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:37672](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37672)
+Defined in: [WAProto/index.d.ts:29060](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29060)
 
 Reaction key
 
@@ -30,7 +30,7 @@ Reaction key
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:37681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37681)
+Defined in: [WAProto/index.d.ts:29069](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29069)
 
 Reaction senderTimestampMs
 
@@ -40,7 +40,7 @@ Reaction senderTimestampMs
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37675](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37675)
+Defined in: [WAProto/index.d.ts:29063](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29063)
 
 Reaction text
 
@@ -50,6 +50,6 @@ Reaction text
 
 > `optional` **unread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:37684](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37684)
+Defined in: [WAProto/index.d.ts:29072](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29072)
 
 Reaction unread

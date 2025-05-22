@@ -1,6 +1,6 @@
 # Interface: ISignalMessage
 
-Defined in: [WAProto/index.d.ts:39803](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39803)
+Defined in: [WAProto/index.d.ts:31076](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31076)
 
 Properties of a SignalMessage.
 
@@ -10,7 +10,7 @@ Properties of a SignalMessage.
 
 > `optional` **ciphertext**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39815](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39815)
+Defined in: [WAProto/index.d.ts:31088](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31088)
 
 SignalMessage ciphertext
 
@@ -20,7 +20,7 @@ SignalMessage ciphertext
 
 > `optional` **counter**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39809)
+Defined in: [WAProto/index.d.ts:31082](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31082)
 
 SignalMessage counter
 
@@ -30,7 +30,7 @@ SignalMessage counter
 
 > `optional` **previousCounter**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39812](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39812)
+Defined in: [WAProto/index.d.ts:31085](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31085)
 
 SignalMessage previousCounter
 
@@ -40,6 +40,6 @@ SignalMessage previousCounter
 
 > `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39806)
+Defined in: [WAProto/index.d.ts:31079](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31079)
 
 SignalMessage ratchetKey

@@ -1,6 +1,6 @@
 # Class: ReportingTokenInfo
 
-Defined in: [WAProto/index.d.ts:38118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38118)
+Defined in: [WAProto/index.d.ts:29391](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29391)
 
 Represents a ReportingTokenInfo.
 
@@ -14,7 +14,7 @@ Represents a ReportingTokenInfo.
 
 > **new ReportingTokenInfo**(`properties`?): [`ReportingTokenInfo`](ReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:38124](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38124)
+Defined in: [WAProto/index.d.ts:29397](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29397)
 
 Constructs a new ReportingTokenInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### reportingTag?
+### reportingTag
 
-> `optional` **reportingTag**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **reportingTag**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:38127](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38127)
+Defined in: [WAProto/index.d.ts:29400](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29400)
 
 ReportingTokenInfo reportingTag.
 
@@ -50,7 +50,7 @@ ReportingTokenInfo reportingTag.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:38197](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38197)
+Defined in: [WAProto/index.d.ts:29470](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29470)
 
 Converts this ReportingTokenInfo to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ReportingTokenInfo`](ReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:38134](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38134)
+Defined in: [WAProto/index.d.ts:29407](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29407)
 
 Creates a new ReportingTokenInfo instance using the specified properties.
 
@@ -90,7 +90,7 @@ ReportingTokenInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ReportingTokenInfo`](ReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:38160](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38160)
+Defined in: [WAProto/index.d.ts:29433](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29433)
 
 Decodes a ReportingTokenInfo message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ReportingTokenInfo`](ReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:38169](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38169)
+Defined in: [WAProto/index.d.ts:29442](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29442)
 
 Decodes a ReportingTokenInfo message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38142](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38142)
+Defined in: [WAProto/index.d.ts:29415](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29415)
 
 Encodes the specified ReportingTokenInfo message. Does not implicitly [verify](ReportingTokenInfo.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38150](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38150)
+Defined in: [WAProto/index.d.ts:29423](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29423)
 
 Encodes the specified ReportingTokenInfo message, length delimited. Does not implicitly [verify](ReportingTokenInfo.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ReportingTokenInfo`](ReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:38183](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38183)
+Defined in: [WAProto/index.d.ts:29456](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29456)
 
 Creates a ReportingTokenInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ReportingTokenInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:38204](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38204)
+Defined in: [WAProto/index.d.ts:29477](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29477)
 
 Gets the default type url for ReportingTokenInfo
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:38191](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38191)
+Defined in: [WAProto/index.d.ts:29464](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29464)
 
 Creates a plain object from a ReportingTokenInfo message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38176](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38176)
+Defined in: [WAProto/index.d.ts:29449](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29449)
 
 Verifies a ReportingTokenInfo message.
 

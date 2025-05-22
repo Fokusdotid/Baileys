@@ -1,6 +1,6 @@
 # Interface: IEventMessage
 
-Defined in: [WAProto/index.d.ts:21042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21042)
+Defined in: [WAProto/index.d.ts:14525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14525)
 
 Properties of an EventMessage.
 
@@ -10,7 +10,7 @@ Properties of an EventMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:21045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21045)
+Defined in: [WAProto/index.d.ts:14528](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14528)
 
 EventMessage contextInfo
 
@@ -20,29 +20,9 @@ EventMessage contextInfo
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21054](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21054)
+Defined in: [WAProto/index.d.ts:14537](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14537)
 
 EventMessage description
-
-***
-
-### endTime?
-
-> `optional` **endTime**: `null` \| `number` \| `Long`
-
-Defined in: [WAProto/index.d.ts:21066](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21066)
-
-EventMessage endTime
-
-***
-
-### extraGuestsAllowed?
-
-> `optional` **extraGuestsAllowed**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:21069](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21069)
-
-EventMessage extraGuestsAllowed
 
 ***
 
@@ -50,7 +30,7 @@ EventMessage extraGuestsAllowed
 
 > `optional` **isCanceled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21048)
+Defined in: [WAProto/index.d.ts:14531](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14531)
 
 EventMessage isCanceled
 
@@ -60,7 +40,7 @@ EventMessage isCanceled
 
 > `optional` **joinLink**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21060](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21060)
+Defined in: [WAProto/index.d.ts:14543](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14543)
 
 EventMessage joinLink
 
@@ -70,7 +50,7 @@ EventMessage joinLink
 
 > `optional` **location**: `null` \| [`ILocationMessage`](ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:21057](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21057)
+Defined in: [WAProto/index.d.ts:14540](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14540)
 
 EventMessage location
 
@@ -80,7 +60,7 @@ EventMessage location
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21051](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21051)
+Defined in: [WAProto/index.d.ts:14534](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14534)
 
 EventMessage name
 
@@ -90,6 +70,6 @@ EventMessage name
 
 > `optional` **startTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21063](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21063)
+Defined in: [WAProto/index.d.ts:14546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14546)
 
 EventMessage startTime

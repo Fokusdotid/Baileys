@@ -1,6 +1,6 @@
 # Enumeration: KeepType
 
-Defined in: [WAProto/index.d.ts:15462](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15462)
+Defined in: [WAProto/index.d.ts:9411](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9411)
 
 KeepType enum.
 
@@ -10,7 +10,7 @@ KeepType enum.
 
 > **KEEP\_FOR\_ALL**: `1`
 
-Defined in: [WAProto/index.d.ts:15464](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15464)
+Defined in: [WAProto/index.d.ts:9413](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9413)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:15464](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNDO\_KEEP\_FOR\_ALL**: `2`
 
-Defined in: [WAProto/index.d.ts:15465](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15465)
+Defined in: [WAProto/index.d.ts:9414](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9414)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:15465](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:15463](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15463)
+Defined in: [WAProto/index.d.ts:9412](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9412)

@@ -1,6 +1,6 @@
 # Class: ExternalBlobReference
 
-Defined in: [WAProto/index.d.ts:13254](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13254)
+Defined in: [WAProto/index.d.ts:7354](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7354)
 
 Represents an ExternalBlobReference.
 
@@ -14,7 +14,7 @@ Represents an ExternalBlobReference.
 
 > **new ExternalBlobReference**(`properties`?): [`ExternalBlobReference`](ExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:13260](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13260)
+Defined in: [WAProto/index.d.ts:7360](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7360)
 
 Constructs a new ExternalBlobReference.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:13266](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13266)
+Defined in: [WAProto/index.d.ts:7366](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7366)
 
 ExternalBlobReference directPath.
 
@@ -46,11 +46,11 @@ ExternalBlobReference directPath.
 
 ***
 
-### fileEncSha256?
+### fileEncSha256
 
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:13278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13278)
+Defined in: [WAProto/index.d.ts:7378](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7378)
 
 ExternalBlobReference fileEncSha256.
 
@@ -60,11 +60,11 @@ ExternalBlobReference fileEncSha256.
 
 ***
 
-### fileSha256?
+### fileSha256
 
-> `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:13275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13275)
+Defined in: [WAProto/index.d.ts:7375](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7375)
 
 ExternalBlobReference fileSha256.
 
@@ -74,11 +74,11 @@ ExternalBlobReference fileSha256.
 
 ***
 
-### fileSizeBytes?
+### fileSizeBytes
 
-> `optional` **fileSizeBytes**: `null` \| `number` \| `Long`
+> **fileSizeBytes**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13272](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13272)
+Defined in: [WAProto/index.d.ts:7372](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7372)
 
 ExternalBlobReference fileSizeBytes.
 
@@ -88,11 +88,11 @@ ExternalBlobReference fileSizeBytes.
 
 ***
 
-### handle?
+### handle
 
-> `optional` **handle**: `null` \| `string`
+> **handle**: `string`
 
-Defined in: [WAProto/index.d.ts:13269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13269)
+Defined in: [WAProto/index.d.ts:7369](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7369)
 
 ExternalBlobReference handle.
 
@@ -102,11 +102,11 @@ ExternalBlobReference handle.
 
 ***
 
-### mediaKey?
+### mediaKey
 
-> `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **mediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:13263](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13263)
+Defined in: [WAProto/index.d.ts:7363](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7363)
 
 ExternalBlobReference mediaKey.
 
@@ -120,7 +120,7 @@ ExternalBlobReference mediaKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13348](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13348)
+Defined in: [WAProto/index.d.ts:7448](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7448)
 
 Converts this ExternalBlobReference to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ExternalBlobReference`](ExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:13285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13285)
+Defined in: [WAProto/index.d.ts:7385](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7385)
 
 Creates a new ExternalBlobReference instance using the specified properties.
 
@@ -160,7 +160,7 @@ ExternalBlobReference instance
 
 > `static` **decode**(`reader`, `length`?): [`ExternalBlobReference`](ExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:13311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13311)
+Defined in: [WAProto/index.d.ts:7411](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7411)
 
 Decodes an ExternalBlobReference message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ExternalBlobReference`](ExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:13320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13320)
+Defined in: [WAProto/index.d.ts:7420](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7420)
 
 Decodes an ExternalBlobReference message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13293](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13293)
+Defined in: [WAProto/index.d.ts:7393](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7393)
 
 Encodes the specified ExternalBlobReference message. Does not implicitly [verify](ExternalBlobReference.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13301](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13301)
+Defined in: [WAProto/index.d.ts:7401](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7401)
 
 Encodes the specified ExternalBlobReference message, length delimited. Does not implicitly [verify](ExternalBlobReference.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ExternalBlobReference`](ExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:13334](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13334)
+Defined in: [WAProto/index.d.ts:7434](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7434)
 
 Creates an ExternalBlobReference message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ ExternalBlobReference
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13355](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13355)
+Defined in: [WAProto/index.d.ts:7455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7455)
 
 Gets the default type url for ExternalBlobReference
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13342](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13342)
+Defined in: [WAProto/index.d.ts:7442](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7442)
 
 Creates a plain object from an ExternalBlobReference message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13327)
+Defined in: [WAProto/index.d.ts:7427](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7427)
 
 Verifies an ExternalBlobReference message.
 

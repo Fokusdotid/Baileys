@@ -1,6 +1,6 @@
 # Interface: IBotWelcomeRequestAction
 
-Defined in: [WAProto/index.d.ts:41243](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41243)
+Defined in: [WAProto/index.d.ts:32389](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32389)
 
 Properties of a BotWelcomeRequestAction.
 
@@ -10,6 +10,6 @@ Properties of a BotWelcomeRequestAction.
 
 > `optional` **isSent**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41246](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41246)
+Defined in: [WAProto/index.d.ts:32392](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32392)
 
 BotWelcomeRequestAction isSent

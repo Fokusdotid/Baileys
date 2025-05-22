@@ -1,6 +1,6 @@
 # Class: DeviceCapabilities
 
-Defined in: [WAProto/index.d.ts:11318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11318)
+Defined in: [WAProto/index.d.ts:6014](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6014)
 
 Represents a DeviceCapabilities.
 
@@ -14,7 +14,7 @@ Represents a DeviceCapabilities.
 
 > **new DeviceCapabilities**(`properties`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:11324](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11324)
+Defined in: [WAProto/index.d.ts:6020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6020)
 
 Constructs a new DeviceCapabilities.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### chatLockSupportLevel?
+### chatLockSupportLevel
 
-> `optional` **chatLockSupportLevel**: `null` \| [`ChatLockSupportLevel`](../namespaces/DeviceCapabilities/enumerations/ChatLockSupportLevel.md)
+> **chatLockSupportLevel**: [`ChatLockSupportLevel`](../namespaces/DeviceCapabilities/enumerations/ChatLockSupportLevel.md)
 
-Defined in: [WAProto/index.d.ts:11327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11327)
+Defined in: [WAProto/index.d.ts:6023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6023)
 
 DeviceCapabilities chatLockSupportLevel.
 
@@ -44,27 +44,13 @@ DeviceCapabilities chatLockSupportLevel.
 
 [`IDeviceCapabilities`](../interfaces/IDeviceCapabilities.md).[`chatLockSupportLevel`](../interfaces/IDeviceCapabilities.md#chatlocksupportlevel)
 
-***
-
-### lidMigration?
-
-> `optional` **lidMigration**: `null` \| [`ILIDMigration`](../namespaces/DeviceCapabilities/interfaces/ILIDMigration.md)
-
-Defined in: [WAProto/index.d.ts:11330](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11330)
-
-DeviceCapabilities lidMigration.
-
-#### Implementation of
-
-[`IDeviceCapabilities`](../interfaces/IDeviceCapabilities.md).[`lidMigration`](../interfaces/IDeviceCapabilities.md#lidmigration)
-
 ## Methods
 
 ### toJSON()
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11400](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11400)
+Defined in: [WAProto/index.d.ts:6093](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6093)
 
 Converts this DeviceCapabilities to JSON.
 
@@ -80,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:11337](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11337)
+Defined in: [WAProto/index.d.ts:6030](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6030)
 
 Creates a new DeviceCapabilities instance using the specified properties.
 
@@ -104,7 +90,7 @@ DeviceCapabilities instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:11363](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11363)
+Defined in: [WAProto/index.d.ts:6056](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6056)
 
 Decodes a DeviceCapabilities message from the specified reader or buffer.
 
@@ -142,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:11372](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11372)
+Defined in: [WAProto/index.d.ts:6065](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6065)
 
 Decodes a DeviceCapabilities message from the specified reader or buffer, length delimited.
 
@@ -174,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11345](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11345)
+Defined in: [WAProto/index.d.ts:6038](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6038)
 
 Encodes the specified DeviceCapabilities message. Does not implicitly [verify](DeviceCapabilities.md#verify) messages.
 
@@ -204,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11353](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11353)
+Defined in: [WAProto/index.d.ts:6046](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6046)
 
 Encodes the specified DeviceCapabilities message, length delimited. Does not implicitly [verify](DeviceCapabilities.md#verify) messages.
 
@@ -234,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:11386](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11386)
+Defined in: [WAProto/index.d.ts:6079](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6079)
 
 Creates a DeviceCapabilities message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +242,7 @@ DeviceCapabilities
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11407](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11407)
+Defined in: [WAProto/index.d.ts:6100](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6100)
 
 Gets the default type url for DeviceCapabilities
 
@@ -280,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11394](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11394)
+Defined in: [WAProto/index.d.ts:6087](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6087)
 
 Creates a plain object from a DeviceCapabilities message. Also converts values to other types if specified.
 
@@ -310,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11379](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11379)
+Defined in: [WAProto/index.d.ts:6072](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6072)
 
 Verifies a DeviceCapabilities message.
 

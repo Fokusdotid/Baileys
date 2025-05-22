@@ -1,6 +1,6 @@
 # Interface: IAgentAction
 
-Defined in: [WAProto/index.d.ts:40934](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40934)
+Defined in: [WAProto/index.d.ts:32080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32080)
 
 Properties of an AgentAction.
 
@@ -10,7 +10,7 @@ Properties of an AgentAction.
 
 > `optional` **deviceID**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40940](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40940)
+Defined in: [WAProto/index.d.ts:32086](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32086)
 
 AgentAction deviceID
 
@@ -20,7 +20,7 @@ AgentAction deviceID
 
 > `optional` **isDeleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:40943](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40943)
+Defined in: [WAProto/index.d.ts:32089](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32089)
 
 AgentAction isDeleted
 
@@ -30,6 +30,6 @@ AgentAction isDeleted
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40937](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40937)
+Defined in: [WAProto/index.d.ts:32083](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32083)
 
 AgentAction name

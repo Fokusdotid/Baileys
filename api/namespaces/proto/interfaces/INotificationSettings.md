@@ -1,6 +1,6 @@
 # Interface: INotificationSettings
 
-Defined in: [WAProto/index.d.ts:34950](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34950)
+Defined in: [WAProto/index.d.ts:26371](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26371)
 
 Properties of a NotificationSettings.
 
@@ -10,7 +10,7 @@ Properties of a NotificationSettings.
 
 > `optional` **callVibrate**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34968](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34968)
+Defined in: [WAProto/index.d.ts:26389](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26389)
 
 NotificationSettings callVibrate
 
@@ -20,7 +20,7 @@ NotificationSettings callVibrate
 
 > `optional` **lowPriorityNotifications**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:34962](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34962)
+Defined in: [WAProto/index.d.ts:26383](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26383)
 
 NotificationSettings lowPriorityNotifications
 
@@ -30,7 +30,7 @@ NotificationSettings lowPriorityNotifications
 
 > `optional` **messageLight**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34959](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34959)
+Defined in: [WAProto/index.d.ts:26380](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26380)
 
 NotificationSettings messageLight
 
@@ -40,7 +40,7 @@ NotificationSettings messageLight
 
 > `optional` **messagePopup**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34956](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34956)
+Defined in: [WAProto/index.d.ts:26377](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26377)
 
 NotificationSettings messagePopup
 
@@ -50,7 +50,7 @@ NotificationSettings messagePopup
 
 > `optional` **messageVibrate**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34953](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34953)
+Defined in: [WAProto/index.d.ts:26374](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26374)
 
 NotificationSettings messageVibrate
 
@@ -60,6 +60,6 @@ NotificationSettings messageVibrate
 
 > `optional` **reactionsMuted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:34965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34965)
+Defined in: [WAProto/index.d.ts:26386](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26386)
 
 NotificationSettings reactionsMuted

@@ -1,6 +1,6 @@
 # Class: ReactionMessage
 
-Defined in: [WAProto/index.d.ts:30244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30244)
+Defined in: [WAProto/index.d.ts:22711](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22711)
 
 Represents a ReactionMessage.
 
@@ -14,7 +14,7 @@ Represents a ReactionMessage.
 
 > **new ReactionMessage**(`properties`?): [`ReactionMessage`](ReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:30250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30250)
+Defined in: [WAProto/index.d.ts:22717](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22717)
 
 Constructs a new ReactionMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### groupingKey?
+### groupingKey
 
-> `optional` **groupingKey**: `null` \| `string`
+> **groupingKey**: `string`
 
-Defined in: [WAProto/index.d.ts:30259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30259)
+Defined in: [WAProto/index.d.ts:22726](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22726)
 
 ReactionMessage groupingKey.
 
@@ -50,7 +50,7 @@ ReactionMessage groupingKey.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30253)
+Defined in: [WAProto/index.d.ts:22720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22720)
 
 ReactionMessage key.
 
@@ -60,11 +60,11 @@ ReactionMessage key.
 
 ***
 
-### senderTimestampMs?
+### senderTimestampMs
 
-> `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
+> **senderTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30262](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30262)
+Defined in: [WAProto/index.d.ts:22729](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22729)
 
 ReactionMessage senderTimestampMs.
 
@@ -74,11 +74,11 @@ ReactionMessage senderTimestampMs.
 
 ***
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:30256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30256)
+Defined in: [WAProto/index.d.ts:22723](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22723)
 
 ReactionMessage text.
 
@@ -92,7 +92,7 @@ ReactionMessage text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30332](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30332)
+Defined in: [WAProto/index.d.ts:22799](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22799)
 
 Converts this ReactionMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ReactionMessage`](ReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:30269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30269)
+Defined in: [WAProto/index.d.ts:22736](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22736)
 
 Creates a new ReactionMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ ReactionMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ReactionMessage`](ReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:30295](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30295)
+Defined in: [WAProto/index.d.ts:22762](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22762)
 
 Decodes a ReactionMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ReactionMessage`](ReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:30304](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30304)
+Defined in: [WAProto/index.d.ts:22771](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22771)
 
 Decodes a ReactionMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30277](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30277)
+Defined in: [WAProto/index.d.ts:22744](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22744)
 
 Encodes the specified ReactionMessage message. Does not implicitly [verify](ReactionMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30285)
+Defined in: [WAProto/index.d.ts:22752](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22752)
 
 Encodes the specified ReactionMessage message, length delimited. Does not implicitly [verify](ReactionMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ReactionMessage`](ReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:30318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30318)
+Defined in: [WAProto/index.d.ts:22785](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22785)
 
 Creates a ReactionMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ ReactionMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30339](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30339)
+Defined in: [WAProto/index.d.ts:22806](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22806)
 
 Gets the default type url for ReactionMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30326)
+Defined in: [WAProto/index.d.ts:22793](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22793)
 
 Creates a plain object from a ReactionMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30311)
+Defined in: [WAProto/index.d.ts:22778](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22778)
 
 Verifies a ReactionMessage message.
 

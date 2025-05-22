@@ -1,26 +1,16 @@
 # Interface: IDocumentMessage
 
-Defined in: [WAProto/index.d.ts:20498](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20498)
+Defined in: [WAProto/index.d.ts:13987](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13987)
 
 Properties of a DocumentMessage.
 
 ## Properties
 
-### accessibilityLabel?
-
-> `optional` **accessibilityLabel**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:20561](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20561)
-
-DocumentMessage accessibilityLabel
-
-***
-
 ### caption?
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20558](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20558)
+Defined in: [WAProto/index.d.ts:14047](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14047)
 
 DocumentMessage caption
 
@@ -30,7 +20,7 @@ DocumentMessage caption
 
 > `optional` **contactVcard**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:20534](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20534)
+Defined in: [WAProto/index.d.ts:14023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14023)
 
 DocumentMessage contactVcard
 
@@ -40,7 +30,7 @@ DocumentMessage contactVcard
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20549](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20549)
+Defined in: [WAProto/index.d.ts:14038](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14038)
 
 DocumentMessage contextInfo
 
@@ -50,7 +40,7 @@ DocumentMessage contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20528](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20528)
+Defined in: [WAProto/index.d.ts:14017](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14017)
 
 DocumentMessage directPath
 
@@ -60,7 +50,7 @@ DocumentMessage directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20525](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20525)
+Defined in: [WAProto/index.d.ts:14014](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14014)
 
 DocumentMessage fileEncSha256
 
@@ -70,7 +60,7 @@ DocumentMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:20513](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20513)
+Defined in: [WAProto/index.d.ts:14002](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14002)
 
 DocumentMessage fileLength
 
@@ -80,7 +70,7 @@ DocumentMessage fileLength
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20522](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20522)
+Defined in: [WAProto/index.d.ts:14011](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14011)
 
 DocumentMessage fileName
 
@@ -90,7 +80,7 @@ DocumentMessage fileName
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20510](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20510)
+Defined in: [WAProto/index.d.ts:13999](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13999)
 
 DocumentMessage fileSha256
 
@@ -100,7 +90,7 @@ DocumentMessage fileSha256
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20546](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20546)
+Defined in: [WAProto/index.d.ts:14035](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14035)
 
 DocumentMessage jpegThumbnail
 
@@ -110,7 +100,7 @@ DocumentMessage jpegThumbnail
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20519](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20519)
+Defined in: [WAProto/index.d.ts:14008](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14008)
 
 DocumentMessage mediaKey
 
@@ -120,7 +110,7 @@ DocumentMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:20531](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20531)
+Defined in: [WAProto/index.d.ts:14020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14020)
 
 DocumentMessage mediaKeyTimestamp
 
@@ -130,7 +120,7 @@ DocumentMessage mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20504](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20504)
+Defined in: [WAProto/index.d.ts:13993](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13993)
 
 DocumentMessage mimetype
 
@@ -140,7 +130,7 @@ DocumentMessage mimetype
 
 > `optional` **pageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20516](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20516)
+Defined in: [WAProto/index.d.ts:14005](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14005)
 
 DocumentMessage pageCount
 
@@ -150,7 +140,7 @@ DocumentMessage pageCount
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20537](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20537)
+Defined in: [WAProto/index.d.ts:14026](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14026)
 
 DocumentMessage thumbnailDirectPath
 
@@ -160,7 +150,7 @@ DocumentMessage thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20543](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20543)
+Defined in: [WAProto/index.d.ts:14032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14032)
 
 DocumentMessage thumbnailEncSha256
 
@@ -170,7 +160,7 @@ DocumentMessage thumbnailEncSha256
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20552](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20552)
+Defined in: [WAProto/index.d.ts:14041](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14041)
 
 DocumentMessage thumbnailHeight
 
@@ -180,7 +170,7 @@ DocumentMessage thumbnailHeight
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20540](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20540)
+Defined in: [WAProto/index.d.ts:14029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14029)
 
 DocumentMessage thumbnailSha256
 
@@ -190,7 +180,7 @@ DocumentMessage thumbnailSha256
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20555](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20555)
+Defined in: [WAProto/index.d.ts:14044](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L14044)
 
 DocumentMessage thumbnailWidth
 
@@ -200,7 +190,7 @@ DocumentMessage thumbnailWidth
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20507](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20507)
+Defined in: [WAProto/index.d.ts:13996](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13996)
 
 DocumentMessage title
 
@@ -210,6 +200,6 @@ DocumentMessage title
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L20501)
+Defined in: [WAProto/index.d.ts:13990](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13990)
 
 DocumentMessage url

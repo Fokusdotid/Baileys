@@ -1,6 +1,6 @@
 # Interface: IPoint
 
-Defined in: [WAProto/index.d.ts:36434](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36434)
+Defined in: [WAProto/index.d.ts:27744](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27744)
 
 Properties of a Point.
 
@@ -10,7 +10,7 @@ Properties of a Point.
 
 > `optional` **x**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36443](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36443)
+Defined in: [WAProto/index.d.ts:27753](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27753)
 
 Point x
 
@@ -20,7 +20,7 @@ Point x
 
 > `optional` **xDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36437](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36437)
+Defined in: [WAProto/index.d.ts:27747](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27747)
 
 Point xDeprecated
 
@@ -30,7 +30,7 @@ Point xDeprecated
 
 > `optional` **y**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36446](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36446)
+Defined in: [WAProto/index.d.ts:27756](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27756)
 
 Point y
 
@@ -40,6 +40,6 @@ Point y
 
 > `optional` **yDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36440](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36440)
+Defined in: [WAProto/index.d.ts:27750](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27750)
 
 Point yDeprecated

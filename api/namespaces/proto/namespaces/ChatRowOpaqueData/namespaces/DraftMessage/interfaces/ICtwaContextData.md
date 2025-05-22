@@ -1,6 +1,6 @@
 # Interface: ICtwaContextData
 
-Defined in: [WAProto/index.d.ts:7137](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7137)
+Defined in: [WAProto/index.d.ts:2891](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2891)
 
 Properties of a CtwaContextData.
 
@@ -10,7 +10,7 @@ Properties of a CtwaContextData.
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7143](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7143)
+Defined in: [WAProto/index.d.ts:2897](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2897)
 
 CtwaContextData conversionData
 
@@ -20,7 +20,7 @@ CtwaContextData conversionData
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7140](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7140)
+Defined in: [WAProto/index.d.ts:2894](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2894)
 
 CtwaContextData conversionSource
 
@@ -30,7 +30,7 @@ CtwaContextData conversionSource
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7158](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7158)
+Defined in: [WAProto/index.d.ts:2912](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2912)
 
 CtwaContextData description
 
@@ -40,7 +40,7 @@ CtwaContextData description
 
 > `optional` **isSuspiciousLink**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7173](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7173)
+Defined in: [WAProto/index.d.ts:2927](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2927)
 
 CtwaContextData isSuspiciousLink
 
@@ -50,7 +50,7 @@ CtwaContextData isSuspiciousLink
 
 > `optional` **mediaType**: `null` \| [`ContextInfoExternalAdReplyInfoMediaType`](../namespaces/CtwaContextData/enumerations/ContextInfoExternalAdReplyInfoMediaType.md)
 
-Defined in: [WAProto/index.d.ts:7167](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7167)
+Defined in: [WAProto/index.d.ts:2921](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2921)
 
 CtwaContextData mediaType
 
@@ -60,7 +60,7 @@ CtwaContextData mediaType
 
 > `optional` **mediaUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7170](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7170)
+Defined in: [WAProto/index.d.ts:2924](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2924)
 
 CtwaContextData mediaUrl
 
@@ -70,7 +70,7 @@ CtwaContextData mediaUrl
 
 > `optional` **sourceId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7149](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7149)
+Defined in: [WAProto/index.d.ts:2903](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2903)
 
 CtwaContextData sourceId
 
@@ -80,7 +80,7 @@ CtwaContextData sourceId
 
 > `optional` **sourceType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7152](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7152)
+Defined in: [WAProto/index.d.ts:2906](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2906)
 
 CtwaContextData sourceType
 
@@ -90,7 +90,7 @@ CtwaContextData sourceType
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7146](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7146)
+Defined in: [WAProto/index.d.ts:2900](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2900)
 
 CtwaContextData sourceUrl
 
@@ -100,7 +100,7 @@ CtwaContextData sourceUrl
 
 > `optional` **thumbnail**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7161](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7161)
+Defined in: [WAProto/index.d.ts:2915](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2915)
 
 CtwaContextData thumbnail
 
@@ -110,7 +110,7 @@ CtwaContextData thumbnail
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7164](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7164)
+Defined in: [WAProto/index.d.ts:2918](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2918)
 
 CtwaContextData thumbnailUrl
 
@@ -120,6 +120,6 @@ CtwaContextData thumbnailUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7155](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7155)
+Defined in: [WAProto/index.d.ts:2909](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2909)
 
 CtwaContextData title

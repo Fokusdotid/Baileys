@@ -1,6 +1,6 @@
 # Interface: IHeader
 
-Defined in: [WAProto/index.d.ts:23773](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23773)
+Defined in: [WAProto/index.d.ts:17100](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17100)
 
 Properties of a Header.
 
@@ -10,7 +10,7 @@ Properties of a Header.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:23785](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23785)
+Defined in: [WAProto/index.d.ts:17112](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17112)
 
 Header documentMessage
 
@@ -20,7 +20,7 @@ Header documentMessage
 
 > `optional` **hasMediaAttachment**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:23782](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23782)
+Defined in: [WAProto/index.d.ts:17109](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17109)
 
 Header hasMediaAttachment
 
@@ -30,7 +30,7 @@ Header hasMediaAttachment
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:23788](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23788)
+Defined in: [WAProto/index.d.ts:17115](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17115)
 
 Header imageMessage
 
@@ -40,7 +40,7 @@ Header imageMessage
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23791](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23791)
+Defined in: [WAProto/index.d.ts:17118](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17118)
 
 Header jpegThumbnail
 
@@ -50,7 +50,7 @@ Header jpegThumbnail
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:23797](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23797)
+Defined in: [WAProto/index.d.ts:17124](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17124)
 
 Header locationMessage
 
@@ -60,7 +60,7 @@ Header locationMessage
 
 > `optional` **productMessage**: `null` \| [`IProductMessage`](../../../interfaces/IProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:23800](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23800)
+Defined in: [WAProto/index.d.ts:17127](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17127)
 
 Header productMessage
 
@@ -70,7 +70,7 @@ Header productMessage
 
 > `optional` **subtitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23779](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23779)
+Defined in: [WAProto/index.d.ts:17106](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17106)
 
 Header subtitle
 
@@ -80,7 +80,7 @@ Header subtitle
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23776](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23776)
+Defined in: [WAProto/index.d.ts:17103](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17103)
 
 Header title
 
@@ -90,6 +90,6 @@ Header title
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:23794](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23794)
+Defined in: [WAProto/index.d.ts:17121](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17121)
 
 Header videoMessage

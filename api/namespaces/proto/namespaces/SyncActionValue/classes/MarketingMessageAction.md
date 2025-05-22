@@ -1,6 +1,6 @@
 # Class: MarketingMessageAction
 
-Defined in: [WAProto/index.d.ts:43514](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43514)
+Defined in: [WAProto/index.d.ts:34438](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34438)
 
 Represents a MarketingMessageAction.
 
@@ -14,7 +14,7 @@ Represents a MarketingMessageAction.
 
 > **new MarketingMessageAction**(`properties`?): [`MarketingMessageAction`](MarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43520](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43520)
+Defined in: [WAProto/index.d.ts:34444](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34444)
 
 Constructs a new MarketingMessageAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### createdAt?
+### createdAt
 
-> `optional` **createdAt**: `null` \| `number` \| `Long`
+> **createdAt**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43532](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43532)
+Defined in: [WAProto/index.d.ts:34456](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34456)
 
 MarketingMessageAction createdAt.
 
@@ -46,11 +46,11 @@ MarketingMessageAction createdAt.
 
 ***
 
-### isDeleted?
+### isDeleted
 
-> `optional` **isDeleted**: `null` \| `boolean`
+> **isDeleted**: `boolean`
 
-Defined in: [WAProto/index.d.ts:43538](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43538)
+Defined in: [WAProto/index.d.ts:34462](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34462)
 
 MarketingMessageAction isDeleted.
 
@@ -60,11 +60,11 @@ MarketingMessageAction isDeleted.
 
 ***
 
-### lastSentAt?
+### lastSentAt
 
-> `optional` **lastSentAt**: `null` \| `number` \| `Long`
+> **lastSentAt**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43535](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43535)
+Defined in: [WAProto/index.d.ts:34459](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34459)
 
 MarketingMessageAction lastSentAt.
 
@@ -74,11 +74,11 @@ MarketingMessageAction lastSentAt.
 
 ***
 
-### mediaId?
+### mediaId
 
-> `optional` **mediaId**: `null` \| `string`
+> **mediaId**: `string`
 
-Defined in: [WAProto/index.d.ts:43541](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43541)
+Defined in: [WAProto/index.d.ts:34465](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34465)
 
 MarketingMessageAction mediaId.
 
@@ -88,11 +88,11 @@ MarketingMessageAction mediaId.
 
 ***
 
-### message?
+### message
 
-> `optional` **message**: `null` \| `string`
+> **message**: `string`
 
-Defined in: [WAProto/index.d.ts:43526](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43526)
+Defined in: [WAProto/index.d.ts:34450](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34450)
 
 MarketingMessageAction message.
 
@@ -102,11 +102,11 @@ MarketingMessageAction message.
 
 ***
 
-### name?
+### name
 
-> `optional` **name**: `null` \| `string`
+> **name**: `string`
 
-Defined in: [WAProto/index.d.ts:43523](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43523)
+Defined in: [WAProto/index.d.ts:34447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34447)
 
 MarketingMessageAction name.
 
@@ -116,11 +116,11 @@ MarketingMessageAction name.
 
 ***
 
-### type?
+### type
 
-> `optional` **type**: `null` \| [`PERSONALIZED`](../namespaces/MarketingMessageAction/enumerations/MarketingMessagePrototypeType.md#personalized)
+> **type**: [`PERSONALIZED`](../namespaces/MarketingMessageAction/enumerations/MarketingMessagePrototypeType.md#personalized)
 
-Defined in: [WAProto/index.d.ts:43529](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43529)
+Defined in: [WAProto/index.d.ts:34453](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34453)
 
 MarketingMessageAction type.
 
@@ -134,7 +134,7 @@ MarketingMessageAction type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43611](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43611)
+Defined in: [WAProto/index.d.ts:34535](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34535)
 
 Converts this MarketingMessageAction to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MarketingMessageAction`](MarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43548](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43548)
+Defined in: [WAProto/index.d.ts:34472](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34472)
 
 Creates a new MarketingMessageAction instance using the specified properties.
 
@@ -174,7 +174,7 @@ MarketingMessageAction instance
 
 > `static` **decode**(`reader`, `length`?): [`MarketingMessageAction`](MarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43574](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43574)
+Defined in: [WAProto/index.d.ts:34498](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34498)
 
 Decodes a MarketingMessageAction message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MarketingMessageAction`](MarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43583](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43583)
+Defined in: [WAProto/index.d.ts:34507](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34507)
 
 Decodes a MarketingMessageAction message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43556)
+Defined in: [WAProto/index.d.ts:34480](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34480)
 
 Encodes the specified MarketingMessageAction message. Does not implicitly [verify](MarketingMessageAction.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43564](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43564)
+Defined in: [WAProto/index.d.ts:34488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34488)
 
 Encodes the specified MarketingMessageAction message, length delimited. Does not implicitly [verify](MarketingMessageAction.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MarketingMessageAction`](MarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43597](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43597)
+Defined in: [WAProto/index.d.ts:34521](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34521)
 
 Creates a MarketingMessageAction message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ MarketingMessageAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43618](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43618)
+Defined in: [WAProto/index.d.ts:34542](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34542)
 
 Gets the default type url for MarketingMessageAction
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43605](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43605)
+Defined in: [WAProto/index.d.ts:34529](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34529)
 
 Creates a plain object from a MarketingMessageAction message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43590](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43590)
+Defined in: [WAProto/index.d.ts:34514](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34514)
 
 Verifies a MarketingMessageAction message.
 

@@ -1,6 +1,6 @@
 # Class: SyncdIndex
 
-Defined in: [WAProto/index.d.ts:46778](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46778)
+Defined in: [WAProto/index.d.ts:37259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37259)
 
 Represents a SyncdIndex.
 
@@ -14,7 +14,7 @@ Represents a SyncdIndex.
 
 > **new SyncdIndex**(`properties`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46784](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46784)
+Defined in: [WAProto/index.d.ts:37265](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37265)
 
 Constructs a new SyncdIndex.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### blob?
+### blob
 
-> `optional` **blob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **blob**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:46787](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46787)
+Defined in: [WAProto/index.d.ts:37268](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37268)
 
 SyncdIndex blob.
 
@@ -50,7 +50,7 @@ SyncdIndex blob.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46857](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46857)
+Defined in: [WAProto/index.d.ts:37338](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37338)
 
 Converts this SyncdIndex to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46794](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46794)
+Defined in: [WAProto/index.d.ts:37275](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37275)
 
 Creates a new SyncdIndex instance using the specified properties.
 
@@ -90,7 +90,7 @@ SyncdIndex instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46820](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46820)
+Defined in: [WAProto/index.d.ts:37301](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37301)
 
 Decodes a SyncdIndex message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46829)
+Defined in: [WAProto/index.d.ts:37310](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37310)
 
 Decodes a SyncdIndex message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46802](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46802)
+Defined in: [WAProto/index.d.ts:37283](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37283)
 
 Encodes the specified SyncdIndex message. Does not implicitly [verify](SyncdIndex.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46810](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46810)
+Defined in: [WAProto/index.d.ts:37291](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37291)
 
 Encodes the specified SyncdIndex message, length delimited. Does not implicitly [verify](SyncdIndex.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdIndex`](SyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:46843](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46843)
+Defined in: [WAProto/index.d.ts:37324](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37324)
 
 Creates a SyncdIndex message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SyncdIndex
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46864](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46864)
+Defined in: [WAProto/index.d.ts:37345](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37345)
 
 Gets the default type url for SyncdIndex
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46851](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46851)
+Defined in: [WAProto/index.d.ts:37332](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37332)
 
 Creates a plain object from a SyncdIndex message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46836](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46836)
+Defined in: [WAProto/index.d.ts:37317](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37317)
 
 Verifies a SyncdIndex message.
 

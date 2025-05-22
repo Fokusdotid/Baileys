@@ -1,6 +1,6 @@
 # Class: NoteEditAction
 
-Defined in: [WAProto/index.d.ts:43979](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43979)
+Defined in: [WAProto/index.d.ts:34779](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34779)
 
 Represents a NoteEditAction.
 
@@ -14,7 +14,7 @@ Represents a NoteEditAction.
 
 > **new NoteEditAction**(`properties`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43985](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43985)
+Defined in: [WAProto/index.d.ts:34785](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34785)
 
 Constructs a new NoteEditAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### chatJid?
+### chatJid
 
-> `optional` **chatJid**: `null` \| `string`
+> **chatJid**: `string`
 
-Defined in: [WAProto/index.d.ts:43991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43991)
+Defined in: [WAProto/index.d.ts:34791](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34791)
 
 NoteEditAction chatJid.
 
@@ -46,11 +46,11 @@ NoteEditAction chatJid.
 
 ***
 
-### createdAt?
+### createdAt
 
-> `optional` **createdAt**: `null` \| `number` \| `Long`
+> **createdAt**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43994](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43994)
+Defined in: [WAProto/index.d.ts:34794](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34794)
 
 NoteEditAction createdAt.
 
@@ -60,11 +60,11 @@ NoteEditAction createdAt.
 
 ***
 
-### deleted?
+### deleted
 
-> `optional` **deleted**: `null` \| `boolean`
+> **deleted**: `boolean`
 
-Defined in: [WAProto/index.d.ts:43997](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43997)
+Defined in: [WAProto/index.d.ts:34797](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34797)
 
 NoteEditAction deleted.
 
@@ -74,11 +74,11 @@ NoteEditAction deleted.
 
 ***
 
-### type?
+### type
 
-> `optional` **type**: `null` \| [`NoteType`](../namespaces/NoteEditAction/enumerations/NoteType.md)
+> **type**: [`NoteType`](../namespaces/NoteEditAction/enumerations/NoteType.md)
 
-Defined in: [WAProto/index.d.ts:43988](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43988)
+Defined in: [WAProto/index.d.ts:34788](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34788)
 
 NoteEditAction type.
 
@@ -88,11 +88,11 @@ NoteEditAction type.
 
 ***
 
-### unstructuredContent?
+### unstructuredContent
 
-> `optional` **unstructuredContent**: `null` \| `string`
+> **unstructuredContent**: `string`
 
-Defined in: [WAProto/index.d.ts:44000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44000)
+Defined in: [WAProto/index.d.ts:34800](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34800)
 
 NoteEditAction unstructuredContent.
 
@@ -106,7 +106,7 @@ NoteEditAction unstructuredContent.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44070](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44070)
+Defined in: [WAProto/index.d.ts:34870](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34870)
 
 Converts this NoteEditAction to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:44007](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44007)
+Defined in: [WAProto/index.d.ts:34807](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34807)
 
 Creates a new NoteEditAction instance using the specified properties.
 
@@ -146,7 +146,7 @@ NoteEditAction instance
 
 > `static` **decode**(`reader`, `length`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:44033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44033)
+Defined in: [WAProto/index.d.ts:34833](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34833)
 
 Decodes a NoteEditAction message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:44042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44042)
+Defined in: [WAProto/index.d.ts:34842](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34842)
 
 Decodes a NoteEditAction message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44015](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44015)
+Defined in: [WAProto/index.d.ts:34815](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34815)
 
 Encodes the specified NoteEditAction message. Does not implicitly [verify](NoteEditAction.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44023](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44023)
+Defined in: [WAProto/index.d.ts:34823](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34823)
 
 Encodes the specified NoteEditAction message, length delimited. Does not implicitly [verify](NoteEditAction.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:44056](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44056)
+Defined in: [WAProto/index.d.ts:34856](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34856)
 
 Creates a NoteEditAction message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ NoteEditAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44077](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44077)
+Defined in: [WAProto/index.d.ts:34877](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34877)
 
 Gets the default type url for NoteEditAction
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44064](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44064)
+Defined in: [WAProto/index.d.ts:34864](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34864)
 
 Creates a plain object from a NoteEditAction message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44049](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44049)
+Defined in: [WAProto/index.d.ts:34849](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34849)
 
 Verifies a NoteEditAction message.
 

@@ -1,6 +1,6 @@
 # Interface: IHandshakeMessage
 
-Defined in: [WAProto/index.d.ts:13901](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13901)
+Defined in: [WAProto/index.d.ts:7880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7880)
 
 Properties of a HandshakeMessage.
 
@@ -10,7 +10,7 @@ Properties of a HandshakeMessage.
 
 > `optional` **clientFinish**: `null` \| [`IClientFinish`](../namespaces/HandshakeMessage/interfaces/IClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:13910](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13910)
+Defined in: [WAProto/index.d.ts:7889](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7889)
 
 HandshakeMessage clientFinish
 
@@ -20,7 +20,7 @@ HandshakeMessage clientFinish
 
 > `optional` **clientHello**: `null` \| [`IClientHello`](../namespaces/HandshakeMessage/interfaces/IClientHello.md)
 
-Defined in: [WAProto/index.d.ts:13904](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13904)
+Defined in: [WAProto/index.d.ts:7883](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7883)
 
 HandshakeMessage clientHello
 
@@ -30,6 +30,6 @@ HandshakeMessage clientHello
 
 > `optional` **serverHello**: `null` \| [`IServerHello`](../namespaces/HandshakeMessage/interfaces/IServerHello.md)
 
-Defined in: [WAProto/index.d.ts:13907](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13907)
+Defined in: [WAProto/index.d.ts:7886](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7886)
 
 HandshakeMessage serverHello

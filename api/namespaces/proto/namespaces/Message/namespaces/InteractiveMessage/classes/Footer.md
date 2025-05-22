@@ -1,6 +1,6 @@
 # Class: Footer
 
-Defined in: [WAProto/index.d.ts:23683](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23683)
+Defined in: [WAProto/index.d.ts:17010](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17010)
 
 Represents a Footer.
 
@@ -14,7 +14,7 @@ Represents a Footer.
 
 > **new Footer**(`properties`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:23689](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23689)
+Defined in: [WAProto/index.d.ts:17016](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17016)
 
 Constructs a new Footer.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:23692](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23692)
+Defined in: [WAProto/index.d.ts:17019](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17019)
 
 Footer text.
 
@@ -50,7 +50,7 @@ Footer text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23762)
+Defined in: [WAProto/index.d.ts:17089](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17089)
 
 Converts this Footer to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:23699](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23699)
+Defined in: [WAProto/index.d.ts:17026](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17026)
 
 Creates a new Footer instance using the specified properties.
 
@@ -90,7 +90,7 @@ Footer instance
 
 > `static` **decode**(`reader`, `length`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:23725](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23725)
+Defined in: [WAProto/index.d.ts:17052](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17052)
 
 Decodes a Footer message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:23734](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23734)
+Defined in: [WAProto/index.d.ts:17061](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17061)
 
 Decodes a Footer message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23707](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23707)
+Defined in: [WAProto/index.d.ts:17034](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17034)
 
 Encodes the specified Footer message. Does not implicitly [verify](Footer.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23715](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23715)
+Defined in: [WAProto/index.d.ts:17042](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17042)
 
 Encodes the specified Footer message, length delimited. Does not implicitly [verify](Footer.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:23748](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23748)
+Defined in: [WAProto/index.d.ts:17075](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17075)
 
 Creates a Footer message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ Footer
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23769](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23769)
+Defined in: [WAProto/index.d.ts:17096](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17096)
 
 Gets the default type url for Footer
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23756)
+Defined in: [WAProto/index.d.ts:17083](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17083)
 
 Creates a plain object from a Footer message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23741](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23741)
+Defined in: [WAProto/index.d.ts:17068](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17068)
 
 Verifies a Footer message.
 

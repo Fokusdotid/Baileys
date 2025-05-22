@@ -1,6 +1,6 @@
 # Class: PollVoteMessage
 
-Defined in: [WAProto/index.d.ts:29489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29489)
+Defined in: [WAProto/index.d.ts:21987](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21987)
 
 Represents a PollVoteMessage.
 
@@ -14,7 +14,7 @@ Represents a PollVoteMessage.
 
 > **new PollVoteMessage**(`properties`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:29495](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29495)
+Defined in: [WAProto/index.d.ts:21993](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21993)
 
 Constructs a new PollVoteMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **selectedOptions**: `Uint8Array`\<`ArrayBufferLike`\>[]
 
-Defined in: [WAProto/index.d.ts:29498](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29498)
+Defined in: [WAProto/index.d.ts:21996](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21996)
 
 PollVoteMessage selectedOptions.
 
@@ -50,7 +50,7 @@ PollVoteMessage selectedOptions.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29568](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29568)
+Defined in: [WAProto/index.d.ts:22066](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22066)
 
 Converts this PollVoteMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:29505](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29505)
+Defined in: [WAProto/index.d.ts:22003](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22003)
 
 Creates a new PollVoteMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ PollVoteMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:29531](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29531)
+Defined in: [WAProto/index.d.ts:22029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22029)
 
 Decodes a PollVoteMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:29540](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29540)
+Defined in: [WAProto/index.d.ts:22038](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22038)
 
 Decodes a PollVoteMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29513](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29513)
+Defined in: [WAProto/index.d.ts:22011](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22011)
 
 Encodes the specified PollVoteMessage message. Does not implicitly [verify](PollVoteMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29521](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29521)
+Defined in: [WAProto/index.d.ts:22019](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22019)
 
 Encodes the specified PollVoteMessage message, length delimited. Does not implicitly [verify](PollVoteMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:29554](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29554)
+Defined in: [WAProto/index.d.ts:22052](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22052)
 
 Creates a PollVoteMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PollVoteMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29575](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29575)
+Defined in: [WAProto/index.d.ts:22073](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22073)
 
 Gets the default type url for PollVoteMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29562](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29562)
+Defined in: [WAProto/index.d.ts:22060](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22060)
 
 Creates a plain object from a PollVoteMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29547)
+Defined in: [WAProto/index.d.ts:22045](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22045)
 
 Verifies a PollVoteMessage message.
 

@@ -1,36 +1,16 @@
 # Interface: IPeerDataOperationResult
 
-Defined in: [WAProto/index.d.ts:27647](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27647)
+Defined in: [WAProto/index.d.ts:20726](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20726)
 
 Properties of a PeerDataOperationResult.
 
 ## Properties
 
-### companionMetaNonceFetchRequestResponse?
-
-> `optional` **companionMetaNonceFetchRequestResponse**: `null` \| [`ICompanionMetaNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/ICompanionMetaNonceFetchResponse.md)
-
-Defined in: [WAProto/index.d.ts:27668](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27668)
-
-PeerDataOperationResult companionMetaNonceFetchRequestResponse
-
-***
-
-### fullHistorySyncOnDemandRequestResponse?
-
-> `optional` **fullHistorySyncOnDemandRequestResponse**: `null` \| [`IFullHistorySyncOnDemandRequestResponse`](../namespaces/PeerDataOperationResult/interfaces/IFullHistorySyncOnDemandRequestResponse.md)
-
-Defined in: [WAProto/index.d.ts:27665](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27665)
-
-PeerDataOperationResult fullHistorySyncOnDemandRequestResponse
-
-***
-
 ### linkPreviewResponse?
 
 > `optional` **linkPreviewResponse**: `null` \| [`ILinkPreviewResponse`](../namespaces/PeerDataOperationResult/interfaces/ILinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:27656](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27656)
+Defined in: [WAProto/index.d.ts:20735](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20735)
 
 PeerDataOperationResult linkPreviewResponse
 
@@ -40,7 +20,7 @@ PeerDataOperationResult linkPreviewResponse
 
 > `optional` **mediaUploadResult**: `null` \| [`ResultType`](../../../../MediaRetryNotification/enumerations/ResultType.md)
 
-Defined in: [WAProto/index.d.ts:27650](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27650)
+Defined in: [WAProto/index.d.ts:20729](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20729)
 
 PeerDataOperationResult mediaUploadResult
 
@@ -50,7 +30,7 @@ PeerDataOperationResult mediaUploadResult
 
 > `optional` **placeholderMessageResendResponse**: `null` \| [`IPlaceholderMessageResendResponse`](../namespaces/PeerDataOperationResult/interfaces/IPlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:27659](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27659)
+Defined in: [WAProto/index.d.ts:20738](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20738)
 
 PeerDataOperationResult placeholderMessageResendResponse
 
@@ -60,16 +40,6 @@ PeerDataOperationResult placeholderMessageResendResponse
 
 > `optional` **stickerMessage**: `null` \| [`IStickerMessage`](../../../interfaces/IStickerMessage.md)
 
-Defined in: [WAProto/index.d.ts:27653](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27653)
+Defined in: [WAProto/index.d.ts:20732](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20732)
 
 PeerDataOperationResult stickerMessage
-
-***
-
-### waffleNonceFetchRequestResponse?
-
-> `optional` **waffleNonceFetchRequestResponse**: `null` \| [`IWaffleNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/IWaffleNonceFetchResponse.md)
-
-Defined in: [WAProto/index.d.ts:27662](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27662)
-
-PeerDataOperationResult waffleNonceFetchRequestResponse

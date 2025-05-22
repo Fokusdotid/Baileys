@@ -1,6 +1,6 @@
 # Interface: IPollVoteMessage
 
-Defined in: [WAProto/index.d.ts:29482](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29482)
+Defined in: [WAProto/index.d.ts:21980](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21980)
 
 Properties of a PollVoteMessage.
 
@@ -10,6 +10,6 @@ Properties of a PollVoteMessage.
 
 > `optional` **selectedOptions**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>[]
 
-Defined in: [WAProto/index.d.ts:29485](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29485)
+Defined in: [WAProto/index.d.ts:21983](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21983)
 
 PollVoteMessage selectedOptions

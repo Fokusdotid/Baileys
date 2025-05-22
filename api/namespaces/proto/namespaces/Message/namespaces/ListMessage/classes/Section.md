@@ -1,6 +1,6 @@
 # Class: Section
 
-Defined in: [WAProto/index.d.ts:25541](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25541)
+Defined in: [WAProto/index.d.ts:18868](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18868)
 
 Represents a Section.
 
@@ -14,7 +14,7 @@ Represents a Section.
 
 > **new Section**(`properties`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:25547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25547)
+Defined in: [WAProto/index.d.ts:18874](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18874)
 
 Constructs a new Section.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **rows**: [`IRow`](../interfaces/IRow.md)[]
 
-Defined in: [WAProto/index.d.ts:25553](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25553)
+Defined in: [WAProto/index.d.ts:18880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18880)
 
 Section rows.
 
@@ -46,11 +46,11 @@ Section rows.
 
 ***
 
-### title?
+### title
 
-> `optional` **title**: `null` \| `string`
+> **title**: `string`
 
-Defined in: [WAProto/index.d.ts:25550](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25550)
+Defined in: [WAProto/index.d.ts:18877](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18877)
 
 Section title.
 
@@ -64,7 +64,7 @@ Section title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25623](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25623)
+Defined in: [WAProto/index.d.ts:18950](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18950)
 
 Converts this Section to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:25560](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25560)
+Defined in: [WAProto/index.d.ts:18887](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18887)
 
 Creates a new Section instance using the specified properties.
 
@@ -104,7 +104,7 @@ Section instance
 
 > `static` **decode**(`reader`, `length`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:25586](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25586)
+Defined in: [WAProto/index.d.ts:18913](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18913)
 
 Decodes a Section message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:25595](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25595)
+Defined in: [WAProto/index.d.ts:18922](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18922)
 
 Decodes a Section message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25568](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25568)
+Defined in: [WAProto/index.d.ts:18895](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18895)
 
 Encodes the specified Section message. Does not implicitly [verify](Section.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25576](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25576)
+Defined in: [WAProto/index.d.ts:18903](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18903)
 
 Encodes the specified Section message, length delimited. Does not implicitly [verify](Section.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:25609](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25609)
+Defined in: [WAProto/index.d.ts:18936](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18936)
 
 Creates a Section message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Section
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25630](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25630)
+Defined in: [WAProto/index.d.ts:18957](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18957)
 
 Gets the default type url for Section
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25617](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25617)
+Defined in: [WAProto/index.d.ts:18944](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18944)
 
 Creates a plain object from a Section message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25602](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25602)
+Defined in: [WAProto/index.d.ts:18929](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18929)
 
 Verifies a Section message.
 

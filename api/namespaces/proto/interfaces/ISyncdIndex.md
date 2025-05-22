@@ -1,6 +1,6 @@
 # Interface: ISyncdIndex
 
-Defined in: [WAProto/index.d.ts:46771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46771)
+Defined in: [WAProto/index.d.ts:37252](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37252)
 
 Properties of a SyncdIndex.
 
@@ -10,6 +10,6 @@ Properties of a SyncdIndex.
 
 > `optional` **blob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:46774](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46774)
+Defined in: [WAProto/index.d.ts:37255](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37255)
 
 SyncdIndex blob

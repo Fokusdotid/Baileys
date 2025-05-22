@@ -1,6 +1,6 @@
 # Class: MediaRetryNotification
 
-Defined in: [WAProto/index.d.ts:16645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16645)
+Defined in: [WAProto/index.d.ts:10487](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10487)
 
 Represents a MediaRetryNotification.
 
@@ -14,7 +14,7 @@ Represents a MediaRetryNotification.
 
 > **new MediaRetryNotification**(`properties`?): [`MediaRetryNotification`](MediaRetryNotification.md)
 
-Defined in: [WAProto/index.d.ts:16651](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16651)
+Defined in: [WAProto/index.d.ts:10493](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10493)
 
 Constructs a new MediaRetryNotification.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:16657](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16657)
+Defined in: [WAProto/index.d.ts:10499](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10499)
 
 MediaRetryNotification directPath.
 
@@ -46,25 +46,11 @@ MediaRetryNotification directPath.
 
 ***
 
-### messageSecret?
+### result
 
-> `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **result**: [`ResultType`](../namespaces/MediaRetryNotification/enumerations/ResultType.md)
 
-Defined in: [WAProto/index.d.ts:16663](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16663)
-
-MediaRetryNotification messageSecret.
-
-#### Implementation of
-
-[`IMediaRetryNotification`](../interfaces/IMediaRetryNotification.md).[`messageSecret`](../interfaces/IMediaRetryNotification.md#messagesecret)
-
-***
-
-### result?
-
-> `optional` **result**: `null` \| [`ResultType`](../namespaces/MediaRetryNotification/enumerations/ResultType.md)
-
-Defined in: [WAProto/index.d.ts:16660](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16660)
+Defined in: [WAProto/index.d.ts:10502](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10502)
 
 MediaRetryNotification result.
 
@@ -74,11 +60,11 @@ MediaRetryNotification result.
 
 ***
 
-### stanzaId?
+### stanzaId
 
-> `optional` **stanzaId**: `null` \| `string`
+> **stanzaId**: `string`
 
-Defined in: [WAProto/index.d.ts:16654](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16654)
+Defined in: [WAProto/index.d.ts:10496](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10496)
 
 MediaRetryNotification stanzaId.
 
@@ -92,7 +78,7 @@ MediaRetryNotification stanzaId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16733](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16733)
+Defined in: [WAProto/index.d.ts:10572](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10572)
 
 Converts this MediaRetryNotification to JSON.
 
@@ -108,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MediaRetryNotification`](MediaRetryNotification.md)
 
-Defined in: [WAProto/index.d.ts:16670](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16670)
+Defined in: [WAProto/index.d.ts:10509](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10509)
 
 Creates a new MediaRetryNotification instance using the specified properties.
 
@@ -132,7 +118,7 @@ MediaRetryNotification instance
 
 > `static` **decode**(`reader`, `length`?): [`MediaRetryNotification`](MediaRetryNotification.md)
 
-Defined in: [WAProto/index.d.ts:16696](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16696)
+Defined in: [WAProto/index.d.ts:10535](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10535)
 
 Decodes a MediaRetryNotification message from the specified reader or buffer.
 
@@ -170,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MediaRetryNotification`](MediaRetryNotification.md)
 
-Defined in: [WAProto/index.d.ts:16705](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16705)
+Defined in: [WAProto/index.d.ts:10544](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10544)
 
 Decodes a MediaRetryNotification message from the specified reader or buffer, length delimited.
 
@@ -202,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16678](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16678)
+Defined in: [WAProto/index.d.ts:10517](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10517)
 
 Encodes the specified MediaRetryNotification message. Does not implicitly [verify](MediaRetryNotification.md#verify) messages.
 
@@ -232,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16686](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16686)
+Defined in: [WAProto/index.d.ts:10525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10525)
 
 Encodes the specified MediaRetryNotification message, length delimited. Does not implicitly [verify](MediaRetryNotification.md#verify) messages.
 
@@ -262,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MediaRetryNotification`](MediaRetryNotification.md)
 
-Defined in: [WAProto/index.d.ts:16719](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16719)
+Defined in: [WAProto/index.d.ts:10558](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10558)
 
 Creates a MediaRetryNotification message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +270,7 @@ MediaRetryNotification
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16740)
+Defined in: [WAProto/index.d.ts:10579](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10579)
 
 Gets the default type url for MediaRetryNotification
 
@@ -308,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16727](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16727)
+Defined in: [WAProto/index.d.ts:10566](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10566)
 
 Creates a plain object from a MediaRetryNotification message. Also converts values to other types if specified.
 
@@ -338,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16712](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16712)
+Defined in: [WAProto/index.d.ts:10551](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10551)
 
 Verifies a MediaRetryNotification message.
 

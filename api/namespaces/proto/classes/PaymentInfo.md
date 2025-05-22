@@ -1,6 +1,6 @@
 # Class: PaymentInfo
 
-Defined in: [WAProto/index.d.ts:35904](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35904)
+Defined in: [WAProto/index.d.ts:27214](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27214)
 
 Represents a PaymentInfo.
 
@@ -14,7 +14,7 @@ Represents a PaymentInfo.
 
 > **new PaymentInfo**(`properties`?): [`PaymentInfo`](PaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:35910](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35910)
+Defined in: [WAProto/index.d.ts:27220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27220)
 
 Constructs a new PaymentInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### amount1000?
+### amount1000
 
-> `optional` **amount1000**: `null` \| `number` \| `Long`
+> **amount1000**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35916](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35916)
+Defined in: [WAProto/index.d.ts:27226](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27226)
 
 PaymentInfo amount1000.
 
@@ -46,11 +46,11 @@ PaymentInfo amount1000.
 
 ***
 
-### currency?
+### currency
 
-> `optional` **currency**: `null` \| `string`
+> **currency**: `string`
 
-Defined in: [WAProto/index.d.ts:35937](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35937)
+Defined in: [WAProto/index.d.ts:27247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27247)
 
 PaymentInfo currency.
 
@@ -60,11 +60,11 @@ PaymentInfo currency.
 
 ***
 
-### currencyDeprecated?
+### currencyDeprecated
 
-> `optional` **currencyDeprecated**: `null` \| [`Currency`](../namespaces/PaymentInfo/enumerations/Currency.md)
+> **currencyDeprecated**: [`Currency`](../namespaces/PaymentInfo/enumerations/Currency.md)
 
-Defined in: [WAProto/index.d.ts:35913](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35913)
+Defined in: [WAProto/index.d.ts:27223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27223)
 
 PaymentInfo currencyDeprecated.
 
@@ -78,7 +78,7 @@ PaymentInfo currencyDeprecated.
 
 > `optional` **exchangeAmount**: `null` \| [`IMoney`](../interfaces/IMoney.md)
 
-Defined in: [WAProto/index.d.ts:35949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35949)
+Defined in: [WAProto/index.d.ts:27259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27259)
 
 PaymentInfo exchangeAmount.
 
@@ -88,11 +88,11 @@ PaymentInfo exchangeAmount.
 
 ***
 
-### expiryTimestamp?
+### expiryTimestamp
 
-> `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
+> **expiryTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35931](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35931)
+Defined in: [WAProto/index.d.ts:27241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27241)
 
 PaymentInfo expiryTimestamp.
 
@@ -102,11 +102,11 @@ PaymentInfo expiryTimestamp.
 
 ***
 
-### futureproofed?
+### futureproofed
 
-> `optional` **futureproofed**: `null` \| `boolean`
+> **futureproofed**: `boolean`
 
-Defined in: [WAProto/index.d.ts:35934](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35934)
+Defined in: [WAProto/index.d.ts:27244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27244)
 
 PaymentInfo futureproofed.
 
@@ -120,7 +120,7 @@ PaymentInfo futureproofed.
 
 > `optional` **primaryAmount**: `null` \| [`IMoney`](../interfaces/IMoney.md)
 
-Defined in: [WAProto/index.d.ts:35946](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35946)
+Defined in: [WAProto/index.d.ts:27256](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27256)
 
 PaymentInfo primaryAmount.
 
@@ -130,11 +130,11 @@ PaymentInfo primaryAmount.
 
 ***
 
-### receiverJid?
+### receiverJid
 
-> `optional` **receiverJid**: `null` \| `string`
+> **receiverJid**: `string`
 
-Defined in: [WAProto/index.d.ts:35919](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35919)
+Defined in: [WAProto/index.d.ts:27229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27229)
 
 PaymentInfo receiverJid.
 
@@ -148,7 +148,7 @@ PaymentInfo receiverJid.
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:35928](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35928)
+Defined in: [WAProto/index.d.ts:27238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27238)
 
 PaymentInfo requestMessageKey.
 
@@ -158,11 +158,11 @@ PaymentInfo requestMessageKey.
 
 ***
 
-### status?
+### status
 
-> `optional` **status**: `null` \| [`Status`](../namespaces/PaymentInfo/enumerations/Status.md)
+> **status**: [`Status`](../namespaces/PaymentInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:35922](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35922)
+Defined in: [WAProto/index.d.ts:27232](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27232)
 
 PaymentInfo status.
 
@@ -172,11 +172,11 @@ PaymentInfo status.
 
 ***
 
-### transactionTimestamp?
+### transactionTimestamp
 
-> `optional` **transactionTimestamp**: `null` \| `number` \| `Long`
+> **transactionTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35925](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35925)
+Defined in: [WAProto/index.d.ts:27235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27235)
 
 PaymentInfo transactionTimestamp.
 
@@ -186,11 +186,11 @@ PaymentInfo transactionTimestamp.
 
 ***
 
-### txnStatus?
+### txnStatus
 
-> `optional` **txnStatus**: `null` \| [`TxnStatus`](../namespaces/PaymentInfo/enumerations/TxnStatus.md)
+> **txnStatus**: [`TxnStatus`](../namespaces/PaymentInfo/enumerations/TxnStatus.md)
 
-Defined in: [WAProto/index.d.ts:35940](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35940)
+Defined in: [WAProto/index.d.ts:27250](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27250)
 
 PaymentInfo txnStatus.
 
@@ -200,11 +200,11 @@ PaymentInfo txnStatus.
 
 ***
 
-### useNoviFiatFormat?
+### useNoviFiatFormat
 
-> `optional` **useNoviFiatFormat**: `null` \| `boolean`
+> **useNoviFiatFormat**: `boolean`
 
-Defined in: [WAProto/index.d.ts:35943](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35943)
+Defined in: [WAProto/index.d.ts:27253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27253)
 
 PaymentInfo useNoviFiatFormat.
 
@@ -218,7 +218,7 @@ PaymentInfo useNoviFiatFormat.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36019](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36019)
+Defined in: [WAProto/index.d.ts:27329](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27329)
 
 Converts this PaymentInfo to JSON.
 
@@ -234,7 +234,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentInfo`](PaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:35956](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35956)
+Defined in: [WAProto/index.d.ts:27266](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27266)
 
 Creates a new PaymentInfo instance using the specified properties.
 
@@ -258,7 +258,7 @@ PaymentInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentInfo`](PaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:35982](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35982)
+Defined in: [WAProto/index.d.ts:27292](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27292)
 
 Decodes a PaymentInfo message from the specified reader or buffer.
 
@@ -296,7 +296,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentInfo`](PaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:35991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35991)
+Defined in: [WAProto/index.d.ts:27301](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27301)
 
 Decodes a PaymentInfo message from the specified reader or buffer, length delimited.
 
@@ -328,7 +328,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35964](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35964)
+Defined in: [WAProto/index.d.ts:27274](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27274)
 
 Encodes the specified PaymentInfo message. Does not implicitly [verify](PaymentInfo.md#verify) messages.
 
@@ -358,7 +358,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35972)
+Defined in: [WAProto/index.d.ts:27282](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27282)
 
 Encodes the specified PaymentInfo message, length delimited. Does not implicitly [verify](PaymentInfo.md#verify) messages.
 
@@ -388,7 +388,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentInfo`](PaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:36005](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36005)
+Defined in: [WAProto/index.d.ts:27315](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27315)
 
 Creates a PaymentInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -410,7 +410,7 @@ PaymentInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36026)
+Defined in: [WAProto/index.d.ts:27336](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27336)
 
 Gets the default type url for PaymentInfo
 
@@ -434,7 +434,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36013](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36013)
+Defined in: [WAProto/index.d.ts:27323](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27323)
 
 Creates a plain object from a PaymentInfo message. Also converts values to other types if specified.
 
@@ -464,7 +464,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35998](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35998)
+Defined in: [WAProto/index.d.ts:27308](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27308)
 
 Verifies a PaymentInfo message.
 

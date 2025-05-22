@@ -1,6 +1,6 @@
 # Class: TemplateMessage
 
-Defined in: [WAProto/index.d.ts:32188](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32188)
+Defined in: [WAProto/index.d.ts:24170](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24170)
 
 Represents a TemplateMessage.
 
@@ -14,7 +14,7 @@ Represents a TemplateMessage.
 
 > **new TemplateMessage**(`properties`?): [`TemplateMessage`](TemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:32194](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32194)
+Defined in: [WAProto/index.d.ts:24176](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24176)
 
 Constructs a new TemplateMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32197](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32197)
+Defined in: [WAProto/index.d.ts:24179](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24179)
 
 TemplateMessage contextInfo.
 
@@ -50,7 +50,7 @@ TemplateMessage contextInfo.
 
 > `optional` **format**: `"fourRowTemplate"` \| `"hydratedFourRowTemplate"` \| `"interactiveMessageTemplate"`
 
-Defined in: [WAProto/index.d.ts:32215](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32215)
+Defined in: [WAProto/index.d.ts:24197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24197)
 
 TemplateMessage format.
 
@@ -60,7 +60,7 @@ TemplateMessage format.
 
 > `optional` **fourRowTemplate**: `null` \| [`IFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32206](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32206)
+Defined in: [WAProto/index.d.ts:24188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24188)
 
 TemplateMessage fourRowTemplate.
 
@@ -74,7 +74,7 @@ TemplateMessage fourRowTemplate.
 
 > `optional` **hydratedFourRowTemplate**: `null` \| [`IHydratedFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IHydratedFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32209](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32209)
+Defined in: [WAProto/index.d.ts:24191](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24191)
 
 TemplateMessage hydratedFourRowTemplate.
 
@@ -88,7 +88,7 @@ TemplateMessage hydratedFourRowTemplate.
 
 > `optional` **hydratedTemplate**: `null` \| [`IHydratedFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IHydratedFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:32200](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32200)
+Defined in: [WAProto/index.d.ts:24182](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24182)
 
 TemplateMessage hydratedTemplate.
 
@@ -102,7 +102,7 @@ TemplateMessage hydratedTemplate.
 
 > `optional` **interactiveMessageTemplate**: `null` \| [`IInteractiveMessage`](../interfaces/IInteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:32212](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32212)
+Defined in: [WAProto/index.d.ts:24194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24194)
 
 TemplateMessage interactiveMessageTemplate.
 
@@ -112,11 +112,11 @@ TemplateMessage interactiveMessageTemplate.
 
 ***
 
-### templateId?
+### templateId
 
-> `optional` **templateId**: `null` \| `string`
+> **templateId**: `string`
 
-Defined in: [WAProto/index.d.ts:32203](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32203)
+Defined in: [WAProto/index.d.ts:24185](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24185)
 
 TemplateMessage templateId.
 
@@ -130,7 +130,7 @@ TemplateMessage templateId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32285)
+Defined in: [WAProto/index.d.ts:24267](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24267)
 
 Converts this TemplateMessage to JSON.
 
@@ -146,7 +146,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TemplateMessage`](TemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:32222](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32222)
+Defined in: [WAProto/index.d.ts:24204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24204)
 
 Creates a new TemplateMessage instance using the specified properties.
 
@@ -170,7 +170,7 @@ TemplateMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`TemplateMessage`](TemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:32248](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32248)
+Defined in: [WAProto/index.d.ts:24230](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24230)
 
 Decodes a TemplateMessage message from the specified reader or buffer.
 
@@ -208,7 +208,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TemplateMessage`](TemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:32257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32257)
+Defined in: [WAProto/index.d.ts:24239](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24239)
 
 Decodes a TemplateMessage message from the specified reader or buffer, length delimited.
 
@@ -240,7 +240,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32230](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32230)
+Defined in: [WAProto/index.d.ts:24212](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24212)
 
 Encodes the specified TemplateMessage message. Does not implicitly [verify](TemplateMessage.md#verify) messages.
 
@@ -270,7 +270,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32238](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32238)
+Defined in: [WAProto/index.d.ts:24220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24220)
 
 Encodes the specified TemplateMessage message, length delimited. Does not implicitly [verify](TemplateMessage.md#verify) messages.
 
@@ -300,7 +300,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TemplateMessage`](TemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:32271](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32271)
+Defined in: [WAProto/index.d.ts:24253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24253)
 
 Creates a TemplateMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -322,7 +322,7 @@ TemplateMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32292](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32292)
+Defined in: [WAProto/index.d.ts:24274](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24274)
 
 Gets the default type url for TemplateMessage
 
@@ -346,7 +346,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32279](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32279)
+Defined in: [WAProto/index.d.ts:24261](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24261)
 
 Creates a plain object from a TemplateMessage message. Also converts values to other types if specified.
 
@@ -376,7 +376,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32264](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32264)
+Defined in: [WAProto/index.d.ts:24246](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24246)
 
 Verifies a TemplateMessage message.
 

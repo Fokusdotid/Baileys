@@ -1,6 +1,6 @@
 # Enumeration: PreviewType
 
-Defined in: [WAProto/index.d.ts:21576](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21576)
+Defined in: [WAProto/index.d.ts:15028](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15028)
 
 PreviewType enum.
 
@@ -10,7 +10,7 @@ PreviewType enum.
 
 > **IMAGE**: `5`
 
-Defined in: [WAProto/index.d.ts:21580](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21580)
+Defined in: [WAProto/index.d.ts:15032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15032)
 
 ***
 
@@ -18,15 +18,7 @@ Defined in: [WAProto/index.d.ts:21580](https://github.com/Fokusdotid/Baileys/blo
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:21577](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21577)
-
-***
-
-### PAYMENT\_LINKS
-
-> **PAYMENT\_LINKS**: `6`
-
-Defined in: [WAProto/index.d.ts:21581](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21581)
+Defined in: [WAProto/index.d.ts:15029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15029)
 
 ***
 
@@ -34,15 +26,7 @@ Defined in: [WAProto/index.d.ts:21581](https://github.com/Fokusdotid/Baileys/blo
 
 > **PLACEHOLDER**: `4`
 
-Defined in: [WAProto/index.d.ts:21579](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21579)
-
-***
-
-### PROFILE
-
-> **PROFILE**: `7`
-
-Defined in: [WAProto/index.d.ts:21582](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21582)
+Defined in: [WAProto/index.d.ts:15031](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15031)
 
 ***
 
@@ -50,4 +34,4 @@ Defined in: [WAProto/index.d.ts:21582](https://github.com/Fokusdotid/Baileys/blo
 
 > **VIDEO**: `1`
 
-Defined in: [WAProto/index.d.ts:21578](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21578)
+Defined in: [WAProto/index.d.ts:15030](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15030)

@@ -1,6 +1,6 @@
 # Interface: ISingleSelectReply
 
-Defined in: [WAProto/index.d.ts:25764](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25764)
+Defined in: [WAProto/index.d.ts:19091](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19091)
 
 Properties of a SingleSelectReply.
 
@@ -10,6 +10,6 @@ Properties of a SingleSelectReply.
 
 > `optional` **selectedRowId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25767](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25767)
+Defined in: [WAProto/index.d.ts:19094](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19094)
 
 SingleSelectReply selectedRowId

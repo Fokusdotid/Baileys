@@ -1,6 +1,6 @@
 # Class: CallLogRecord
 
-Defined in: [WAProto/index.d.ts:6211](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6211)
+Defined in: [WAProto/index.d.ts:1965](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1965)
 
 Represents a CallLogRecord.
 
@@ -14,7 +14,7 @@ Represents a CallLogRecord.
 
 > **new CallLogRecord**(`properties`?): [`CallLogRecord`](CallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:6217](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6217)
+Defined in: [WAProto/index.d.ts:1971](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1971)
 
 Constructs a new CallLogRecord.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### callCreatorJid?
+### callCreatorJid
 
-> `optional` **callCreatorJid**: `null` \| `string`
+> **callCreatorJid**: `string`
 
-Defined in: [WAProto/index.d.ts:6253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6253)
+Defined in: [WAProto/index.d.ts:2007](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2007)
 
 CallLogRecord callCreatorJid.
 
@@ -46,11 +46,11 @@ CallLogRecord callCreatorJid.
 
 ***
 
-### callId?
+### callId
 
-> `optional` **callId**: `null` \| `string`
+> **callId**: `string`
 
-Defined in: [WAProto/index.d.ts:6250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6250)
+Defined in: [WAProto/index.d.ts:2004](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2004)
 
 CallLogRecord callId.
 
@@ -60,11 +60,11 @@ CallLogRecord callId.
 
 ***
 
-### callLinkToken?
+### callLinkToken
 
-> `optional` **callLinkToken**: `null` \| `string`
+> **callLinkToken**: `string`
 
-Defined in: [WAProto/index.d.ts:6244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6244)
+Defined in: [WAProto/index.d.ts:1998](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1998)
 
 CallLogRecord callLinkToken.
 
@@ -74,11 +74,11 @@ CallLogRecord callLinkToken.
 
 ***
 
-### callResult?
+### callResult
 
-> `optional` **callResult**: `null` \| [`CallResult`](../namespaces/CallLogRecord/enumerations/CallResult.md)
+> **callResult**: [`CallResult`](../namespaces/CallLogRecord/enumerations/CallResult.md)
 
-Defined in: [WAProto/index.d.ts:6220](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6220)
+Defined in: [WAProto/index.d.ts:1974](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1974)
 
 CallLogRecord callResult.
 
@@ -88,11 +88,11 @@ CallLogRecord callResult.
 
 ***
 
-### callType?
+### callType
 
-> `optional` **callType**: `null` \| [`CallType`](../namespaces/CallLogRecord/enumerations/CallType.md)
+> **callType**: [`CallType`](../namespaces/CallLogRecord/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:6262](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6262)
+Defined in: [WAProto/index.d.ts:2016](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2016)
 
 CallLogRecord callType.
 
@@ -102,11 +102,11 @@ CallLogRecord callType.
 
 ***
 
-### duration?
+### duration
 
-> `optional` **duration**: `null` \| `number` \| `Long`
+> **duration**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6229](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6229)
+Defined in: [WAProto/index.d.ts:1983](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1983)
 
 CallLogRecord duration.
 
@@ -116,11 +116,11 @@ CallLogRecord duration.
 
 ***
 
-### groupJid?
+### groupJid
 
-> `optional` **groupJid**: `null` \| `string`
+> **groupJid**: `string`
 
-Defined in: [WAProto/index.d.ts:6256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6256)
+Defined in: [WAProto/index.d.ts:2010](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2010)
 
 CallLogRecord groupJid.
 
@@ -130,11 +130,11 @@ CallLogRecord groupJid.
 
 ***
 
-### isCallLink?
+### isCallLink
 
-> `optional` **isCallLink**: `null` \| `boolean`
+> **isCallLink**: `boolean`
 
-Defined in: [WAProto/index.d.ts:6241](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6241)
+Defined in: [WAProto/index.d.ts:1995](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1995)
 
 CallLogRecord isCallLink.
 
@@ -144,11 +144,11 @@ CallLogRecord isCallLink.
 
 ***
 
-### isDndMode?
+### isDndMode
 
-> `optional` **isDndMode**: `null` \| `boolean`
+> **isDndMode**: `boolean`
 
-Defined in: [WAProto/index.d.ts:6223](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6223)
+Defined in: [WAProto/index.d.ts:1977](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1977)
 
 CallLogRecord isDndMode.
 
@@ -158,11 +158,11 @@ CallLogRecord isDndMode.
 
 ***
 
-### isIncoming?
+### isIncoming
 
-> `optional` **isIncoming**: `null` \| `boolean`
+> **isIncoming**: `boolean`
 
-Defined in: [WAProto/index.d.ts:6235](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6235)
+Defined in: [WAProto/index.d.ts:1989](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1989)
 
 CallLogRecord isIncoming.
 
@@ -172,11 +172,11 @@ CallLogRecord isIncoming.
 
 ***
 
-### isVideo?
+### isVideo
 
-> `optional` **isVideo**: `null` \| `boolean`
+> **isVideo**: `boolean`
 
-Defined in: [WAProto/index.d.ts:6238](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6238)
+Defined in: [WAProto/index.d.ts:1992](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1992)
 
 CallLogRecord isVideo.
 
@@ -190,7 +190,7 @@ CallLogRecord isVideo.
 
 > **participants**: [`IParticipantInfo`](../namespaces/CallLogRecord/interfaces/IParticipantInfo.md)[]
 
-Defined in: [WAProto/index.d.ts:6259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6259)
+Defined in: [WAProto/index.d.ts:2013](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2013)
 
 CallLogRecord participants.
 
@@ -200,11 +200,11 @@ CallLogRecord participants.
 
 ***
 
-### scheduledCallId?
+### scheduledCallId
 
-> `optional` **scheduledCallId**: `null` \| `string`
+> **scheduledCallId**: `string`
 
-Defined in: [WAProto/index.d.ts:6247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6247)
+Defined in: [WAProto/index.d.ts:2001](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2001)
 
 CallLogRecord scheduledCallId.
 
@@ -214,11 +214,11 @@ CallLogRecord scheduledCallId.
 
 ***
 
-### silenceReason?
+### silenceReason
 
-> `optional` **silenceReason**: `null` \| [`SilenceReason`](../namespaces/CallLogRecord/enumerations/SilenceReason.md)
+> **silenceReason**: [`SilenceReason`](../namespaces/CallLogRecord/enumerations/SilenceReason.md)
 
-Defined in: [WAProto/index.d.ts:6226](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6226)
+Defined in: [WAProto/index.d.ts:1980](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1980)
 
 CallLogRecord silenceReason.
 
@@ -228,11 +228,11 @@ CallLogRecord silenceReason.
 
 ***
 
-### startTime?
+### startTime
 
-> `optional` **startTime**: `null` \| `number` \| `Long`
+> **startTime**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6232](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6232)
+Defined in: [WAProto/index.d.ts:1986](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1986)
 
 CallLogRecord startTime.
 
@@ -246,7 +246,7 @@ CallLogRecord startTime.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6332](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6332)
+Defined in: [WAProto/index.d.ts:2086](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2086)
 
 Converts this CallLogRecord to JSON.
 
@@ -262,7 +262,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallLogRecord`](CallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:6269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6269)
+Defined in: [WAProto/index.d.ts:2023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2023)
 
 Creates a new CallLogRecord instance using the specified properties.
 
@@ -286,7 +286,7 @@ CallLogRecord instance
 
 > `static` **decode**(`reader`, `length`?): [`CallLogRecord`](CallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:6295](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6295)
+Defined in: [WAProto/index.d.ts:2049](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2049)
 
 Decodes a CallLogRecord message from the specified reader or buffer.
 
@@ -324,7 +324,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallLogRecord`](CallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:6304](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6304)
+Defined in: [WAProto/index.d.ts:2058](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2058)
 
 Decodes a CallLogRecord message from the specified reader or buffer, length delimited.
 
@@ -356,7 +356,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6277](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6277)
+Defined in: [WAProto/index.d.ts:2031](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2031)
 
 Encodes the specified CallLogRecord message. Does not implicitly [verify](CallLogRecord.md#verify) messages.
 
@@ -386,7 +386,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6285)
+Defined in: [WAProto/index.d.ts:2039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2039)
 
 Encodes the specified CallLogRecord message, length delimited. Does not implicitly [verify](CallLogRecord.md#verify) messages.
 
@@ -416,7 +416,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallLogRecord`](CallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:6318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6318)
+Defined in: [WAProto/index.d.ts:2072](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2072)
 
 Creates a CallLogRecord message from a plain object. Also converts values to their respective internal types.
 
@@ -438,7 +438,7 @@ CallLogRecord
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6339](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6339)
+Defined in: [WAProto/index.d.ts:2093](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2093)
 
 Gets the default type url for CallLogRecord
 
@@ -462,7 +462,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6326)
+Defined in: [WAProto/index.d.ts:2080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2080)
 
 Creates a plain object from a CallLogRecord message. Also converts values to other types if specified.
 
@@ -492,7 +492,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6311)
+Defined in: [WAProto/index.d.ts:2065](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2065)
 
 Verifies a CallLogRecord message.
 

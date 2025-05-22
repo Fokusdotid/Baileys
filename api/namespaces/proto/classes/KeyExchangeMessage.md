@@ -1,6 +1,6 @@
 # Class: KeyExchangeMessage
 
-Defined in: [WAProto/index.d.ts:15488](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15488)
+Defined in: [WAProto/index.d.ts:9437](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9437)
 
 Represents a KeyExchangeMessage.
 
@@ -14,7 +14,7 @@ Represents a KeyExchangeMessage.
 
 > **new KeyExchangeMessage**(`properties`?): [`KeyExchangeMessage`](KeyExchangeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15494](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15494)
+Defined in: [WAProto/index.d.ts:9443](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9443)
 
 Constructs a new KeyExchangeMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### baseKey?
+### baseKey
 
-> `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **baseKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:15500](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15500)
+Defined in: [WAProto/index.d.ts:9449](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9449)
 
 KeyExchangeMessage baseKey.
 
@@ -46,11 +46,11 @@ KeyExchangeMessage baseKey.
 
 ***
 
-### baseKeySignature?
+### baseKeySignature
 
-> `optional` **baseKeySignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **baseKeySignature**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:15509](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15509)
+Defined in: [WAProto/index.d.ts:9458](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9458)
 
 KeyExchangeMessage baseKeySignature.
 
@@ -60,11 +60,11 @@ KeyExchangeMessage baseKeySignature.
 
 ***
 
-### id?
+### id
 
-> `optional` **id**: `null` \| `number`
+> **id**: `number`
 
-Defined in: [WAProto/index.d.ts:15497](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15497)
+Defined in: [WAProto/index.d.ts:9446](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9446)
 
 KeyExchangeMessage id.
 
@@ -74,11 +74,11 @@ KeyExchangeMessage id.
 
 ***
 
-### identityKey?
+### identityKey
 
-> `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **identityKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:15506](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15506)
+Defined in: [WAProto/index.d.ts:9455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9455)
 
 KeyExchangeMessage identityKey.
 
@@ -88,11 +88,11 @@ KeyExchangeMessage identityKey.
 
 ***
 
-### ratchetKey?
+### ratchetKey
 
-> `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **ratchetKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:15503](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15503)
+Defined in: [WAProto/index.d.ts:9452](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9452)
 
 KeyExchangeMessage ratchetKey.
 
@@ -106,7 +106,7 @@ KeyExchangeMessage ratchetKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15579](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15579)
+Defined in: [WAProto/index.d.ts:9528](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9528)
 
 Converts this KeyExchangeMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeyExchangeMessage`](KeyExchangeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15516](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15516)
+Defined in: [WAProto/index.d.ts:9465](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9465)
 
 Creates a new KeyExchangeMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ KeyExchangeMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`KeyExchangeMessage`](KeyExchangeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15542)
+Defined in: [WAProto/index.d.ts:9491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9491)
 
 Decodes a KeyExchangeMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeyExchangeMessage`](KeyExchangeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15551](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15551)
+Defined in: [WAProto/index.d.ts:9500](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9500)
 
 Decodes a KeyExchangeMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15524](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15524)
+Defined in: [WAProto/index.d.ts:9473](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9473)
 
 Encodes the specified KeyExchangeMessage message. Does not implicitly [verify](KeyExchangeMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15532](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15532)
+Defined in: [WAProto/index.d.ts:9481](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9481)
 
 Encodes the specified KeyExchangeMessage message, length delimited. Does not implicitly [verify](KeyExchangeMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeyExchangeMessage`](KeyExchangeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15565](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15565)
+Defined in: [WAProto/index.d.ts:9514](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9514)
 
 Creates a KeyExchangeMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ KeyExchangeMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15586](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15586)
+Defined in: [WAProto/index.d.ts:9535](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9535)
 
 Gets the default type url for KeyExchangeMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15573](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15573)
+Defined in: [WAProto/index.d.ts:9522](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9522)
 
 Creates a plain object from a KeyExchangeMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15558](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15558)
+Defined in: [WAProto/index.d.ts:9507](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9507)
 
 Verifies a KeyExchangeMessage message.
 

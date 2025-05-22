@@ -1,6 +1,6 @@
 # Interface: IReactionMessage
 
-Defined in: [WAProto/index.d.ts:30228](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30228)
+Defined in: [WAProto/index.d.ts:22695](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22695)
 
 Properties of a ReactionMessage.
 
@@ -10,7 +10,7 @@ Properties of a ReactionMessage.
 
 > `optional` **groupingKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30237](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30237)
+Defined in: [WAProto/index.d.ts:22704](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22704)
 
 ReactionMessage groupingKey
 
@@ -20,7 +20,7 @@ ReactionMessage groupingKey
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30231](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30231)
+Defined in: [WAProto/index.d.ts:22698](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22698)
 
 ReactionMessage key
 
@@ -30,7 +30,7 @@ ReactionMessage key
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30240](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30240)
+Defined in: [WAProto/index.d.ts:22707](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22707)
 
 ReactionMessage senderTimestampMs
 
@@ -40,6 +40,6 @@ ReactionMessage senderTimestampMs
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30234](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30234)
+Defined in: [WAProto/index.d.ts:22701](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22701)
 
 ReactionMessage text

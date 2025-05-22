@@ -1,6 +1,6 @@
 # Class: Body
 
-Defined in: [WAProto/index.d.ts:23374](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23374)
+Defined in: [WAProto/index.d.ts:16701](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16701)
 
 Represents a Body.
 
@@ -14,7 +14,7 @@ Represents a Body.
 
 > **new Body**(`properties`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:23380](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23380)
+Defined in: [WAProto/index.d.ts:16707](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16707)
 
 Constructs a new Body.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:23383](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23383)
+Defined in: [WAProto/index.d.ts:16710](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16710)
 
 Body text.
 
@@ -50,7 +50,7 @@ Body text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23453](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23453)
+Defined in: [WAProto/index.d.ts:16780](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16780)
 
 Converts this Body to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:23390](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23390)
+Defined in: [WAProto/index.d.ts:16717](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16717)
 
 Creates a new Body instance using the specified properties.
 
@@ -90,7 +90,7 @@ Body instance
 
 > `static` **decode**(`reader`, `length`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:23416](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23416)
+Defined in: [WAProto/index.d.ts:16743](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16743)
 
 Decodes a Body message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:23425](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23425)
+Defined in: [WAProto/index.d.ts:16752](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16752)
 
 Decodes a Body message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23398](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23398)
+Defined in: [WAProto/index.d.ts:16725](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16725)
 
 Encodes the specified Body message. Does not implicitly [verify](Body.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23406](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23406)
+Defined in: [WAProto/index.d.ts:16733](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16733)
 
 Encodes the specified Body message, length delimited. Does not implicitly [verify](Body.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:23439](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23439)
+Defined in: [WAProto/index.d.ts:16766](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16766)
 
 Creates a Body message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ Body
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23460](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23460)
+Defined in: [WAProto/index.d.ts:16787](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16787)
 
 Gets the default type url for Body
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23447](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23447)
+Defined in: [WAProto/index.d.ts:16774](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16774)
 
 Creates a plain object from a Body message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23432](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23432)
+Defined in: [WAProto/index.d.ts:16759](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16759)
 
 Verifies a Body message.
 

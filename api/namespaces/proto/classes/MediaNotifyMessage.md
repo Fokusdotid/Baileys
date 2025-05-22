@@ -1,6 +1,6 @@
 # Class: MediaNotifyMessage
 
-Defined in: [WAProto/index.d.ts:16533](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16533)
+Defined in: [WAProto/index.d.ts:10378](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10378)
 
 Represents a MediaNotifyMessage.
 
@@ -14,7 +14,7 @@ Represents a MediaNotifyMessage.
 
 > **new MediaNotifyMessage**(`properties`?): [`MediaNotifyMessage`](MediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:16539](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16539)
+Defined in: [WAProto/index.d.ts:10384](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10384)
 
 Constructs a new MediaNotifyMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### expressPathUrl?
+### expressPathUrl
 
-> `optional` **expressPathUrl**: `null` \| `string`
+> **expressPathUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:16542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16542)
+Defined in: [WAProto/index.d.ts:10387](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10387)
 
 MediaNotifyMessage expressPathUrl.
 
@@ -46,11 +46,11 @@ MediaNotifyMessage expressPathUrl.
 
 ***
 
-### fileEncSha256?
+### fileEncSha256
 
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:16545](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16545)
+Defined in: [WAProto/index.d.ts:10390](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10390)
 
 MediaNotifyMessage fileEncSha256.
 
@@ -60,11 +60,11 @@ MediaNotifyMessage fileEncSha256.
 
 ***
 
-### fileLength?
+### fileLength
 
-> `optional` **fileLength**: `null` \| `number` \| `Long`
+> **fileLength**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:16548](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16548)
+Defined in: [WAProto/index.d.ts:10393](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10393)
 
 MediaNotifyMessage fileLength.
 
@@ -78,7 +78,7 @@ MediaNotifyMessage fileLength.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16618](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16618)
+Defined in: [WAProto/index.d.ts:10463](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10463)
 
 Converts this MediaNotifyMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MediaNotifyMessage`](MediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:16555](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16555)
+Defined in: [WAProto/index.d.ts:10400](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10400)
 
 Creates a new MediaNotifyMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ MediaNotifyMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`MediaNotifyMessage`](MediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:16581](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16581)
+Defined in: [WAProto/index.d.ts:10426](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10426)
 
 Decodes a MediaNotifyMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MediaNotifyMessage`](MediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:16590](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16590)
+Defined in: [WAProto/index.d.ts:10435](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10435)
 
 Decodes a MediaNotifyMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16563](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16563)
+Defined in: [WAProto/index.d.ts:10408](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10408)
 
 Encodes the specified MediaNotifyMessage message. Does not implicitly [verify](MediaNotifyMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16571)
+Defined in: [WAProto/index.d.ts:10416](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10416)
 
 Encodes the specified MediaNotifyMessage message, length delimited. Does not implicitly [verify](MediaNotifyMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MediaNotifyMessage`](MediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:16604](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16604)
+Defined in: [WAProto/index.d.ts:10449](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10449)
 
 Creates a MediaNotifyMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ MediaNotifyMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16625](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16625)
+Defined in: [WAProto/index.d.ts:10470](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10470)
 
 Gets the default type url for MediaNotifyMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16612](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16612)
+Defined in: [WAProto/index.d.ts:10457](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10457)
 
 Creates a plain object from a MediaNotifyMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16597](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L16597)
+Defined in: [WAProto/index.d.ts:10442](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L10442)
 
 Verifies a MediaNotifyMessage message.
 

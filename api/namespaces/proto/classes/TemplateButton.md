@@ -1,6 +1,6 @@
 # Class: TemplateButton
 
-Defined in: [WAProto/index.d.ts:47759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47759)
+Defined in: [WAProto/index.d.ts:38137](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38137)
 
 Represents a TemplateButton.
 
@@ -14,7 +14,7 @@ Represents a TemplateButton.
 
 > **new TemplateButton**(`properties`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:47765](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47765)
+Defined in: [WAProto/index.d.ts:38143](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38143)
 
 Constructs a new TemplateButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **button**: `"quickReplyButton"` \| `"urlButton"` \| `"callButton"`
 
-Defined in: [WAProto/index.d.ts:47780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47780)
+Defined in: [WAProto/index.d.ts:38158](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38158)
 
 TemplateButton button.
 
@@ -46,7 +46,7 @@ TemplateButton button.
 
 > `optional` **callButton**: `null` \| [`ICallButton`](../namespaces/TemplateButton/interfaces/ICallButton.md)
 
-Defined in: [WAProto/index.d.ts:47777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47777)
+Defined in: [WAProto/index.d.ts:38155](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38155)
 
 TemplateButton callButton.
 
@@ -56,11 +56,11 @@ TemplateButton callButton.
 
 ***
 
-### index?
+### index
 
-> `optional` **index**: `null` \| `number`
+> **index**: `number`
 
-Defined in: [WAProto/index.d.ts:47768](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47768)
+Defined in: [WAProto/index.d.ts:38146](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38146)
 
 TemplateButton index.
 
@@ -74,7 +74,7 @@ TemplateButton index.
 
 > `optional` **quickReplyButton**: `null` \| [`IQuickReplyButton`](../namespaces/TemplateButton/interfaces/IQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:47771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47771)
+Defined in: [WAProto/index.d.ts:38149](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38149)
 
 TemplateButton quickReplyButton.
 
@@ -88,7 +88,7 @@ TemplateButton quickReplyButton.
 
 > `optional` **urlButton**: `null` \| [`IURLButton`](../namespaces/TemplateButton/interfaces/IURLButton.md)
 
-Defined in: [WAProto/index.d.ts:47774](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47774)
+Defined in: [WAProto/index.d.ts:38152](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38152)
 
 TemplateButton urlButton.
 
@@ -102,7 +102,7 @@ TemplateButton urlButton.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47850](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47850)
+Defined in: [WAProto/index.d.ts:38228](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38228)
 
 Converts this TemplateButton to JSON.
 
@@ -118,7 +118,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:47787](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47787)
+Defined in: [WAProto/index.d.ts:38165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38165)
 
 Creates a new TemplateButton instance using the specified properties.
 
@@ -142,7 +142,7 @@ TemplateButton instance
 
 > `static` **decode**(`reader`, `length`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:47813](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47813)
+Defined in: [WAProto/index.d.ts:38191](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38191)
 
 Decodes a TemplateButton message from the specified reader or buffer.
 
@@ -180,7 +180,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:47822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47822)
+Defined in: [WAProto/index.d.ts:38200](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38200)
 
 Decodes a TemplateButton message from the specified reader or buffer, length delimited.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47795](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47795)
+Defined in: [WAProto/index.d.ts:38173](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38173)
 
 Encodes the specified TemplateButton message. Does not implicitly [verify](TemplateButton.md#verify) messages.
 
@@ -242,7 +242,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47803](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47803)
+Defined in: [WAProto/index.d.ts:38181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38181)
 
 Encodes the specified TemplateButton message, length delimited. Does not implicitly [verify](TemplateButton.md#verify) messages.
 
@@ -272,7 +272,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:47836](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47836)
+Defined in: [WAProto/index.d.ts:38214](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38214)
 
 Creates a TemplateButton message from a plain object. Also converts values to their respective internal types.
 
@@ -294,7 +294,7 @@ TemplateButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47857](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47857)
+Defined in: [WAProto/index.d.ts:38235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38235)
 
 Gets the default type url for TemplateButton
 
@@ -318,7 +318,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47844](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47844)
+Defined in: [WAProto/index.d.ts:38222](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38222)
 
 Creates a plain object from a TemplateButton message. Also converts values to other types if specified.
 
@@ -348,7 +348,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47829)
+Defined in: [WAProto/index.d.ts:38207](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38207)
 
 Verifies a TemplateButton message.
 

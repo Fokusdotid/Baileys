@@ -1,6 +1,6 @@
 # Class: ListMessage
 
-Defined in: [WAProto/index.d.ts:24890](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24890)
+Defined in: [WAProto/index.d.ts:18217](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18217)
 
 Represents a ListMessage.
 
@@ -14,7 +14,7 @@ Represents a ListMessage.
 
 > **new ListMessage**(`properties`?): [`ListMessage`](ListMessage.md)
 
-Defined in: [WAProto/index.d.ts:24896](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24896)
+Defined in: [WAProto/index.d.ts:18223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18223)
 
 Constructs a new ListMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### buttonText?
+### buttonText
 
-> `optional` **buttonText**: `null` \| `string`
+> **buttonText**: `string`
 
-Defined in: [WAProto/index.d.ts:24905](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24905)
+Defined in: [WAProto/index.d.ts:18232](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18232)
 
 ListMessage buttonText.
 
@@ -50,7 +50,7 @@ ListMessage buttonText.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:24920](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24920)
+Defined in: [WAProto/index.d.ts:18247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18247)
 
 ListMessage contextInfo.
 
@@ -60,11 +60,11 @@ ListMessage contextInfo.
 
 ***
 
-### description?
+### description
 
-> `optional` **description**: `null` \| `string`
+> **description**: `string`
 
-Defined in: [WAProto/index.d.ts:24902](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24902)
+Defined in: [WAProto/index.d.ts:18229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18229)
 
 ListMessage description.
 
@@ -74,11 +74,11 @@ ListMessage description.
 
 ***
 
-### footerText?
+### footerText
 
-> `optional` **footerText**: `null` \| `string`
+> **footerText**: `string`
 
-Defined in: [WAProto/index.d.ts:24917](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24917)
+Defined in: [WAProto/index.d.ts:18244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18244)
 
 ListMessage footerText.
 
@@ -88,11 +88,11 @@ ListMessage footerText.
 
 ***
 
-### listType?
+### listType
 
-> `optional` **listType**: `null` \| [`ListType`](../namespaces/ListMessage/enumerations/ListType.md)
+> **listType**: [`ListType`](../namespaces/ListMessage/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:24908](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24908)
+Defined in: [WAProto/index.d.ts:18235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18235)
 
 ListMessage listType.
 
@@ -106,7 +106,7 @@ ListMessage listType.
 
 > `optional` **productListInfo**: `null` \| [`IProductListInfo`](../namespaces/ListMessage/interfaces/IProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:24914](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24914)
+Defined in: [WAProto/index.d.ts:18241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18241)
 
 ListMessage productListInfo.
 
@@ -120,7 +120,7 @@ ListMessage productListInfo.
 
 > **sections**: [`ISection`](../namespaces/ListMessage/interfaces/ISection.md)[]
 
-Defined in: [WAProto/index.d.ts:24911](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24911)
+Defined in: [WAProto/index.d.ts:18238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18238)
 
 ListMessage sections.
 
@@ -130,11 +130,11 @@ ListMessage sections.
 
 ***
 
-### title?
+### title
 
-> `optional` **title**: `null` \| `string`
+> **title**: `string`
 
-Defined in: [WAProto/index.d.ts:24899](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24899)
+Defined in: [WAProto/index.d.ts:18226](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18226)
 
 ListMessage title.
 
@@ -148,7 +148,7 @@ ListMessage title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24990](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24990)
+Defined in: [WAProto/index.d.ts:18317](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18317)
 
 Converts this ListMessage to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ListMessage`](ListMessage.md)
 
-Defined in: [WAProto/index.d.ts:24927](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24927)
+Defined in: [WAProto/index.d.ts:18254](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18254)
 
 Creates a new ListMessage instance using the specified properties.
 
@@ -188,7 +188,7 @@ ListMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ListMessage`](ListMessage.md)
 
-Defined in: [WAProto/index.d.ts:24953](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24953)
+Defined in: [WAProto/index.d.ts:18280](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18280)
 
 Decodes a ListMessage message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ListMessage`](ListMessage.md)
 
-Defined in: [WAProto/index.d.ts:24962](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24962)
+Defined in: [WAProto/index.d.ts:18289](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18289)
 
 Decodes a ListMessage message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24935](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24935)
+Defined in: [WAProto/index.d.ts:18262](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18262)
 
 Encodes the specified ListMessage message. Does not implicitly [verify](ListMessage.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24943](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24943)
+Defined in: [WAProto/index.d.ts:18270](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18270)
 
 Encodes the specified ListMessage message, length delimited. Does not implicitly [verify](ListMessage.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ListMessage`](ListMessage.md)
 
-Defined in: [WAProto/index.d.ts:24976](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24976)
+Defined in: [WAProto/index.d.ts:18303](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18303)
 
 Creates a ListMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ ListMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24997](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24997)
+Defined in: [WAProto/index.d.ts:18324](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18324)
 
 Gets the default type url for ListMessage
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24984)
+Defined in: [WAProto/index.d.ts:18311](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18311)
 
 Creates a plain object from a ListMessage message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24969](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24969)
+Defined in: [WAProto/index.d.ts:18296](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L18296)
 
 Verifies a ListMessage message.
 

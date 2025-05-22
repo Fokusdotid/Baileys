@@ -1,6 +1,6 @@
 # Interface: INativeFlowInfo
 
-Defined in: [WAProto/index.d.ts:19023](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19023)
+Defined in: [WAProto/index.d.ts:12649](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12649)
 
 Properties of a NativeFlowInfo.
 
@@ -10,7 +10,7 @@ Properties of a NativeFlowInfo.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19026)
+Defined in: [WAProto/index.d.ts:12652](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12652)
 
 NativeFlowInfo name
 
@@ -20,6 +20,6 @@ NativeFlowInfo name
 
 > `optional` **paramsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19029](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19029)
+Defined in: [WAProto/index.d.ts:12655](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12655)
 
 NativeFlowInfo paramsJson

@@ -2,7 +2,7 @@
 
 > **MediaGenerationOptions**: `object`
 
-Defined in: [src/Types/Message.ts:275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/Types/Message.ts#L275)
+Defined in: [src/Types/Message.ts:275](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/Types/Message.ts#L275)
 
 ## Type declaration
 

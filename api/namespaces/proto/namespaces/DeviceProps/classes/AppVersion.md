@@ -1,6 +1,6 @@
 # Class: AppVersion
 
-Defined in: [WAProto/index.d.ts:11902](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11902)
+Defined in: [WAProto/index.d.ts:6498](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6498)
 
 Represents an AppVersion.
 
@@ -14,7 +14,7 @@ Represents an AppVersion.
 
 > **new AppVersion**(`properties`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11908](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11908)
+Defined in: [WAProto/index.d.ts:6504](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6504)
 
 Constructs a new AppVersion.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### primary?
+### primary
 
-> `optional` **primary**: `null` \| `number`
+> **primary**: `number`
 
-Defined in: [WAProto/index.d.ts:11911](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11911)
+Defined in: [WAProto/index.d.ts:6507](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6507)
 
 AppVersion primary.
 
@@ -46,11 +46,11 @@ AppVersion primary.
 
 ***
 
-### quaternary?
+### quaternary
 
-> `optional` **quaternary**: `null` \| `number`
+> **quaternary**: `number`
 
-Defined in: [WAProto/index.d.ts:11920](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11920)
+Defined in: [WAProto/index.d.ts:6516](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6516)
 
 AppVersion quaternary.
 
@@ -60,11 +60,11 @@ AppVersion quaternary.
 
 ***
 
-### quinary?
+### quinary
 
-> `optional` **quinary**: `null` \| `number`
+> **quinary**: `number`
 
-Defined in: [WAProto/index.d.ts:11923](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11923)
+Defined in: [WAProto/index.d.ts:6519](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6519)
 
 AppVersion quinary.
 
@@ -74,11 +74,11 @@ AppVersion quinary.
 
 ***
 
-### secondary?
+### secondary
 
-> `optional` **secondary**: `null` \| `number`
+> **secondary**: `number`
 
-Defined in: [WAProto/index.d.ts:11914](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11914)
+Defined in: [WAProto/index.d.ts:6510](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6510)
 
 AppVersion secondary.
 
@@ -88,11 +88,11 @@ AppVersion secondary.
 
 ***
 
-### tertiary?
+### tertiary
 
-> `optional` **tertiary**: `null` \| `number`
+> **tertiary**: `number`
 
-Defined in: [WAProto/index.d.ts:11917](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11917)
+Defined in: [WAProto/index.d.ts:6513](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6513)
 
 AppVersion tertiary.
 
@@ -106,7 +106,7 @@ AppVersion tertiary.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11993](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11993)
+Defined in: [WAProto/index.d.ts:6589](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6589)
 
 Converts this AppVersion to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11930](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11930)
+Defined in: [WAProto/index.d.ts:6526](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6526)
 
 Creates a new AppVersion instance using the specified properties.
 
@@ -146,7 +146,7 @@ AppVersion instance
 
 > `static` **decode**(`reader`, `length`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11956](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11956)
+Defined in: [WAProto/index.d.ts:6552](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6552)
 
 Decodes an AppVersion message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11965)
+Defined in: [WAProto/index.d.ts:6561](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6561)
 
 Decodes an AppVersion message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11938](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11938)
+Defined in: [WAProto/index.d.ts:6534](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6534)
 
 Encodes the specified AppVersion message. Does not implicitly [verify](AppVersion.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11946](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11946)
+Defined in: [WAProto/index.d.ts:6542](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6542)
 
 Encodes the specified AppVersion message, length delimited. Does not implicitly [verify](AppVersion.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11979](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11979)
+Defined in: [WAProto/index.d.ts:6575](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6575)
 
 Creates an AppVersion message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ AppVersion
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12000)
+Defined in: [WAProto/index.d.ts:6596](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6596)
 
 Gets the default type url for AppVersion
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11987](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11987)
+Defined in: [WAProto/index.d.ts:6583](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6583)
 
 Creates a plain object from an AppVersion message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11972)
+Defined in: [WAProto/index.d.ts:6568](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6568)
 
 Verifies an AppVersion message.
 

@@ -2,4 +2,4 @@
 
 > `const` **DEFAULT\_ORIGIN**: `"https://web.whatsapp.com"` = `'https://web.whatsapp.com'`
 
-Defined in: [src/Defaults/index.ts:10](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/Defaults/index.ts#L10)
+Defined in: [src/Defaults/index.ts:10](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/Defaults/index.ts#L10)

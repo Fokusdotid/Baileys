@@ -1,6 +1,6 @@
 # Class: PremiumMessageInfo
 
-Defined in: [WAProto/index.d.ts:37113](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37113)
+Defined in: [WAProto/index.d.ts:28423](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28423)
 
 Represents a PremiumMessageInfo.
 
@@ -14,7 +14,7 @@ Represents a PremiumMessageInfo.
 
 > **new PremiumMessageInfo**(`properties`?): [`PremiumMessageInfo`](PremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:37119](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37119)
+Defined in: [WAProto/index.d.ts:28429](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28429)
 
 Constructs a new PremiumMessageInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### serverCampaignId?
+### serverCampaignId
 
-> `optional` **serverCampaignId**: `null` \| `string`
+> **serverCampaignId**: `string`
 
-Defined in: [WAProto/index.d.ts:37122](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37122)
+Defined in: [WAProto/index.d.ts:28432](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28432)
 
 PremiumMessageInfo serverCampaignId.
 
@@ -50,7 +50,7 @@ PremiumMessageInfo serverCampaignId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37192](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37192)
+Defined in: [WAProto/index.d.ts:28502](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28502)
 
 Converts this PremiumMessageInfo to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PremiumMessageInfo`](PremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:37129](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37129)
+Defined in: [WAProto/index.d.ts:28439](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28439)
 
 Creates a new PremiumMessageInfo instance using the specified properties.
 
@@ -90,7 +90,7 @@ PremiumMessageInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`PremiumMessageInfo`](PremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:37155](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37155)
+Defined in: [WAProto/index.d.ts:28465](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28465)
 
 Decodes a PremiumMessageInfo message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PremiumMessageInfo`](PremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:37164](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37164)
+Defined in: [WAProto/index.d.ts:28474](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28474)
 
 Decodes a PremiumMessageInfo message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37137](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37137)
+Defined in: [WAProto/index.d.ts:28447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28447)
 
 Encodes the specified PremiumMessageInfo message. Does not implicitly [verify](PremiumMessageInfo.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37145](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37145)
+Defined in: [WAProto/index.d.ts:28455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28455)
 
 Encodes the specified PremiumMessageInfo message, length delimited. Does not implicitly [verify](PremiumMessageInfo.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PremiumMessageInfo`](PremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:37178](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37178)
+Defined in: [WAProto/index.d.ts:28488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28488)
 
 Creates a PremiumMessageInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PremiumMessageInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37199](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37199)
+Defined in: [WAProto/index.d.ts:28509](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28509)
 
 Gets the default type url for PremiumMessageInfo
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37186](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37186)
+Defined in: [WAProto/index.d.ts:28496](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28496)
 
 Creates a plain object from a PremiumMessageInfo message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37171](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37171)
+Defined in: [WAProto/index.d.ts:28481](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28481)
 
 Verifies a PremiumMessageInfo message.
 

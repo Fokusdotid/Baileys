@@ -1,6 +1,6 @@
 # Class: BizIdentityInfo
 
-Defined in: [WAProto/index.d.ts:3244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3244)
+Defined in: [WAProto/index.d.ts:1175](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1175)
 
 Represents a BizIdentityInfo.
 
@@ -14,7 +14,7 @@ Represents a BizIdentityInfo.
 
 > **new BizIdentityInfo**(`properties`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3250)
+Defined in: [WAProto/index.d.ts:1181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1181)
 
 Constructs a new BizIdentityInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### actualActors?
+### actualActors
 
-> `optional` **actualActors**: `null` \| [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
+> **actualActors**: [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
 
-Defined in: [WAProto/index.d.ts:3268](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3268)
+Defined in: [WAProto/index.d.ts:1199](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1199)
 
 BizIdentityInfo actualActors.
 
@@ -46,11 +46,11 @@ BizIdentityInfo actualActors.
 
 ***
 
-### featureControls?
+### featureControls
 
-> `optional` **featureControls**: `null` \| `number` \| `Long`
+> **featureControls**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3274](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3274)
+Defined in: [WAProto/index.d.ts:1205](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1205)
 
 BizIdentityInfo featureControls.
 
@@ -60,11 +60,11 @@ BizIdentityInfo featureControls.
 
 ***
 
-### hostStorage?
+### hostStorage
 
-> `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
+> **hostStorage**: [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3265](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3265)
+Defined in: [WAProto/index.d.ts:1196](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1196)
 
 BizIdentityInfo hostStorage.
 
@@ -74,11 +74,11 @@ BizIdentityInfo hostStorage.
 
 ***
 
-### privacyModeTs?
+### privacyModeTs
 
-> `optional` **privacyModeTs**: `null` \| `number` \| `Long`
+> **privacyModeTs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3271](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3271)
+Defined in: [WAProto/index.d.ts:1202](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1202)
 
 BizIdentityInfo privacyModeTs.
 
@@ -88,11 +88,11 @@ BizIdentityInfo privacyModeTs.
 
 ***
 
-### revoked?
+### revoked
 
-> `optional` **revoked**: `null` \| `boolean`
+> **revoked**: `boolean`
 
-Defined in: [WAProto/index.d.ts:3262](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3262)
+Defined in: [WAProto/index.d.ts:1193](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1193)
 
 BizIdentityInfo revoked.
 
@@ -102,11 +102,11 @@ BizIdentityInfo revoked.
 
 ***
 
-### signed?
+### signed
 
-> `optional` **signed**: `null` \| `boolean`
+> **signed**: `boolean`
 
-Defined in: [WAProto/index.d.ts:3259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3259)
+Defined in: [WAProto/index.d.ts:1190](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1190)
 
 BizIdentityInfo signed.
 
@@ -116,11 +116,11 @@ BizIdentityInfo signed.
 
 ***
 
-### vlevel?
+### vlevel
 
-> `optional` **vlevel**: `null` \| [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
+> **vlevel**: [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
 
-Defined in: [WAProto/index.d.ts:3253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3253)
+Defined in: [WAProto/index.d.ts:1184](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1184)
 
 BizIdentityInfo vlevel.
 
@@ -134,7 +134,7 @@ BizIdentityInfo vlevel.
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](../interfaces/IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3256)
+Defined in: [WAProto/index.d.ts:1187](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1187)
 
 BizIdentityInfo vnameCert.
 
@@ -148,7 +148,7 @@ BizIdentityInfo vnameCert.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3344](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3344)
+Defined in: [WAProto/index.d.ts:1275](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1275)
 
 Converts this BizIdentityInfo to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3281](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3281)
+Defined in: [WAProto/index.d.ts:1212](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1212)
 
 Creates a new BizIdentityInfo instance using the specified properties.
 
@@ -188,7 +188,7 @@ BizIdentityInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3307](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3307)
+Defined in: [WAProto/index.d.ts:1238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1238)
 
 Decodes a BizIdentityInfo message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3316](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3316)
+Defined in: [WAProto/index.d.ts:1247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1247)
 
 Decodes a BizIdentityInfo message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3289](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3289)
+Defined in: [WAProto/index.d.ts:1220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1220)
 
 Encodes the specified BizIdentityInfo message. Does not implicitly [verify](BizIdentityInfo.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3297](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3297)
+Defined in: [WAProto/index.d.ts:1228](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1228)
 
 Encodes the specified BizIdentityInfo message, length delimited. Does not implicitly [verify](BizIdentityInfo.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3330](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3330)
+Defined in: [WAProto/index.d.ts:1261](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1261)
 
 Creates a BizIdentityInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ BizIdentityInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3351](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3351)
+Defined in: [WAProto/index.d.ts:1282](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1282)
 
 Gets the default type url for BizIdentityInfo
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3338](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3338)
+Defined in: [WAProto/index.d.ts:1269](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1269)
 
 Creates a plain object from a BizIdentityInfo message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3323](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3323)
+Defined in: [WAProto/index.d.ts:1254](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1254)
 
 Verifies a BizIdentityInfo message.
 

@@ -1,6 +1,6 @@
 # Class: NuxAction
 
-Defined in: [WAProto/index.d.ts:44205](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44205)
+Defined in: [WAProto/index.d.ts:34897](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34897)
 
 Represents a NuxAction.
 
@@ -14,7 +14,7 @@ Represents a NuxAction.
 
 > **new NuxAction**(`properties`?): [`NuxAction`](NuxAction.md)
 
-Defined in: [WAProto/index.d.ts:44211](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44211)
+Defined in: [WAProto/index.d.ts:34903](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34903)
 
 Constructs a new NuxAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### acknowledged?
+### acknowledged
 
-> `optional` **acknowledged**: `null` \| `boolean`
+> **acknowledged**: `boolean`
 
-Defined in: [WAProto/index.d.ts:44214](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44214)
+Defined in: [WAProto/index.d.ts:34906](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34906)
 
 NuxAction acknowledged.
 
@@ -50,7 +50,7 @@ NuxAction acknowledged.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44284](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44284)
+Defined in: [WAProto/index.d.ts:34976](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34976)
 
 Converts this NuxAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NuxAction`](NuxAction.md)
 
-Defined in: [WAProto/index.d.ts:44221](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44221)
+Defined in: [WAProto/index.d.ts:34913](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34913)
 
 Creates a new NuxAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ NuxAction instance
 
 > `static` **decode**(`reader`, `length`?): [`NuxAction`](NuxAction.md)
 
-Defined in: [WAProto/index.d.ts:44247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44247)
+Defined in: [WAProto/index.d.ts:34939](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34939)
 
 Decodes a NuxAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NuxAction`](NuxAction.md)
 
-Defined in: [WAProto/index.d.ts:44256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44256)
+Defined in: [WAProto/index.d.ts:34948](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34948)
 
 Decodes a NuxAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44229](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44229)
+Defined in: [WAProto/index.d.ts:34921](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34921)
 
 Encodes the specified NuxAction message. Does not implicitly [verify](NuxAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44237](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44237)
+Defined in: [WAProto/index.d.ts:34929](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34929)
 
 Encodes the specified NuxAction message, length delimited. Does not implicitly [verify](NuxAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NuxAction`](NuxAction.md)
 
-Defined in: [WAProto/index.d.ts:44270](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44270)
+Defined in: [WAProto/index.d.ts:34962](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34962)
 
 Creates a NuxAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ NuxAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44291](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44291)
+Defined in: [WAProto/index.d.ts:34983](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34983)
 
 Gets the default type url for NuxAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44278)
+Defined in: [WAProto/index.d.ts:34970](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34970)
 
 Creates a plain object from a NuxAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44263](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44263)
+Defined in: [WAProto/index.d.ts:34955](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34955)
 
 Verifies a NuxAction message.
 

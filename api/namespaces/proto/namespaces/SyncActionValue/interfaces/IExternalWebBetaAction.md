@@ -1,6 +1,6 @@
 # Interface: IExternalWebBetaAction
 
-Defined in: [WAProto/index.d.ts:42461](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42461)
+Defined in: [WAProto/index.d.ts:33607](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33607)
 
 Properties of an ExternalWebBetaAction.
 
@@ -10,6 +10,6 @@ Properties of an ExternalWebBetaAction.
 
 > `optional` **isOptIn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42464](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42464)
+Defined in: [WAProto/index.d.ts:33610](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33610)
 
 ExternalWebBetaAction isOptIn

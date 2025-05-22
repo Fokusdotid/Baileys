@@ -1,6 +1,6 @@
 # Class: NativeFlowInfo
 
-Defined in: [WAProto/index.d.ts:19033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19033)
+Defined in: [WAProto/index.d.ts:12659](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12659)
 
 Represents a NativeFlowInfo.
 
@@ -14,7 +14,7 @@ Represents a NativeFlowInfo.
 
 > **new NativeFlowInfo**(`properties`?): [`NativeFlowInfo`](NativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:19039](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19039)
+Defined in: [WAProto/index.d.ts:12665](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12665)
 
 Constructs a new NativeFlowInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### name?
+### name
 
-> `optional` **name**: `null` \| `string`
+> **name**: `string`
 
-Defined in: [WAProto/index.d.ts:19042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19042)
+Defined in: [WAProto/index.d.ts:12668](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12668)
 
 NativeFlowInfo name.
 
@@ -46,11 +46,11 @@ NativeFlowInfo name.
 
 ***
 
-### paramsJson?
+### paramsJson
 
-> `optional` **paramsJson**: `null` \| `string`
+> **paramsJson**: `string`
 
-Defined in: [WAProto/index.d.ts:19045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19045)
+Defined in: [WAProto/index.d.ts:12671](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12671)
 
 NativeFlowInfo paramsJson.
 
@@ -64,7 +64,7 @@ NativeFlowInfo paramsJson.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19115](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19115)
+Defined in: [WAProto/index.d.ts:12741](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12741)
 
 Converts this NativeFlowInfo to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NativeFlowInfo`](NativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:19052](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19052)
+Defined in: [WAProto/index.d.ts:12678](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12678)
 
 Creates a new NativeFlowInfo instance using the specified properties.
 
@@ -104,7 +104,7 @@ NativeFlowInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`NativeFlowInfo`](NativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:19078](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19078)
+Defined in: [WAProto/index.d.ts:12704](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12704)
 
 Decodes a NativeFlowInfo message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NativeFlowInfo`](NativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:19087](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19087)
+Defined in: [WAProto/index.d.ts:12713](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12713)
 
 Decodes a NativeFlowInfo message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19060](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19060)
+Defined in: [WAProto/index.d.ts:12686](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12686)
 
 Encodes the specified NativeFlowInfo message. Does not implicitly [verify](NativeFlowInfo.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19068](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19068)
+Defined in: [WAProto/index.d.ts:12694](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12694)
 
 Encodes the specified NativeFlowInfo message, length delimited. Does not implicitly [verify](NativeFlowInfo.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NativeFlowInfo`](NativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:19101](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19101)
+Defined in: [WAProto/index.d.ts:12727](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12727)
 
 Creates a NativeFlowInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ NativeFlowInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19122](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19122)
+Defined in: [WAProto/index.d.ts:12748](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12748)
 
 Gets the default type url for NativeFlowInfo
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19109](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19109)
+Defined in: [WAProto/index.d.ts:12735](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12735)
 
 Creates a plain object from a NativeFlowInfo message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19094](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19094)
+Defined in: [WAProto/index.d.ts:12720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12720)
 
 Verifies a NativeFlowInfo message.
 

@@ -1,6 +1,6 @@
 # Class: HistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:27133](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27133)
+Defined in: [WAProto/index.d.ts:20215](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20215)
 
 Represents a HistorySyncOnDemandRequest.
 
@@ -14,7 +14,7 @@ Represents a HistorySyncOnDemandRequest.
 
 > **new HistorySyncOnDemandRequest**(`properties`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:27139](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27139)
+Defined in: [WAProto/index.d.ts:20221](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20221)
 
 Constructs a new HistorySyncOnDemandRequest.
 
@@ -32,25 +32,11 @@ Properties to set
 
 ## Properties
 
-### accountLid?
+### chatJid
 
-> `optional` **accountLid**: `null` \| `string`
+> **chatJid**: `string`
 
-Defined in: [WAProto/index.d.ts:27157](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27157)
-
-HistorySyncOnDemandRequest accountLid.
-
-#### Implementation of
-
-[`IHistorySyncOnDemandRequest`](../interfaces/IHistorySyncOnDemandRequest.md).[`accountLid`](../interfaces/IHistorySyncOnDemandRequest.md#accountlid)
-
-***
-
-### chatJid?
-
-> `optional` **chatJid**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:27142](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27142)
+Defined in: [WAProto/index.d.ts:20224](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20224)
 
 HistorySyncOnDemandRequest chatJid.
 
@@ -60,11 +46,11 @@ HistorySyncOnDemandRequest chatJid.
 
 ***
 
-### oldestMsgFromMe?
+### oldestMsgFromMe
 
-> `optional` **oldestMsgFromMe**: `null` \| `boolean`
+> **oldestMsgFromMe**: `boolean`
 
-Defined in: [WAProto/index.d.ts:27148](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27148)
+Defined in: [WAProto/index.d.ts:20230](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20230)
 
 HistorySyncOnDemandRequest oldestMsgFromMe.
 
@@ -74,11 +60,11 @@ HistorySyncOnDemandRequest oldestMsgFromMe.
 
 ***
 
-### oldestMsgId?
+### oldestMsgId
 
-> `optional` **oldestMsgId**: `null` \| `string`
+> **oldestMsgId**: `string`
 
-Defined in: [WAProto/index.d.ts:27145](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27145)
+Defined in: [WAProto/index.d.ts:20227](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20227)
 
 HistorySyncOnDemandRequest oldestMsgId.
 
@@ -88,11 +74,11 @@ HistorySyncOnDemandRequest oldestMsgId.
 
 ***
 
-### oldestMsgTimestampMs?
+### oldestMsgTimestampMs
 
-> `optional` **oldestMsgTimestampMs**: `null` \| `number` \| `Long`
+> **oldestMsgTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:27154](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27154)
+Defined in: [WAProto/index.d.ts:20236](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20236)
 
 HistorySyncOnDemandRequest oldestMsgTimestampMs.
 
@@ -102,11 +88,11 @@ HistorySyncOnDemandRequest oldestMsgTimestampMs.
 
 ***
 
-### onDemandMsgCount?
+### onDemandMsgCount
 
-> `optional` **onDemandMsgCount**: `null` \| `number`
+> **onDemandMsgCount**: `number`
 
-Defined in: [WAProto/index.d.ts:27151](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27151)
+Defined in: [WAProto/index.d.ts:20233](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20233)
 
 HistorySyncOnDemandRequest onDemandMsgCount.
 
@@ -120,7 +106,7 @@ HistorySyncOnDemandRequest onDemandMsgCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27227](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27227)
+Defined in: [WAProto/index.d.ts:20306](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20306)
 
 Converts this HistorySyncOnDemandRequest to JSON.
 
@@ -136,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:27164](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27164)
+Defined in: [WAProto/index.d.ts:20243](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20243)
 
 Creates a new HistorySyncOnDemandRequest instance using the specified properties.
 
@@ -160,7 +146,7 @@ HistorySyncOnDemandRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:27190](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27190)
+Defined in: [WAProto/index.d.ts:20269](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20269)
 
 Decodes a HistorySyncOnDemandRequest message from the specified reader or buffer.
 
@@ -198,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:27199](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27199)
+Defined in: [WAProto/index.d.ts:20278](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20278)
 
 Decodes a HistorySyncOnDemandRequest message from the specified reader or buffer, length delimited.
 
@@ -230,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27172](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27172)
+Defined in: [WAProto/index.d.ts:20251](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20251)
 
 Encodes the specified HistorySyncOnDemandRequest message. Does not implicitly [verify](HistorySyncOnDemandRequest.md#verify) messages.
 
@@ -260,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27180](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27180)
+Defined in: [WAProto/index.d.ts:20259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20259)
 
 Encodes the specified HistorySyncOnDemandRequest message, length delimited. Does not implicitly [verify](HistorySyncOnDemandRequest.md#verify) messages.
 
@@ -290,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:27213](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27213)
+Defined in: [WAProto/index.d.ts:20292](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20292)
 
 Creates a HistorySyncOnDemandRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +298,7 @@ HistorySyncOnDemandRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27234](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27234)
+Defined in: [WAProto/index.d.ts:20313](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20313)
 
 Gets the default type url for HistorySyncOnDemandRequest
 
@@ -336,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27221](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27221)
+Defined in: [WAProto/index.d.ts:20300](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20300)
 
 Creates a plain object from a HistorySyncOnDemandRequest message. Also converts values to other types if specified.
 
@@ -366,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27206](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27206)
+Defined in: [WAProto/index.d.ts:20285](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20285)
 
 Verifies a HistorySyncOnDemandRequest message.
 

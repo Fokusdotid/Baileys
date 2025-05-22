@@ -1,6 +1,6 @@
 # Class: VideoMessage
 
-Defined in: [WAProto/index.d.ts:32680](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32680)
+Defined in: [WAProto/index.d.ts:24653](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24653)
 
 Represents a VideoMessage.
 
@@ -14,7 +14,7 @@ Represents a VideoMessage.
 
 > **new VideoMessage**(`properties`?): [`VideoMessage`](VideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32686](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32686)
+Defined in: [WAProto/index.d.ts:24659](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24659)
 
 Constructs a new VideoMessage.
 
@@ -32,25 +32,11 @@ Properties to set
 
 ## Properties
 
-### accessibilityLabel?
-
-> `optional` **accessibilityLabel**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:32761](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32761)
-
-VideoMessage accessibilityLabel.
-
-#### Implementation of
-
-[`IVideoMessage`](../interfaces/IVideoMessage.md).[`accessibilityLabel`](../interfaces/IVideoMessage.md#accessibilitylabel)
-
-***
-
 ### annotations
 
 > **annotations**: [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:32758](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32758)
+Defined in: [WAProto/index.d.ts:24731](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24731)
 
 VideoMessage annotations.
 
@@ -60,11 +46,11 @@ VideoMessage annotations.
 
 ***
 
-### caption?
+### caption
 
-> `optional` **caption**: `null` \| `string`
+> **caption**: `string`
 
-Defined in: [WAProto/index.d.ts:32707](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32707)
+Defined in: [WAProto/index.d.ts:24680](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24680)
 
 VideoMessage caption.
 
@@ -78,7 +64,7 @@ VideoMessage caption.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32734](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32734)
+Defined in: [WAProto/index.d.ts:24707](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24707)
 
 VideoMessage contextInfo.
 
@@ -88,11 +74,11 @@ VideoMessage contextInfo.
 
 ***
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:32725](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32725)
+Defined in: [WAProto/index.d.ts:24698](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24698)
 
 VideoMessage directPath.
 
@@ -102,25 +88,11 @@ VideoMessage directPath.
 
 ***
 
-### externalShareFullVideoDurationInSeconds?
+### fileEncSha256
 
-> `optional` **externalShareFullVideoDurationInSeconds**: `null` \| `number`
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32767](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32767)
-
-VideoMessage externalShareFullVideoDurationInSeconds.
-
-#### Implementation of
-
-[`IVideoMessage`](../interfaces/IVideoMessage.md).[`externalShareFullVideoDurationInSeconds`](../interfaces/IVideoMessage.md#externalsharefullvideodurationinseconds)
-
-***
-
-### fileEncSha256?
-
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
-
-Defined in: [WAProto/index.d.ts:32719](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32719)
+Defined in: [WAProto/index.d.ts:24692](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24692)
 
 VideoMessage fileEncSha256.
 
@@ -130,11 +102,11 @@ VideoMessage fileEncSha256.
 
 ***
 
-### fileLength?
+### fileLength
 
-> `optional` **fileLength**: `null` \| `number` \| `Long`
+> **fileLength**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32698](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32698)
+Defined in: [WAProto/index.d.ts:24671](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24671)
 
 VideoMessage fileLength.
 
@@ -144,11 +116,11 @@ VideoMessage fileLength.
 
 ***
 
-### fileSha256?
+### fileSha256
 
-> `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32695](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32695)
+Defined in: [WAProto/index.d.ts:24668](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24668)
 
 VideoMessage fileSha256.
 
@@ -158,11 +130,11 @@ VideoMessage fileSha256.
 
 ***
 
-### gifAttribution?
+### gifAttribution
 
-> `optional` **gifAttribution**: `null` \| [`Attribution`](../namespaces/VideoMessage/enumerations/Attribution.md)
+> **gifAttribution**: [`Attribution`](../namespaces/VideoMessage/enumerations/Attribution.md)
 
-Defined in: [WAProto/index.d.ts:32740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32740)
+Defined in: [WAProto/index.d.ts:24713](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24713)
 
 VideoMessage gifAttribution.
 
@@ -172,11 +144,11 @@ VideoMessage gifAttribution.
 
 ***
 
-### gifPlayback?
+### gifPlayback
 
-> `optional` **gifPlayback**: `null` \| `boolean`
+> **gifPlayback**: `boolean`
 
-Defined in: [WAProto/index.d.ts:32710](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32710)
+Defined in: [WAProto/index.d.ts:24683](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24683)
 
 VideoMessage gifPlayback.
 
@@ -186,11 +158,11 @@ VideoMessage gifPlayback.
 
 ***
 
-### height?
+### height
 
-> `optional` **height**: `null` \| `number`
+> **height**: `number`
 
-Defined in: [WAProto/index.d.ts:32713](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32713)
+Defined in: [WAProto/index.d.ts:24686](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24686)
 
 VideoMessage height.
 
@@ -204,7 +176,7 @@ VideoMessage height.
 
 > **interactiveAnnotations**: [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:32722](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32722)
+Defined in: [WAProto/index.d.ts:24695](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24695)
 
 VideoMessage interactiveAnnotations.
 
@@ -214,11 +186,11 @@ VideoMessage interactiveAnnotations.
 
 ***
 
-### jpegThumbnail?
+### jpegThumbnail
 
-> `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **jpegThumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32731](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32731)
+Defined in: [WAProto/index.d.ts:24704](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24704)
 
 VideoMessage jpegThumbnail.
 
@@ -228,11 +200,11 @@ VideoMessage jpegThumbnail.
 
 ***
 
-### mediaKey?
+### mediaKey
 
-> `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **mediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32704](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32704)
+Defined in: [WAProto/index.d.ts:24677](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24677)
 
 VideoMessage mediaKey.
 
@@ -242,11 +214,11 @@ VideoMessage mediaKey.
 
 ***
 
-### mediaKeyTimestamp?
+### mediaKeyTimestamp
 
-> `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
+> **mediaKeyTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32728](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32728)
+Defined in: [WAProto/index.d.ts:24701](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24701)
 
 VideoMessage mediaKeyTimestamp.
 
@@ -256,11 +228,11 @@ VideoMessage mediaKeyTimestamp.
 
 ***
 
-### mimetype?
+### mimetype
 
-> `optional` **mimetype**: `null` \| `string`
+> **mimetype**: `string`
 
-Defined in: [WAProto/index.d.ts:32692](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32692)
+Defined in: [WAProto/index.d.ts:24665](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24665)
 
 VideoMessage mimetype.
 
@@ -270,25 +242,11 @@ VideoMessage mimetype.
 
 ***
 
-### processedVideos
+### seconds
 
-> **processedVideos**: [`IProcessedVideo`](../../../interfaces/IProcessedVideo.md)[]
+> **seconds**: `number`
 
-Defined in: [WAProto/index.d.ts:32764](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32764)
-
-VideoMessage processedVideos.
-
-#### Implementation of
-
-[`IVideoMessage`](../interfaces/IVideoMessage.md).[`processedVideos`](../interfaces/IVideoMessage.md#processedvideos)
-
-***
-
-### seconds?
-
-> `optional` **seconds**: `null` \| `number`
-
-Defined in: [WAProto/index.d.ts:32701](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32701)
+Defined in: [WAProto/index.d.ts:24674](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24674)
 
 VideoMessage seconds.
 
@@ -298,11 +256,11 @@ VideoMessage seconds.
 
 ***
 
-### staticUrl?
+### staticUrl
 
-> `optional` **staticUrl**: `null` \| `string`
+> **staticUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:32755](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32755)
+Defined in: [WAProto/index.d.ts:24728](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24728)
 
 VideoMessage staticUrl.
 
@@ -312,11 +270,11 @@ VideoMessage staticUrl.
 
 ***
 
-### streamingSidecar?
+### streamingSidecar
 
-> `optional` **streamingSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **streamingSidecar**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32737](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32737)
+Defined in: [WAProto/index.d.ts:24710](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24710)
 
 VideoMessage streamingSidecar.
 
@@ -326,11 +284,11 @@ VideoMessage streamingSidecar.
 
 ***
 
-### thumbnailDirectPath?
+### thumbnailDirectPath
 
-> `optional` **thumbnailDirectPath**: `null` \| `string`
+> **thumbnailDirectPath**: `string`
 
-Defined in: [WAProto/index.d.ts:32746](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32746)
+Defined in: [WAProto/index.d.ts:24719](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24719)
 
 VideoMessage thumbnailDirectPath.
 
@@ -340,11 +298,11 @@ VideoMessage thumbnailDirectPath.
 
 ***
 
-### thumbnailEncSha256?
+### thumbnailEncSha256
 
-> `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **thumbnailEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32752](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32752)
+Defined in: [WAProto/index.d.ts:24725](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24725)
 
 VideoMessage thumbnailEncSha256.
 
@@ -354,11 +312,11 @@ VideoMessage thumbnailEncSha256.
 
 ***
 
-### thumbnailSha256?
+### thumbnailSha256
 
-> `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **thumbnailSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:32749](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32749)
+Defined in: [WAProto/index.d.ts:24722](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24722)
 
 VideoMessage thumbnailSha256.
 
@@ -368,11 +326,11 @@ VideoMessage thumbnailSha256.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:32689](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32689)
+Defined in: [WAProto/index.d.ts:24662](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24662)
 
 VideoMessage url.
 
@@ -382,11 +340,11 @@ VideoMessage url.
 
 ***
 
-### viewOnce?
+### viewOnce
 
-> `optional` **viewOnce**: `null` \| `boolean`
+> **viewOnce**: `boolean`
 
-Defined in: [WAProto/index.d.ts:32743](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32743)
+Defined in: [WAProto/index.d.ts:24716](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24716)
 
 VideoMessage viewOnce.
 
@@ -396,11 +354,11 @@ VideoMessage viewOnce.
 
 ***
 
-### width?
+### width
 
-> `optional` **width**: `null` \| `number`
+> **width**: `number`
 
-Defined in: [WAProto/index.d.ts:32716](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32716)
+Defined in: [WAProto/index.d.ts:24689](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24689)
 
 VideoMessage width.
 
@@ -414,7 +372,7 @@ VideoMessage width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32837](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32837)
+Defined in: [WAProto/index.d.ts:24801](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24801)
 
 Converts this VideoMessage to JSON.
 
@@ -430,7 +388,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`VideoMessage`](VideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32774](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32774)
+Defined in: [WAProto/index.d.ts:24738](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24738)
 
 Creates a new VideoMessage instance using the specified properties.
 
@@ -454,7 +412,7 @@ VideoMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`VideoMessage`](VideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32800](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32800)
+Defined in: [WAProto/index.d.ts:24764](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24764)
 
 Decodes a VideoMessage message from the specified reader or buffer.
 
@@ -492,7 +450,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`VideoMessage`](VideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32809)
+Defined in: [WAProto/index.d.ts:24773](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24773)
 
 Decodes a VideoMessage message from the specified reader or buffer, length delimited.
 
@@ -524,7 +482,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32782](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32782)
+Defined in: [WAProto/index.d.ts:24746](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24746)
 
 Encodes the specified VideoMessage message. Does not implicitly [verify](VideoMessage.md#verify) messages.
 
@@ -554,7 +512,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32790](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32790)
+Defined in: [WAProto/index.d.ts:24754](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24754)
 
 Encodes the specified VideoMessage message, length delimited. Does not implicitly [verify](VideoMessage.md#verify) messages.
 
@@ -584,7 +542,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`VideoMessage`](VideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:32823](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32823)
+Defined in: [WAProto/index.d.ts:24787](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24787)
 
 Creates a VideoMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -606,7 +564,7 @@ VideoMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32844](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32844)
+Defined in: [WAProto/index.d.ts:24808](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24808)
 
 Gets the default type url for VideoMessage
 
@@ -630,7 +588,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32831](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32831)
+Defined in: [WAProto/index.d.ts:24795](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24795)
 
 Creates a plain object from a VideoMessage message. Also converts values to other types if specified.
 
@@ -660,7 +618,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32816](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L32816)
+Defined in: [WAProto/index.d.ts:24780](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24780)
 
 Verifies a VideoMessage message.
 

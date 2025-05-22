@@ -1,6 +1,6 @@
 # Class: DataSharingContext
 
-Defined in: [WAProto/index.d.ts:9979](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9979)
+Defined in: [WAProto/index.d.ts:5120](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5120)
 
 Represents a DataSharingContext.
 
@@ -14,7 +14,7 @@ Represents a DataSharingContext.
 
 > **new DataSharingContext**(`properties`?): [`DataSharingContext`](DataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:9985](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9985)
+Defined in: [WAProto/index.d.ts:5126](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5126)
 
 Constructs a new DataSharingContext.
 
@@ -32,39 +32,11 @@ Properties to set
 
 ## Properties
 
-### encryptedSignalTokenConsented?
+### showMmDisclosure
 
-> `optional` **encryptedSignalTokenConsented**: `null` \| `string`
+> **showMmDisclosure**: `boolean`
 
-Defined in: [WAProto/index.d.ts:9991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9991)
-
-DataSharingContext encryptedSignalTokenConsented.
-
-#### Implementation of
-
-[`IDataSharingContext`](../interfaces/IDataSharingContext.md).[`encryptedSignalTokenConsented`](../interfaces/IDataSharingContext.md#encryptedsignaltokenconsented)
-
-***
-
-### parameters
-
-> **parameters**: [`IParameters`](../namespaces/DataSharingContext/interfaces/IParameters.md)[]
-
-Defined in: [WAProto/index.d.ts:9994](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9994)
-
-DataSharingContext parameters.
-
-#### Implementation of
-
-[`IDataSharingContext`](../interfaces/IDataSharingContext.md).[`parameters`](../interfaces/IDataSharingContext.md#parameters)
-
-***
-
-### showMmDisclosure?
-
-> `optional` **showMmDisclosure**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:9988](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9988)
+Defined in: [WAProto/index.d.ts:5129](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5129)
 
 DataSharingContext showMmDisclosure.
 
@@ -78,7 +50,7 @@ DataSharingContext showMmDisclosure.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10064](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10064)
+Defined in: [WAProto/index.d.ts:5199](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5199)
 
 Converts this DataSharingContext to JSON.
 
@@ -94,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DataSharingContext`](DataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:10001](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10001)
+Defined in: [WAProto/index.d.ts:5136](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5136)
 
 Creates a new DataSharingContext instance using the specified properties.
 
@@ -118,7 +90,7 @@ DataSharingContext instance
 
 > `static` **decode**(`reader`, `length`?): [`DataSharingContext`](DataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:10027](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10027)
+Defined in: [WAProto/index.d.ts:5162](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5162)
 
 Decodes a DataSharingContext message from the specified reader or buffer.
 
@@ -156,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DataSharingContext`](DataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:10036](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10036)
+Defined in: [WAProto/index.d.ts:5171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5171)
 
 Decodes a DataSharingContext message from the specified reader or buffer, length delimited.
 
@@ -188,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10009](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10009)
+Defined in: [WAProto/index.d.ts:5144](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5144)
 
 Encodes the specified DataSharingContext message. Does not implicitly [verify](DataSharingContext.md#verify) messages.
 
@@ -218,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10017](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10017)
+Defined in: [WAProto/index.d.ts:5152](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5152)
 
 Encodes the specified DataSharingContext message, length delimited. Does not implicitly [verify](DataSharingContext.md#verify) messages.
 
@@ -248,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DataSharingContext`](DataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:10050](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10050)
+Defined in: [WAProto/index.d.ts:5185](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5185)
 
 Creates a DataSharingContext message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +242,7 @@ DataSharingContext
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10071](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10071)
+Defined in: [WAProto/index.d.ts:5206](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5206)
 
 Gets the default type url for DataSharingContext
 
@@ -294,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10058](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10058)
+Defined in: [WAProto/index.d.ts:5193](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5193)
 
 Creates a plain object from a DataSharingContext message. Also converts values to other types if specified.
 
@@ -324,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10043](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10043)
+Defined in: [WAProto/index.d.ts:5178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5178)
 
 Verifies a DataSharingContext message.
 

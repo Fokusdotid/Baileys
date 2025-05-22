@@ -1,6 +1,6 @@
 # Class: EventResponse
 
-Defined in: [WAProto/index.d.ts:13030](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13030)
+Defined in: [WAProto/index.d.ts:7130](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7130)
 
 Represents an EventResponse.
 
@@ -14,7 +14,7 @@ Represents an EventResponse.
 
 > **new EventResponse**(`properties`?): [`EventResponse`](EventResponse.md)
 
-Defined in: [WAProto/index.d.ts:13036](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13036)
+Defined in: [WAProto/index.d.ts:7136](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7136)
 
 Constructs a new EventResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **eventResponseMessage**: `null` \| [`IEventResponseMessage`](../namespaces/Message/interfaces/IEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:13045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13045)
+Defined in: [WAProto/index.d.ts:7145](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7145)
 
 EventResponse eventResponseMessage.
 
@@ -50,7 +50,7 @@ EventResponse eventResponseMessage.
 
 > `optional` **eventResponseMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:13039](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13039)
+Defined in: [WAProto/index.d.ts:7139](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7139)
 
 EventResponse eventResponseMessageKey.
 
@@ -60,11 +60,11 @@ EventResponse eventResponseMessageKey.
 
 ***
 
-### timestampMs?
+### timestampMs
 
-> `optional` **timestampMs**: `null` \| `number` \| `Long`
+> **timestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13042)
+Defined in: [WAProto/index.d.ts:7142](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7142)
 
 EventResponse timestampMs.
 
@@ -74,11 +74,11 @@ EventResponse timestampMs.
 
 ***
 
-### unread?
+### unread
 
-> `optional` **unread**: `null` \| `boolean`
+> **unread**: `boolean`
 
-Defined in: [WAProto/index.d.ts:13048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13048)
+Defined in: [WAProto/index.d.ts:7148](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7148)
 
 EventResponse unread.
 
@@ -92,7 +92,7 @@ EventResponse unread.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13118)
+Defined in: [WAProto/index.d.ts:7218](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7218)
 
 Converts this EventResponse to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventResponse`](EventResponse.md)
 
-Defined in: [WAProto/index.d.ts:13055](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13055)
+Defined in: [WAProto/index.d.ts:7155](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7155)
 
 Creates a new EventResponse instance using the specified properties.
 
@@ -132,7 +132,7 @@ EventResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`EventResponse`](EventResponse.md)
 
-Defined in: [WAProto/index.d.ts:13081](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13081)
+Defined in: [WAProto/index.d.ts:7181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7181)
 
 Decodes an EventResponse message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventResponse`](EventResponse.md)
 
-Defined in: [WAProto/index.d.ts:13090](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13090)
+Defined in: [WAProto/index.d.ts:7190](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7190)
 
 Decodes an EventResponse message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13063](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13063)
+Defined in: [WAProto/index.d.ts:7163](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7163)
 
 Encodes the specified EventResponse message. Does not implicitly [verify](EventResponse.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13071](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13071)
+Defined in: [WAProto/index.d.ts:7171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7171)
 
 Encodes the specified EventResponse message, length delimited. Does not implicitly [verify](EventResponse.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventResponse`](EventResponse.md)
 
-Defined in: [WAProto/index.d.ts:13104](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13104)
+Defined in: [WAProto/index.d.ts:7204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7204)
 
 Creates an EventResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ EventResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13125](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13125)
+Defined in: [WAProto/index.d.ts:7225](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7225)
 
 Gets the default type url for EventResponse
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13112](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13112)
+Defined in: [WAProto/index.d.ts:7212](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7212)
 
 Creates a plain object from an EventResponse message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13097](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13097)
+Defined in: [WAProto/index.d.ts:7197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7197)
 
 Verifies an EventResponse message.
 

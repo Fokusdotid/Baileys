@@ -1,6 +1,6 @@
 # Class: UserReceipt
 
-Defined in: [WAProto/index.d.ts:48753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48753)
+Defined in: [WAProto/index.d.ts:38915](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38915)
 
 Represents a UserReceipt.
 
@@ -14,7 +14,7 @@ Represents a UserReceipt.
 
 > **new UserReceipt**(`properties`?): [`UserReceipt`](UserReceipt.md)
 
-Defined in: [WAProto/index.d.ts:48759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48759)
+Defined in: [WAProto/index.d.ts:38921](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38921)
 
 Constructs a new UserReceipt.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **deliveredDeviceJid**: `string`[]
 
-Defined in: [WAProto/index.d.ts:48777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48777)
+Defined in: [WAProto/index.d.ts:38939](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38939)
 
 UserReceipt deliveredDeviceJid.
 
@@ -50,7 +50,7 @@ UserReceipt deliveredDeviceJid.
 
 > **pendingDeviceJid**: `string`[]
 
-Defined in: [WAProto/index.d.ts:48774](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48774)
+Defined in: [WAProto/index.d.ts:38936](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38936)
 
 UserReceipt pendingDeviceJid.
 
@@ -60,11 +60,11 @@ UserReceipt pendingDeviceJid.
 
 ***
 
-### playedTimestamp?
+### playedTimestamp
 
-> `optional` **playedTimestamp**: `null` \| `number` \| `Long`
+> **playedTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48771)
+Defined in: [WAProto/index.d.ts:38933](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38933)
 
 UserReceipt playedTimestamp.
 
@@ -74,11 +74,11 @@ UserReceipt playedTimestamp.
 
 ***
 
-### readTimestamp?
+### readTimestamp
 
-> `optional` **readTimestamp**: `null` \| `number` \| `Long`
+> **readTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48768](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48768)
+Defined in: [WAProto/index.d.ts:38930](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38930)
 
 UserReceipt readTimestamp.
 
@@ -88,11 +88,11 @@ UserReceipt readTimestamp.
 
 ***
 
-### receiptTimestamp?
+### receiptTimestamp
 
-> `optional` **receiptTimestamp**: `null` \| `number` \| `Long`
+> **receiptTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48765](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48765)
+Defined in: [WAProto/index.d.ts:38927](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38927)
 
 UserReceipt receiptTimestamp.
 
@@ -106,7 +106,7 @@ UserReceipt receiptTimestamp.
 
 > **userJid**: `string`
 
-Defined in: [WAProto/index.d.ts:48762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48762)
+Defined in: [WAProto/index.d.ts:38924](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38924)
 
 UserReceipt userJid.
 
@@ -120,7 +120,7 @@ UserReceipt userJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48847](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48847)
+Defined in: [WAProto/index.d.ts:39009](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39009)
 
 Converts this UserReceipt to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UserReceipt`](UserReceipt.md)
 
-Defined in: [WAProto/index.d.ts:48784](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48784)
+Defined in: [WAProto/index.d.ts:38946](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38946)
 
 Creates a new UserReceipt instance using the specified properties.
 
@@ -160,7 +160,7 @@ UserReceipt instance
 
 > `static` **decode**(`reader`, `length`?): [`UserReceipt`](UserReceipt.md)
 
-Defined in: [WAProto/index.d.ts:48810](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48810)
+Defined in: [WAProto/index.d.ts:38972](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38972)
 
 Decodes a UserReceipt message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UserReceipt`](UserReceipt.md)
 
-Defined in: [WAProto/index.d.ts:48819](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48819)
+Defined in: [WAProto/index.d.ts:38981](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38981)
 
 Decodes a UserReceipt message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48792](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48792)
+Defined in: [WAProto/index.d.ts:38954](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38954)
 
 Encodes the specified UserReceipt message. Does not implicitly [verify](UserReceipt.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48800](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48800)
+Defined in: [WAProto/index.d.ts:38962](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38962)
 
 Encodes the specified UserReceipt message, length delimited. Does not implicitly [verify](UserReceipt.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UserReceipt`](UserReceipt.md)
 
-Defined in: [WAProto/index.d.ts:48833](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48833)
+Defined in: [WAProto/index.d.ts:38995](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38995)
 
 Creates a UserReceipt message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ UserReceipt
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48854](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48854)
+Defined in: [WAProto/index.d.ts:39016](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39016)
 
 Gets the default type url for UserReceipt
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48841](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48841)
+Defined in: [WAProto/index.d.ts:39003](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39003)
 
 Creates a plain object from a UserReceipt message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48826](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48826)
+Defined in: [WAProto/index.d.ts:38988](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38988)
 
 Verifies a UserReceipt message.
 

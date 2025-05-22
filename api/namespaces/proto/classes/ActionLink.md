@@ -1,6 +1,6 @@
 # Class: ActionLink
 
-Defined in: [WAProto/index.d.ts:2667](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2667)
+Defined in: [WAProto/index.d.ts:598](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L598)
 
 Represents an ActionLink.
 
@@ -14,7 +14,7 @@ Represents an ActionLink.
 
 > **new ActionLink**(`properties`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2673](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2673)
+Defined in: [WAProto/index.d.ts:604](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L604)
 
 Constructs a new ActionLink.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### buttonTitle?
+### buttonTitle
 
-> `optional` **buttonTitle**: `null` \| `string`
+> **buttonTitle**: `string`
 
-Defined in: [WAProto/index.d.ts:2679](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2679)
+Defined in: [WAProto/index.d.ts:610](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L610)
 
 ActionLink buttonTitle.
 
@@ -46,11 +46,11 @@ ActionLink buttonTitle.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:2676](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2676)
+Defined in: [WAProto/index.d.ts:607](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L607)
 
 ActionLink url.
 
@@ -64,7 +64,7 @@ ActionLink url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2749](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2749)
+Defined in: [WAProto/index.d.ts:680](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L680)
 
 Converts this ActionLink to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2686](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2686)
+Defined in: [WAProto/index.d.ts:617](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L617)
 
 Creates a new ActionLink instance using the specified properties.
 
@@ -104,7 +104,7 @@ ActionLink instance
 
 > `static` **decode**(`reader`, `length`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2712](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2712)
+Defined in: [WAProto/index.d.ts:643](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L643)
 
 Decodes an ActionLink message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2721](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2721)
+Defined in: [WAProto/index.d.ts:652](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L652)
 
 Decodes an ActionLink message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2694](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2694)
+Defined in: [WAProto/index.d.ts:625](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L625)
 
 Encodes the specified ActionLink message. Does not implicitly [verify](ActionLink.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2702](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2702)
+Defined in: [WAProto/index.d.ts:633](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L633)
 
 Encodes the specified ActionLink message, length delimited. Does not implicitly [verify](ActionLink.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2735](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2735)
+Defined in: [WAProto/index.d.ts:666](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L666)
 
 Creates an ActionLink message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ActionLink
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2756)
+Defined in: [WAProto/index.d.ts:687](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L687)
 
 Gets the default type url for ActionLink
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2743](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2743)
+Defined in: [WAProto/index.d.ts:674](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L674)
 
 Creates a plain object from an ActionLink message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2728](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L2728)
+Defined in: [WAProto/index.d.ts:659](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L659)
 
 Verifies an ActionLink message.
 

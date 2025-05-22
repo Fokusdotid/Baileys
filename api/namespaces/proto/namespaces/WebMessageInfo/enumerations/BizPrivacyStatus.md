@@ -1,6 +1,6 @@
 # Enumeration: BizPrivacyStatus
 
-Defined in: [WAProto/index.d.ts:50031](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50031)
+Defined in: [WAProto/index.d.ts:40139](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40139)
 
 BizPrivacyStatus enum.
 
@@ -10,7 +10,7 @@ BizPrivacyStatus enum.
 
 > **BSP**: `1`
 
-Defined in: [WAProto/index.d.ts:50034](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50034)
+Defined in: [WAProto/index.d.ts:40142](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40142)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:50034](https://github.com/Fokusdotid/Baileys/blo
 
 > **BSP\_AND\_FB**: `3`
 
-Defined in: [WAProto/index.d.ts:50035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50035)
+Defined in: [WAProto/index.d.ts:40143](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40143)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:50035](https://github.com/Fokusdotid/Baileys/blo
 
 > **E2EE**: `0`
 
-Defined in: [WAProto/index.d.ts:50032](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50032)
+Defined in: [WAProto/index.d.ts:40140](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40140)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:50032](https://github.com/Fokusdotid/Baileys/blo
 
 > **FB**: `2`
 
-Defined in: [WAProto/index.d.ts:50033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50033)
+Defined in: [WAProto/index.d.ts:40141](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40141)

@@ -1,6 +1,6 @@
 # Enumeration: DayOfWeekType
 
-Defined in: [WAProto/index.d.ts:22542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22542)
+Defined in: [WAProto/index.d.ts:15895](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15895)
 
 DayOfWeekType enum.
 
@@ -10,7 +10,7 @@ DayOfWeekType enum.
 
 > **FRIDAY**: `5`
 
-Defined in: [WAProto/index.d.ts:22547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22547)
+Defined in: [WAProto/index.d.ts:15900](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15900)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:22547](https://github.com/Fokusdotid/Baileys/blo
 
 > **MONDAY**: `1`
 
-Defined in: [WAProto/index.d.ts:22543](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22543)
+Defined in: [WAProto/index.d.ts:15896](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15896)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:22543](https://github.com/Fokusdotid/Baileys/blo
 
 > **SATURDAY**: `6`
 
-Defined in: [WAProto/index.d.ts:22548](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22548)
+Defined in: [WAProto/index.d.ts:15901](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15901)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:22548](https://github.com/Fokusdotid/Baileys/blo
 
 > **SUNDAY**: `7`
 
-Defined in: [WAProto/index.d.ts:22549](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22549)
+Defined in: [WAProto/index.d.ts:15902](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15902)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:22549](https://github.com/Fokusdotid/Baileys/blo
 
 > **THURSDAY**: `4`
 
-Defined in: [WAProto/index.d.ts:22546](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22546)
+Defined in: [WAProto/index.d.ts:15899](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15899)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:22546](https://github.com/Fokusdotid/Baileys/blo
 
 > **TUESDAY**: `2`
 
-Defined in: [WAProto/index.d.ts:22544](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22544)
+Defined in: [WAProto/index.d.ts:15897](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15897)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [WAProto/index.d.ts:22544](https://github.com/Fokusdotid/Baileys/blo
 
 > **WEDNESDAY**: `3`
 
-Defined in: [WAProto/index.d.ts:22545](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22545)
+Defined in: [WAProto/index.d.ts:15898](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15898)

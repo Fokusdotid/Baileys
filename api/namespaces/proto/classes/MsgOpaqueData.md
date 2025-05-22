@@ -1,6 +1,6 @@
 # Class: MsgOpaqueData
 
-Defined in: [WAProto/index.d.ts:33864](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33864)
+Defined in: [WAProto/index.d.ts:25504](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25504)
 
 Represents a MsgOpaqueData.
 
@@ -14,7 +14,7 @@ Represents a MsgOpaqueData.
 
 > **new MsgOpaqueData**(`properties`?): [`MsgOpaqueData`](MsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:33870](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33870)
+Defined in: [WAProto/index.d.ts:25510](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25510)
 
 Constructs a new MsgOpaqueData.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### body?
+### body
 
-> `optional` **body**: `null` \| `string`
+> **body**: `string`
 
-Defined in: [WAProto/index.d.ts:33873](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33873)
+Defined in: [WAProto/index.d.ts:25513](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25513)
 
 MsgOpaqueData body.
 
@@ -46,11 +46,11 @@ MsgOpaqueData body.
 
 ***
 
-### botMessageSecret?
+### botMessageSecret
 
-> `optional` **botMessageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **botMessageSecret**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33954](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33954)
+Defined in: [WAProto/index.d.ts:25591](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25591)
 
 MsgOpaqueData botMessageSecret.
 
@@ -60,11 +60,25 @@ MsgOpaqueData botMessageSecret.
 
 ***
 
-### caption?
+### canonicalUrl
 
-> `optional` **caption**: `null` \| `string`
+> **canonicalUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:33876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33876)
+Defined in: [WAProto/index.d.ts:25534](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25534)
+
+MsgOpaqueData canonicalUrl.
+
+#### Implementation of
+
+[`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md).[`canonicalUrl`](../interfaces/IMsgOpaqueData.md#canonicalurl)
+
+***
+
+### caption
+
+> **caption**: `string`
+
+Defined in: [WAProto/index.d.ts:25516](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25516)
 
 MsgOpaqueData caption.
 
@@ -74,11 +88,11 @@ MsgOpaqueData caption.
 
 ***
 
-### clientUrl?
+### clientUrl
 
-> `optional` **clientUrl**: `null` \| `string`
+> **clientUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:33906](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33906)
+Defined in: [WAProto/index.d.ts:25549](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25549)
 
 MsgOpaqueData clientUrl.
 
@@ -88,11 +102,11 @@ MsgOpaqueData clientUrl.
 
 ***
 
-### description?
+### description
 
-> `optional` **description**: `null` \| `string`
+> **description**: `string`
 
-Defined in: [WAProto/index.d.ts:33900](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33900)
+Defined in: [WAProto/index.d.ts:25543](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25543)
 
 MsgOpaqueData description.
 
@@ -102,11 +116,11 @@ MsgOpaqueData description.
 
 ***
 
-### encIv?
+### encIv
 
-> `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encIv**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33963](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33963)
+Defined in: [WAProto/index.d.ts:25600](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25600)
 
 MsgOpaqueData encIv.
 
@@ -116,11 +130,11 @@ MsgOpaqueData encIv.
 
 ***
 
-### encPayload?
+### encPayload
 
-> `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encPayload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33960](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33960)
+Defined in: [WAProto/index.d.ts:25597](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25597)
 
 MsgOpaqueData encPayload.
 
@@ -134,7 +148,7 @@ MsgOpaqueData encPayload.
 
 > `optional` **encPollVote**: `null` \| [`IPollEncValue`](../interfaces/IPollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:33933](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33933)
+Defined in: [WAProto/index.d.ts:25576](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25576)
 
 MsgOpaqueData encPollVote.
 
@@ -144,11 +158,11 @@ MsgOpaqueData encPollVote.
 
 ***
 
-### encReactionEncIv?
+### encReactionEncIv
 
-> `optional` **encReactionEncIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encReactionEncIv**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33951](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33951)
+Defined in: [WAProto/index.d.ts:25588](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25588)
 
 MsgOpaqueData encReactionEncIv.
 
@@ -158,11 +172,11 @@ MsgOpaqueData encReactionEncIv.
 
 ***
 
-### encReactionEncPayload?
+### encReactionEncPayload
 
-> `optional` **encReactionEncPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encReactionEncPayload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33948](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33948)
+Defined in: [WAProto/index.d.ts:25585](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25585)
 
 MsgOpaqueData encReactionEncPayload.
 
@@ -172,11 +186,11 @@ MsgOpaqueData encReactionEncPayload.
 
 ***
 
-### encReactionTargetMessageKey?
+### encReactionTargetMessageKey
 
-> `optional` **encReactionTargetMessageKey**: `null` \| `string`
+> **encReactionTargetMessageKey**: `string`
 
-Defined in: [WAProto/index.d.ts:33945](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33945)
+Defined in: [WAProto/index.d.ts:25582](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25582)
 
 MsgOpaqueData encReactionTargetMessageKey.
 
@@ -186,11 +200,11 @@ MsgOpaqueData encReactionTargetMessageKey.
 
 ***
 
-### eventDescription?
+### eventDescription
 
-> `optional` **eventDescription**: `null` \| `string`
+> **eventDescription**: `string`
 
-Defined in: [WAProto/index.d.ts:33972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33972)
+Defined in: [WAProto/index.d.ts:25609](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25609)
 
 MsgOpaqueData eventDescription.
 
@@ -200,25 +214,11 @@ MsgOpaqueData eventDescription.
 
 ***
 
-### eventEndTime?
+### eventJoinLink
 
-> `optional` **eventEndTime**: `null` \| `number` \| `Long`
+> **eventJoinLink**: `string`
 
-Defined in: [WAProto/index.d.ts:33984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33984)
-
-MsgOpaqueData eventEndTime.
-
-#### Implementation of
-
-[`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md).[`eventEndTime`](../interfaces/IMsgOpaqueData.md#eventendtime)
-
-***
-
-### eventJoinLink?
-
-> `optional` **eventJoinLink**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:33975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33975)
+Defined in: [WAProto/index.d.ts:25612](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25612)
 
 MsgOpaqueData eventJoinLink.
 
@@ -232,7 +232,7 @@ MsgOpaqueData eventJoinLink.
 
 > `optional` **eventLocation**: `null` \| [`IEventLocation`](../namespaces/MsgOpaqueData/interfaces/IEventLocation.md)
 
-Defined in: [WAProto/index.d.ts:33981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33981)
+Defined in: [WAProto/index.d.ts:25618](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25618)
 
 MsgOpaqueData eventLocation.
 
@@ -242,11 +242,11 @@ MsgOpaqueData eventLocation.
 
 ***
 
-### eventName?
+### eventName
 
-> `optional` **eventName**: `null` \| `string`
+> **eventName**: `string`
 
-Defined in: [WAProto/index.d.ts:33966](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33966)
+Defined in: [WAProto/index.d.ts:25603](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25603)
 
 MsgOpaqueData eventName.
 
@@ -256,11 +256,11 @@ MsgOpaqueData eventName.
 
 ***
 
-### eventStartTime?
+### eventStartTime
 
-> `optional` **eventStartTime**: `null` \| `number` \| `Long`
+> **eventStartTime**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33978](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33978)
+Defined in: [WAProto/index.d.ts:25615](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25615)
 
 MsgOpaqueData eventStartTime.
 
@@ -270,11 +270,11 @@ MsgOpaqueData eventStartTime.
 
 ***
 
-### futureproofBuffer?
+### futureproofBuffer
 
-> `optional` **futureproofBuffer**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **futureproofBuffer**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33903](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33903)
+Defined in: [WAProto/index.d.ts:25546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25546)
 
 MsgOpaqueData futureproofBuffer.
 
@@ -284,11 +284,11 @@ MsgOpaqueData futureproofBuffer.
 
 ***
 
-### isEventCanceled?
+### isEventCanceled
 
-> `optional` **isEventCanceled**: `null` \| `boolean`
+> **isEventCanceled**: `boolean`
 
-Defined in: [WAProto/index.d.ts:33969](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33969)
+Defined in: [WAProto/index.d.ts:25606](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25606)
 
 MsgOpaqueData isEventCanceled.
 
@@ -298,11 +298,11 @@ MsgOpaqueData isEventCanceled.
 
 ***
 
-### isLive?
+### isLive
 
-> `optional` **isLive**: `null` \| `boolean`
+> **isLive**: `boolean`
 
-Defined in: [WAProto/index.d.ts:33882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33882)
+Defined in: [WAProto/index.d.ts:25522](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25522)
 
 MsgOpaqueData isLive.
 
@@ -312,11 +312,11 @@ MsgOpaqueData isLive.
 
 ***
 
-### isSentCagPollCreation?
+### isSentCagPollCreation
 
-> `optional` **isSentCagPollCreation**: `null` \| `boolean`
+> **isSentCagPollCreation**: `boolean`
 
-Defined in: [WAProto/index.d.ts:33936](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33936)
+Defined in: [WAProto/index.d.ts:25579](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25579)
 
 MsgOpaqueData isSentCagPollCreation.
 
@@ -326,11 +326,11 @@ MsgOpaqueData isSentCagPollCreation.
 
 ***
 
-### lat?
+### lat
 
-> `optional` **lat**: `null` \| `number`
+> **lat**: `number`
 
-Defined in: [WAProto/index.d.ts:33885](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33885)
+Defined in: [WAProto/index.d.ts:25525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25525)
 
 MsgOpaqueData lat.
 
@@ -340,11 +340,11 @@ MsgOpaqueData lat.
 
 ***
 
-### lng?
+### lng
 
-> `optional` **lng**: `null` \| `number`
+> **lng**: `number`
 
-Defined in: [WAProto/index.d.ts:33879](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33879)
+Defined in: [WAProto/index.d.ts:25519](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25519)
 
 MsgOpaqueData lng.
 
@@ -354,11 +354,11 @@ MsgOpaqueData lng.
 
 ***
 
-### loc?
+### loc
 
-> `optional` **loc**: `null` \| `string`
+> **loc**: `string`
 
-Defined in: [WAProto/index.d.ts:33909](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33909)
+Defined in: [WAProto/index.d.ts:25552](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25552)
 
 MsgOpaqueData loc.
 
@@ -368,11 +368,11 @@ MsgOpaqueData loc.
 
 ***
 
-### matchedText?
+### matchedText
 
-> `optional` **matchedText**: `null` \| `string`
+> **matchedText**: `string`
 
-Defined in: [WAProto/index.d.ts:33894](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33894)
+Defined in: [WAProto/index.d.ts:25537](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25537)
 
 MsgOpaqueData matchedText.
 
@@ -382,11 +382,11 @@ MsgOpaqueData matchedText.
 
 ***
 
-### messageSecret?
+### messageSecret
 
-> `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **messageSecret**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:33921](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33921)
+Defined in: [WAProto/index.d.ts:25564](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25564)
 
 MsgOpaqueData messageSecret.
 
@@ -396,11 +396,11 @@ MsgOpaqueData messageSecret.
 
 ***
 
-### originalSelfAuthor?
+### originalSelfAuthor
 
-> `optional` **originalSelfAuthor**: `null` \| `string`
+> **originalSelfAuthor**: `string`
 
-Defined in: [WAProto/index.d.ts:33924](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33924)
+Defined in: [WAProto/index.d.ts:25567](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25567)
 
 MsgOpaqueData originalSelfAuthor.
 
@@ -410,11 +410,11 @@ MsgOpaqueData originalSelfAuthor.
 
 ***
 
-### paymentAmount1000?
+### paymentAmount1000
 
-> `optional` **paymentAmount1000**: `null` \| `number`
+> **paymentAmount1000**: `number`
 
-Defined in: [WAProto/index.d.ts:33888](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33888)
+Defined in: [WAProto/index.d.ts:25528](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25528)
 
 MsgOpaqueData paymentAmount1000.
 
@@ -424,11 +424,11 @@ MsgOpaqueData paymentAmount1000.
 
 ***
 
-### paymentNoteMsgBody?
+### paymentNoteMsgBody
 
-> `optional` **paymentNoteMsgBody**: `null` \| `string`
+> **paymentNoteMsgBody**: `string`
 
-Defined in: [WAProto/index.d.ts:33891](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33891)
+Defined in: [WAProto/index.d.ts:25531](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25531)
 
 MsgOpaqueData paymentNoteMsgBody.
 
@@ -438,25 +438,11 @@ MsgOpaqueData paymentNoteMsgBody.
 
 ***
 
-### pollContentType?
+### pollName
 
-> `optional` **pollContentType**: `null` \| [`PollContentType`](../namespaces/MsgOpaqueData/enumerations/PollContentType.md)
+> **pollName**: `string`
 
-Defined in: [WAProto/index.d.ts:33939](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33939)
-
-MsgOpaqueData pollContentType.
-
-#### Implementation of
-
-[`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md).[`pollContentType`](../interfaces/IMsgOpaqueData.md#pollcontenttype)
-
-***
-
-### pollName?
-
-> `optional` **pollName**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:33912](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33912)
+Defined in: [WAProto/index.d.ts:25555](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25555)
 
 MsgOpaqueData pollName.
 
@@ -470,7 +456,7 @@ MsgOpaqueData pollName.
 
 > **pollOptions**: [`IPollOption`](../namespaces/MsgOpaqueData/interfaces/IPollOption.md)[]
 
-Defined in: [WAProto/index.d.ts:33915](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33915)
+Defined in: [WAProto/index.d.ts:25558](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25558)
 
 MsgOpaqueData pollOptions.
 
@@ -480,11 +466,11 @@ MsgOpaqueData pollOptions.
 
 ***
 
-### pollSelectableOptionsCount?
+### pollSelectableOptionsCount
 
-> `optional` **pollSelectableOptionsCount**: `null` \| `number`
+> **pollSelectableOptionsCount**: `number`
 
-Defined in: [WAProto/index.d.ts:33918](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33918)
+Defined in: [WAProto/index.d.ts:25561](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25561)
 
 MsgOpaqueData pollSelectableOptionsCount.
 
@@ -494,11 +480,11 @@ MsgOpaqueData pollSelectableOptionsCount.
 
 ***
 
-### pollUpdateParentKey?
+### pollUpdateParentKey
 
-> `optional` **pollUpdateParentKey**: `null` \| `string`
+> **pollUpdateParentKey**: `string`
 
-Defined in: [WAProto/index.d.ts:33930](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33930)
+Defined in: [WAProto/index.d.ts:25573](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25573)
 
 MsgOpaqueData pollUpdateParentKey.
 
@@ -508,25 +494,11 @@ MsgOpaqueData pollUpdateParentKey.
 
 ***
 
-### pollVotesSnapshot?
+### senderTimestampMs
 
-> `optional` **pollVotesSnapshot**: `null` \| [`IPollVotesSnapshot`](../namespaces/MsgOpaqueData/interfaces/IPollVotesSnapshot.md)
+> **senderTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:33942](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33942)
-
-MsgOpaqueData pollVotesSnapshot.
-
-#### Implementation of
-
-[`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md).[`pollVotesSnapshot`](../interfaces/IMsgOpaqueData.md#pollvotessnapshot)
-
-***
-
-### senderTimestampMs?
-
-> `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
-
-Defined in: [WAProto/index.d.ts:33927](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33927)
+Defined in: [WAProto/index.d.ts:25570](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25570)
 
 MsgOpaqueData senderTimestampMs.
 
@@ -536,11 +508,11 @@ MsgOpaqueData senderTimestampMs.
 
 ***
 
-### targetMessageKey?
+### targetMessageKey
 
-> `optional` **targetMessageKey**: `null` \| `string`
+> **targetMessageKey**: `string`
 
-Defined in: [WAProto/index.d.ts:33957](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33957)
+Defined in: [WAProto/index.d.ts:25594](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25594)
 
 MsgOpaqueData targetMessageKey.
 
@@ -550,11 +522,11 @@ MsgOpaqueData targetMessageKey.
 
 ***
 
-### title?
+### title
 
-> `optional` **title**: `null` \| `string`
+> **title**: `string`
 
-Defined in: [WAProto/index.d.ts:33897](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33897)
+Defined in: [WAProto/index.d.ts:25540](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25540)
 
 MsgOpaqueData title.
 
@@ -568,7 +540,7 @@ MsgOpaqueData title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:34054](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34054)
+Defined in: [WAProto/index.d.ts:25688](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25688)
 
 Converts this MsgOpaqueData to JSON.
 
@@ -584,7 +556,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MsgOpaqueData`](MsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:33991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33991)
+Defined in: [WAProto/index.d.ts:25625](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25625)
 
 Creates a new MsgOpaqueData instance using the specified properties.
 
@@ -608,7 +580,7 @@ MsgOpaqueData instance
 
 > `static` **decode**(`reader`, `length`?): [`MsgOpaqueData`](MsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:34017](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34017)
+Defined in: [WAProto/index.d.ts:25651](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25651)
 
 Decodes a MsgOpaqueData message from the specified reader or buffer.
 
@@ -646,7 +618,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MsgOpaqueData`](MsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:34026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34026)
+Defined in: [WAProto/index.d.ts:25660](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25660)
 
 Decodes a MsgOpaqueData message from the specified reader or buffer, length delimited.
 
@@ -678,7 +650,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33999](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33999)
+Defined in: [WAProto/index.d.ts:25633](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25633)
 
 Encodes the specified MsgOpaqueData message. Does not implicitly [verify](MsgOpaqueData.md#verify) messages.
 
@@ -708,7 +680,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34007](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34007)
+Defined in: [WAProto/index.d.ts:25641](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25641)
 
 Encodes the specified MsgOpaqueData message, length delimited. Does not implicitly [verify](MsgOpaqueData.md#verify) messages.
 
@@ -738,7 +710,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MsgOpaqueData`](MsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:34040](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34040)
+Defined in: [WAProto/index.d.ts:25674](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25674)
 
 Creates a MsgOpaqueData message from a plain object. Also converts values to their respective internal types.
 
@@ -760,7 +732,7 @@ MsgOpaqueData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:34061](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34061)
+Defined in: [WAProto/index.d.ts:25695](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25695)
 
 Gets the default type url for MsgOpaqueData
 
@@ -784,7 +756,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:34048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34048)
+Defined in: [WAProto/index.d.ts:25682](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25682)
 
 Creates a plain object from a MsgOpaqueData message. Also converts values to other types if specified.
 
@@ -814,7 +786,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L34033)
+Defined in: [WAProto/index.d.ts:25667](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L25667)
 
 Verifies a MsgOpaqueData message.
 

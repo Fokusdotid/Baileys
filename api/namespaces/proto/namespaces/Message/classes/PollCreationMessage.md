@@ -1,6 +1,6 @@
 # Class: PollCreationMessage
 
-Defined in: [WAProto/index.d.ts:28735](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28735)
+Defined in: [WAProto/index.d.ts:21469](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21469)
 
 Represents a PollCreationMessage.
 
@@ -14,7 +14,7 @@ Represents a PollCreationMessage.
 
 > **new PollCreationMessage**(`properties`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:28741](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28741)
+Defined in: [WAProto/index.d.ts:21475](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21475)
 
 Constructs a new PollCreationMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28756)
+Defined in: [WAProto/index.d.ts:21490](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21490)
 
 PollCreationMessage contextInfo.
 
@@ -46,25 +46,11 @@ PollCreationMessage contextInfo.
 
 ***
 
-### correctAnswer?
+### encKey
 
-> `optional` **correctAnswer**: `null` \| [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)
+> **encKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:28765](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28765)
-
-PollCreationMessage correctAnswer.
-
-#### Implementation of
-
-[`IPollCreationMessage`](../interfaces/IPollCreationMessage.md).[`correctAnswer`](../interfaces/IPollCreationMessage.md#correctanswer)
-
-***
-
-### encKey?
-
-> `optional` **encKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
-
-Defined in: [WAProto/index.d.ts:28744](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28744)
+Defined in: [WAProto/index.d.ts:21478](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21478)
 
 PollCreationMessage encKey.
 
@@ -74,11 +60,11 @@ PollCreationMessage encKey.
 
 ***
 
-### name?
+### name
 
-> `optional` **name**: `null` \| `string`
+> **name**: `string`
 
-Defined in: [WAProto/index.d.ts:28747](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28747)
+Defined in: [WAProto/index.d.ts:21481](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21481)
 
 PollCreationMessage name.
 
@@ -92,7 +78,7 @@ PollCreationMessage name.
 
 > **options**: [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)[]
 
-Defined in: [WAProto/index.d.ts:28750](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28750)
+Defined in: [WAProto/index.d.ts:21484](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21484)
 
 PollCreationMessage options.
 
@@ -102,39 +88,11 @@ PollCreationMessage options.
 
 ***
 
-### pollContentType?
+### selectableOptionsCount
 
-> `optional` **pollContentType**: `null` \| [`PollContentType`](../enumerations/PollContentType.md)
+> **selectableOptionsCount**: `number`
 
-Defined in: [WAProto/index.d.ts:28759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28759)
-
-PollCreationMessage pollContentType.
-
-#### Implementation of
-
-[`IPollCreationMessage`](../interfaces/IPollCreationMessage.md).[`pollContentType`](../interfaces/IPollCreationMessage.md#pollcontenttype)
-
-***
-
-### pollType?
-
-> `optional` **pollType**: `null` \| [`PollType`](../namespaces/PollCreationMessage/enumerations/PollType.md)
-
-Defined in: [WAProto/index.d.ts:28762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28762)
-
-PollCreationMessage pollType.
-
-#### Implementation of
-
-[`IPollCreationMessage`](../interfaces/IPollCreationMessage.md).[`pollType`](../interfaces/IPollCreationMessage.md#polltype)
-
-***
-
-### selectableOptionsCount?
-
-> `optional` **selectableOptionsCount**: `null` \| `number`
-
-Defined in: [WAProto/index.d.ts:28753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28753)
+Defined in: [WAProto/index.d.ts:21487](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21487)
 
 PollCreationMessage selectableOptionsCount.
 
@@ -148,7 +106,7 @@ PollCreationMessage selectableOptionsCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28835](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28835)
+Defined in: [WAProto/index.d.ts:21560](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21560)
 
 Converts this PollCreationMessage to JSON.
 
@@ -164,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:28772](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28772)
+Defined in: [WAProto/index.d.ts:21497](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21497)
 
 Creates a new PollCreationMessage instance using the specified properties.
 
@@ -188,7 +146,7 @@ PollCreationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:28798](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28798)
+Defined in: [WAProto/index.d.ts:21523](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21523)
 
 Decodes a PollCreationMessage message from the specified reader or buffer.
 
@@ -226,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:28807](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28807)
+Defined in: [WAProto/index.d.ts:21532](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21532)
 
 Decodes a PollCreationMessage message from the specified reader or buffer, length delimited.
 
@@ -258,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28780)
+Defined in: [WAProto/index.d.ts:21505](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21505)
 
 Encodes the specified PollCreationMessage message. Does not implicitly [verify](PollCreationMessage.md#verify) messages.
 
@@ -288,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28788](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28788)
+Defined in: [WAProto/index.d.ts:21513](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21513)
 
 Encodes the specified PollCreationMessage message, length delimited. Does not implicitly [verify](PollCreationMessage.md#verify) messages.
 
@@ -318,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:28821](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28821)
+Defined in: [WAProto/index.d.ts:21546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21546)
 
 Creates a PollCreationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +298,7 @@ PollCreationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28842](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28842)
+Defined in: [WAProto/index.d.ts:21567](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21567)
 
 Gets the default type url for PollCreationMessage
 
@@ -364,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28829)
+Defined in: [WAProto/index.d.ts:21554](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21554)
 
 Creates a plain object from a PollCreationMessage message. Also converts values to other types if specified.
 
@@ -394,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28814](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28814)
+Defined in: [WAProto/index.d.ts:21539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21539)
 
 Verifies a PollCreationMessage message.
 

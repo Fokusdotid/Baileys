@@ -1,6 +1,6 @@
 # Class: HydratedURLButton
 
-Defined in: [WAProto/index.d.ts:14986](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14986)
+Defined in: [WAProto/index.d.ts:8953](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8953)
 
 Represents a HydratedURLButton.
 
@@ -14,7 +14,7 @@ Represents a HydratedURLButton.
 
 > **new HydratedURLButton**(`properties`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:14992](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14992)
+Defined in: [WAProto/index.d.ts:8959](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8959)
 
 Constructs a new HydratedURLButton.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### consentedUsersUrl?
+### consentedUsersUrl
 
-> `optional` **consentedUsersUrl**: `null` \| `string`
+> **consentedUsersUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:15001](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15001)
+Defined in: [WAProto/index.d.ts:8968](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8968)
 
 HydratedURLButton consentedUsersUrl.
 
@@ -46,11 +46,11 @@ HydratedURLButton consentedUsersUrl.
 
 ***
 
-### displayText?
+### displayText
 
-> `optional` **displayText**: `null` \| `string`
+> **displayText**: `string`
 
-Defined in: [WAProto/index.d.ts:14995](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14995)
+Defined in: [WAProto/index.d.ts:8962](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8962)
 
 HydratedURLButton displayText.
 
@@ -60,11 +60,11 @@ HydratedURLButton displayText.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:14998](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14998)
+Defined in: [WAProto/index.d.ts:8965](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8965)
 
 HydratedURLButton url.
 
@@ -74,11 +74,11 @@ HydratedURLButton url.
 
 ***
 
-### webviewPresentation?
+### webviewPresentation
 
-> `optional` **webviewPresentation**: `null` \| [`WebviewPresentationType`](../namespaces/HydratedURLButton/enumerations/WebviewPresentationType.md)
+> **webviewPresentation**: [`WebviewPresentationType`](../namespaces/HydratedURLButton/enumerations/WebviewPresentationType.md)
 
-Defined in: [WAProto/index.d.ts:15004](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15004)
+Defined in: [WAProto/index.d.ts:8971](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8971)
 
 HydratedURLButton webviewPresentation.
 
@@ -92,7 +92,7 @@ HydratedURLButton webviewPresentation.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15074](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15074)
+Defined in: [WAProto/index.d.ts:9041](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9041)
 
 Converts this HydratedURLButton to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:15011](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15011)
+Defined in: [WAProto/index.d.ts:8978](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8978)
 
 Creates a new HydratedURLButton instance using the specified properties.
 
@@ -132,7 +132,7 @@ HydratedURLButton instance
 
 > `static` **decode**(`reader`, `length`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:15037](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15037)
+Defined in: [WAProto/index.d.ts:9004](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9004)
 
 Decodes a HydratedURLButton message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:15046](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15046)
+Defined in: [WAProto/index.d.ts:9013](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9013)
 
 Decodes a HydratedURLButton message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15019](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15019)
+Defined in: [WAProto/index.d.ts:8986](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8986)
 
 Encodes the specified HydratedURLButton message. Does not implicitly [verify](HydratedURLButton.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15027](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15027)
+Defined in: [WAProto/index.d.ts:8994](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8994)
 
 Encodes the specified HydratedURLButton message, length delimited. Does not implicitly [verify](HydratedURLButton.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:15060](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15060)
+Defined in: [WAProto/index.d.ts:9027](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9027)
 
 Creates a HydratedURLButton message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ HydratedURLButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15081](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15081)
+Defined in: [WAProto/index.d.ts:9048](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9048)
 
 Gets the default type url for HydratedURLButton
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15068](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15068)
+Defined in: [WAProto/index.d.ts:9035](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9035)
 
 Creates a plain object from a HydratedURLButton message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15053](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15053)
+Defined in: [WAProto/index.d.ts:9020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9020)
 
 Verifies a HydratedURLButton message.
 

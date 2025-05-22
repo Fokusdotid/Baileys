@@ -1,6 +1,6 @@
 # Class: InteractiveMessage
 
-Defined in: [WAProto/index.d.ts:23248](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23248)
+Defined in: [WAProto/index.d.ts:16578](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16578)
 
 Represents an InteractiveMessage.
 
@@ -14,7 +14,7 @@ Represents an InteractiveMessage.
 
 > **new InteractiveMessage**(`properties`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:23254](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23254)
+Defined in: [WAProto/index.d.ts:16584](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16584)
 
 Constructs a new InteractiveMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:23260](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23260)
+Defined in: [WAProto/index.d.ts:16590](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16590)
 
 InteractiveMessage body.
 
@@ -50,7 +50,7 @@ InteractiveMessage body.
 
 > `optional` **carouselMessage**: `null` \| [`ICarouselMessage`](../namespaces/InteractiveMessage/interfaces/ICarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23281](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23281)
+Defined in: [WAProto/index.d.ts:16608](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16608)
 
 InteractiveMessage carouselMessage.
 
@@ -64,7 +64,7 @@ InteractiveMessage carouselMessage.
 
 > `optional` **collectionMessage**: `null` \| [`ICollectionMessage`](../namespaces/InteractiveMessage/interfaces/ICollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:23275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23275)
+Defined in: [WAProto/index.d.ts:16602](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16602)
 
 InteractiveMessage collectionMessage.
 
@@ -78,7 +78,7 @@ InteractiveMessage collectionMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:23266](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23266)
+Defined in: [WAProto/index.d.ts:16596](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16596)
 
 InteractiveMessage contextInfo.
 
@@ -92,7 +92,7 @@ InteractiveMessage contextInfo.
 
 > `optional` **footer**: `null` \| [`IFooter`](../namespaces/InteractiveMessage/interfaces/IFooter.md)
 
-Defined in: [WAProto/index.d.ts:23263](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23263)
+Defined in: [WAProto/index.d.ts:16593](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16593)
 
 InteractiveMessage footer.
 
@@ -106,7 +106,7 @@ InteractiveMessage footer.
 
 > `optional` **header**: `null` \| [`IHeader`](../namespaces/InteractiveMessage/interfaces/IHeader.md)
 
-Defined in: [WAProto/index.d.ts:23257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23257)
+Defined in: [WAProto/index.d.ts:16587](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16587)
 
 InteractiveMessage header.
 
@@ -120,7 +120,7 @@ InteractiveMessage header.
 
 > `optional` **interactiveMessage**: `"shopStorefrontMessage"` \| `"collectionMessage"` \| `"nativeFlowMessage"` \| `"carouselMessage"`
 
-Defined in: [WAProto/index.d.ts:23284](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23284)
+Defined in: [WAProto/index.d.ts:16611](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16611)
 
 InteractiveMessage interactiveMessage.
 
@@ -130,7 +130,7 @@ InteractiveMessage interactiveMessage.
 
 > `optional` **nativeFlowMessage**: `null` \| [`INativeFlowMessage`](../namespaces/InteractiveMessage/interfaces/INativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:23278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23278)
+Defined in: [WAProto/index.d.ts:16605](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16605)
 
 InteractiveMessage nativeFlowMessage.
 
@@ -144,7 +144,7 @@ InteractiveMessage nativeFlowMessage.
 
 > `optional` **shopStorefrontMessage**: `null` \| [`IShopMessage`](../namespaces/InteractiveMessage/interfaces/IShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:23272](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23272)
+Defined in: [WAProto/index.d.ts:16599](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16599)
 
 InteractiveMessage shopStorefrontMessage.
 
@@ -152,27 +152,13 @@ InteractiveMessage shopStorefrontMessage.
 
 [`IInteractiveMessage`](../interfaces/IInteractiveMessage.md).[`shopStorefrontMessage`](../interfaces/IInteractiveMessage.md#shopstorefrontmessage)
 
-***
-
-### urlTrackingMap?
-
-> `optional` **urlTrackingMap**: `null` \| [`IUrlTrackingMap`](../../../interfaces/IUrlTrackingMap.md)
-
-Defined in: [WAProto/index.d.ts:23269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23269)
-
-InteractiveMessage urlTrackingMap.
-
-#### Implementation of
-
-[`IInteractiveMessage`](../interfaces/IInteractiveMessage.md).[`urlTrackingMap`](../interfaces/IInteractiveMessage.md#urltrackingmap)
-
 ## Methods
 
 ### toJSON()
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23354](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23354)
+Defined in: [WAProto/index.d.ts:16681](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16681)
 
 Converts this InteractiveMessage to JSON.
 
@@ -188,7 +174,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:23291](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23291)
+Defined in: [WAProto/index.d.ts:16618](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16618)
 
 Creates a new InteractiveMessage instance using the specified properties.
 
@@ -212,7 +198,7 @@ InteractiveMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:23317](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23317)
+Defined in: [WAProto/index.d.ts:16644](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16644)
 
 Decodes an InteractiveMessage message from the specified reader or buffer.
 
@@ -250,7 +236,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:23326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23326)
+Defined in: [WAProto/index.d.ts:16653](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16653)
 
 Decodes an InteractiveMessage message from the specified reader or buffer, length delimited.
 
@@ -282,7 +268,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23299](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23299)
+Defined in: [WAProto/index.d.ts:16626](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16626)
 
 Encodes the specified InteractiveMessage message. Does not implicitly [verify](InteractiveMessage.md#verify) messages.
 
@@ -312,7 +298,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23307](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23307)
+Defined in: [WAProto/index.d.ts:16634](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16634)
 
 Encodes the specified InteractiveMessage message, length delimited. Does not implicitly [verify](InteractiveMessage.md#verify) messages.
 
@@ -342,7 +328,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:23340](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23340)
+Defined in: [WAProto/index.d.ts:16667](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16667)
 
 Creates an InteractiveMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -364,7 +350,7 @@ InteractiveMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23361](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23361)
+Defined in: [WAProto/index.d.ts:16688](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16688)
 
 Gets the default type url for InteractiveMessage
 
@@ -388,7 +374,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23348](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23348)
+Defined in: [WAProto/index.d.ts:16675](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16675)
 
 Creates a plain object from an InteractiveMessage message. Also converts values to other types if specified.
 
@@ -418,7 +404,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23333](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23333)
+Defined in: [WAProto/index.d.ts:16660](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16660)
 
 Verifies an InteractiveMessage message.
 

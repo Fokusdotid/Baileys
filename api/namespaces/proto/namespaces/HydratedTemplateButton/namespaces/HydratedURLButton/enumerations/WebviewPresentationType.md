@@ -1,6 +1,6 @@
 # Enumeration: WebviewPresentationType
 
-Defined in: [WAProto/index.d.ts:15087](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15087)
+Defined in: [WAProto/index.d.ts:9054](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9054)
 
 WebviewPresentationType enum.
 
@@ -10,7 +10,7 @@ WebviewPresentationType enum.
 
 > **COMPACT**: `3`
 
-Defined in: [WAProto/index.d.ts:15090](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15090)
+Defined in: [WAProto/index.d.ts:9057](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9057)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:15090](https://github.com/Fokusdotid/Baileys/blo
 
 > **FULL**: `1`
 
-Defined in: [WAProto/index.d.ts:15088](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15088)
+Defined in: [WAProto/index.d.ts:9055](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9055)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:15088](https://github.com/Fokusdotid/Baileys/blo
 
 > **TALL**: `2`
 
-Defined in: [WAProto/index.d.ts:15089](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15089)
+Defined in: [WAProto/index.d.ts:9056](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9056)

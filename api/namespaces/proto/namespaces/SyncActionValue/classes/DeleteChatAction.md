@@ -1,6 +1,6 @@
 # Class: DeleteChatAction
 
-Defined in: [WAProto/index.d.ts:42165](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42165)
+Defined in: [WAProto/index.d.ts:33311](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33311)
 
 Represents a DeleteChatAction.
 
@@ -14,7 +14,7 @@ Represents a DeleteChatAction.
 
 > **new DeleteChatAction**(`properties`?): [`DeleteChatAction`](DeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:42171](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42171)
+Defined in: [WAProto/index.d.ts:33317](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33317)
 
 Constructs a new DeleteChatAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](../interfaces/ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:42174](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42174)
+Defined in: [WAProto/index.d.ts:33320](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33320)
 
 DeleteChatAction messageRange.
 
@@ -50,7 +50,7 @@ DeleteChatAction messageRange.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42244)
+Defined in: [WAProto/index.d.ts:33390](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33390)
 
 Converts this DeleteChatAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeleteChatAction`](DeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:42181](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42181)
+Defined in: [WAProto/index.d.ts:33327](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33327)
 
 Creates a new DeleteChatAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ DeleteChatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`DeleteChatAction`](DeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:42207](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42207)
+Defined in: [WAProto/index.d.ts:33353](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33353)
 
 Decodes a DeleteChatAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeleteChatAction`](DeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:42216](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42216)
+Defined in: [WAProto/index.d.ts:33362](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33362)
 
 Decodes a DeleteChatAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42189](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42189)
+Defined in: [WAProto/index.d.ts:33335](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33335)
 
 Encodes the specified DeleteChatAction message. Does not implicitly [verify](DeleteChatAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42197](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42197)
+Defined in: [WAProto/index.d.ts:33343](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33343)
 
 Encodes the specified DeleteChatAction message, length delimited. Does not implicitly [verify](DeleteChatAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeleteChatAction`](DeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:42230](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42230)
+Defined in: [WAProto/index.d.ts:33376](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33376)
 
 Creates a DeleteChatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ DeleteChatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42251](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42251)
+Defined in: [WAProto/index.d.ts:33397](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33397)
 
 Gets the default type url for DeleteChatAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42238](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42238)
+Defined in: [WAProto/index.d.ts:33384](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33384)
 
 Creates a plain object from a DeleteChatAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42223](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42223)
+Defined in: [WAProto/index.d.ts:33369](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33369)
 
 Verifies a DeleteChatAction message.
 

@@ -1,6 +1,6 @@
 # Class: USyncContactProtocol
 
-Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:5](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/Protocols/USyncContactProtocol.ts#L5)
+Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:5](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/WAUSync/Protocols/USyncContactProtocol.ts#L5)
 
 ## Implements
 
@@ -22,7 +22,7 @@ Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:5](https://github.com
 
 > **name**: `string` = `'contact'`
 
-Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:6](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/Protocols/USyncContactProtocol.ts#L6)
+Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:6](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/WAUSync/Protocols/USyncContactProtocol.ts#L6)
 
 The name of the protocol
 
@@ -36,7 +36,7 @@ The name of the protocol
 
 > **getQueryElement**(): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:8](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/Protocols/USyncContactProtocol.ts#L8)
+Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:8](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/WAUSync/Protocols/USyncContactProtocol.ts#L8)
 
 Defines what goes inside the query part of a USyncQuery
 
@@ -54,7 +54,7 @@ Defines what goes inside the query part of a USyncQuery
 
 > **getUserElement**(`user`): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:15](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/Protocols/USyncContactProtocol.ts#L15)
+Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:15](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/WAUSync/Protocols/USyncContactProtocol.ts#L15)
 
 Defines what goes inside the user part of a USyncQuery
 
@@ -78,7 +78,7 @@ Defines what goes inside the user part of a USyncQuery
 
 > **parser**(`node`): `boolean`
 
-Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:24](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/WAUSync/Protocols/USyncContactProtocol.ts#L24)
+Defined in: [src/WAUSync/Protocols/USyncContactProtocol.ts:24](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/WAUSync/Protocols/USyncContactProtocol.ts#L24)
 
 Parse the result of the query
 

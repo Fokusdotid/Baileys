@@ -1,6 +1,6 @@
 # Class: PollEncValue
 
-Defined in: [WAProto/index.d.ts:36656](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36656)
+Defined in: [WAProto/index.d.ts:27966](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27966)
 
 Represents a PollEncValue.
 
@@ -14,7 +14,7 @@ Represents a PollEncValue.
 
 > **new PollEncValue**(`properties`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:36662](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36662)
+Defined in: [WAProto/index.d.ts:27972](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27972)
 
 Constructs a new PollEncValue.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### encIv?
+### encIv
 
-> `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encIv**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:36668](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36668)
+Defined in: [WAProto/index.d.ts:27978](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27978)
 
 PollEncValue encIv.
 
@@ -46,11 +46,11 @@ PollEncValue encIv.
 
 ***
 
-### encPayload?
+### encPayload
 
-> `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encPayload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:36665](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36665)
+Defined in: [WAProto/index.d.ts:27975](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27975)
 
 PollEncValue encPayload.
 
@@ -64,7 +64,7 @@ PollEncValue encPayload.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36738](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36738)
+Defined in: [WAProto/index.d.ts:28048](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28048)
 
 Converts this PollEncValue to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:36675](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36675)
+Defined in: [WAProto/index.d.ts:27985](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27985)
 
 Creates a new PollEncValue instance using the specified properties.
 
@@ -104,7 +104,7 @@ PollEncValue instance
 
 > `static` **decode**(`reader`, `length`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:36701](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36701)
+Defined in: [WAProto/index.d.ts:28011](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28011)
 
 Decodes a PollEncValue message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:36710](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36710)
+Defined in: [WAProto/index.d.ts:28020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28020)
 
 Decodes a PollEncValue message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36683](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36683)
+Defined in: [WAProto/index.d.ts:27993](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27993)
 
 Encodes the specified PollEncValue message. Does not implicitly [verify](PollEncValue.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36691](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36691)
+Defined in: [WAProto/index.d.ts:28001](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28001)
 
 Encodes the specified PollEncValue message, length delimited. Does not implicitly [verify](PollEncValue.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:36724](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36724)
+Defined in: [WAProto/index.d.ts:28034](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28034)
 
 Creates a PollEncValue message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PollEncValue
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36745](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36745)
+Defined in: [WAProto/index.d.ts:28055](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28055)
 
 Gets the default type url for PollEncValue
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36732](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36732)
+Defined in: [WAProto/index.d.ts:28042](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28042)
 
 Creates a plain object from a PollEncValue message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36717](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36717)
+Defined in: [WAProto/index.d.ts:28027](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28027)
 
 Verifies a PollEncValue message.
 

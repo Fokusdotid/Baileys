@@ -1,6 +1,6 @@
 # Interface: IPeerDataOperationRequestResponseMessage
 
-Defined in: [WAProto/index.d.ts:27536](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27536)
+Defined in: [WAProto/index.d.ts:20615](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20615)
 
 Properties of a PeerDataOperationRequestResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a PeerDataOperationRequestResponseMessage.
 
 > `optional` **peerDataOperationRequestType**: `null` \| [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
 
-Defined in: [WAProto/index.d.ts:27539](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27539)
+Defined in: [WAProto/index.d.ts:20618](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20618)
 
 PeerDataOperationRequestResponseMessage peerDataOperationRequestType
 
@@ -20,7 +20,7 @@ PeerDataOperationRequestResponseMessage peerDataOperationRequestType
 
 > `optional` **peerDataOperationResult**: `null` \| [`IPeerDataOperationResult`](../namespaces/PeerDataOperationRequestResponseMessage/interfaces/IPeerDataOperationResult.md)[]
 
-Defined in: [WAProto/index.d.ts:27545](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27545)
+Defined in: [WAProto/index.d.ts:20624](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20624)
 
 PeerDataOperationRequestResponseMessage peerDataOperationResult
 
@@ -30,6 +30,6 @@ PeerDataOperationRequestResponseMessage peerDataOperationResult
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27542)
+Defined in: [WAProto/index.d.ts:20621](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20621)
 
 PeerDataOperationRequestResponseMessage stanzaId

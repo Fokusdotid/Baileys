@@ -1,6 +1,6 @@
 # Enumeration: IOSAppExtension
 
-Defined in: [WAProto/index.d.ts:8191](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8191)
+Defined in: [WAProto/index.d.ts:3720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3720)
 
 IOSAppExtension enum.
 
@@ -10,7 +10,7 @@ IOSAppExtension enum.
 
 > **INTENTS\_EXTENSION**: `2`
 
-Defined in: [WAProto/index.d.ts:8194](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8194)
+Defined in: [WAProto/index.d.ts:3723](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3723)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8194](https://github.com/Fokusdotid/Baileys/blob
 
 > **SERVICE\_EXTENSION**: `1`
 
-Defined in: [WAProto/index.d.ts:8193](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8193)
+Defined in: [WAProto/index.d.ts:3722](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3722)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:8193](https://github.com/Fokusdotid/Baileys/blob
 
 > **SHARE\_EXTENSION**: `0`
 
-Defined in: [WAProto/index.d.ts:8192](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8192)
+Defined in: [WAProto/index.d.ts:3721](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3721)

@@ -1,6 +1,6 @@
 # Class: MediaData
 
-Defined in: [WAProto/index.d.ts:35752](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35752)
+Defined in: [WAProto/index.d.ts:27062](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27062)
 
 Represents a MediaData.
 
@@ -14,7 +14,7 @@ Represents a MediaData.
 
 > **new MediaData**(`properties`?): [`MediaData`](MediaData.md)
 
-Defined in: [WAProto/index.d.ts:35758](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35758)
+Defined in: [WAProto/index.d.ts:27068](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27068)
 
 Constructs a new MediaData.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:35773](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35773)
+Defined in: [WAProto/index.d.ts:27083](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27083)
 
 MediaData directPath.
 
@@ -46,11 +46,11 @@ MediaData directPath.
 
 ***
 
-### fileEncSha256?
+### fileEncSha256
 
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:35770](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35770)
+Defined in: [WAProto/index.d.ts:27080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27080)
 
 MediaData fileEncSha256.
 
@@ -60,11 +60,11 @@ MediaData fileEncSha256.
 
 ***
 
-### fileSha256?
+### fileSha256
 
-> `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:35767](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35767)
+Defined in: [WAProto/index.d.ts:27077](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27077)
 
 MediaData fileSha256.
 
@@ -74,11 +74,11 @@ MediaData fileSha256.
 
 ***
 
-### mediaKey?
+### mediaKey
 
-> `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **mediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:35761](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35761)
+Defined in: [WAProto/index.d.ts:27071](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27071)
 
 MediaData mediaKey.
 
@@ -88,11 +88,11 @@ MediaData mediaKey.
 
 ***
 
-### mediaKeyTimestamp?
+### mediaKeyTimestamp
 
-> `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
+> **mediaKeyTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35764](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35764)
+Defined in: [WAProto/index.d.ts:27074](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27074)
 
 MediaData mediaKeyTimestamp.
 
@@ -106,7 +106,7 @@ MediaData mediaKeyTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35843](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35843)
+Defined in: [WAProto/index.d.ts:27153](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27153)
 
 Converts this MediaData to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MediaData`](MediaData.md)
 
-Defined in: [WAProto/index.d.ts:35780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35780)
+Defined in: [WAProto/index.d.ts:27090](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27090)
 
 Creates a new MediaData instance using the specified properties.
 
@@ -146,7 +146,7 @@ MediaData instance
 
 > `static` **decode**(`reader`, `length`?): [`MediaData`](MediaData.md)
 
-Defined in: [WAProto/index.d.ts:35806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35806)
+Defined in: [WAProto/index.d.ts:27116](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27116)
 
 Decodes a MediaData message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MediaData`](MediaData.md)
 
-Defined in: [WAProto/index.d.ts:35815](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35815)
+Defined in: [WAProto/index.d.ts:27125](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27125)
 
 Decodes a MediaData message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35788](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35788)
+Defined in: [WAProto/index.d.ts:27098](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27098)
 
 Encodes the specified MediaData message. Does not implicitly [verify](MediaData.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35796](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35796)
+Defined in: [WAProto/index.d.ts:27106](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27106)
 
 Encodes the specified MediaData message, length delimited. Does not implicitly [verify](MediaData.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MediaData`](MediaData.md)
 
-Defined in: [WAProto/index.d.ts:35829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35829)
+Defined in: [WAProto/index.d.ts:27139](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27139)
 
 Creates a MediaData message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ MediaData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35850](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35850)
+Defined in: [WAProto/index.d.ts:27160](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27160)
 
 Gets the default type url for MediaData
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35837](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35837)
+Defined in: [WAProto/index.d.ts:27147](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27147)
 
 Creates a plain object from a MediaData message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35822)
+Defined in: [WAProto/index.d.ts:27132](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27132)
 
 Verifies a MediaData message.
 

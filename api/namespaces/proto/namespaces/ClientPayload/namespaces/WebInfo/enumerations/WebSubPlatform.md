@@ -1,6 +1,6 @@
 # Enumeration: WebSubPlatform
 
-Defined in: [WAProto/index.d.ts:8806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8806)
+Defined in: [WAProto/index.d.ts:4323](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4323)
 
 WebSubPlatform enum.
 
@@ -10,7 +10,7 @@ WebSubPlatform enum.
 
 > **APP\_STORE**: `1`
 
-Defined in: [WAProto/index.d.ts:8808](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8808)
+Defined in: [WAProto/index.d.ts:4325](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4325)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8808](https://github.com/Fokusdotid/Baileys/blob
 
 > **DARWIN**: `3`
 
-Defined in: [WAProto/index.d.ts:8810](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8810)
+Defined in: [WAProto/index.d.ts:4327](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4327)
 
 ***
 
@@ -26,15 +26,7 @@ Defined in: [WAProto/index.d.ts:8810](https://github.com/Fokusdotid/Baileys/blob
 
 > **WEB\_BROWSER**: `0`
 
-Defined in: [WAProto/index.d.ts:8807](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8807)
-
-***
-
-### WIN\_HYBRID
-
-> **WIN\_HYBRID**: `5`
-
-Defined in: [WAProto/index.d.ts:8812](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8812)
+Defined in: [WAProto/index.d.ts:4324](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4324)
 
 ***
 
@@ -42,7 +34,7 @@ Defined in: [WAProto/index.d.ts:8812](https://github.com/Fokusdotid/Baileys/blob
 
 > **WIN\_STORE**: `2`
 
-Defined in: [WAProto/index.d.ts:8809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8809)
+Defined in: [WAProto/index.d.ts:4326](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4326)
 
 ***
 
@@ -50,4 +42,4 @@ Defined in: [WAProto/index.d.ts:8809](https://github.com/Fokusdotid/Baileys/blob
 
 > **WIN32**: `4`
 
-Defined in: [WAProto/index.d.ts:8811](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8811)
+Defined in: [WAProto/index.d.ts:4328](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4328)

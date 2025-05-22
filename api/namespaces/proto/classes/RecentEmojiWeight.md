@@ -1,6 +1,6 @@
 # Class: RecentEmojiWeight
 
-Defined in: [WAProto/index.d.ts:37800](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37800)
+Defined in: [WAProto/index.d.ts:29188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29188)
 
 Represents a RecentEmojiWeight.
 
@@ -14,7 +14,7 @@ Represents a RecentEmojiWeight.
 
 > **new RecentEmojiWeight**(`properties`?): [`RecentEmojiWeight`](RecentEmojiWeight.md)
 
-Defined in: [WAProto/index.d.ts:37806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37806)
+Defined in: [WAProto/index.d.ts:29194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29194)
 
 Constructs a new RecentEmojiWeight.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### emoji?
+### emoji
 
-> `optional` **emoji**: `null` \| `string`
+> **emoji**: `string`
 
-Defined in: [WAProto/index.d.ts:37809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37809)
+Defined in: [WAProto/index.d.ts:29197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29197)
 
 RecentEmojiWeight emoji.
 
@@ -46,11 +46,11 @@ RecentEmojiWeight emoji.
 
 ***
 
-### weight?
+### weight
 
-> `optional` **weight**: `null` \| `number`
+> **weight**: `number`
 
-Defined in: [WAProto/index.d.ts:37812](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37812)
+Defined in: [WAProto/index.d.ts:29200](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29200)
 
 RecentEmojiWeight weight.
 
@@ -64,7 +64,7 @@ RecentEmojiWeight weight.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37882)
+Defined in: [WAProto/index.d.ts:29270](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29270)
 
 Converts this RecentEmojiWeight to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RecentEmojiWeight`](RecentEmojiWeight.md)
 
-Defined in: [WAProto/index.d.ts:37819](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37819)
+Defined in: [WAProto/index.d.ts:29207](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29207)
 
 Creates a new RecentEmojiWeight instance using the specified properties.
 
@@ -104,7 +104,7 @@ RecentEmojiWeight instance
 
 > `static` **decode**(`reader`, `length`?): [`RecentEmojiWeight`](RecentEmojiWeight.md)
 
-Defined in: [WAProto/index.d.ts:37845](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37845)
+Defined in: [WAProto/index.d.ts:29233](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29233)
 
 Decodes a RecentEmojiWeight message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RecentEmojiWeight`](RecentEmojiWeight.md)
 
-Defined in: [WAProto/index.d.ts:37854](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37854)
+Defined in: [WAProto/index.d.ts:29242](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29242)
 
 Decodes a RecentEmojiWeight message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37827](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37827)
+Defined in: [WAProto/index.d.ts:29215](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29215)
 
 Encodes the specified RecentEmojiWeight message. Does not implicitly [verify](RecentEmojiWeight.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37835](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37835)
+Defined in: [WAProto/index.d.ts:29223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29223)
 
 Encodes the specified RecentEmojiWeight message, length delimited. Does not implicitly [verify](RecentEmojiWeight.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RecentEmojiWeight`](RecentEmojiWeight.md)
 
-Defined in: [WAProto/index.d.ts:37868](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37868)
+Defined in: [WAProto/index.d.ts:29256](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29256)
 
 Creates a RecentEmojiWeight message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ RecentEmojiWeight
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37889](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37889)
+Defined in: [WAProto/index.d.ts:29277](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29277)
 
 Gets the default type url for RecentEmojiWeight
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37876)
+Defined in: [WAProto/index.d.ts:29264](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29264)
 
 Creates a plain object from a RecentEmojiWeight message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37861](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L37861)
+Defined in: [WAProto/index.d.ts:29249](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29249)
 
 Verifies a RecentEmojiWeight message.
 

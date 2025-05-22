@@ -1,6 +1,6 @@
 # Class: PaymentInfoAction
 
-Defined in: [WAProto/index.d.ts:44302](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44302)
+Defined in: [WAProto/index.d.ts:34994](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34994)
 
 Represents a PaymentInfoAction.
 
@@ -14,7 +14,7 @@ Represents a PaymentInfoAction.
 
 > **new PaymentInfoAction**(`properties`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:44308](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44308)
+Defined in: [WAProto/index.d.ts:35000](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35000)
 
 Constructs a new PaymentInfoAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### cpi?
+### cpi
 
-> `optional` **cpi**: `null` \| `string`
+> **cpi**: `string`
 
-Defined in: [WAProto/index.d.ts:44311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44311)
+Defined in: [WAProto/index.d.ts:35003](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35003)
 
 PaymentInfoAction cpi.
 
@@ -50,7 +50,7 @@ PaymentInfoAction cpi.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44381](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44381)
+Defined in: [WAProto/index.d.ts:35073](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35073)
 
 Converts this PaymentInfoAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:44318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44318)
+Defined in: [WAProto/index.d.ts:35010](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35010)
 
 Creates a new PaymentInfoAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PaymentInfoAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:44344](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44344)
+Defined in: [WAProto/index.d.ts:35036](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35036)
 
 Decodes a PaymentInfoAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:44353](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44353)
+Defined in: [WAProto/index.d.ts:35045](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35045)
 
 Decodes a PaymentInfoAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44326)
+Defined in: [WAProto/index.d.ts:35018](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35018)
 
 Encodes the specified PaymentInfoAction message. Does not implicitly [verify](PaymentInfoAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44334](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44334)
+Defined in: [WAProto/index.d.ts:35026](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35026)
 
 Encodes the specified PaymentInfoAction message, length delimited. Does not implicitly [verify](PaymentInfoAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:44367](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44367)
+Defined in: [WAProto/index.d.ts:35059](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35059)
 
 Creates a PaymentInfoAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PaymentInfoAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44388](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44388)
+Defined in: [WAProto/index.d.ts:35080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35080)
 
 Gets the default type url for PaymentInfoAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44375](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44375)
+Defined in: [WAProto/index.d.ts:35067](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35067)
 
 Creates a plain object from a PaymentInfoAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44360](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44360)
+Defined in: [WAProto/index.d.ts:35052](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35052)
 
 Verifies a PaymentInfoAction message.
 

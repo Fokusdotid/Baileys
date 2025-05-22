@@ -1,6 +1,6 @@
 # Class: Chain
 
-Defined in: [WAProto/index.d.ts:39240](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39240)
+Defined in: [WAProto/index.d.ts:30513](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30513)
 
 Represents a Chain.
 
@@ -14,7 +14,7 @@ Represents a Chain.
 
 > **new Chain**(`properties`?): [`Chain`](Chain.md)
 
-Defined in: [WAProto/index.d.ts:39246](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39246)
+Defined in: [WAProto/index.d.ts:30519](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30519)
 
 Constructs a new Chain.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chainKey**: `null` \| [`IChainKey`](../namespaces/Chain/interfaces/IChainKey.md)
 
-Defined in: [WAProto/index.d.ts:39255](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39255)
+Defined in: [WAProto/index.d.ts:30528](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30528)
 
 Chain chainKey.
 
@@ -50,7 +50,7 @@ Chain chainKey.
 
 > **messageKeys**: [`IMessageKey`](../namespaces/Chain/interfaces/IMessageKey.md)[]
 
-Defined in: [WAProto/index.d.ts:39258](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39258)
+Defined in: [WAProto/index.d.ts:30531](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30531)
 
 Chain messageKeys.
 
@@ -60,11 +60,11 @@ Chain messageKeys.
 
 ***
 
-### senderRatchetKey?
+### senderRatchetKey
 
-> `optional` **senderRatchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **senderRatchetKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39249](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39249)
+Defined in: [WAProto/index.d.ts:30522](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30522)
 
 Chain senderRatchetKey.
 
@@ -74,11 +74,11 @@ Chain senderRatchetKey.
 
 ***
 
-### senderRatchetKeyPrivate?
+### senderRatchetKeyPrivate
 
-> `optional` **senderRatchetKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **senderRatchetKeyPrivate**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39252](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39252)
+Defined in: [WAProto/index.d.ts:30525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30525)
 
 Chain senderRatchetKeyPrivate.
 
@@ -92,7 +92,7 @@ Chain senderRatchetKeyPrivate.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39328](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39328)
+Defined in: [WAProto/index.d.ts:30601](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30601)
 
 Converts this Chain to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Chain`](Chain.md)
 
-Defined in: [WAProto/index.d.ts:39265](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39265)
+Defined in: [WAProto/index.d.ts:30538](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30538)
 
 Creates a new Chain instance using the specified properties.
 
@@ -132,7 +132,7 @@ Chain instance
 
 > `static` **decode**(`reader`, `length`?): [`Chain`](Chain.md)
 
-Defined in: [WAProto/index.d.ts:39291](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39291)
+Defined in: [WAProto/index.d.ts:30564](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30564)
 
 Decodes a Chain message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Chain`](Chain.md)
 
-Defined in: [WAProto/index.d.ts:39300](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39300)
+Defined in: [WAProto/index.d.ts:30573](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30573)
 
 Decodes a Chain message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39273](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39273)
+Defined in: [WAProto/index.d.ts:30546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30546)
 
 Encodes the specified Chain message. Does not implicitly [verify](Chain.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39281](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39281)
+Defined in: [WAProto/index.d.ts:30554](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30554)
 
 Encodes the specified Chain message, length delimited. Does not implicitly [verify](Chain.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Chain`](Chain.md)
 
-Defined in: [WAProto/index.d.ts:39314](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39314)
+Defined in: [WAProto/index.d.ts:30587](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30587)
 
 Creates a Chain message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Chain
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39335](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39335)
+Defined in: [WAProto/index.d.ts:30608](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30608)
 
 Gets the default type url for Chain
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39322](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39322)
+Defined in: [WAProto/index.d.ts:30595](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30595)
 
 Creates a plain object from a Chain message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39307](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39307)
+Defined in: [WAProto/index.d.ts:30580](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30580)
 
 Verifies a Chain message.
 

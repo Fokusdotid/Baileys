@@ -1,6 +1,6 @@
 # Interface: IDeviceProps
 
-Defined in: [WAProto/index.d.ts:11760](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11760)
+Defined in: [WAProto/index.d.ts:6356](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6356)
 
 Properties of a DeviceProps.
 
@@ -10,7 +10,7 @@ Properties of a DeviceProps.
 
 > `optional` **historySyncConfig**: `null` \| [`IHistorySyncConfig`](../namespaces/DeviceProps/interfaces/IHistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:11775](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11775)
+Defined in: [WAProto/index.d.ts:6371](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6371)
 
 DeviceProps historySyncConfig
 
@@ -20,7 +20,7 @@ DeviceProps historySyncConfig
 
 > `optional` **os**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11763](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11763)
+Defined in: [WAProto/index.d.ts:6359](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6359)
 
 DeviceProps os
 
@@ -30,7 +30,7 @@ DeviceProps os
 
 > `optional` **platformType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:11769](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11769)
+Defined in: [WAProto/index.d.ts:6365](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6365)
 
 DeviceProps platformType
 
@@ -40,7 +40,7 @@ DeviceProps platformType
 
 > `optional` **requireFullSync**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11772](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11772)
+Defined in: [WAProto/index.d.ts:6368](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6368)
 
 DeviceProps requireFullSync
 
@@ -50,6 +50,6 @@ DeviceProps requireFullSync
 
 > `optional` **version**: `null` \| [`IAppVersion`](../namespaces/DeviceProps/interfaces/IAppVersion.md)
 
-Defined in: [WAProto/index.d.ts:11766](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11766)
+Defined in: [WAProto/index.d.ts:6362](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6362)
 
 DeviceProps version

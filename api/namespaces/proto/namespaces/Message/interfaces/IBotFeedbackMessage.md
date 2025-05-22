@@ -1,6 +1,6 @@
 # Interface: IBotFeedbackMessage
 
-Defined in: [WAProto/index.d.ts:18483](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18483)
+Defined in: [WAProto/index.d.ts:12123](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12123)
 
 Properties of a BotFeedbackMessage.
 
@@ -10,7 +10,7 @@ Properties of a BotFeedbackMessage.
 
 > `optional` **kind**: `null` \| [`BotFeedbackKind`](../namespaces/BotFeedbackMessage/enumerations/BotFeedbackKind.md)
 
-Defined in: [WAProto/index.d.ts:18489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18489)
+Defined in: [WAProto/index.d.ts:12129](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12129)
 
 BotFeedbackMessage kind
 
@@ -20,7 +20,7 @@ BotFeedbackMessage kind
 
 > `optional` **kindNegative**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18495](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18495)
+Defined in: [WAProto/index.d.ts:12135](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12135)
 
 BotFeedbackMessage kindNegative
 
@@ -30,19 +30,9 @@ BotFeedbackMessage kindNegative
 
 > `optional` **kindPositive**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18498](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18498)
+Defined in: [WAProto/index.d.ts:12138](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12138)
 
 BotFeedbackMessage kindPositive
-
-***
-
-### kindReport?
-
-> `optional` **kindReport**: `null` \| [`GENERIC`](../namespaces/BotFeedbackMessage/enumerations/ReportKind.md#generic)
-
-Defined in: [WAProto/index.d.ts:18501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18501)
-
-BotFeedbackMessage kindReport
 
 ***
 
@@ -50,7 +40,7 @@ BotFeedbackMessage kindReport
 
 > `optional` **messageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:18486](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18486)
+Defined in: [WAProto/index.d.ts:12126](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12126)
 
 BotFeedbackMessage messageKey
 
@@ -60,6 +50,6 @@ BotFeedbackMessage messageKey
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18492](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18492)
+Defined in: [WAProto/index.d.ts:12132](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12132)
 
 BotFeedbackMessage text

@@ -1,6 +1,6 @@
 # Class: NewsletterAdminInviteMessage
 
-Defined in: [WAProto/index.d.ts:26470](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26470)
+Defined in: [WAProto/index.d.ts:19664](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19664)
 
 Represents a NewsletterAdminInviteMessage.
 
@@ -14,7 +14,7 @@ Represents a NewsletterAdminInviteMessage.
 
 > **new NewsletterAdminInviteMessage**(`properties`?): [`NewsletterAdminInviteMessage`](NewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:26476](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26476)
+Defined in: [WAProto/index.d.ts:19670](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19670)
 
 Constructs a new NewsletterAdminInviteMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### caption?
+### caption
 
-> `optional` **caption**: `null` \| `string`
+> **caption**: `string`
 
-Defined in: [WAProto/index.d.ts:26488](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26488)
+Defined in: [WAProto/index.d.ts:19682](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19682)
 
 NewsletterAdminInviteMessage caption.
 
@@ -50,7 +50,7 @@ NewsletterAdminInviteMessage caption.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26494](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26494)
+Defined in: [WAProto/index.d.ts:19688](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19688)
 
 NewsletterAdminInviteMessage contextInfo.
 
@@ -60,11 +60,11 @@ NewsletterAdminInviteMessage contextInfo.
 
 ***
 
-### inviteExpiration?
+### inviteExpiration
 
-> `optional` **inviteExpiration**: `null` \| `number` \| `Long`
+> **inviteExpiration**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26491](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26491)
+Defined in: [WAProto/index.d.ts:19685](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19685)
 
 NewsletterAdminInviteMessage inviteExpiration.
 
@@ -74,11 +74,11 @@ NewsletterAdminInviteMessage inviteExpiration.
 
 ***
 
-### jpegThumbnail?
+### jpegThumbnail
 
-> `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **jpegThumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:26485](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26485)
+Defined in: [WAProto/index.d.ts:19679](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19679)
 
 NewsletterAdminInviteMessage jpegThumbnail.
 
@@ -88,11 +88,11 @@ NewsletterAdminInviteMessage jpegThumbnail.
 
 ***
 
-### newsletterJid?
+### newsletterJid
 
-> `optional` **newsletterJid**: `null` \| `string`
+> **newsletterJid**: `string`
 
-Defined in: [WAProto/index.d.ts:26479](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26479)
+Defined in: [WAProto/index.d.ts:19673](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19673)
 
 NewsletterAdminInviteMessage newsletterJid.
 
@@ -102,11 +102,11 @@ NewsletterAdminInviteMessage newsletterJid.
 
 ***
 
-### newsletterName?
+### newsletterName
 
-> `optional` **newsletterName**: `null` \| `string`
+> **newsletterName**: `string`
 
-Defined in: [WAProto/index.d.ts:26482](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26482)
+Defined in: [WAProto/index.d.ts:19676](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19676)
 
 NewsletterAdminInviteMessage newsletterName.
 
@@ -120,7 +120,7 @@ NewsletterAdminInviteMessage newsletterName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26564](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26564)
+Defined in: [WAProto/index.d.ts:19758](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19758)
 
 Converts this NewsletterAdminInviteMessage to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NewsletterAdminInviteMessage`](NewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:26501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26501)
+Defined in: [WAProto/index.d.ts:19695](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19695)
 
 Creates a new NewsletterAdminInviteMessage instance using the specified properties.
 
@@ -160,7 +160,7 @@ NewsletterAdminInviteMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`NewsletterAdminInviteMessage`](NewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:26527](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26527)
+Defined in: [WAProto/index.d.ts:19721](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19721)
 
 Decodes a NewsletterAdminInviteMessage message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NewsletterAdminInviteMessage`](NewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:26536](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26536)
+Defined in: [WAProto/index.d.ts:19730](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19730)
 
 Decodes a NewsletterAdminInviteMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26509](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26509)
+Defined in: [WAProto/index.d.ts:19703](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19703)
 
 Encodes the specified NewsletterAdminInviteMessage message. Does not implicitly [verify](NewsletterAdminInviteMessage.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26517](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26517)
+Defined in: [WAProto/index.d.ts:19711](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19711)
 
 Encodes the specified NewsletterAdminInviteMessage message, length delimited. Does not implicitly [verify](NewsletterAdminInviteMessage.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NewsletterAdminInviteMessage`](NewsletterAdminInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:26550](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26550)
+Defined in: [WAProto/index.d.ts:19744](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19744)
 
 Creates a NewsletterAdminInviteMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ NewsletterAdminInviteMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26571)
+Defined in: [WAProto/index.d.ts:19765](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19765)
 
 Gets the default type url for NewsletterAdminInviteMessage
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26558](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26558)
+Defined in: [WAProto/index.d.ts:19752](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19752)
 
 Creates a plain object from a NewsletterAdminInviteMessage message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26543](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26543)
+Defined in: [WAProto/index.d.ts:19737](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19737)
 
 Verifies a NewsletterAdminInviteMessage message.
 

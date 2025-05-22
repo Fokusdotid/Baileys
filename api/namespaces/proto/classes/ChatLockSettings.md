@@ -1,6 +1,6 @@
 # Class: ChatLockSettings
 
-Defined in: [WAProto/index.d.ts:6822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6822)
+Defined in: [WAProto/index.d.ts:2576](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2576)
 
 Represents a ChatLockSettings.
 
@@ -14,7 +14,7 @@ Represents a ChatLockSettings.
 
 > **new ChatLockSettings**(`properties`?): [`ChatLockSettings`](ChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:6828](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6828)
+Defined in: [WAProto/index.d.ts:2582](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2582)
 
 Constructs a new ChatLockSettings.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### hideLockedChats?
+### hideLockedChats
 
-> `optional` **hideLockedChats**: `null` \| `boolean`
+> **hideLockedChats**: `boolean`
 
-Defined in: [WAProto/index.d.ts:6831](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6831)
+Defined in: [WAProto/index.d.ts:2585](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2585)
 
 ChatLockSettings hideLockedChats.
 
@@ -50,7 +50,7 @@ ChatLockSettings hideLockedChats.
 
 > `optional` **secretCode**: `null` \| [`IUserPassword`](../interfaces/IUserPassword.md)
 
-Defined in: [WAProto/index.d.ts:6834](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6834)
+Defined in: [WAProto/index.d.ts:2588](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2588)
 
 ChatLockSettings secretCode.
 
@@ -64,7 +64,7 @@ ChatLockSettings secretCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6904](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6904)
+Defined in: [WAProto/index.d.ts:2658](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2658)
 
 Converts this ChatLockSettings to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChatLockSettings`](ChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:6841](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6841)
+Defined in: [WAProto/index.d.ts:2595](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2595)
 
 Creates a new ChatLockSettings instance using the specified properties.
 
@@ -104,7 +104,7 @@ ChatLockSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`ChatLockSettings`](ChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:6867](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6867)
+Defined in: [WAProto/index.d.ts:2621](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2621)
 
 Decodes a ChatLockSettings message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChatLockSettings`](ChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:6876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6876)
+Defined in: [WAProto/index.d.ts:2630](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2630)
 
 Decodes a ChatLockSettings message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6849](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6849)
+Defined in: [WAProto/index.d.ts:2603](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2603)
 
 Encodes the specified ChatLockSettings message. Does not implicitly [verify](ChatLockSettings.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6857](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6857)
+Defined in: [WAProto/index.d.ts:2611](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2611)
 
 Encodes the specified ChatLockSettings message, length delimited. Does not implicitly [verify](ChatLockSettings.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChatLockSettings`](ChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:6890](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6890)
+Defined in: [WAProto/index.d.ts:2644](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2644)
 
 Creates a ChatLockSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ChatLockSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6911](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6911)
+Defined in: [WAProto/index.d.ts:2665](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2665)
 
 Gets the default type url for ChatLockSettings
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6898](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6898)
+Defined in: [WAProto/index.d.ts:2652](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2652)
 
 Creates a plain object from a ChatLockSettings message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6883](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6883)
+Defined in: [WAProto/index.d.ts:2637](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2637)
 
 Verifies a ChatLockSettings message.
 

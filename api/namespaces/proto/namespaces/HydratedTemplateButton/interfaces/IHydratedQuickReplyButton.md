@@ -1,6 +1,6 @@
 # Interface: IHydratedQuickReplyButton
 
-Defined in: [WAProto/index.d.ts:14867](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14867)
+Defined in: [WAProto/index.d.ts:8834](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8834)
 
 Properties of a HydratedQuickReplyButton.
 
@@ -10,7 +10,7 @@ Properties of a HydratedQuickReplyButton.
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14870](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14870)
+Defined in: [WAProto/index.d.ts:8837](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8837)
 
 HydratedQuickReplyButton displayText
 
@@ -20,6 +20,6 @@ HydratedQuickReplyButton displayText
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14873](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14873)
+Defined in: [WAProto/index.d.ts:8840](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8840)
 
 HydratedQuickReplyButton id

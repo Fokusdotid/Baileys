@@ -1,6 +1,6 @@
 # Class: OrderMessage
 
-Defined in: [WAProto/index.d.ts:26621](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26621)
+Defined in: [WAProto/index.d.ts:19815](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19815)
 
 Represents an OrderMessage.
 
@@ -14,7 +14,7 @@ Represents an OrderMessage.
 
 > **new OrderMessage**(`properties`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:26627](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26627)
+Defined in: [WAProto/index.d.ts:19821](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19821)
 
 Constructs a new OrderMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26663](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26663)
+Defined in: [WAProto/index.d.ts:19857](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19857)
 
 OrderMessage contextInfo.
 
@@ -46,11 +46,11 @@ OrderMessage contextInfo.
 
 ***
 
-### itemCount?
+### itemCount
 
-> `optional` **itemCount**: `null` \| `number`
+> **itemCount**: `number`
 
-Defined in: [WAProto/index.d.ts:26636](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26636)
+Defined in: [WAProto/index.d.ts:19830](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19830)
 
 OrderMessage itemCount.
 
@@ -60,11 +60,11 @@ OrderMessage itemCount.
 
 ***
 
-### message?
+### message
 
-> `optional` **message**: `null` \| `string`
+> **message**: `string`
 
-Defined in: [WAProto/index.d.ts:26645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26645)
+Defined in: [WAProto/index.d.ts:19839](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19839)
 
 OrderMessage message.
 
@@ -74,11 +74,11 @@ OrderMessage message.
 
 ***
 
-### messageVersion?
+### messageVersion
 
-> `optional` **messageVersion**: `null` \| `number`
+> **messageVersion**: `number`
 
-Defined in: [WAProto/index.d.ts:26666](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26666)
+Defined in: [WAProto/index.d.ts:19860](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19860)
 
 OrderMessage messageVersion.
 
@@ -88,11 +88,11 @@ OrderMessage messageVersion.
 
 ***
 
-### orderId?
+### orderId
 
-> `optional` **orderId**: `null` \| `string`
+> **orderId**: `string`
 
-Defined in: [WAProto/index.d.ts:26630](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26630)
+Defined in: [WAProto/index.d.ts:19824](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19824)
 
 OrderMessage orderId.
 
@@ -106,7 +106,7 @@ OrderMessage orderId.
 
 > `optional` **orderRequestMessageId**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:26669](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26669)
+Defined in: [WAProto/index.d.ts:19863](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19863)
 
 OrderMessage orderRequestMessageId.
 
@@ -116,11 +116,11 @@ OrderMessage orderRequestMessageId.
 
 ***
 
-### orderTitle?
+### orderTitle
 
-> `optional` **orderTitle**: `null` \| `string`
+> **orderTitle**: `string`
 
-Defined in: [WAProto/index.d.ts:26648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26648)
+Defined in: [WAProto/index.d.ts:19842](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19842)
 
 OrderMessage orderTitle.
 
@@ -130,11 +130,11 @@ OrderMessage orderTitle.
 
 ***
 
-### sellerJid?
+### sellerJid
 
-> `optional` **sellerJid**: `null` \| `string`
+> **sellerJid**: `string`
 
-Defined in: [WAProto/index.d.ts:26651](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26651)
+Defined in: [WAProto/index.d.ts:19845](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19845)
 
 OrderMessage sellerJid.
 
@@ -144,11 +144,11 @@ OrderMessage sellerJid.
 
 ***
 
-### status?
+### status
 
-> `optional` **status**: `null` \| [`OrderStatus`](../namespaces/OrderMessage/enumerations/OrderStatus.md)
+> **status**: [`OrderStatus`](../namespaces/OrderMessage/enumerations/OrderStatus.md)
 
-Defined in: [WAProto/index.d.ts:26639](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26639)
+Defined in: [WAProto/index.d.ts:19833](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19833)
 
 OrderMessage status.
 
@@ -158,11 +158,11 @@ OrderMessage status.
 
 ***
 
-### surface?
+### surface
 
-> `optional` **surface**: `null` \| [`CATALOG`](../namespaces/OrderMessage/enumerations/OrderSurface.md#catalog)
+> **surface**: [`CATALOG`](../namespaces/OrderMessage/enumerations/OrderSurface.md#catalog)
 
-Defined in: [WAProto/index.d.ts:26642](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26642)
+Defined in: [WAProto/index.d.ts:19836](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19836)
 
 OrderMessage surface.
 
@@ -172,11 +172,11 @@ OrderMessage surface.
 
 ***
 
-### thumbnail?
+### thumbnail
 
-> `optional` **thumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **thumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:26633](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26633)
+Defined in: [WAProto/index.d.ts:19827](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19827)
 
 OrderMessage thumbnail.
 
@@ -186,11 +186,11 @@ OrderMessage thumbnail.
 
 ***
 
-### token?
+### token
 
-> `optional` **token**: `null` \| `string`
+> **token**: `string`
 
-Defined in: [WAProto/index.d.ts:26654](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26654)
+Defined in: [WAProto/index.d.ts:19848](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19848)
 
 OrderMessage token.
 
@@ -200,11 +200,11 @@ OrderMessage token.
 
 ***
 
-### totalAmount1000?
+### totalAmount1000
 
-> `optional` **totalAmount1000**: `null` \| `number` \| `Long`
+> **totalAmount1000**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:26657](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26657)
+Defined in: [WAProto/index.d.ts:19851](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19851)
 
 OrderMessage totalAmount1000.
 
@@ -214,11 +214,11 @@ OrderMessage totalAmount1000.
 
 ***
 
-### totalCurrencyCode?
+### totalCurrencyCode
 
-> `optional` **totalCurrencyCode**: `null` \| `string`
+> **totalCurrencyCode**: `string`
 
-Defined in: [WAProto/index.d.ts:26660](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26660)
+Defined in: [WAProto/index.d.ts:19854](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19854)
 
 OrderMessage totalCurrencyCode.
 
@@ -232,7 +232,7 @@ OrderMessage totalCurrencyCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26739](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26739)
+Defined in: [WAProto/index.d.ts:19933](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19933)
 
 Converts this OrderMessage to JSON.
 
@@ -248,7 +248,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:26676](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26676)
+Defined in: [WAProto/index.d.ts:19870](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19870)
 
 Creates a new OrderMessage instance using the specified properties.
 
@@ -272,7 +272,7 @@ OrderMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:26702](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26702)
+Defined in: [WAProto/index.d.ts:19896](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19896)
 
 Decodes an OrderMessage message from the specified reader or buffer.
 
@@ -310,7 +310,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:26711](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26711)
+Defined in: [WAProto/index.d.ts:19905](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19905)
 
 Decodes an OrderMessage message from the specified reader or buffer, length delimited.
 
@@ -342,7 +342,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26684](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26684)
+Defined in: [WAProto/index.d.ts:19878](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19878)
 
 Encodes the specified OrderMessage message. Does not implicitly [verify](OrderMessage.md#verify) messages.
 
@@ -372,7 +372,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26692](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26692)
+Defined in: [WAProto/index.d.ts:19886](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19886)
 
 Encodes the specified OrderMessage message, length delimited. Does not implicitly [verify](OrderMessage.md#verify) messages.
 
@@ -402,7 +402,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:26725](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26725)
+Defined in: [WAProto/index.d.ts:19919](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19919)
 
 Creates an OrderMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -424,7 +424,7 @@ OrderMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26746](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26746)
+Defined in: [WAProto/index.d.ts:19940](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19940)
 
 Gets the default type url for OrderMessage
 
@@ -448,7 +448,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26733](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26733)
+Defined in: [WAProto/index.d.ts:19927](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19927)
 
 Creates a plain object from an OrderMessage message. Also converts values to other types if specified.
 
@@ -478,7 +478,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26718](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26718)
+Defined in: [WAProto/index.d.ts:19912](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19912)
 
 Verifies an OrderMessage message.
 

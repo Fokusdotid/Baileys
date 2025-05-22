@@ -1,6 +1,6 @@
 # Class: PlaceholderMessage
 
-Defined in: [WAProto/index.d.ts:28602](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28602)
+Defined in: [WAProto/index.d.ts:21352](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21352)
 
 Represents a PlaceholderMessage.
 
@@ -14,7 +14,7 @@ Represents a PlaceholderMessage.
 
 > **new PlaceholderMessage**(`properties`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28608](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28608)
+Defined in: [WAProto/index.d.ts:21358](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21358)
 
 Constructs a new PlaceholderMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### type?
+### type
 
-> `optional` **type**: `null` \| [`MASK_LINKED_DEVICES`](../namespaces/PlaceholderMessage/enumerations/PlaceholderType.md#mask_linked_devices)
+> **type**: [`MASK_LINKED_DEVICES`](../namespaces/PlaceholderMessage/enumerations/PlaceholderType.md#mask_linked_devices)
 
-Defined in: [WAProto/index.d.ts:28611](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28611)
+Defined in: [WAProto/index.d.ts:21361](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21361)
 
 PlaceholderMessage type.
 
@@ -50,7 +50,7 @@ PlaceholderMessage type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28681)
+Defined in: [WAProto/index.d.ts:21431](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21431)
 
 Converts this PlaceholderMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28618](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28618)
+Defined in: [WAProto/index.d.ts:21368](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21368)
 
 Creates a new PlaceholderMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ PlaceholderMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28644](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28644)
+Defined in: [WAProto/index.d.ts:21394](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21394)
 
 Decodes a PlaceholderMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28653](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28653)
+Defined in: [WAProto/index.d.ts:21403](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21403)
 
 Decodes a PlaceholderMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28626](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28626)
+Defined in: [WAProto/index.d.ts:21376](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21376)
 
 Encodes the specified PlaceholderMessage message. Does not implicitly [verify](PlaceholderMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28634](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28634)
+Defined in: [WAProto/index.d.ts:21384](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21384)
 
 Encodes the specified PlaceholderMessage message, length delimited. Does not implicitly [verify](PlaceholderMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28667](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28667)
+Defined in: [WAProto/index.d.ts:21417](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21417)
 
 Creates a PlaceholderMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PlaceholderMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28688](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28688)
+Defined in: [WAProto/index.d.ts:21438](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21438)
 
 Gets the default type url for PlaceholderMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28675](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28675)
+Defined in: [WAProto/index.d.ts:21425](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21425)
 
 Creates a plain object from a PlaceholderMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28660](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L28660)
+Defined in: [WAProto/index.d.ts:21410](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L21410)
 
 Verifies a PlaceholderMessage message.
 

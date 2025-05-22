@@ -1,6 +1,6 @@
 # Interface: IForwardedNewsletterMessageInfo
 
-Defined in: [WAProto/index.d.ts:10656](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10656)
+Defined in: [WAProto/index.d.ts:5395](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5395)
 
 Properties of a ForwardedNewsletterMessageInfo.
 
@@ -10,7 +10,7 @@ Properties of a ForwardedNewsletterMessageInfo.
 
 > `optional` **accessibilityText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10671](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10671)
+Defined in: [WAProto/index.d.ts:5410](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5410)
 
 ForwardedNewsletterMessageInfo accessibilityText
 
@@ -20,7 +20,7 @@ ForwardedNewsletterMessageInfo accessibilityText
 
 > `optional` **contentType**: `null` \| [`ContentType`](../namespaces/ForwardedNewsletterMessageInfo/enumerations/ContentType.md)
 
-Defined in: [WAProto/index.d.ts:10668](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10668)
+Defined in: [WAProto/index.d.ts:5407](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5407)
 
 ForwardedNewsletterMessageInfo contentType
 
@@ -30,7 +30,7 @@ ForwardedNewsletterMessageInfo contentType
 
 > `optional` **newsletterJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10659](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10659)
+Defined in: [WAProto/index.d.ts:5398](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5398)
 
 ForwardedNewsletterMessageInfo newsletterJid
 
@@ -40,7 +40,7 @@ ForwardedNewsletterMessageInfo newsletterJid
 
 > `optional` **newsletterName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10665](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10665)
+Defined in: [WAProto/index.d.ts:5404](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5404)
 
 ForwardedNewsletterMessageInfo newsletterName
 
@@ -50,6 +50,6 @@ ForwardedNewsletterMessageInfo newsletterName
 
 > `optional` **serverMessageId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10662](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10662)
+Defined in: [WAProto/index.d.ts:5401](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5401)
 
 ForwardedNewsletterMessageInfo serverMessageId

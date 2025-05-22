@@ -1,6 +1,6 @@
 # Interface: ICtwaContextLinkData
 
-Defined in: [WAProto/index.d.ts:7310](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7310)
+Defined in: [WAProto/index.d.ts:3064](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3064)
 
 Properties of a CtwaContextLinkData.
 
@@ -10,7 +10,7 @@ Properties of a CtwaContextLinkData.
 
 > `optional` **context**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7313](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7313)
+Defined in: [WAProto/index.d.ts:3067](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3067)
 
 CtwaContextLinkData context
 
@@ -20,7 +20,7 @@ CtwaContextLinkData context
 
 > `optional` **icebreaker**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7319](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7319)
+Defined in: [WAProto/index.d.ts:3073](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3073)
 
 CtwaContextLinkData icebreaker
 
@@ -30,7 +30,7 @@ CtwaContextLinkData icebreaker
 
 > `optional` **phone**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7322](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7322)
+Defined in: [WAProto/index.d.ts:3076](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3076)
 
 CtwaContextLinkData phone
 
@@ -40,6 +40,6 @@ CtwaContextLinkData phone
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7316](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7316)
+Defined in: [WAProto/index.d.ts:3070](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3070)
 
 CtwaContextLinkData sourceUrl

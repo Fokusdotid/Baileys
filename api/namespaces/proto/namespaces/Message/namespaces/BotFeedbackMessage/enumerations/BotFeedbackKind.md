@@ -1,6 +1,6 @@
 # Enumeration: BotFeedbackKind
 
-Defined in: [WAProto/index.d.ts:18612](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18612)
+Defined in: [WAProto/index.d.ts:12246](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12246)
 
 BotFeedbackKind enum.
 
@@ -10,23 +10,7 @@ BotFeedbackKind enum.
 
 > **BOT\_FEEDBACK\_NEGATIVE\_ACCURATE**: `4`
 
-Defined in: [WAProto/index.d.ts:18617](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18617)
-
-***
-
-### BOT\_FEEDBACK\_NEGATIVE\_CLARITY
-
-> **BOT\_FEEDBACK\_NEGATIVE\_CLARITY**: `11`
-
-Defined in: [WAProto/index.d.ts:18624](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18624)
-
-***
-
-### BOT\_FEEDBACK\_NEGATIVE\_DOESNT\_LOOK\_LIKE\_THE\_PERSON
-
-> **BOT\_FEEDBACK\_NEGATIVE\_DOESNT\_LOOK\_LIKE\_THE\_PERSON**: `12`
-
-Defined in: [WAProto/index.d.ts:18625](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18625)
+Defined in: [WAProto/index.d.ts:12251](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12251)
 
 ***
 
@@ -34,7 +18,7 @@ Defined in: [WAProto/index.d.ts:18625](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_GENERIC**: `1`
 
-Defined in: [WAProto/index.d.ts:18614](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18614)
+Defined in: [WAProto/index.d.ts:12248](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12248)
 
 ***
 
@@ -42,7 +26,7 @@ Defined in: [WAProto/index.d.ts:18614](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_HELPFUL**: `2`
 
-Defined in: [WAProto/index.d.ts:18615](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18615)
+Defined in: [WAProto/index.d.ts:12249](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12249)
 
 ***
 
@@ -50,7 +34,7 @@ Defined in: [WAProto/index.d.ts:18615](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_INTERESTING**: `3`
 
-Defined in: [WAProto/index.d.ts:18616](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18616)
+Defined in: [WAProto/index.d.ts:12250](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12250)
 
 ***
 
@@ -58,7 +42,7 @@ Defined in: [WAProto/index.d.ts:18616](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_NOT\_RELEVANT\_TO\_TEXT**: `9`
 
-Defined in: [WAProto/index.d.ts:18622](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18622)
+Defined in: [WAProto/index.d.ts:12256](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12256)
 
 ***
 
@@ -66,7 +50,7 @@ Defined in: [WAProto/index.d.ts:18622](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_NOT\_VISUALLY\_APPEALING**: `8`
 
-Defined in: [WAProto/index.d.ts:18621](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18621)
+Defined in: [WAProto/index.d.ts:12255](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12255)
 
 ***
 
@@ -74,15 +58,7 @@ Defined in: [WAProto/index.d.ts:18621](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_OTHER**: `6`
 
-Defined in: [WAProto/index.d.ts:18619](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18619)
-
-***
-
-### BOT\_FEEDBACK\_NEGATIVE\_PERSONALIZED
-
-> **BOT\_FEEDBACK\_NEGATIVE\_PERSONALIZED**: `10`
-
-Defined in: [WAProto/index.d.ts:18623](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18623)
+Defined in: [WAProto/index.d.ts:12253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12253)
 
 ***
 
@@ -90,7 +66,7 @@ Defined in: [WAProto/index.d.ts:18623](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_REFUSED**: `7`
 
-Defined in: [WAProto/index.d.ts:18620](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18620)
+Defined in: [WAProto/index.d.ts:12254](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12254)
 
 ***
 
@@ -98,7 +74,7 @@ Defined in: [WAProto/index.d.ts:18620](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_NEGATIVE\_SAFE**: `5`
 
-Defined in: [WAProto/index.d.ts:18618](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18618)
+Defined in: [WAProto/index.d.ts:12252](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12252)
 
 ***
 
@@ -106,4 +82,4 @@ Defined in: [WAProto/index.d.ts:18618](https://github.com/Fokusdotid/Baileys/blo
 
 > **BOT\_FEEDBACK\_POSITIVE**: `0`
 
-Defined in: [WAProto/index.d.ts:18613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18613)
+Defined in: [WAProto/index.d.ts:12247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12247)

@@ -1,6 +1,6 @@
 # Class: DraftMessage
 
-Defined in: [WAProto/index.d.ts:7033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7033)
+Defined in: [WAProto/index.d.ts:2787](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2787)
 
 Represents a DraftMessage.
 
@@ -14,7 +14,7 @@ Represents a DraftMessage.
 
 > **new DraftMessage**(`properties`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:7039](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7039)
+Defined in: [WAProto/index.d.ts:2793](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2793)
 
 Constructs a new DraftMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **ctwaContext**: `null` \| [`ICtwaContextData`](../namespaces/DraftMessage/interfaces/ICtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:7051](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7051)
+Defined in: [WAProto/index.d.ts:2805](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2805)
 
 DraftMessage ctwaContext.
 
@@ -50,7 +50,7 @@ DraftMessage ctwaContext.
 
 > `optional` **ctwaContextLinkData**: `null` \| [`ICtwaContextLinkData`](../namespaces/DraftMessage/interfaces/ICtwaContextLinkData.md)
 
-Defined in: [WAProto/index.d.ts:7048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7048)
+Defined in: [WAProto/index.d.ts:2802](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2802)
 
 DraftMessage ctwaContextLinkData.
 
@@ -60,11 +60,11 @@ DraftMessage ctwaContextLinkData.
 
 ***
 
-### omittedUrl?
+### omittedUrl
 
-> `optional` **omittedUrl**: `null` \| `string`
+> **omittedUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:7045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7045)
+Defined in: [WAProto/index.d.ts:2799](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2799)
 
 DraftMessage omittedUrl.
 
@@ -74,11 +74,11 @@ DraftMessage omittedUrl.
 
 ***
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:7042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7042)
+Defined in: [WAProto/index.d.ts:2796](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2796)
 
 DraftMessage text.
 
@@ -88,11 +88,11 @@ DraftMessage text.
 
 ***
 
-### timestamp?
+### timestamp
 
-> `optional` **timestamp**: `null` \| `number` \| `Long`
+> **timestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:7054](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7054)
+Defined in: [WAProto/index.d.ts:2808](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2808)
 
 DraftMessage timestamp.
 
@@ -106,7 +106,7 @@ DraftMessage timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7124](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7124)
+Defined in: [WAProto/index.d.ts:2878](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2878)
 
 Converts this DraftMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:7061](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7061)
+Defined in: [WAProto/index.d.ts:2815](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2815)
 
 Creates a new DraftMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ DraftMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:7087](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7087)
+Defined in: [WAProto/index.d.ts:2841](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2841)
 
 Decodes a DraftMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:7096](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7096)
+Defined in: [WAProto/index.d.ts:2850](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2850)
 
 Decodes a DraftMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7069](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7069)
+Defined in: [WAProto/index.d.ts:2823](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2823)
 
 Encodes the specified DraftMessage message. Does not implicitly [verify](DraftMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7077](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7077)
+Defined in: [WAProto/index.d.ts:2831](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2831)
 
 Encodes the specified DraftMessage message, length delimited. Does not implicitly [verify](DraftMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:7110](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7110)
+Defined in: [WAProto/index.d.ts:2864](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2864)
 
 Creates a DraftMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ DraftMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7131](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7131)
+Defined in: [WAProto/index.d.ts:2885](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2885)
 
 Gets the default type url for DraftMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7118)
+Defined in: [WAProto/index.d.ts:2872](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2872)
 
 Creates a plain object from a DraftMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7103](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7103)
+Defined in: [WAProto/index.d.ts:2857](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2857)
 
 Verifies a DraftMessage message.
 

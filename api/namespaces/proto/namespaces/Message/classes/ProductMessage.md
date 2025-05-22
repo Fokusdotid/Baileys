@@ -1,6 +1,6 @@
 # Class: ProductMessage
 
-Defined in: [WAProto/index.d.ts:29601](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29601)
+Defined in: [WAProto/index.d.ts:22099](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22099)
 
 Represents a ProductMessage.
 
@@ -14,7 +14,7 @@ Represents a ProductMessage.
 
 > **new ProductMessage**(`properties`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:29607](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29607)
+Defined in: [WAProto/index.d.ts:22105](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22105)
 
 Constructs a new ProductMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### body?
+### body
 
-> `optional` **body**: `null` \| `string`
+> **body**: `string`
 
-Defined in: [WAProto/index.d.ts:29619](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29619)
+Defined in: [WAProto/index.d.ts:22117](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22117)
 
 ProductMessage body.
 
@@ -46,11 +46,11 @@ ProductMessage body.
 
 ***
 
-### businessOwnerJid?
+### businessOwnerJid
 
-> `optional` **businessOwnerJid**: `null` \| `string`
+> **businessOwnerJid**: `string`
 
-Defined in: [WAProto/index.d.ts:29613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29613)
+Defined in: [WAProto/index.d.ts:22111](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22111)
 
 ProductMessage businessOwnerJid.
 
@@ -64,7 +64,7 @@ ProductMessage businessOwnerJid.
 
 > `optional` **catalog**: `null` \| [`ICatalogSnapshot`](../namespaces/ProductMessage/interfaces/ICatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29616](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29616)
+Defined in: [WAProto/index.d.ts:22114](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22114)
 
 ProductMessage catalog.
 
@@ -78,7 +78,7 @@ ProductMessage catalog.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:29625](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29625)
+Defined in: [WAProto/index.d.ts:22123](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22123)
 
 ProductMessage contextInfo.
 
@@ -88,11 +88,11 @@ ProductMessage contextInfo.
 
 ***
 
-### footer?
+### footer
 
-> `optional` **footer**: `null` \| `string`
+> **footer**: `string`
 
-Defined in: [WAProto/index.d.ts:29622](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29622)
+Defined in: [WAProto/index.d.ts:22120](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22120)
 
 ProductMessage footer.
 
@@ -106,7 +106,7 @@ ProductMessage footer.
 
 > `optional` **product**: `null` \| [`IProductSnapshot`](../namespaces/ProductMessage/interfaces/IProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29610](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29610)
+Defined in: [WAProto/index.d.ts:22108](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22108)
 
 ProductMessage product.
 
@@ -120,7 +120,7 @@ ProductMessage product.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29695](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29695)
+Defined in: [WAProto/index.d.ts:22193](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22193)
 
 Converts this ProductMessage to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:29632](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29632)
+Defined in: [WAProto/index.d.ts:22130](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22130)
 
 Creates a new ProductMessage instance using the specified properties.
 
@@ -160,7 +160,7 @@ ProductMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:29658](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29658)
+Defined in: [WAProto/index.d.ts:22156](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22156)
 
 Decodes a ProductMessage message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:29667](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29667)
+Defined in: [WAProto/index.d.ts:22165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22165)
 
 Decodes a ProductMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29640](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29640)
+Defined in: [WAProto/index.d.ts:22138](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22138)
 
 Encodes the specified ProductMessage message. Does not implicitly [verify](ProductMessage.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29648)
+Defined in: [WAProto/index.d.ts:22146](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22146)
 
 Encodes the specified ProductMessage message, length delimited. Does not implicitly [verify](ProductMessage.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:29681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29681)
+Defined in: [WAProto/index.d.ts:22179](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22179)
 
 Creates a ProductMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ ProductMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29702](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29702)
+Defined in: [WAProto/index.d.ts:22200](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22200)
 
 Gets the default type url for ProductMessage
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29689](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29689)
+Defined in: [WAProto/index.d.ts:22187](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22187)
 
 Creates a plain object from a ProductMessage message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29674](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29674)
+Defined in: [WAProto/index.d.ts:22172](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22172)
 
 Verifies a ProductMessage message.
 

@@ -1,6 +1,6 @@
 # Interface: IPinInChat
 
-Defined in: [WAProto/index.d.ts:36303](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36303)
+Defined in: [WAProto/index.d.ts:27613](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27613)
 
 Properties of a PinInChat.
 
@@ -10,7 +10,7 @@ Properties of a PinInChat.
 
 > `optional` **key**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:36309](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36309)
+Defined in: [WAProto/index.d.ts:27619](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27619)
 
 PinInChat key
 
@@ -20,7 +20,7 @@ PinInChat key
 
 > `optional` **messageAddOnContextInfo**: `null` \| [`IMessageAddOnContextInfo`](IMessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36318)
+Defined in: [WAProto/index.d.ts:27628](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27628)
 
 PinInChat messageAddOnContextInfo
 
@@ -30,7 +30,7 @@ PinInChat messageAddOnContextInfo
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36312](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36312)
+Defined in: [WAProto/index.d.ts:27622](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27622)
 
 PinInChat senderTimestampMs
 
@@ -40,7 +40,7 @@ PinInChat senderTimestampMs
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36315](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36315)
+Defined in: [WAProto/index.d.ts:27625](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27625)
 
 PinInChat serverTimestampMs
 
@@ -50,6 +50,6 @@ PinInChat serverTimestampMs
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PinInChat/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:36306](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36306)
+Defined in: [WAProto/index.d.ts:27616](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27616)
 
 PinInChat type

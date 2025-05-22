@@ -1,6 +1,6 @@
 # Class: PeerDataOperationRequestResponseMessage
 
-Defined in: [WAProto/index.d.ts:27549](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27549)
+Defined in: [WAProto/index.d.ts:20628](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20628)
 
 Represents a PeerDataOperationRequestResponseMessage.
 
@@ -14,7 +14,7 @@ Represents a PeerDataOperationRequestResponseMessage.
 
 > **new PeerDataOperationRequestResponseMessage**(`properties`?): [`PeerDataOperationRequestResponseMessage`](PeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:27555](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27555)
+Defined in: [WAProto/index.d.ts:20634](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20634)
 
 Constructs a new PeerDataOperationRequestResponseMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### peerDataOperationRequestType?
+### peerDataOperationRequestType
 
-> `optional` **peerDataOperationRequestType**: `null` \| [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
+> **peerDataOperationRequestType**: [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
 
-Defined in: [WAProto/index.d.ts:27558](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27558)
+Defined in: [WAProto/index.d.ts:20637](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20637)
 
 PeerDataOperationRequestResponseMessage peerDataOperationRequestType.
 
@@ -50,7 +50,7 @@ PeerDataOperationRequestResponseMessage peerDataOperationRequestType.
 
 > **peerDataOperationResult**: [`IPeerDataOperationResult`](../namespaces/PeerDataOperationRequestResponseMessage/interfaces/IPeerDataOperationResult.md)[]
 
-Defined in: [WAProto/index.d.ts:27564](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27564)
+Defined in: [WAProto/index.d.ts:20643](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20643)
 
 PeerDataOperationRequestResponseMessage peerDataOperationResult.
 
@@ -60,11 +60,11 @@ PeerDataOperationRequestResponseMessage peerDataOperationResult.
 
 ***
 
-### stanzaId?
+### stanzaId
 
-> `optional` **stanzaId**: `null` \| `string`
+> **stanzaId**: `string`
 
-Defined in: [WAProto/index.d.ts:27561](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27561)
+Defined in: [WAProto/index.d.ts:20640](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20640)
 
 PeerDataOperationRequestResponseMessage stanzaId.
 
@@ -78,7 +78,7 @@ PeerDataOperationRequestResponseMessage stanzaId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27634](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27634)
+Defined in: [WAProto/index.d.ts:20713](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20713)
 
 Converts this PeerDataOperationRequestResponseMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PeerDataOperationRequestResponseMessage`](PeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:27571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27571)
+Defined in: [WAProto/index.d.ts:20650](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20650)
 
 Creates a new PeerDataOperationRequestResponseMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ PeerDataOperationRequestResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PeerDataOperationRequestResponseMessage`](PeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:27597](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27597)
+Defined in: [WAProto/index.d.ts:20676](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20676)
 
 Decodes a PeerDataOperationRequestResponseMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PeerDataOperationRequestResponseMessage`](PeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:27606](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27606)
+Defined in: [WAProto/index.d.ts:20685](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20685)
 
 Decodes a PeerDataOperationRequestResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27579](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27579)
+Defined in: [WAProto/index.d.ts:20658](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20658)
 
 Encodes the specified PeerDataOperationRequestResponseMessage message. Does not implicitly [verify](PeerDataOperationRequestResponseMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27587](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27587)
+Defined in: [WAProto/index.d.ts:20666](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20666)
 
 Encodes the specified PeerDataOperationRequestResponseMessage message, length delimited. Does not implicitly [verify](PeerDataOperationRequestResponseMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PeerDataOperationRequestResponseMessage`](PeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:27620](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27620)
+Defined in: [WAProto/index.d.ts:20699](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20699)
 
 Creates a PeerDataOperationRequestResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PeerDataOperationRequestResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27641](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27641)
+Defined in: [WAProto/index.d.ts:20720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20720)
 
 Gets the default type url for PeerDataOperationRequestResponseMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27628](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27628)
+Defined in: [WAProto/index.d.ts:20707](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20707)
 
 Creates a plain object from a PeerDataOperationRequestResponseMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L27613)
+Defined in: [WAProto/index.d.ts:20692](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20692)
 
 Verifies a PeerDataOperationRequestResponseMessage message.
 

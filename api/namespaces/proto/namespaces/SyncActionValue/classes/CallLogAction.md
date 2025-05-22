@@ -1,6 +1,6 @@
 # Class: CallLogAction
 
-Defined in: [WAProto/index.d.ts:41347](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41347)
+Defined in: [WAProto/index.d.ts:32493](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32493)
 
 Represents a CallLogAction.
 
@@ -14,7 +14,7 @@ Represents a CallLogAction.
 
 > **new CallLogAction**(`properties`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:41353](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41353)
+Defined in: [WAProto/index.d.ts:32499](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32499)
 
 Constructs a new CallLogAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callLogRecord**: `null` \| [`ICallLogRecord`](../../../interfaces/ICallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:41356](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41356)
+Defined in: [WAProto/index.d.ts:32502](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32502)
 
 CallLogAction callLogRecord.
 
@@ -50,7 +50,7 @@ CallLogAction callLogRecord.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41426](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41426)
+Defined in: [WAProto/index.d.ts:32572](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32572)
 
 Converts this CallLogAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:41363](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41363)
+Defined in: [WAProto/index.d.ts:32509](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32509)
 
 Creates a new CallLogAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ CallLogAction instance
 
 > `static` **decode**(`reader`, `length`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:41389](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41389)
+Defined in: [WAProto/index.d.ts:32535](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32535)
 
 Decodes a CallLogAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:41398](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41398)
+Defined in: [WAProto/index.d.ts:32544](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32544)
 
 Decodes a CallLogAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41371](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41371)
+Defined in: [WAProto/index.d.ts:32517](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32517)
 
 Encodes the specified CallLogAction message. Does not implicitly [verify](CallLogAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41379](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41379)
+Defined in: [WAProto/index.d.ts:32525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32525)
 
 Encodes the specified CallLogAction message, length delimited. Does not implicitly [verify](CallLogAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:41412](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41412)
+Defined in: [WAProto/index.d.ts:32558](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32558)
 
 Creates a CallLogAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CallLogAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41433](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41433)
+Defined in: [WAProto/index.d.ts:32579](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32579)
 
 Gets the default type url for CallLogAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41420](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41420)
+Defined in: [WAProto/index.d.ts:32566](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32566)
 
 Creates a plain object from a CallLogAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41405](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41405)
+Defined in: [WAProto/index.d.ts:32551](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32551)
 
 Verifies a CallLogAction message.
 

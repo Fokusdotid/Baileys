@@ -1,6 +1,6 @@
 # Class: Details
 
-Defined in: [WAProto/index.d.ts:6708](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6708)
+Defined in: [WAProto/index.d.ts:2462](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2462)
 
 Represents a Details.
 
@@ -14,7 +14,7 @@ Represents a Details.
 
 > **new Details**(`properties`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:6714](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6714)
+Defined in: [WAProto/index.d.ts:2468](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2468)
 
 Constructs a new Details.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### issuerSerial?
+### issuerSerial
 
-> `optional` **issuerSerial**: `null` \| `number`
+> **issuerSerial**: `number`
 
-Defined in: [WAProto/index.d.ts:6720](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6720)
+Defined in: [WAProto/index.d.ts:2474](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2474)
 
 Details issuerSerial.
 
@@ -46,11 +46,11 @@ Details issuerSerial.
 
 ***
 
-### key?
+### key
 
-> `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **key**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:6723](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6723)
+Defined in: [WAProto/index.d.ts:2477](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2477)
 
 Details key.
 
@@ -60,11 +60,11 @@ Details key.
 
 ***
 
-### notAfter?
+### notAfter
 
-> `optional` **notAfter**: `null` \| `number` \| `Long`
+> **notAfter**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6729](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6729)
+Defined in: [WAProto/index.d.ts:2483](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2483)
 
 Details notAfter.
 
@@ -74,11 +74,11 @@ Details notAfter.
 
 ***
 
-### notBefore?
+### notBefore
 
-> `optional` **notBefore**: `null` \| `number` \| `Long`
+> **notBefore**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6726](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6726)
+Defined in: [WAProto/index.d.ts:2480](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2480)
 
 Details notBefore.
 
@@ -88,11 +88,11 @@ Details notBefore.
 
 ***
 
-### serial?
+### serial
 
-> `optional` **serial**: `null` \| `number`
+> **serial**: `number`
 
-Defined in: [WAProto/index.d.ts:6717](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6717)
+Defined in: [WAProto/index.d.ts:2471](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2471)
 
 Details serial.
 
@@ -106,7 +106,7 @@ Details serial.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6799](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6799)
+Defined in: [WAProto/index.d.ts:2553](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2553)
 
 Converts this Details to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:6736](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6736)
+Defined in: [WAProto/index.d.ts:2490](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2490)
 
 Creates a new Details instance using the specified properties.
 
@@ -146,7 +146,7 @@ Details instance
 
 > `static` **decode**(`reader`, `length`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:6762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6762)
+Defined in: [WAProto/index.d.ts:2516](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2516)
 
 Decodes a Details message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:6771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6771)
+Defined in: [WAProto/index.d.ts:2525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2525)
 
 Decodes a Details message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6744](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6744)
+Defined in: [WAProto/index.d.ts:2498](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2498)
 
 Encodes the specified Details message. Does not implicitly [verify](Details.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6752](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6752)
+Defined in: [WAProto/index.d.ts:2506](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2506)
 
 Encodes the specified Details message, length delimited. Does not implicitly [verify](Details.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:6785](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6785)
+Defined in: [WAProto/index.d.ts:2539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2539)
 
 Creates a Details message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ Details
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6806)
+Defined in: [WAProto/index.d.ts:2560](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2560)
 
 Gets the default type url for Details
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6793](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6793)
+Defined in: [WAProto/index.d.ts:2547](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2547)
 
 Creates a plain object from a Details message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6778](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6778)
+Defined in: [WAProto/index.d.ts:2532](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2532)
 
 Verifies a Details message.
 

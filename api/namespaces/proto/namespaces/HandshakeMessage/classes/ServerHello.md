@@ -1,6 +1,6 @@
 # Class: ServerHello
 
-Defined in: [WAProto/index.d.ts:14237](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14237)
+Defined in: [WAProto/index.d.ts:8216](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8216)
 
 Represents a ServerHello.
 
@@ -14,7 +14,7 @@ Represents a ServerHello.
 
 > **new ServerHello**(`properties`?): [`ServerHello`](ServerHello.md)
 
-Defined in: [WAProto/index.d.ts:14243](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14243)
+Defined in: [WAProto/index.d.ts:8222](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8222)
 
 Constructs a new ServerHello.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### ephemeral?
+### ephemeral
 
-> `optional` **ephemeral**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **ephemeral**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14246](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14246)
+Defined in: [WAProto/index.d.ts:8225](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8225)
 
 ServerHello ephemeral.
 
@@ -46,11 +46,11 @@ ServerHello ephemeral.
 
 ***
 
-### payload?
+### payload
 
-> `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **payload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14252](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14252)
+Defined in: [WAProto/index.d.ts:8231](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8231)
 
 ServerHello payload.
 
@@ -60,11 +60,11 @@ ServerHello payload.
 
 ***
 
-### static?
+### static
 
-> `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **static**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:14249](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14249)
+Defined in: [WAProto/index.d.ts:8228](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8228)
 
 ServerHello static.
 
@@ -78,7 +78,7 @@ ServerHello static.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14322](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14322)
+Defined in: [WAProto/index.d.ts:8301](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8301)
 
 Converts this ServerHello to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ServerHello`](ServerHello.md)
 
-Defined in: [WAProto/index.d.ts:14259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14259)
+Defined in: [WAProto/index.d.ts:8238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8238)
 
 Creates a new ServerHello instance using the specified properties.
 
@@ -118,7 +118,7 @@ ServerHello instance
 
 > `static` **decode**(`reader`, `length`?): [`ServerHello`](ServerHello.md)
 
-Defined in: [WAProto/index.d.ts:14285](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14285)
+Defined in: [WAProto/index.d.ts:8264](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8264)
 
 Decodes a ServerHello message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ServerHello`](ServerHello.md)
 
-Defined in: [WAProto/index.d.ts:14294](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14294)
+Defined in: [WAProto/index.d.ts:8273](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8273)
 
 Decodes a ServerHello message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14267](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14267)
+Defined in: [WAProto/index.d.ts:8246](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8246)
 
 Encodes the specified ServerHello message. Does not implicitly [verify](ServerHello.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14275)
+Defined in: [WAProto/index.d.ts:8254](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8254)
 
 Encodes the specified ServerHello message, length delimited. Does not implicitly [verify](ServerHello.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ServerHello`](ServerHello.md)
 
-Defined in: [WAProto/index.d.ts:14308](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14308)
+Defined in: [WAProto/index.d.ts:8287](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8287)
 
 Creates a ServerHello message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ServerHello
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14329](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14329)
+Defined in: [WAProto/index.d.ts:8308](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8308)
 
 Gets the default type url for ServerHello
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14316](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14316)
+Defined in: [WAProto/index.d.ts:8295](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8295)
 
 Creates a plain object from a ServerHello message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14301](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L14301)
+Defined in: [WAProto/index.d.ts:8280](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L8280)
 
 Verifies a ServerHello message.
 

@@ -1,6 +1,6 @@
 # Class: SessionStructure
 
-Defined in: [WAProto/index.d.ts:39096](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39096)
+Defined in: [WAProto/index.d.ts:30369](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30369)
 
 Represents a SessionStructure.
 
@@ -14,7 +14,7 @@ Represents a SessionStructure.
 
 > **new SessionStructure**(`properties`?): [`SessionStructure`](SessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:39102](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39102)
+Defined in: [WAProto/index.d.ts:30375](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30375)
 
 Constructs a new SessionStructure.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### aliceBaseKey?
+### aliceBaseKey
 
-> `optional` **aliceBaseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **aliceBaseKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39141](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39141)
+Defined in: [WAProto/index.d.ts:30414](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30414)
 
 SessionStructure aliceBaseKey.
 
@@ -46,11 +46,11 @@ SessionStructure aliceBaseKey.
 
 ***
 
-### localIdentityPublic?
+### localIdentityPublic
 
-> `optional` **localIdentityPublic**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **localIdentityPublic**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39108](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39108)
+Defined in: [WAProto/index.d.ts:30381](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30381)
 
 SessionStructure localIdentityPublic.
 
@@ -60,11 +60,11 @@ SessionStructure localIdentityPublic.
 
 ***
 
-### localRegistrationId?
+### localRegistrationId
 
-> `optional` **localRegistrationId**: `null` \| `number`
+> **localRegistrationId**: `number`
 
-Defined in: [WAProto/index.d.ts:39135](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39135)
+Defined in: [WAProto/index.d.ts:30408](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30408)
 
 SessionStructure localRegistrationId.
 
@@ -74,11 +74,11 @@ SessionStructure localRegistrationId.
 
 ***
 
-### needsRefresh?
+### needsRefresh
 
-> `optional` **needsRefresh**: `null` \| `boolean`
+> **needsRefresh**: `boolean`
 
-Defined in: [WAProto/index.d.ts:39138](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39138)
+Defined in: [WAProto/index.d.ts:30411](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30411)
 
 SessionStructure needsRefresh.
 
@@ -92,7 +92,7 @@ SessionStructure needsRefresh.
 
 > `optional` **pendingKeyExchange**: `null` \| [`IPendingKeyExchange`](../namespaces/SessionStructure/interfaces/IPendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:39126](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39126)
+Defined in: [WAProto/index.d.ts:30399](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30399)
 
 SessionStructure pendingKeyExchange.
 
@@ -106,7 +106,7 @@ SessionStructure pendingKeyExchange.
 
 > `optional` **pendingPreKey**: `null` \| [`IPendingPreKey`](../namespaces/SessionStructure/interfaces/IPendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:39129](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39129)
+Defined in: [WAProto/index.d.ts:30402](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30402)
 
 SessionStructure pendingPreKey.
 
@@ -116,11 +116,11 @@ SessionStructure pendingPreKey.
 
 ***
 
-### previousCounter?
+### previousCounter
 
-> `optional` **previousCounter**: `null` \| `number`
+> **previousCounter**: `number`
 
-Defined in: [WAProto/index.d.ts:39117](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39117)
+Defined in: [WAProto/index.d.ts:30390](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30390)
 
 SessionStructure previousCounter.
 
@@ -134,7 +134,7 @@ SessionStructure previousCounter.
 
 > **receiverChains**: [`IChain`](../namespaces/SessionStructure/interfaces/IChain.md)[]
 
-Defined in: [WAProto/index.d.ts:39123](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39123)
+Defined in: [WAProto/index.d.ts:30396](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30396)
 
 SessionStructure receiverChains.
 
@@ -144,11 +144,11 @@ SessionStructure receiverChains.
 
 ***
 
-### remoteIdentityPublic?
+### remoteIdentityPublic
 
-> `optional` **remoteIdentityPublic**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **remoteIdentityPublic**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39111](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39111)
+Defined in: [WAProto/index.d.ts:30384](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30384)
 
 SessionStructure remoteIdentityPublic.
 
@@ -158,11 +158,11 @@ SessionStructure remoteIdentityPublic.
 
 ***
 
-### remoteRegistrationId?
+### remoteRegistrationId
 
-> `optional` **remoteRegistrationId**: `null` \| `number`
+> **remoteRegistrationId**: `number`
 
-Defined in: [WAProto/index.d.ts:39132](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39132)
+Defined in: [WAProto/index.d.ts:30405](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30405)
 
 SessionStructure remoteRegistrationId.
 
@@ -172,11 +172,11 @@ SessionStructure remoteRegistrationId.
 
 ***
 
-### rootKey?
+### rootKey
 
-> `optional` **rootKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **rootKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39114](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39114)
+Defined in: [WAProto/index.d.ts:30387](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30387)
 
 SessionStructure rootKey.
 
@@ -190,7 +190,7 @@ SessionStructure rootKey.
 
 > `optional` **senderChain**: `null` \| [`IChain`](../namespaces/SessionStructure/interfaces/IChain.md)
 
-Defined in: [WAProto/index.d.ts:39120](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39120)
+Defined in: [WAProto/index.d.ts:30393](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30393)
 
 SessionStructure senderChain.
 
@@ -200,11 +200,11 @@ SessionStructure senderChain.
 
 ***
 
-### sessionVersion?
+### sessionVersion
 
-> `optional` **sessionVersion**: `null` \| `number`
+> **sessionVersion**: `number`
 
-Defined in: [WAProto/index.d.ts:39105](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39105)
+Defined in: [WAProto/index.d.ts:30378](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30378)
 
 SessionStructure sessionVersion.
 
@@ -218,7 +218,7 @@ SessionStructure sessionVersion.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39211](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39211)
+Defined in: [WAProto/index.d.ts:30484](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30484)
 
 Converts this SessionStructure to JSON.
 
@@ -234,7 +234,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SessionStructure`](SessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:39148](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39148)
+Defined in: [WAProto/index.d.ts:30421](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30421)
 
 Creates a new SessionStructure instance using the specified properties.
 
@@ -258,7 +258,7 @@ SessionStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`SessionStructure`](SessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:39174](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39174)
+Defined in: [WAProto/index.d.ts:30447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30447)
 
 Decodes a SessionStructure message from the specified reader or buffer.
 
@@ -296,7 +296,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SessionStructure`](SessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:39183](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39183)
+Defined in: [WAProto/index.d.ts:30456](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30456)
 
 Decodes a SessionStructure message from the specified reader or buffer, length delimited.
 
@@ -328,7 +328,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39156](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39156)
+Defined in: [WAProto/index.d.ts:30429](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30429)
 
 Encodes the specified SessionStructure message. Does not implicitly [verify](SessionStructure.md#verify) messages.
 
@@ -358,7 +358,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39164](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39164)
+Defined in: [WAProto/index.d.ts:30437](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30437)
 
 Encodes the specified SessionStructure message, length delimited. Does not implicitly [verify](SessionStructure.md#verify) messages.
 
@@ -388,7 +388,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SessionStructure`](SessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:39197](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39197)
+Defined in: [WAProto/index.d.ts:30470](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30470)
 
 Creates a SessionStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -410,7 +410,7 @@ SessionStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39218](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39218)
+Defined in: [WAProto/index.d.ts:30491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30491)
 
 Gets the default type url for SessionStructure
 
@@ -434,7 +434,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39205](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39205)
+Defined in: [WAProto/index.d.ts:30478](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30478)
 
 Creates a plain object from a SessionStructure message. Also converts values to other types if specified.
 
@@ -464,7 +464,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39190](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39190)
+Defined in: [WAProto/index.d.ts:30463](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30463)
 
 Verifies a SessionStructure message.
 

@@ -1,6 +1,6 @@
 # Enumeration: Status
 
-Defined in: [WAProto/index.d.ts:50039](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50039)
+Defined in: [WAProto/index.d.ts:40147](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40147)
 
 Status enum.
 
@@ -10,7 +10,7 @@ Status enum.
 
 > **DELIVERY\_ACK**: `3`
 
-Defined in: [WAProto/index.d.ts:50043](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50043)
+Defined in: [WAProto/index.d.ts:40151](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40151)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:50043](https://github.com/Fokusdotid/Baileys/blo
 
 > **ERROR**: `0`
 
-Defined in: [WAProto/index.d.ts:50040](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50040)
+Defined in: [WAProto/index.d.ts:40148](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40148)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:50040](https://github.com/Fokusdotid/Baileys/blo
 
 > **PENDING**: `1`
 
-Defined in: [WAProto/index.d.ts:50041](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50041)
+Defined in: [WAProto/index.d.ts:40149](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40149)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:50041](https://github.com/Fokusdotid/Baileys/blo
 
 > **PLAYED**: `5`
 
-Defined in: [WAProto/index.d.ts:50045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50045)
+Defined in: [WAProto/index.d.ts:40153](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40153)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:50045](https://github.com/Fokusdotid/Baileys/blo
 
 > **READ**: `4`
 
-Defined in: [WAProto/index.d.ts:50044](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50044)
+Defined in: [WAProto/index.d.ts:40152](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40152)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:50044](https://github.com/Fokusdotid/Baileys/blo
 
 > **SERVER\_ACK**: `2`
 
-Defined in: [WAProto/index.d.ts:50042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L50042)
+Defined in: [WAProto/index.d.ts:40150](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L40150)

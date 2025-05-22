@@ -1,6 +1,6 @@
 # Class: CallParticipant
 
-Defined in: [WAProto/index.d.ts:19545](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19545)
+Defined in: [WAProto/index.d.ts:13159](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13159)
 
 Represents a CallParticipant.
 
@@ -14,7 +14,7 @@ Represents a CallParticipant.
 
 > **new CallParticipant**(`properties`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:19551](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19551)
+Defined in: [WAProto/index.d.ts:13165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13165)
 
 Constructs a new CallParticipant.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### callOutcome?
+### callOutcome
 
-> `optional` **callOutcome**: `null` \| [`CallOutcome`](../enumerations/CallOutcome.md)
+> **callOutcome**: [`CallOutcome`](../enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:19557](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19557)
+Defined in: [WAProto/index.d.ts:13171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13171)
 
 CallParticipant callOutcome.
 
@@ -46,11 +46,11 @@ CallParticipant callOutcome.
 
 ***
 
-### jid?
+### jid
 
-> `optional` **jid**: `null` \| `string`
+> **jid**: `string`
 
-Defined in: [WAProto/index.d.ts:19554](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19554)
+Defined in: [WAProto/index.d.ts:13168](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13168)
 
 CallParticipant jid.
 
@@ -64,7 +64,7 @@ CallParticipant jid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19627](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19627)
+Defined in: [WAProto/index.d.ts:13241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13241)
 
 Converts this CallParticipant to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:19564](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19564)
+Defined in: [WAProto/index.d.ts:13178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13178)
 
 Creates a new CallParticipant instance using the specified properties.
 
@@ -104,7 +104,7 @@ CallParticipant instance
 
 > `static` **decode**(`reader`, `length`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:19590](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19590)
+Defined in: [WAProto/index.d.ts:13204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13204)
 
 Decodes a CallParticipant message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:19599](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19599)
+Defined in: [WAProto/index.d.ts:13213](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13213)
 
 Decodes a CallParticipant message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19572](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19572)
+Defined in: [WAProto/index.d.ts:13186](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13186)
 
 Encodes the specified CallParticipant message. Does not implicitly [verify](CallParticipant.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:19580](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19580)
+Defined in: [WAProto/index.d.ts:13194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13194)
 
 Encodes the specified CallParticipant message, length delimited. Does not implicitly [verify](CallParticipant.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:19613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19613)
+Defined in: [WAProto/index.d.ts:13227](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13227)
 
 Creates a CallParticipant message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CallParticipant
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19634](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19634)
+Defined in: [WAProto/index.d.ts:13248](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13248)
 
 Gets the default type url for CallParticipant
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19621](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19621)
+Defined in: [WAProto/index.d.ts:13235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13235)
 
 Creates a plain object from a CallParticipant message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19606](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19606)
+Defined in: [WAProto/index.d.ts:13220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13220)
 
 Verifies a CallParticipant message.
 

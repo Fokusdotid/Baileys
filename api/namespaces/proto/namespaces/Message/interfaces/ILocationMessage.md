@@ -1,6 +1,6 @@
 # Interface: ILocationMessage
 
-Defined in: [WAProto/index.d.ts:26013](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26013)
+Defined in: [WAProto/index.d.ts:19340](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19340)
 
 Properties of a LocationMessage.
 
@@ -10,7 +10,7 @@ Properties of a LocationMessage.
 
 > `optional` **accuracyInMeters**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26034](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26034)
+Defined in: [WAProto/index.d.ts:19361](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19361)
 
 LocationMessage accuracyInMeters
 
@@ -20,7 +20,7 @@ LocationMessage accuracyInMeters
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26025](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26025)
+Defined in: [WAProto/index.d.ts:19352](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19352)
 
 LocationMessage address
 
@@ -30,7 +30,7 @@ LocationMessage address
 
 > `optional` **comment**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26043](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26043)
+Defined in: [WAProto/index.d.ts:19370](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19370)
 
 LocationMessage comment
 
@@ -40,7 +40,7 @@ LocationMessage comment
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26049](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26049)
+Defined in: [WAProto/index.d.ts:19376](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19376)
 
 LocationMessage contextInfo
 
@@ -50,7 +50,7 @@ LocationMessage contextInfo
 
 > `optional` **degreesClockwiseFromMagneticNorth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26040](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26040)
+Defined in: [WAProto/index.d.ts:19367](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19367)
 
 LocationMessage degreesClockwiseFromMagneticNorth
 
@@ -60,7 +60,7 @@ LocationMessage degreesClockwiseFromMagneticNorth
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26016](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26016)
+Defined in: [WAProto/index.d.ts:19343](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19343)
 
 LocationMessage degreesLatitude
 
@@ -70,7 +70,7 @@ LocationMessage degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26019](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26019)
+Defined in: [WAProto/index.d.ts:19346](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19346)
 
 LocationMessage degreesLongitude
 
@@ -80,7 +80,7 @@ LocationMessage degreesLongitude
 
 > `optional` **isLive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:26031](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26031)
+Defined in: [WAProto/index.d.ts:19358](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19358)
 
 LocationMessage isLive
 
@@ -90,7 +90,7 @@ LocationMessage isLive
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26046](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26046)
+Defined in: [WAProto/index.d.ts:19373](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19373)
 
 LocationMessage jpegThumbnail
 
@@ -100,7 +100,7 @@ LocationMessage jpegThumbnail
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26022](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26022)
+Defined in: [WAProto/index.d.ts:19349](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19349)
 
 LocationMessage name
 
@@ -110,7 +110,7 @@ LocationMessage name
 
 > `optional` **speedInMps**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26037](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26037)
+Defined in: [WAProto/index.d.ts:19364](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19364)
 
 LocationMessage speedInMps
 
@@ -120,6 +120,6 @@ LocationMessage speedInMps
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26028](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26028)
+Defined in: [WAProto/index.d.ts:19355](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19355)
 
 LocationMessage url

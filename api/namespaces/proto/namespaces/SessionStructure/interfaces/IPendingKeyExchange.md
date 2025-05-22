@@ -1,6 +1,6 @@
 # Interface: IPendingKeyExchange
 
-Defined in: [WAProto/index.d.ts:39560](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39560)
+Defined in: [WAProto/index.d.ts:30833](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30833)
 
 Properties of a PendingKeyExchange.
 
@@ -10,7 +10,7 @@ Properties of a PendingKeyExchange.
 
 > `optional` **localBaseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39566](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39566)
+Defined in: [WAProto/index.d.ts:30839](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30839)
 
 PendingKeyExchange localBaseKey
 
@@ -20,7 +20,7 @@ PendingKeyExchange localBaseKey
 
 > `optional` **localBaseKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39569](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39569)
+Defined in: [WAProto/index.d.ts:30842](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30842)
 
 PendingKeyExchange localBaseKeyPrivate
 
@@ -30,7 +30,7 @@ PendingKeyExchange localBaseKeyPrivate
 
 > `optional` **localIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39578](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39578)
+Defined in: [WAProto/index.d.ts:30851](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30851)
 
 PendingKeyExchange localIdentityKey
 
@@ -40,7 +40,7 @@ PendingKeyExchange localIdentityKey
 
 > `optional` **localIdentityKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39581](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39581)
+Defined in: [WAProto/index.d.ts:30854](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30854)
 
 PendingKeyExchange localIdentityKeyPrivate
 
@@ -50,7 +50,7 @@ PendingKeyExchange localIdentityKeyPrivate
 
 > `optional` **localRatchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39572](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39572)
+Defined in: [WAProto/index.d.ts:30845](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30845)
 
 PendingKeyExchange localRatchetKey
 
@@ -60,7 +60,7 @@ PendingKeyExchange localRatchetKey
 
 > `optional` **localRatchetKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39575](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39575)
+Defined in: [WAProto/index.d.ts:30848](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30848)
 
 PendingKeyExchange localRatchetKeyPrivate
 
@@ -70,6 +70,6 @@ PendingKeyExchange localRatchetKeyPrivate
 
 > `optional` **sequence**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39563](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39563)
+Defined in: [WAProto/index.d.ts:30836](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30836)
 
 PendingKeyExchange sequence

@@ -1,6 +1,6 @@
 # Interface: IWebdPayload
 
-Defined in: [WAProto/index.d.ts:8816](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8816)
+Defined in: [WAProto/index.d.ts:4332](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4332)
 
 Properties of a WebdPayload.
 
@@ -10,7 +10,7 @@ Properties of a WebdPayload.
 
 > `optional` **documentTypes**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8846](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8846)
+Defined in: [WAProto/index.d.ts:4362](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4362)
 
 WebdPayload documentTypes
 
@@ -20,7 +20,7 @@ WebdPayload documentTypes
 
 > `optional` **features**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8849](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8849)
+Defined in: [WAProto/index.d.ts:4365](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4365)
 
 WebdPayload features
 
@@ -30,7 +30,7 @@ WebdPayload features
 
 > `optional` **supportsDocumentMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8825](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8825)
+Defined in: [WAProto/index.d.ts:4341](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4341)
 
 WebdPayload supportsDocumentMessages
 
@@ -40,7 +40,7 @@ WebdPayload supportsDocumentMessages
 
 > `optional` **supportsE2EAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8840](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8840)
+Defined in: [WAProto/index.d.ts:4356](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4356)
 
 WebdPayload supportsE2EAudio
 
@@ -50,7 +50,7 @@ WebdPayload supportsE2EAudio
 
 > `optional` **supportsE2EDocument**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8843](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8843)
+Defined in: [WAProto/index.d.ts:4359](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4359)
 
 WebdPayload supportsE2EDocument
 
@@ -60,7 +60,7 @@ WebdPayload supportsE2EDocument
 
 > `optional` **supportsE2EImage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8834](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8834)
+Defined in: [WAProto/index.d.ts:4350](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4350)
 
 WebdPayload supportsE2EImage
 
@@ -70,7 +70,7 @@ WebdPayload supportsE2EImage
 
 > `optional` **supportsE2EVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8837](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8837)
+Defined in: [WAProto/index.d.ts:4353](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4353)
 
 WebdPayload supportsE2EVideo
 
@@ -80,7 +80,7 @@ WebdPayload supportsE2EVideo
 
 > `optional` **supportsMediaRetry**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8831](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8831)
+Defined in: [WAProto/index.d.ts:4347](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4347)
 
 WebdPayload supportsMediaRetry
 
@@ -90,7 +90,7 @@ WebdPayload supportsMediaRetry
 
 > `optional` **supportsStarredMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8822)
+Defined in: [WAProto/index.d.ts:4338](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4338)
 
 WebdPayload supportsStarredMessages
 
@@ -100,7 +100,7 @@ WebdPayload supportsStarredMessages
 
 > `optional` **supportsUrlMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8828](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8828)
+Defined in: [WAProto/index.d.ts:4344](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4344)
 
 WebdPayload supportsUrlMessages
 
@@ -110,6 +110,6 @@ WebdPayload supportsUrlMessages
 
 > `optional` **usesParticipantInKey**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8819](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8819)
+Defined in: [WAProto/index.d.ts:4335](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4335)
 
 WebdPayload usesParticipantInKey

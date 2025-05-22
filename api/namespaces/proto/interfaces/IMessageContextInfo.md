@@ -1,6 +1,6 @@
 # Interface: IMessageContextInfo
 
-Defined in: [WAProto/index.d.ts:33241](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33241)
+Defined in: [WAProto/index.d.ts:24920](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24920)
 
 Properties of a MessageContextInfo.
 
@@ -10,7 +10,7 @@ Properties of a MessageContextInfo.
 
 > `optional` **botMessageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33259)
+Defined in: [WAProto/index.d.ts:24938](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24938)
 
 MessageContextInfo botMessageSecret
 
@@ -20,19 +20,9 @@ MessageContextInfo botMessageSecret
 
 > `optional` **botMetadata**: `null` \| [`IBotMetadata`](IBotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:33262](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33262)
+Defined in: [WAProto/index.d.ts:24941](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24941)
 
 MessageContextInfo botMetadata
-
-***
-
-### capiCreatedGroup?
-
-> `optional` **capiCreatedGroup**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:33274](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33274)
-
-MessageContextInfo capiCreatedGroup
 
 ***
 
@@ -40,7 +30,7 @@ MessageContextInfo capiCreatedGroup
 
 > `optional` **deviceListMetadata**: `null` \| [`IDeviceListMetadata`](IDeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:33244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33244)
+Defined in: [WAProto/index.d.ts:24923](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24923)
 
 MessageContextInfo deviceListMetadata
 
@@ -50,7 +40,7 @@ MessageContextInfo deviceListMetadata
 
 > `optional` **deviceListMetadataVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33247)
+Defined in: [WAProto/index.d.ts:24926](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24926)
 
 MessageContextInfo deviceListMetadataVersion
 
@@ -60,29 +50,9 @@ MessageContextInfo deviceListMetadataVersion
 
 > `optional` **messageAddOnDurationInSecs**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33256)
+Defined in: [WAProto/index.d.ts:24935](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24935)
 
 MessageContextInfo messageAddOnDurationInSecs
-
-***
-
-### messageAddOnExpiryType?
-
-> `optional` **messageAddOnExpiryType**: `null` \| [`MessageAddonExpiryType`](../namespaces/MessageContextInfo/enumerations/MessageAddonExpiryType.md)
-
-Defined in: [WAProto/index.d.ts:33268](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33268)
-
-MessageContextInfo messageAddOnExpiryType
-
-***
-
-### messageAssociation?
-
-> `optional` **messageAssociation**: `null` \| [`IMessageAssociation`](IMessageAssociation.md)
-
-Defined in: [WAProto/index.d.ts:33271](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33271)
-
-MessageContextInfo messageAssociation
 
 ***
 
@@ -90,7 +60,7 @@ MessageContextInfo messageAssociation
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33250)
+Defined in: [WAProto/index.d.ts:24929](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24929)
 
 MessageContextInfo messageSecret
 
@@ -100,7 +70,7 @@ MessageContextInfo messageSecret
 
 > `optional` **paddingBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33253)
+Defined in: [WAProto/index.d.ts:24932](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24932)
 
 MessageContextInfo paddingBytes
 
@@ -110,16 +80,6 @@ MessageContextInfo paddingBytes
 
 > `optional` **reportingTokenVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:33265](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33265)
+Defined in: [WAProto/index.d.ts:24944](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L24944)
 
 MessageContextInfo reportingTokenVersion
-
-***
-
-### supportPayload?
-
-> `optional` **supportPayload**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:33277](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L33277)
-
-MessageContextInfo supportPayload

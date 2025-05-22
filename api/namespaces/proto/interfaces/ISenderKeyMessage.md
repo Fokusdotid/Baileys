@@ -1,6 +1,6 @@
 # Interface: ISenderKeyMessage
 
-Defined in: [WAProto/index.d.ts:38323](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38323)
+Defined in: [WAProto/index.d.ts:29596](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29596)
 
 Properties of a SenderKeyMessage.
 
@@ -10,7 +10,7 @@ Properties of a SenderKeyMessage.
 
 > `optional` **ciphertext**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38332](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38332)
+Defined in: [WAProto/index.d.ts:29605](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29605)
 
 SenderKeyMessage ciphertext
 
@@ -20,7 +20,7 @@ SenderKeyMessage ciphertext
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38326)
+Defined in: [WAProto/index.d.ts:29599](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29599)
 
 SenderKeyMessage id
 
@@ -30,6 +30,6 @@ SenderKeyMessage id
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38329](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38329)
+Defined in: [WAProto/index.d.ts:29602](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L29602)
 
 SenderKeyMessage iteration

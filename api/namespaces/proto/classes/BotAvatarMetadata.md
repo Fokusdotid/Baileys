@@ -1,6 +1,6 @@
 # Class: BotAvatarMetadata
 
-Defined in: [WAProto/index.d.ts:3396](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3396)
+Defined in: [WAProto/index.d.ts:1327](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1327)
 
 Represents a BotAvatarMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotAvatarMetadata.
 
 > **new BotAvatarMetadata**(`properties`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3402](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3402)
+Defined in: [WAProto/index.d.ts:1333](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1333)
 
 Constructs a new BotAvatarMetadata.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### action?
+### action
 
-> `optional` **action**: `null` \| `number`
+> **action**: `number`
 
-Defined in: [WAProto/index.d.ts:3411](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3411)
+Defined in: [WAProto/index.d.ts:1342](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1342)
 
 BotAvatarMetadata action.
 
@@ -46,11 +46,11 @@ BotAvatarMetadata action.
 
 ***
 
-### behaviorGraph?
+### behaviorGraph
 
-> `optional` **behaviorGraph**: `null` \| `string`
+> **behaviorGraph**: `string`
 
-Defined in: [WAProto/index.d.ts:3408](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3408)
+Defined in: [WAProto/index.d.ts:1339](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1339)
 
 BotAvatarMetadata behaviorGraph.
 
@@ -60,11 +60,11 @@ BotAvatarMetadata behaviorGraph.
 
 ***
 
-### intensity?
+### intensity
 
-> `optional` **intensity**: `null` \| `number`
+> **intensity**: `number`
 
-Defined in: [WAProto/index.d.ts:3414](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3414)
+Defined in: [WAProto/index.d.ts:1345](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1345)
 
 BotAvatarMetadata intensity.
 
@@ -74,11 +74,11 @@ BotAvatarMetadata intensity.
 
 ***
 
-### sentiment?
+### sentiment
 
-> `optional` **sentiment**: `null` \| `number`
+> **sentiment**: `number`
 
-Defined in: [WAProto/index.d.ts:3405](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3405)
+Defined in: [WAProto/index.d.ts:1336](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1336)
 
 BotAvatarMetadata sentiment.
 
@@ -88,11 +88,11 @@ BotAvatarMetadata sentiment.
 
 ***
 
-### wordCount?
+### wordCount
 
-> `optional` **wordCount**: `null` \| `number`
+> **wordCount**: `number`
 
-Defined in: [WAProto/index.d.ts:3417](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3417)
+Defined in: [WAProto/index.d.ts:1348](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1348)
 
 BotAvatarMetadata wordCount.
 
@@ -106,7 +106,7 @@ BotAvatarMetadata wordCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3487](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3487)
+Defined in: [WAProto/index.d.ts:1418](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1418)
 
 Converts this BotAvatarMetadata to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3424](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3424)
+Defined in: [WAProto/index.d.ts:1355](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1355)
 
 Creates a new BotAvatarMetadata instance using the specified properties.
 
@@ -146,7 +146,7 @@ BotAvatarMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3450](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3450)
+Defined in: [WAProto/index.d.ts:1381](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1381)
 
 Decodes a BotAvatarMetadata message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3459](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3459)
+Defined in: [WAProto/index.d.ts:1390](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1390)
 
 Decodes a BotAvatarMetadata message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3432](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3432)
+Defined in: [WAProto/index.d.ts:1363](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1363)
 
 Encodes the specified BotAvatarMetadata message. Does not implicitly [verify](BotAvatarMetadata.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3440](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3440)
+Defined in: [WAProto/index.d.ts:1371](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1371)
 
 Encodes the specified BotAvatarMetadata message, length delimited. Does not implicitly [verify](BotAvatarMetadata.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3473](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3473)
+Defined in: [WAProto/index.d.ts:1404](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1404)
 
 Creates a BotAvatarMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ BotAvatarMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3494](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3494)
+Defined in: [WAProto/index.d.ts:1425](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1425)
 
 Gets the default type url for BotAvatarMetadata
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3481](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3481)
+Defined in: [WAProto/index.d.ts:1412](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1412)
 
 Creates a plain object from a BotAvatarMetadata message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3466](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3466)
+Defined in: [WAProto/index.d.ts:1397](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1397)
 
 Verifies a BotAvatarMetadata message.
 

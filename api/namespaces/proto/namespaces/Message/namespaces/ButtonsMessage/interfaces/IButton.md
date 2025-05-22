@@ -1,6 +1,6 @@
 # Interface: IButton
 
-Defined in: [WAProto/index.d.ts:18809](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18809)
+Defined in: [WAProto/index.d.ts:12435](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12435)
 
 Properties of a Button.
 
@@ -10,7 +10,7 @@ Properties of a Button.
 
 > `optional` **buttonId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18812](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18812)
+Defined in: [WAProto/index.d.ts:12438](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12438)
 
 Button buttonId
 
@@ -20,7 +20,7 @@ Button buttonId
 
 > `optional` **buttonText**: `null` \| [`IButtonText`](../namespaces/Button/interfaces/IButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18815](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18815)
+Defined in: [WAProto/index.d.ts:12441](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12441)
 
 Button buttonText
 
@@ -30,7 +30,7 @@ Button buttonText
 
 > `optional` **nativeFlowInfo**: `null` \| [`INativeFlowInfo`](../namespaces/Button/interfaces/INativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:18821](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18821)
+Defined in: [WAProto/index.d.ts:12447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12447)
 
 Button nativeFlowInfo
 
@@ -40,6 +40,6 @@ Button nativeFlowInfo
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/Button/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:18818](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18818)
+Defined in: [WAProto/index.d.ts:12444](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12444)
 
 Button type

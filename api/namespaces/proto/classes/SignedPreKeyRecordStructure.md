@@ -1,6 +1,6 @@
 # Class: SignedPreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:39937](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39937)
+Defined in: [WAProto/index.d.ts:31210](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31210)
 
 Represents a SignedPreKeyRecordStructure.
 
@@ -14,7 +14,7 @@ Represents a SignedPreKeyRecordStructure.
 
 > **new SignedPreKeyRecordStructure**(`properties`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39943](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39943)
+Defined in: [WAProto/index.d.ts:31216](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31216)
 
 Constructs a new SignedPreKeyRecordStructure.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### id?
+### id
 
-> `optional` **id**: `null` \| `number`
+> **id**: `number`
 
-Defined in: [WAProto/index.d.ts:39946](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39946)
+Defined in: [WAProto/index.d.ts:31219](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31219)
 
 SignedPreKeyRecordStructure id.
 
@@ -46,11 +46,11 @@ SignedPreKeyRecordStructure id.
 
 ***
 
-### privateKey?
+### privateKey
 
-> `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **privateKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39952](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39952)
+Defined in: [WAProto/index.d.ts:31225](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31225)
 
 SignedPreKeyRecordStructure privateKey.
 
@@ -60,11 +60,11 @@ SignedPreKeyRecordStructure privateKey.
 
 ***
 
-### publicKey?
+### publicKey
 
-> `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **publicKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39949)
+Defined in: [WAProto/index.d.ts:31222](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31222)
 
 SignedPreKeyRecordStructure publicKey.
 
@@ -74,11 +74,11 @@ SignedPreKeyRecordStructure publicKey.
 
 ***
 
-### signature?
+### signature
 
-> `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **signature**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39955)
+Defined in: [WAProto/index.d.ts:31228](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31228)
 
 SignedPreKeyRecordStructure signature.
 
@@ -88,11 +88,11 @@ SignedPreKeyRecordStructure signature.
 
 ***
 
-### timestamp?
+### timestamp
 
-> `optional` **timestamp**: `null` \| `number` \| `Long`
+> **timestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39958](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39958)
+Defined in: [WAProto/index.d.ts:31231](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31231)
 
 SignedPreKeyRecordStructure timestamp.
 
@@ -106,7 +106,7 @@ SignedPreKeyRecordStructure timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40028](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40028)
+Defined in: [WAProto/index.d.ts:31301](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31301)
 
 Converts this SignedPreKeyRecordStructure to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39965)
+Defined in: [WAProto/index.d.ts:31238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31238)
 
 Creates a new SignedPreKeyRecordStructure instance using the specified properties.
 
@@ -146,7 +146,7 @@ SignedPreKeyRecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39991)
+Defined in: [WAProto/index.d.ts:31264](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31264)
 
 Decodes a SignedPreKeyRecordStructure message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:40000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40000)
+Defined in: [WAProto/index.d.ts:31273](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31273)
 
 Decodes a SignedPreKeyRecordStructure message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39973](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39973)
+Defined in: [WAProto/index.d.ts:31246](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31246)
 
 Encodes the specified SignedPreKeyRecordStructure message. Does not implicitly [verify](SignedPreKeyRecordStructure.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39981)
+Defined in: [WAProto/index.d.ts:31254](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31254)
 
 Encodes the specified SignedPreKeyRecordStructure message, length delimited. Does not implicitly [verify](SignedPreKeyRecordStructure.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:40014](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40014)
+Defined in: [WAProto/index.d.ts:31287](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31287)
 
 Creates a SignedPreKeyRecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ SignedPreKeyRecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40035)
+Defined in: [WAProto/index.d.ts:31308](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31308)
 
 Gets the default type url for SignedPreKeyRecordStructure
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40022](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40022)
+Defined in: [WAProto/index.d.ts:31295](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31295)
 
 Creates a plain object from a SignedPreKeyRecordStructure message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40007](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L40007)
+Defined in: [WAProto/index.d.ts:31280](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31280)
 
 Verifies a SignedPreKeyRecordStructure message.
 

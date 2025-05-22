@@ -1,6 +1,6 @@
 # Class: BotFeedbackMessage
 
-Defined in: [WAProto/index.d.ts:18505](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18505)
+Defined in: [WAProto/index.d.ts:12142](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12142)
 
 Represents a BotFeedbackMessage.
 
@@ -14,7 +14,7 @@ Represents a BotFeedbackMessage.
 
 > **new BotFeedbackMessage**(`properties`?): [`BotFeedbackMessage`](BotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:18511](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18511)
+Defined in: [WAProto/index.d.ts:12148](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12148)
 
 Constructs a new BotFeedbackMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### kind?
+### kind
 
-> `optional` **kind**: `null` \| [`BotFeedbackKind`](../namespaces/BotFeedbackMessage/enumerations/BotFeedbackKind.md)
+> **kind**: [`BotFeedbackKind`](../namespaces/BotFeedbackMessage/enumerations/BotFeedbackKind.md)
 
-Defined in: [WAProto/index.d.ts:18517](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18517)
+Defined in: [WAProto/index.d.ts:12154](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12154)
 
 BotFeedbackMessage kind.
 
@@ -46,11 +46,11 @@ BotFeedbackMessage kind.
 
 ***
 
-### kindNegative?
+### kindNegative
 
-> `optional` **kindNegative**: `null` \| `number` \| `Long`
+> **kindNegative**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18523](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18523)
+Defined in: [WAProto/index.d.ts:12160](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12160)
 
 BotFeedbackMessage kindNegative.
 
@@ -60,11 +60,11 @@ BotFeedbackMessage kindNegative.
 
 ***
 
-### kindPositive?
+### kindPositive
 
-> `optional` **kindPositive**: `null` \| `number` \| `Long`
+> **kindPositive**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18526](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18526)
+Defined in: [WAProto/index.d.ts:12163](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12163)
 
 BotFeedbackMessage kindPositive.
 
@@ -74,25 +74,11 @@ BotFeedbackMessage kindPositive.
 
 ***
 
-### kindReport?
-
-> `optional` **kindReport**: `null` \| [`GENERIC`](../namespaces/BotFeedbackMessage/enumerations/ReportKind.md#generic)
-
-Defined in: [WAProto/index.d.ts:18529](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18529)
-
-BotFeedbackMessage kindReport.
-
-#### Implementation of
-
-[`IBotFeedbackMessage`](../interfaces/IBotFeedbackMessage.md).[`kindReport`](../interfaces/IBotFeedbackMessage.md#kindreport)
-
-***
-
 ### messageKey?
 
 > `optional` **messageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:18514](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18514)
+Defined in: [WAProto/index.d.ts:12151](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12151)
 
 BotFeedbackMessage messageKey.
 
@@ -102,11 +88,11 @@ BotFeedbackMessage messageKey.
 
 ***
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:18520](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18520)
+Defined in: [WAProto/index.d.ts:12157](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12157)
 
 BotFeedbackMessage text.
 
@@ -120,7 +106,7 @@ BotFeedbackMessage text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18599](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18599)
+Defined in: [WAProto/index.d.ts:12233](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12233)
 
 Converts this BotFeedbackMessage to JSON.
 
@@ -136,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotFeedbackMessage`](BotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:18536](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18536)
+Defined in: [WAProto/index.d.ts:12170](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12170)
 
 Creates a new BotFeedbackMessage instance using the specified properties.
 
@@ -160,7 +146,7 @@ BotFeedbackMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`BotFeedbackMessage`](BotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:18562](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18562)
+Defined in: [WAProto/index.d.ts:12196](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12196)
 
 Decodes a BotFeedbackMessage message from the specified reader or buffer.
 
@@ -198,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotFeedbackMessage`](BotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:18571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18571)
+Defined in: [WAProto/index.d.ts:12205](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12205)
 
 Decodes a BotFeedbackMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18544](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18544)
+Defined in: [WAProto/index.d.ts:12178](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12178)
 
 Encodes the specified BotFeedbackMessage message. Does not implicitly [verify](BotFeedbackMessage.md#verify) messages.
 
@@ -260,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18552](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18552)
+Defined in: [WAProto/index.d.ts:12186](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12186)
 
 Encodes the specified BotFeedbackMessage message, length delimited. Does not implicitly [verify](BotFeedbackMessage.md#verify) messages.
 
@@ -290,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotFeedbackMessage`](BotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:18585](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18585)
+Defined in: [WAProto/index.d.ts:12219](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12219)
 
 Creates a BotFeedbackMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +298,7 @@ BotFeedbackMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18606](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18606)
+Defined in: [WAProto/index.d.ts:12240](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12240)
 
 Gets the default type url for BotFeedbackMessage
 
@@ -336,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18593](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18593)
+Defined in: [WAProto/index.d.ts:12227](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12227)
 
 Creates a plain object from a BotFeedbackMessage message. Also converts values to other types if specified.
 
@@ -366,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18578](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18578)
+Defined in: [WAProto/index.d.ts:12212](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12212)
 
 Verifies a BotFeedbackMessage message.
 

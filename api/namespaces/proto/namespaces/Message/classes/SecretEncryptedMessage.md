@@ -1,6 +1,6 @@
 # Class: SecretEncryptedMessage
 
-Defined in: [WAProto/index.d.ts:30926](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30926)
+Defined in: [WAProto/index.d.ts:23393](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23393)
 
 Represents a SecretEncryptedMessage.
 
@@ -14,7 +14,7 @@ Represents a SecretEncryptedMessage.
 
 > **new SecretEncryptedMessage**(`properties`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:30932](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30932)
+Defined in: [WAProto/index.d.ts:23399](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23399)
 
 Constructs a new SecretEncryptedMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### encIv?
+### encIv
 
-> `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encIv**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:30941](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30941)
+Defined in: [WAProto/index.d.ts:23408](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23408)
 
 SecretEncryptedMessage encIv.
 
@@ -46,11 +46,11 @@ SecretEncryptedMessage encIv.
 
 ***
 
-### encPayload?
+### encPayload
 
-> `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **encPayload**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:30938](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30938)
+Defined in: [WAProto/index.d.ts:23405](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23405)
 
 SecretEncryptedMessage encPayload.
 
@@ -60,11 +60,11 @@ SecretEncryptedMessage encPayload.
 
 ***
 
-### secretEncType?
+### secretEncType
 
-> `optional` **secretEncType**: `null` \| [`SecretEncType`](../namespaces/SecretEncryptedMessage/enumerations/SecretEncType.md)
+> **secretEncType**: [`SecretEncType`](../namespaces/SecretEncryptedMessage/enumerations/SecretEncType.md)
 
-Defined in: [WAProto/index.d.ts:30944](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30944)
+Defined in: [WAProto/index.d.ts:23411](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23411)
 
 SecretEncryptedMessage secretEncType.
 
@@ -78,7 +78,7 @@ SecretEncryptedMessage secretEncType.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30935](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30935)
+Defined in: [WAProto/index.d.ts:23402](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23402)
 
 SecretEncryptedMessage targetMessageKey.
 
@@ -92,7 +92,7 @@ SecretEncryptedMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31014](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L31014)
+Defined in: [WAProto/index.d.ts:23481](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23481)
 
 Converts this SecretEncryptedMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:30951](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30951)
+Defined in: [WAProto/index.d.ts:23418](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23418)
 
 Creates a new SecretEncryptedMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ SecretEncryptedMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:30977](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30977)
+Defined in: [WAProto/index.d.ts:23444](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23444)
 
 Decodes a SecretEncryptedMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:30986](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30986)
+Defined in: [WAProto/index.d.ts:23453](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23453)
 
 Decodes a SecretEncryptedMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30959](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30959)
+Defined in: [WAProto/index.d.ts:23426](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23426)
 
 Encodes the specified SecretEncryptedMessage message. Does not implicitly [verify](SecretEncryptedMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30967](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30967)
+Defined in: [WAProto/index.d.ts:23434](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23434)
 
 Encodes the specified SecretEncryptedMessage message, length delimited. Does not implicitly [verify](SecretEncryptedMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:31000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L31000)
+Defined in: [WAProto/index.d.ts:23467](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23467)
 
 Creates a SecretEncryptedMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SecretEncryptedMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31021](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L31021)
+Defined in: [WAProto/index.d.ts:23488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23488)
 
 Gets the default type url for SecretEncryptedMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31008](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L31008)
+Defined in: [WAProto/index.d.ts:23475](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23475)
 
 Creates a plain object from a SecretEncryptedMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30993](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30993)
+Defined in: [WAProto/index.d.ts:23460](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23460)
 
 Verifies a SecretEncryptedMessage message.
 

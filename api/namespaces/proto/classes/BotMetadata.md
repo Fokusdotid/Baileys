@@ -1,6 +1,6 @@
 # Class: BotMetadata
 
-Defined in: [WAProto/index.d.ts:4459](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4459)
+Defined in: [WAProto/index.d.ts:1451](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1451)
 
 Represents a BotMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMetadata.
 
 > **new BotMetadata**(`properties`?): [`BotMetadata`](BotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4465](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4465)
+Defined in: [WAProto/index.d.ts:1457](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1457)
 
 Constructs a new BotMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **avatarMetadata**: `null` \| [`IBotAvatarMetadata`](../interfaces/IBotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4468](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4468)
+Defined in: [WAProto/index.d.ts:1460](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1460)
 
 BotMetadata avatarMetadata.
 
@@ -46,67 +46,11 @@ BotMetadata avatarMetadata.
 
 ***
 
-### botLinkedAccountsMetadata?
+### invokerJid
 
-> `optional` **botLinkedAccountsMetadata**: `null` \| [`IBotLinkedAccountsMetadata`](../interfaces/IBotLinkedAccountsMetadata.md)
+> **invokerJid**: `string`
 
-Defined in: [WAProto/index.d.ts:4519](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4519)
-
-BotMetadata botLinkedAccountsMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`botLinkedAccountsMetadata`](../interfaces/IBotMetadata.md#botlinkedaccountsmetadata)
-
-***
-
-### botMetricsMetadata?
-
-> `optional` **botMetricsMetadata**: `null` \| [`IBotMetricsMetadata`](../interfaces/IBotMetricsMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4516](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4516)
-
-BotMetadata botMetricsMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`botMetricsMetadata`](../interfaces/IBotMetadata.md#botmetricsmetadata)
-
-***
-
-### capabilityMetadata?
-
-> `optional` **capabilityMetadata**: `null` \| [`IBotCapabilityMetadata`](../interfaces/IBotCapabilityMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4504](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4504)
-
-BotMetadata capabilityMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`capabilityMetadata`](../interfaces/IBotMetadata.md#capabilitymetadata)
-
-***
-
-### imagineMetadata?
-
-> `optional` **imagineMetadata**: `null` \| [`IBotImagineMetadata`](../interfaces/IBotImagineMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4507](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4507)
-
-BotMetadata imagineMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`imagineMetadata`](../interfaces/IBotMetadata.md#imaginemetadata)
-
-***
-
-### invokerJid?
-
-> `optional` **invokerJid**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:4480](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4480)
+Defined in: [WAProto/index.d.ts:1472](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1472)
 
 BotMetadata invokerJid.
 
@@ -116,67 +60,11 @@ BotMetadata invokerJid.
 
 ***
 
-### memoryMetadata?
+### personaId
 
-> `optional` **memoryMetadata**: `null` \| [`IBotMemoryMetadata`](../interfaces/IBotMemoryMetadata.md)
+> **personaId**: `string`
 
-Defined in: [WAProto/index.d.ts:4510](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4510)
-
-BotMetadata memoryMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`memoryMetadata`](../interfaces/IBotMetadata.md#memorymetadata)
-
-***
-
-### memuMetadata?
-
-> `optional` **memuMetadata**: `null` \| [`IBotMemuMetadata`](../interfaces/IBotMemuMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4486](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4486)
-
-BotMetadata memuMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`memuMetadata`](../interfaces/IBotMetadata.md#memumetadata)
-
-***
-
-### messageDisclaimerText?
-
-> `optional` **messageDisclaimerText**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:4498](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4498)
-
-BotMetadata messageDisclaimerText.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`messageDisclaimerText`](../interfaces/IBotMetadata.md#messagedisclaimertext)
-
-***
-
-### modelMetadata?
-
-> `optional` **modelMetadata**: `null` \| [`IBotModelMetadata`](../interfaces/IBotModelMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4495](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4495)
-
-BotMetadata modelMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`modelMetadata`](../interfaces/IBotMetadata.md#modelmetadata)
-
-***
-
-### personaId?
-
-> `optional` **personaId**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:4471](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4471)
+Defined in: [WAProto/index.d.ts:1463](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1463)
 
 BotMetadata personaId.
 
@@ -190,7 +78,7 @@ BotMetadata personaId.
 
 > `optional` **pluginMetadata**: `null` \| [`IBotPluginMetadata`](../interfaces/IBotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4474](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4474)
+Defined in: [WAProto/index.d.ts:1466](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1466)
 
 BotMetadata pluginMetadata.
 
@@ -200,59 +88,17 @@ BotMetadata pluginMetadata.
 
 ***
 
-### progressIndicatorMetadata?
+### searchMetadata?
 
-> `optional` **progressIndicatorMetadata**: `null` \| [`IBotProgressIndicatorMetadata`](../interfaces/IBotProgressIndicatorMetadata.md)
+> `optional` **searchMetadata**: `null` \| [`IBotSearchMetadata`](../interfaces/IBotSearchMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4501)
+Defined in: [WAProto/index.d.ts:1475](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1475)
 
-BotMetadata progressIndicatorMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`progressIndicatorMetadata`](../interfaces/IBotMetadata.md#progressindicatormetadata)
-
-***
-
-### reminderMetadata?
-
-> `optional` **reminderMetadata**: `null` \| [`IBotReminderMetadata`](../interfaces/IBotReminderMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4492](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4492)
-
-BotMetadata reminderMetadata.
+BotMetadata searchMetadata.
 
 #### Implementation of
 
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`reminderMetadata`](../interfaces/IBotMetadata.md#remindermetadata)
-
-***
-
-### renderingMetadata?
-
-> `optional` **renderingMetadata**: `null` \| [`IBotRenderingMetadata`](../interfaces/IBotRenderingMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4513](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4513)
-
-BotMetadata renderingMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`renderingMetadata`](../interfaces/IBotMetadata.md#renderingmetadata)
-
-***
-
-### sessionMetadata?
-
-> `optional` **sessionMetadata**: `null` \| [`IBotSessionMetadata`](../interfaces/IBotSessionMetadata.md)
-
-Defined in: [WAProto/index.d.ts:4483](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4483)
-
-BotMetadata sessionMetadata.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`sessionMetadata`](../interfaces/IBotMetadata.md#sessionmetadata)
+[`IBotMetadata`](../interfaces/IBotMetadata.md).[`searchMetadata`](../interfaces/IBotMetadata.md#searchmetadata)
 
 ***
 
@@ -260,7 +106,7 @@ BotMetadata sessionMetadata.
 
 > `optional` **suggestedPromptMetadata**: `null` \| [`IBotSuggestedPromptMetadata`](../interfaces/IBotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4477](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4477)
+Defined in: [WAProto/index.d.ts:1469](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1469)
 
 BotMetadata suggestedPromptMetadata.
 
@@ -268,27 +114,13 @@ BotMetadata suggestedPromptMetadata.
 
 [`IBotMetadata`](../interfaces/IBotMetadata.md).[`suggestedPromptMetadata`](../interfaces/IBotMetadata.md#suggestedpromptmetadata)
 
-***
-
-### timezone?
-
-> `optional` **timezone**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:4489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4489)
-
-BotMetadata timezone.
-
-#### Implementation of
-
-[`IBotMetadata`](../interfaces/IBotMetadata.md).[`timezone`](../interfaces/IBotMetadata.md#timezone)
-
 ## Methods
 
 ### toJSON()
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4589](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4589)
+Defined in: [WAProto/index.d.ts:1545](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1545)
 
 Converts this BotMetadata to JSON.
 
@@ -304,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMetadata`](BotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4526](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4526)
+Defined in: [WAProto/index.d.ts:1482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1482)
 
 Creates a new BotMetadata instance using the specified properties.
 
@@ -328,7 +160,7 @@ BotMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMetadata`](BotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4552](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4552)
+Defined in: [WAProto/index.d.ts:1508](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1508)
 
 Decodes a BotMetadata message from the specified reader or buffer.
 
@@ -366,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMetadata`](BotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4561](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4561)
+Defined in: [WAProto/index.d.ts:1517](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1517)
 
 Decodes a BotMetadata message from the specified reader or buffer, length delimited.
 
@@ -398,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4534](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4534)
+Defined in: [WAProto/index.d.ts:1490](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1490)
 
 Encodes the specified BotMetadata message. Does not implicitly [verify](BotMetadata.md#verify) messages.
 
@@ -428,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4542)
+Defined in: [WAProto/index.d.ts:1498](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1498)
 
 Encodes the specified BotMetadata message, length delimited. Does not implicitly [verify](BotMetadata.md#verify) messages.
 
@@ -458,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMetadata`](BotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4575](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4575)
+Defined in: [WAProto/index.d.ts:1531](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1531)
 
 Creates a BotMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -480,7 +312,7 @@ BotMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4596](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4596)
+Defined in: [WAProto/index.d.ts:1552](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1552)
 
 Gets the default type url for BotMetadata
 
@@ -504,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4583](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4583)
+Defined in: [WAProto/index.d.ts:1539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1539)
 
 Creates a plain object from a BotMetadata message. Also converts values to other types if specified.
 
@@ -534,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4568](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L4568)
+Defined in: [WAProto/index.d.ts:1524](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1524)
 
 Verifies a BotMetadata message.
 

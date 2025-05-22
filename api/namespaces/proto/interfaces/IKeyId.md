@@ -1,6 +1,6 @@
 # Interface: IKeyId
 
-Defined in: [WAProto/index.d.ts:15590](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15590)
+Defined in: [WAProto/index.d.ts:9539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9539)
 
 Properties of a KeyId.
 
@@ -10,6 +10,6 @@ Properties of a KeyId.
 
 > `optional` **id**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15593](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15593)
+Defined in: [WAProto/index.d.ts:9542](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9542)
 
 KeyId id

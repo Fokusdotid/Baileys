@@ -1,6 +1,6 @@
 # Enumeration: InviteLinkGroupType
 
-Defined in: [WAProto/index.d.ts:21568](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21568)
+Defined in: [WAProto/index.d.ts:15020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15020)
 
 InviteLinkGroupType enum.
 
@@ -10,7 +10,7 @@ InviteLinkGroupType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:21569](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21569)
+Defined in: [WAProto/index.d.ts:15021](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15021)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21569](https://github.com/Fokusdotid/Baileys/blo
 
 > **DEFAULT\_SUB**: `3`
 
-Defined in: [WAProto/index.d.ts:21572](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21572)
+Defined in: [WAProto/index.d.ts:15024](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15024)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:21572](https://github.com/Fokusdotid/Baileys/blo
 
 > **PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:21570](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21570)
+Defined in: [WAProto/index.d.ts:15022](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15022)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:21570](https://github.com/Fokusdotid/Baileys/blo
 
 > **SUB**: `2`
 
-Defined in: [WAProto/index.d.ts:21571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21571)
+Defined in: [WAProto/index.d.ts:15023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15023)

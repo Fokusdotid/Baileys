@@ -1,6 +1,6 @@
 # Interface: IServerErrorReceipt
 
-Defined in: [WAProto/index.d.ts:38956](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38956)
+Defined in: [WAProto/index.d.ts:30229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30229)
 
 Properties of a ServerErrorReceipt.
 
@@ -10,6 +10,6 @@ Properties of a ServerErrorReceipt.
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38959](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L38959)
+Defined in: [WAProto/index.d.ts:30232](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L30232)
 
 ServerErrorReceipt stanzaId

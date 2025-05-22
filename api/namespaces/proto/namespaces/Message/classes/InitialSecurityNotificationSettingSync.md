@@ -1,6 +1,6 @@
 # Class: InitialSecurityNotificationSettingSync
 
-Defined in: [WAProto/index.d.ts:23127](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23127)
+Defined in: [WAProto/index.d.ts:16460](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16460)
 
 Represents an InitialSecurityNotificationSettingSync.
 
@@ -14,7 +14,7 @@ Represents an InitialSecurityNotificationSettingSync.
 
 > **new InitialSecurityNotificationSettingSync**(`properties`?): [`InitialSecurityNotificationSettingSync`](InitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:23133](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23133)
+Defined in: [WAProto/index.d.ts:16466](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16466)
 
 Constructs a new InitialSecurityNotificationSettingSync.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### securityNotificationEnabled?
+### securityNotificationEnabled
 
-> `optional` **securityNotificationEnabled**: `null` \| `boolean`
+> **securityNotificationEnabled**: `boolean`
 
-Defined in: [WAProto/index.d.ts:23136](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23136)
+Defined in: [WAProto/index.d.ts:16469](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16469)
 
 InitialSecurityNotificationSettingSync securityNotificationEnabled.
 
@@ -50,7 +50,7 @@ InitialSecurityNotificationSettingSync securityNotificationEnabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23206](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23206)
+Defined in: [WAProto/index.d.ts:16539](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16539)
 
 Converts this InitialSecurityNotificationSettingSync to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InitialSecurityNotificationSettingSync`](InitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:23143](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23143)
+Defined in: [WAProto/index.d.ts:16476](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16476)
 
 Creates a new InitialSecurityNotificationSettingSync instance using the specified properties.
 
@@ -90,7 +90,7 @@ InitialSecurityNotificationSettingSync instance
 
 > `static` **decode**(`reader`, `length`?): [`InitialSecurityNotificationSettingSync`](InitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:23169](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23169)
+Defined in: [WAProto/index.d.ts:16502](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16502)
 
 Decodes an InitialSecurityNotificationSettingSync message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InitialSecurityNotificationSettingSync`](InitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:23178](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23178)
+Defined in: [WAProto/index.d.ts:16511](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16511)
 
 Decodes an InitialSecurityNotificationSettingSync message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23151](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23151)
+Defined in: [WAProto/index.d.ts:16484](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16484)
 
 Encodes the specified InitialSecurityNotificationSettingSync message. Does not implicitly [verify](InitialSecurityNotificationSettingSync.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23159](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23159)
+Defined in: [WAProto/index.d.ts:16492](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16492)
 
 Encodes the specified InitialSecurityNotificationSettingSync message, length delimited. Does not implicitly [verify](InitialSecurityNotificationSettingSync.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InitialSecurityNotificationSettingSync`](InitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:23192](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23192)
+Defined in: [WAProto/index.d.ts:16525](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16525)
 
 Creates an InitialSecurityNotificationSettingSync message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ InitialSecurityNotificationSettingSync
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23213](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23213)
+Defined in: [WAProto/index.d.ts:16546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16546)
 
 Gets the default type url for InitialSecurityNotificationSettingSync
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23200](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23200)
+Defined in: [WAProto/index.d.ts:16533](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16533)
 
 Creates a plain object from an InitialSecurityNotificationSettingSync message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23185](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23185)
+Defined in: [WAProto/index.d.ts:16518](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16518)
 
 Verifies an InitialSecurityNotificationSettingSync message.
 

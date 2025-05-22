@@ -1,6 +1,6 @@
 # Class: PollAdditionalMetadata
 
-Defined in: [WAProto/index.d.ts:36556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36556)
+Defined in: [WAProto/index.d.ts:27866](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27866)
 
 Represents a PollAdditionalMetadata.
 
@@ -14,7 +14,7 @@ Represents a PollAdditionalMetadata.
 
 > **new PollAdditionalMetadata**(`properties`?): [`PollAdditionalMetadata`](PollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36562](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36562)
+Defined in: [WAProto/index.d.ts:27872](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27872)
 
 Constructs a new PollAdditionalMetadata.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### pollInvalidated?
+### pollInvalidated
 
-> `optional` **pollInvalidated**: `null` \| `boolean`
+> **pollInvalidated**: `boolean`
 
-Defined in: [WAProto/index.d.ts:36565](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36565)
+Defined in: [WAProto/index.d.ts:27875](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27875)
 
 PollAdditionalMetadata pollInvalidated.
 
@@ -50,7 +50,7 @@ PollAdditionalMetadata pollInvalidated.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36635](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36635)
+Defined in: [WAProto/index.d.ts:27945](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27945)
 
 Converts this PollAdditionalMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollAdditionalMetadata`](PollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36572](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36572)
+Defined in: [WAProto/index.d.ts:27882](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27882)
 
 Creates a new PollAdditionalMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ PollAdditionalMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`PollAdditionalMetadata`](PollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36598](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36598)
+Defined in: [WAProto/index.d.ts:27908](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27908)
 
 Decodes a PollAdditionalMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollAdditionalMetadata`](PollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36607](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36607)
+Defined in: [WAProto/index.d.ts:27917](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27917)
 
 Decodes a PollAdditionalMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36580](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36580)
+Defined in: [WAProto/index.d.ts:27890](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27890)
 
 Encodes the specified PollAdditionalMetadata message. Does not implicitly [verify](PollAdditionalMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36588](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36588)
+Defined in: [WAProto/index.d.ts:27898](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27898)
 
 Encodes the specified PollAdditionalMetadata message, length delimited. Does not implicitly [verify](PollAdditionalMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollAdditionalMetadata`](PollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36621](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36621)
+Defined in: [WAProto/index.d.ts:27931](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27931)
 
 Creates a PollAdditionalMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PollAdditionalMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36642](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36642)
+Defined in: [WAProto/index.d.ts:27952](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27952)
 
 Gets the default type url for PollAdditionalMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36629](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36629)
+Defined in: [WAProto/index.d.ts:27939](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27939)
 
 Creates a plain object from a PollAdditionalMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36614](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36614)
+Defined in: [WAProto/index.d.ts:27924](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L27924)
 
 Verifies a PollAdditionalMetadata message.
 

@@ -1,6 +1,6 @@
 # Enumeration: SyncdOperation
 
-Defined in: [WAProto/index.d.ts:46973](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46973)
+Defined in: [WAProto/index.d.ts:37454](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37454)
 
 SyncdOperation enum.
 
@@ -10,7 +10,7 @@ SyncdOperation enum.
 
 > **REMOVE**: `1`
 
-Defined in: [WAProto/index.d.ts:46975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46975)
+Defined in: [WAProto/index.d.ts:37456](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37456)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:46975](https://github.com/Fokusdotid/Baileys/blo
 
 > **SET**: `0`
 
-Defined in: [WAProto/index.d.ts:46974](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L46974)
+Defined in: [WAProto/index.d.ts:37455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37455)

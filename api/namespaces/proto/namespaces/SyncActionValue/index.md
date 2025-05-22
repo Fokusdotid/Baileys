@@ -2,15 +2,9 @@
 
 ## Namespaces
 
-- [FavoritesAction](namespaces/FavoritesAction/index.md)
-- [LabelEditAction](namespaces/LabelEditAction/index.md)
 - [MarketingMessageAction](namespaces/MarketingMessageAction/index.md)
-- [MerchantPaymentPartnerAction](namespaces/MerchantPaymentPartnerAction/index.md)
 - [NoteEditAction](namespaces/NoteEditAction/index.md)
-- [NotificationActivitySettingAction](namespaces/NotificationActivitySettingAction/index.md)
 - [StatusPrivacyAction](namespaces/StatusPrivacyAction/index.md)
-- [UsernameChatStartModeAction](namespaces/UsernameChatStartModeAction/index.md)
-- [WaffleAccountLinkStateAction](namespaces/WaffleAccountLinkStateAction/index.md)
 
 ## Classes
 
@@ -30,7 +24,6 @@
 - [DeleteIndividualCallLogAction](classes/DeleteIndividualCallLogAction.md)
 - [DeleteMessageForMeAction](classes/DeleteMessageForMeAction.md)
 - [ExternalWebBetaAction](classes/ExternalWebBetaAction.md)
-- [FavoritesAction](classes/FavoritesAction.md)
 - [KeyExpiration](classes/KeyExpiration.md)
 - [LabelAssociationAction](classes/LabelAssociationAction.md)
 - [LabelEditAction](classes/LabelEditAction.md)
@@ -40,10 +33,8 @@
 - [MarkChatAsReadAction](classes/MarkChatAsReadAction.md)
 - [MarketingMessageAction](classes/MarketingMessageAction.md)
 - [MarketingMessageBroadcastAction](classes/MarketingMessageBroadcastAction.md)
-- [MerchantPaymentPartnerAction](classes/MerchantPaymentPartnerAction.md)
 - [MuteAction](classes/MuteAction.md)
 - [NoteEditAction](classes/NoteEditAction.md)
-- [NotificationActivitySettingAction](classes/NotificationActivitySettingAction.md)
 - [NuxAction](classes/NuxAction.md)
 - [PaymentInfoAction](classes/PaymentInfoAction.md)
 - [PinAction](classes/PinAction.md)
@@ -65,9 +56,7 @@
 - [SyncActionMessageRange](classes/SyncActionMessageRange.md)
 - [TimeFormatAction](classes/TimeFormatAction.md)
 - [UnarchiveChatsSetting](classes/UnarchiveChatsSetting.md)
-- [UsernameChatStartModeAction](classes/UsernameChatStartModeAction.md)
 - [UserStatusMuteAction](classes/UserStatusMuteAction.md)
-- [WaffleAccountLinkStateAction](classes/WaffleAccountLinkStateAction.md)
 - [WamoUserIdentifierAction](classes/WamoUserIdentifierAction.md)
 
 ## Interfaces
@@ -88,7 +77,6 @@
 - [IDeleteIndividualCallLogAction](interfaces/IDeleteIndividualCallLogAction.md)
 - [IDeleteMessageForMeAction](interfaces/IDeleteMessageForMeAction.md)
 - [IExternalWebBetaAction](interfaces/IExternalWebBetaAction.md)
-- [IFavoritesAction](interfaces/IFavoritesAction.md)
 - [IKeyExpiration](interfaces/IKeyExpiration.md)
 - [ILabelAssociationAction](interfaces/ILabelAssociationAction.md)
 - [ILabelEditAction](interfaces/ILabelEditAction.md)
@@ -98,10 +86,8 @@
 - [IMarkChatAsReadAction](interfaces/IMarkChatAsReadAction.md)
 - [IMarketingMessageAction](interfaces/IMarketingMessageAction.md)
 - [IMarketingMessageBroadcastAction](interfaces/IMarketingMessageBroadcastAction.md)
-- [IMerchantPaymentPartnerAction](interfaces/IMerchantPaymentPartnerAction.md)
 - [IMuteAction](interfaces/IMuteAction.md)
 - [INoteEditAction](interfaces/INoteEditAction.md)
-- [INotificationActivitySettingAction](interfaces/INotificationActivitySettingAction.md)
 - [INuxAction](interfaces/INuxAction.md)
 - [IPaymentInfoAction](interfaces/IPaymentInfoAction.md)
 - [IPinAction](interfaces/IPinAction.md)
@@ -123,7 +109,5 @@
 - [ISyncActionMessageRange](interfaces/ISyncActionMessageRange.md)
 - [ITimeFormatAction](interfaces/ITimeFormatAction.md)
 - [IUnarchiveChatsSetting](interfaces/IUnarchiveChatsSetting.md)
-- [IUsernameChatStartModeAction](interfaces/IUsernameChatStartModeAction.md)
 - [IUserStatusMuteAction](interfaces/IUserStatusMuteAction.md)
-- [IWaffleAccountLinkStateAction](interfaces/IWaffleAccountLinkStateAction.md)
 - [IWamoUserIdentifierAction](interfaces/IWamoUserIdentifierAction.md)

@@ -1,6 +1,6 @@
 # Class: ContactAction
 
-Defined in: [WAProto/index.d.ts:41744](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41744)
+Defined in: [WAProto/index.d.ts:32890](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32890)
 
 Represents a ContactAction.
 
@@ -14,7 +14,7 @@ Represents a ContactAction.
 
 > **new ContactAction**(`properties`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:41750](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41750)
+Defined in: [WAProto/index.d.ts:32896](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32896)
 
 Constructs a new ContactAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### firstName?
+### firstName
 
-> `optional` **firstName**: `null` \| `string`
+> **firstName**: `string`
 
-Defined in: [WAProto/index.d.ts:41756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41756)
+Defined in: [WAProto/index.d.ts:32902](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32902)
 
 ContactAction firstName.
 
@@ -46,11 +46,11 @@ ContactAction firstName.
 
 ***
 
-### fullName?
+### fullName
 
-> `optional` **fullName**: `null` \| `string`
+> **fullName**: `string`
 
-Defined in: [WAProto/index.d.ts:41753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41753)
+Defined in: [WAProto/index.d.ts:32899](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32899)
 
 ContactAction fullName.
 
@@ -60,11 +60,11 @@ ContactAction fullName.
 
 ***
 
-### lidJid?
+### lidJid
 
-> `optional` **lidJid**: `null` \| `string`
+> **lidJid**: `string`
 
-Defined in: [WAProto/index.d.ts:41759](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41759)
+Defined in: [WAProto/index.d.ts:32905](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32905)
 
 ContactAction lidJid.
 
@@ -74,11 +74,11 @@ ContactAction lidJid.
 
 ***
 
-### saveOnPrimaryAddressbook?
+### saveOnPrimaryAddressbook
 
-> `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
+> **saveOnPrimaryAddressbook**: `boolean`
 
-Defined in: [WAProto/index.d.ts:41762](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41762)
+Defined in: [WAProto/index.d.ts:32908](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32908)
 
 ContactAction saveOnPrimaryAddressbook.
 
@@ -92,7 +92,7 @@ ContactAction saveOnPrimaryAddressbook.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41832](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41832)
+Defined in: [WAProto/index.d.ts:32978](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32978)
 
 Converts this ContactAction to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:41769](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41769)
+Defined in: [WAProto/index.d.ts:32915](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32915)
 
 Creates a new ContactAction instance using the specified properties.
 
@@ -132,7 +132,7 @@ ContactAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:41795](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41795)
+Defined in: [WAProto/index.d.ts:32941](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32941)
 
 Decodes a ContactAction message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:41804](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41804)
+Defined in: [WAProto/index.d.ts:32950](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32950)
 
 Decodes a ContactAction message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41777)
+Defined in: [WAProto/index.d.ts:32923](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32923)
 
 Encodes the specified ContactAction message. Does not implicitly [verify](ContactAction.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41785](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41785)
+Defined in: [WAProto/index.d.ts:32931](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32931)
 
 Encodes the specified ContactAction message, length delimited. Does not implicitly [verify](ContactAction.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:41818](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41818)
+Defined in: [WAProto/index.d.ts:32964](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32964)
 
 Creates a ContactAction message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ ContactAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41839](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41839)
+Defined in: [WAProto/index.d.ts:32985](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32985)
 
 Gets the default type url for ContactAction
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41826](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41826)
+Defined in: [WAProto/index.d.ts:32972](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32972)
 
 Creates a plain object from a ContactAction message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41811](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L41811)
+Defined in: [WAProto/index.d.ts:32957](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L32957)
 
 Verifies a ContactAction message.
 

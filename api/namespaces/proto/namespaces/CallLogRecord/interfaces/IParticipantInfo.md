@@ -1,6 +1,6 @@
 # Interface: IParticipantInfo
 
-Defined in: [WAProto/index.d.ts:6367](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6367)
+Defined in: [WAProto/index.d.ts:2121](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2121)
 
 Properties of a ParticipantInfo.
 
@@ -10,7 +10,7 @@ Properties of a ParticipantInfo.
 
 > `optional` **callResult**: `null` \| [`CallResult`](../enumerations/CallResult.md)
 
-Defined in: [WAProto/index.d.ts:6373](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6373)
+Defined in: [WAProto/index.d.ts:2127](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2127)
 
 ParticipantInfo callResult
 
@@ -20,6 +20,6 @@ ParticipantInfo callResult
 
 > `optional` **userJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6370](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6370)
+Defined in: [WAProto/index.d.ts:2124](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L2124)
 
 ParticipantInfo userJid

@@ -1,6 +1,6 @@
 # Interface: IGroupMention
 
-Defined in: [WAProto/index.d.ts:13685](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13685)
+Defined in: [WAProto/index.d.ts:7664](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7664)
 
 Properties of a GroupMention.
 
@@ -10,7 +10,7 @@ Properties of a GroupMention.
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13688](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13688)
+Defined in: [WAProto/index.d.ts:7667](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7667)
 
 GroupMention groupJid
 
@@ -20,6 +20,6 @@ GroupMention groupJid
 
 > `optional` **groupSubject**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13691](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13691)
+Defined in: [WAProto/index.d.ts:7670](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7670)
 
 GroupMention groupSubject

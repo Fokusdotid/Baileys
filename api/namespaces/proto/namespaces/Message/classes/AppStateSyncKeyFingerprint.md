@@ -1,6 +1,6 @@
 # Class: AppStateSyncKeyFingerprint
 
-Defined in: [WAProto/index.d.ts:17784](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17784)
+Defined in: [WAProto/index.d.ts:11430](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11430)
 
 Represents an AppStateSyncKeyFingerprint.
 
@@ -14,7 +14,7 @@ Represents an AppStateSyncKeyFingerprint.
 
 > **new AppStateSyncKeyFingerprint**(`properties`?): [`AppStateSyncKeyFingerprint`](AppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17790](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17790)
+Defined in: [WAProto/index.d.ts:11436](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11436)
 
 Constructs a new AppStateSyncKeyFingerprint.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### currentIndex?
+### currentIndex
 
-> `optional` **currentIndex**: `null` \| `number`
+> **currentIndex**: `number`
 
-Defined in: [WAProto/index.d.ts:17796](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17796)
+Defined in: [WAProto/index.d.ts:11442](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11442)
 
 AppStateSyncKeyFingerprint currentIndex.
 
@@ -50,7 +50,7 @@ AppStateSyncKeyFingerprint currentIndex.
 
 > **deviceIndexes**: `number`[]
 
-Defined in: [WAProto/index.d.ts:17799](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17799)
+Defined in: [WAProto/index.d.ts:11445](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11445)
 
 AppStateSyncKeyFingerprint deviceIndexes.
 
@@ -60,11 +60,11 @@ AppStateSyncKeyFingerprint deviceIndexes.
 
 ***
 
-### rawId?
+### rawId
 
-> `optional` **rawId**: `null` \| `number`
+> **rawId**: `number`
 
-Defined in: [WAProto/index.d.ts:17793](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17793)
+Defined in: [WAProto/index.d.ts:11439](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11439)
 
 AppStateSyncKeyFingerprint rawId.
 
@@ -78,7 +78,7 @@ AppStateSyncKeyFingerprint rawId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17869](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17869)
+Defined in: [WAProto/index.d.ts:11515](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11515)
 
 Converts this AppStateSyncKeyFingerprint to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppStateSyncKeyFingerprint`](AppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17806](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17806)
+Defined in: [WAProto/index.d.ts:11452](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11452)
 
 Creates a new AppStateSyncKeyFingerprint instance using the specified properties.
 
@@ -118,7 +118,7 @@ AppStateSyncKeyFingerprint instance
 
 > `static` **decode**(`reader`, `length`?): [`AppStateSyncKeyFingerprint`](AppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17832](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17832)
+Defined in: [WAProto/index.d.ts:11478](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11478)
 
 Decodes an AppStateSyncKeyFingerprint message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppStateSyncKeyFingerprint`](AppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17841](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17841)
+Defined in: [WAProto/index.d.ts:11487](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11487)
 
 Decodes an AppStateSyncKeyFingerprint message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17814](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17814)
+Defined in: [WAProto/index.d.ts:11460](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11460)
 
 Encodes the specified AppStateSyncKeyFingerprint message. Does not implicitly [verify](AppStateSyncKeyFingerprint.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17822)
+Defined in: [WAProto/index.d.ts:11468](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11468)
 
 Encodes the specified AppStateSyncKeyFingerprint message, length delimited. Does not implicitly [verify](AppStateSyncKeyFingerprint.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppStateSyncKeyFingerprint`](AppStateSyncKeyFingerprint.md)
 
-Defined in: [WAProto/index.d.ts:17855](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17855)
+Defined in: [WAProto/index.d.ts:11501](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11501)
 
 Creates an AppStateSyncKeyFingerprint message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AppStateSyncKeyFingerprint
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17876)
+Defined in: [WAProto/index.d.ts:11522](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11522)
 
 Gets the default type url for AppStateSyncKeyFingerprint
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17863](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17863)
+Defined in: [WAProto/index.d.ts:11509](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11509)
 
 Creates a plain object from an AppStateSyncKeyFingerprint message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17848](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17848)
+Defined in: [WAProto/index.d.ts:11494](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11494)
 
 Verifies an AppStateSyncKeyFingerprint message.
 

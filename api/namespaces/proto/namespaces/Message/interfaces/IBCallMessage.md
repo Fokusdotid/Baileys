@@ -1,6 +1,6 @@
 # Interface: IBCallMessage
 
-Defined in: [WAProto/index.d.ts:18358](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18358)
+Defined in: [WAProto/index.d.ts:11998](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11998)
 
 Properties of a BCallMessage.
 
@@ -10,7 +10,7 @@ Properties of a BCallMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18370](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18370)
+Defined in: [WAProto/index.d.ts:12010](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12010)
 
 BCallMessage caption
 
@@ -20,7 +20,7 @@ BCallMessage caption
 
 > `optional` **masterKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:18367](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18367)
+Defined in: [WAProto/index.d.ts:12007](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12007)
 
 BCallMessage masterKey
 
@@ -30,7 +30,7 @@ BCallMessage masterKey
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/BCallMessage/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:18364](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18364)
+Defined in: [WAProto/index.d.ts:12004](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12004)
 
 BCallMessage mediaType
 
@@ -40,6 +40,6 @@ BCallMessage mediaType
 
 > `optional` **sessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18361](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18361)
+Defined in: [WAProto/index.d.ts:12001](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12001)
 
 BCallMessage sessionId

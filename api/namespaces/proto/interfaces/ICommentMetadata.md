@@ -1,6 +1,6 @@
 # Interface: ICommentMetadata
 
-Defined in: [WAProto/index.d.ts:8975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8975)
+Defined in: [WAProto/index.d.ts:4491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4491)
 
 Properties of a CommentMetadata.
 
@@ -10,7 +10,7 @@ Properties of a CommentMetadata.
 
 > `optional` **commentParentKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:8978](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8978)
+Defined in: [WAProto/index.d.ts:4494](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4494)
 
 CommentMetadata commentParentKey
 
@@ -20,6 +20,6 @@ CommentMetadata commentParentKey
 
 > `optional` **replyCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L8981)
+Defined in: [WAProto/index.d.ts:4497](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4497)
 
 CommentMetadata replyCount

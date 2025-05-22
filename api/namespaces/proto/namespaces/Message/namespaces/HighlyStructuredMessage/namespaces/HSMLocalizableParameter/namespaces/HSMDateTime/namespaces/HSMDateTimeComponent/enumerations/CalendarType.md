@@ -1,6 +1,6 @@
 # Enumeration: CalendarType
 
-Defined in: [WAProto/index.d.ts:22536](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22536)
+Defined in: [WAProto/index.d.ts:15889](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15889)
 
 CalendarType enum.
 
@@ -10,7 +10,7 @@ CalendarType enum.
 
 > **GREGORIAN**: `1`
 
-Defined in: [WAProto/index.d.ts:22537](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22537)
+Defined in: [WAProto/index.d.ts:15890](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15890)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:22537](https://github.com/Fokusdotid/Baileys/blo
 
 > **SOLAR\_HIJRI**: `2`
 
-Defined in: [WAProto/index.d.ts:22538](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22538)
+Defined in: [WAProto/index.d.ts:15891](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15891)

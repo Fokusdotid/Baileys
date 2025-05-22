@@ -1,6 +1,6 @@
 # Class: PreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:36883](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36883)
+Defined in: [WAProto/index.d.ts:28193](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28193)
 
 Represents a PreKeyRecordStructure.
 
@@ -14,7 +14,7 @@ Represents a PreKeyRecordStructure.
 
 > **new PreKeyRecordStructure**(`properties`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:36889](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36889)
+Defined in: [WAProto/index.d.ts:28199](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28199)
 
 Constructs a new PreKeyRecordStructure.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### id?
+### id
 
-> `optional` **id**: `null` \| `number`
+> **id**: `number`
 
-Defined in: [WAProto/index.d.ts:36892](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36892)
+Defined in: [WAProto/index.d.ts:28202](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28202)
 
 PreKeyRecordStructure id.
 
@@ -46,11 +46,11 @@ PreKeyRecordStructure id.
 
 ***
 
-### privateKey?
+### privateKey
 
-> `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **privateKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:36898](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36898)
+Defined in: [WAProto/index.d.ts:28208](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28208)
 
 PreKeyRecordStructure privateKey.
 
@@ -60,11 +60,11 @@ PreKeyRecordStructure privateKey.
 
 ***
 
-### publicKey?
+### publicKey
 
-> `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **publicKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:36895](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36895)
+Defined in: [WAProto/index.d.ts:28205](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28205)
 
 PreKeyRecordStructure publicKey.
 
@@ -78,7 +78,7 @@ PreKeyRecordStructure publicKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36968](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36968)
+Defined in: [WAProto/index.d.ts:28278](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28278)
 
 Converts this PreKeyRecordStructure to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:36905](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36905)
+Defined in: [WAProto/index.d.ts:28215](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28215)
 
 Creates a new PreKeyRecordStructure instance using the specified properties.
 
@@ -118,7 +118,7 @@ PreKeyRecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:36931](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36931)
+Defined in: [WAProto/index.d.ts:28241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28241)
 
 Decodes a PreKeyRecordStructure message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:36940](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36940)
+Defined in: [WAProto/index.d.ts:28250](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28250)
 
 Decodes a PreKeyRecordStructure message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36913](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36913)
+Defined in: [WAProto/index.d.ts:28223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28223)
 
 Encodes the specified PreKeyRecordStructure message. Does not implicitly [verify](PreKeyRecordStructure.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36921](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36921)
+Defined in: [WAProto/index.d.ts:28231](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28231)
 
 Encodes the specified PreKeyRecordStructure message, length delimited. Does not implicitly [verify](PreKeyRecordStructure.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:36954](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36954)
+Defined in: [WAProto/index.d.ts:28264](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28264)
 
 Creates a PreKeyRecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PreKeyRecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36975)
+Defined in: [WAProto/index.d.ts:28285](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28285)
 
 Gets the default type url for PreKeyRecordStructure
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36962](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36962)
+Defined in: [WAProto/index.d.ts:28272](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28272)
 
 Creates a plain object from a PreKeyRecordStructure message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36947](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L36947)
+Defined in: [WAProto/index.d.ts:28257](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L28257)
 
 Verifies a PreKeyRecordStructure message.
 

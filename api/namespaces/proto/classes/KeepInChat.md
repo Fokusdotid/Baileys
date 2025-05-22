@@ -1,6 +1,6 @@
 # Class: KeepInChat
 
-Defined in: [WAProto/index.d.ts:15357](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15357)
+Defined in: [WAProto/index.d.ts:9306](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9306)
 
 Represents a KeepInChat.
 
@@ -14,7 +14,7 @@ Represents a KeepInChat.
 
 > **new KeepInChat**(`properties`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:15363](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15363)
+Defined in: [WAProto/index.d.ts:9312](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9312)
 
 Constructs a new KeepInChat.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### clientTimestampMs?
+### clientTimestampMs
 
-> `optional` **clientTimestampMs**: `null` \| `number` \| `Long`
+> **clientTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15378](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15378)
+Defined in: [WAProto/index.d.ts:9327](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9327)
 
 KeepInChat clientTimestampMs.
 
@@ -46,11 +46,11 @@ KeepInChat clientTimestampMs.
 
 ***
 
-### deviceJid?
+### deviceJid
 
-> `optional` **deviceJid**: `null` \| `string`
+> **deviceJid**: `string`
 
-Defined in: [WAProto/index.d.ts:15375](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15375)
+Defined in: [WAProto/index.d.ts:9324](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9324)
 
 KeepInChat deviceJid.
 
@@ -60,11 +60,11 @@ KeepInChat deviceJid.
 
 ***
 
-### keepType?
+### keepType
 
-> `optional` **keepType**: `null` \| [`KeepType`](../enumerations/KeepType.md)
+> **keepType**: [`KeepType`](../enumerations/KeepType.md)
 
-Defined in: [WAProto/index.d.ts:15366](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15366)
+Defined in: [WAProto/index.d.ts:9315](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9315)
 
 KeepInChat keepType.
 
@@ -78,7 +78,7 @@ KeepInChat keepType.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:15372](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15372)
+Defined in: [WAProto/index.d.ts:9321](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9321)
 
 KeepInChat key.
 
@@ -88,11 +88,11 @@ KeepInChat key.
 
 ***
 
-### serverTimestamp?
+### serverTimestamp
 
-> `optional` **serverTimestamp**: `null` \| `number` \| `Long`
+> **serverTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15369](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15369)
+Defined in: [WAProto/index.d.ts:9318](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9318)
 
 KeepInChat serverTimestamp.
 
@@ -102,11 +102,11 @@ KeepInChat serverTimestamp.
 
 ***
 
-### serverTimestampMs?
+### serverTimestampMs
 
-> `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
+> **serverTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15381](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15381)
+Defined in: [WAProto/index.d.ts:9330](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9330)
 
 KeepInChat serverTimestampMs.
 
@@ -120,7 +120,7 @@ KeepInChat serverTimestampMs.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15451](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15451)
+Defined in: [WAProto/index.d.ts:9400](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9400)
 
 Converts this KeepInChat to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:15388](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15388)
+Defined in: [WAProto/index.d.ts:9337](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9337)
 
 Creates a new KeepInChat instance using the specified properties.
 
@@ -160,7 +160,7 @@ KeepInChat instance
 
 > `static` **decode**(`reader`, `length`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:15414](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15414)
+Defined in: [WAProto/index.d.ts:9363](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9363)
 
 Decodes a KeepInChat message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:15423](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15423)
+Defined in: [WAProto/index.d.ts:9372](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9372)
 
 Decodes a KeepInChat message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15396](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15396)
+Defined in: [WAProto/index.d.ts:9345](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9345)
 
 Encodes the specified KeepInChat message. Does not implicitly [verify](KeepInChat.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15404](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15404)
+Defined in: [WAProto/index.d.ts:9353](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9353)
 
 Encodes the specified KeepInChat message, length delimited. Does not implicitly [verify](KeepInChat.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:15437](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15437)
+Defined in: [WAProto/index.d.ts:9386](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9386)
 
 Creates a KeepInChat message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ KeepInChat
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15458](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15458)
+Defined in: [WAProto/index.d.ts:9407](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9407)
 
 Gets the default type url for KeepInChat
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15445](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15445)
+Defined in: [WAProto/index.d.ts:9394](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9394)
 
 Creates a plain object from a KeepInChat message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15430](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15430)
+Defined in: [WAProto/index.d.ts:9379](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9379)
 
 Verifies a KeepInChat message.
 

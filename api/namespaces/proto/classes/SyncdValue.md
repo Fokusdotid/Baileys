@@ -1,6 +1,6 @@
 # Class: SyncdValue
 
-Defined in: [WAProto/index.d.ts:47453](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47453)
+Defined in: [WAProto/index.d.ts:37934](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37934)
 
 Represents a SyncdValue.
 
@@ -14,7 +14,7 @@ Represents a SyncdValue.
 
 > **new SyncdValue**(`properties`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47459](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47459)
+Defined in: [WAProto/index.d.ts:37940](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37940)
 
 Constructs a new SyncdValue.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### blob?
+### blob
 
-> `optional` **blob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **blob**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:47462](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47462)
+Defined in: [WAProto/index.d.ts:37943](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37943)
 
 SyncdValue blob.
 
@@ -50,7 +50,7 @@ SyncdValue blob.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47532](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47532)
+Defined in: [WAProto/index.d.ts:38013](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38013)
 
 Converts this SyncdValue to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47469](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47469)
+Defined in: [WAProto/index.d.ts:37950](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37950)
 
 Creates a new SyncdValue instance using the specified properties.
 
@@ -90,7 +90,7 @@ SyncdValue instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47495](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47495)
+Defined in: [WAProto/index.d.ts:37976](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37976)
 
 Decodes a SyncdValue message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47504](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47504)
+Defined in: [WAProto/index.d.ts:37985](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37985)
 
 Decodes a SyncdValue message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47477](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47477)
+Defined in: [WAProto/index.d.ts:37958](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37958)
 
 Encodes the specified SyncdValue message. Does not implicitly [verify](SyncdValue.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47485](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47485)
+Defined in: [WAProto/index.d.ts:37966](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37966)
 
 Encodes the specified SyncdValue message, length delimited. Does not implicitly [verify](SyncdValue.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:47518](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47518)
+Defined in: [WAProto/index.d.ts:37999](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37999)
 
 Creates a SyncdValue message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SyncdValue
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47539](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47539)
+Defined in: [WAProto/index.d.ts:38020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38020)
 
 Gets the default type url for SyncdValue
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47526](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47526)
+Defined in: [WAProto/index.d.ts:38007](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38007)
 
 Creates a plain object from a SyncdValue message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47511](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L47511)
+Defined in: [WAProto/index.d.ts:37992](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L37992)
 
 Verifies a SyncdValue message.
 

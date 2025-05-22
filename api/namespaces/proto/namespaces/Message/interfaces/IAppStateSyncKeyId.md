@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKeyId
 
-Defined in: [WAProto/index.d.ts:17880](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17880)
+Defined in: [WAProto/index.d.ts:11526](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11526)
 
 Properties of an AppStateSyncKeyId.
 
@@ -10,6 +10,6 @@ Properties of an AppStateSyncKeyId.
 
 > `optional` **keyId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:17883](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17883)
+Defined in: [WAProto/index.d.ts:11529](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11529)
 
 AppStateSyncKeyId keyId

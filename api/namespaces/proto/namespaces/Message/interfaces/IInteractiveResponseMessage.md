@@ -1,6 +1,6 @@
 # Interface: IInteractiveResponseMessage
 
-Defined in: [WAProto/index.d.ts:24257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24257)
+Defined in: [WAProto/index.d.ts:17584](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17584)
 
 Properties of an InteractiveResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of an InteractiveResponseMessage.
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveResponseMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:24260](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24260)
+Defined in: [WAProto/index.d.ts:17587](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17587)
 
 InteractiveResponseMessage body
 
@@ -20,7 +20,7 @@ InteractiveResponseMessage body
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:24263](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24263)
+Defined in: [WAProto/index.d.ts:17590](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17590)
 
 InteractiveResponseMessage contextInfo
 
@@ -30,6 +30,6 @@ InteractiveResponseMessage contextInfo
 
 > `optional` **nativeFlowResponseMessage**: `null` \| [`INativeFlowResponseMessage`](../namespaces/InteractiveResponseMessage/interfaces/INativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:24266](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L24266)
+Defined in: [WAProto/index.d.ts:17593](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L17593)
 
 InteractiveResponseMessage nativeFlowResponseMessage

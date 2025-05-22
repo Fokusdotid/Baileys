@@ -1,6 +1,6 @@
 # Class: RemoveRecentStickerAction
 
-Defined in: [WAProto/index.d.ts:45296](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45296)
+Defined in: [WAProto/index.d.ts:35988](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35988)
 
 Represents a RemoveRecentStickerAction.
 
@@ -14,7 +14,7 @@ Represents a RemoveRecentStickerAction.
 
 > **new RemoveRecentStickerAction**(`properties`?): [`RemoveRecentStickerAction`](RemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:45302](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45302)
+Defined in: [WAProto/index.d.ts:35994](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35994)
 
 Constructs a new RemoveRecentStickerAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### lastStickerSentTs?
+### lastStickerSentTs
 
-> `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
+> **lastStickerSentTs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:45305](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45305)
+Defined in: [WAProto/index.d.ts:35997](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35997)
 
 RemoveRecentStickerAction lastStickerSentTs.
 
@@ -50,7 +50,7 @@ RemoveRecentStickerAction lastStickerSentTs.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45375](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45375)
+Defined in: [WAProto/index.d.ts:36067](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36067)
 
 Converts this RemoveRecentStickerAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RemoveRecentStickerAction`](RemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:45312](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45312)
+Defined in: [WAProto/index.d.ts:36004](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36004)
 
 Creates a new RemoveRecentStickerAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ RemoveRecentStickerAction instance
 
 > `static` **decode**(`reader`, `length`?): [`RemoveRecentStickerAction`](RemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:45338](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45338)
+Defined in: [WAProto/index.d.ts:36030](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36030)
 
 Decodes a RemoveRecentStickerAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RemoveRecentStickerAction`](RemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:45347](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45347)
+Defined in: [WAProto/index.d.ts:36039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36039)
 
 Decodes a RemoveRecentStickerAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45320)
+Defined in: [WAProto/index.d.ts:36012](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36012)
 
 Encodes the specified RemoveRecentStickerAction message. Does not implicitly [verify](RemoveRecentStickerAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45328](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45328)
+Defined in: [WAProto/index.d.ts:36020](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36020)
 
 Encodes the specified RemoveRecentStickerAction message, length delimited. Does not implicitly [verify](RemoveRecentStickerAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RemoveRecentStickerAction`](RemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:45361](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45361)
+Defined in: [WAProto/index.d.ts:36053](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36053)
 
 Creates a RemoveRecentStickerAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ RemoveRecentStickerAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45382](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45382)
+Defined in: [WAProto/index.d.ts:36074](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36074)
 
 Gets the default type url for RemoveRecentStickerAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45369](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45369)
+Defined in: [WAProto/index.d.ts:36061](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36061)
 
 Creates a plain object from a RemoveRecentStickerAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45354](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45354)
+Defined in: [WAProto/index.d.ts:36046](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36046)
 
 Verifies a RemoveRecentStickerAction message.
 

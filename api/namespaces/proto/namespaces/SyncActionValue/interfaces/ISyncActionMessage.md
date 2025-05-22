@@ -1,6 +1,6 @@
 # Interface: ISyncActionMessage
 
-Defined in: [WAProto/index.d.ts:45959](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45959)
+Defined in: [WAProto/index.d.ts:36651](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36651)
 
 Properties of a SyncActionMessage.
 
@@ -10,7 +10,7 @@ Properties of a SyncActionMessage.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:45962](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45962)
+Defined in: [WAProto/index.d.ts:36654](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36654)
 
 SyncActionMessage key
 
@@ -20,6 +20,6 @@ SyncActionMessage key
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:45965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45965)
+Defined in: [WAProto/index.d.ts:36657](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36657)
 
 SyncActionMessage timestamp

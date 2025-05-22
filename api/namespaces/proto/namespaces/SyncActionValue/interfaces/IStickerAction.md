@@ -1,6 +1,6 @@
 # Interface: IStickerAction
 
-Defined in: [WAProto/index.d.ts:45693](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45693)
+Defined in: [WAProto/index.d.ts:36385](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36385)
 
 Properties of a StickerAction.
 
@@ -10,7 +10,7 @@ Properties of a StickerAction.
 
 > `optional` **deviceIdHint**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45723](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45723)
+Defined in: [WAProto/index.d.ts:36415](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36415)
 
 StickerAction deviceIdHint
 
@@ -20,7 +20,7 @@ StickerAction deviceIdHint
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45714](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45714)
+Defined in: [WAProto/index.d.ts:36406](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36406)
 
 StickerAction directPath
 
@@ -30,7 +30,7 @@ StickerAction directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:45699](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45699)
+Defined in: [WAProto/index.d.ts:36391](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36391)
 
 StickerAction fileEncSha256
 
@@ -40,7 +40,7 @@ StickerAction fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:45717](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45717)
+Defined in: [WAProto/index.d.ts:36409](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36409)
 
 StickerAction fileLength
 
@@ -50,7 +50,7 @@ StickerAction fileLength
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45708](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45708)
+Defined in: [WAProto/index.d.ts:36400](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36400)
 
 StickerAction height
 
@@ -60,7 +60,7 @@ StickerAction height
 
 > `optional` **isFavorite**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45720](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45720)
+Defined in: [WAProto/index.d.ts:36412](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36412)
 
 StickerAction isFavorite
 
@@ -70,7 +70,7 @@ StickerAction isFavorite
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45726](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45726)
+Defined in: [WAProto/index.d.ts:36418](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36418)
 
 StickerAction isLottie
 
@@ -80,7 +80,7 @@ StickerAction isLottie
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:45702](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45702)
+Defined in: [WAProto/index.d.ts:36394](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36394)
 
 StickerAction mediaKey
 
@@ -90,7 +90,7 @@ StickerAction mediaKey
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45705](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45705)
+Defined in: [WAProto/index.d.ts:36397](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36397)
 
 StickerAction mimetype
 
@@ -100,7 +100,7 @@ StickerAction mimetype
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45696](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45696)
+Defined in: [WAProto/index.d.ts:36388](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36388)
 
 StickerAction url
 
@@ -110,6 +110,6 @@ StickerAction url
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45711](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45711)
+Defined in: [WAProto/index.d.ts:36403](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L36403)
 
 StickerAction width

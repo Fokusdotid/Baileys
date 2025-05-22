@@ -1,6 +1,6 @@
 # Class: LiveLocationMessage
 
-Defined in: [WAProto/index.d.ts:25896](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25896)
+Defined in: [WAProto/index.d.ts:19223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19223)
 
 Represents a LiveLocationMessage.
 
@@ -14,7 +14,7 @@ Represents a LiveLocationMessage.
 
 > **new LiveLocationMessage**(`properties`?): [`LiveLocationMessage`](LiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25902](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25902)
+Defined in: [WAProto/index.d.ts:19229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19229)
 
 Constructs a new LiveLocationMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### accuracyInMeters?
+### accuracyInMeters
 
-> `optional` **accuracyInMeters**: `null` \| `number`
+> **accuracyInMeters**: `number`
 
-Defined in: [WAProto/index.d.ts:25911](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25911)
+Defined in: [WAProto/index.d.ts:19238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19238)
 
 LiveLocationMessage accuracyInMeters.
 
@@ -46,11 +46,11 @@ LiveLocationMessage accuracyInMeters.
 
 ***
 
-### caption?
+### caption
 
-> `optional` **caption**: `null` \| `string`
+> **caption**: `string`
 
-Defined in: [WAProto/index.d.ts:25920](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25920)
+Defined in: [WAProto/index.d.ts:19247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19247)
 
 LiveLocationMessage caption.
 
@@ -64,7 +64,7 @@ LiveLocationMessage caption.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:25932](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25932)
+Defined in: [WAProto/index.d.ts:19259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19259)
 
 LiveLocationMessage contextInfo.
 
@@ -74,11 +74,11 @@ LiveLocationMessage contextInfo.
 
 ***
 
-### degreesClockwiseFromMagneticNorth?
+### degreesClockwiseFromMagneticNorth
 
-> `optional` **degreesClockwiseFromMagneticNorth**: `null` \| `number`
+> **degreesClockwiseFromMagneticNorth**: `number`
 
-Defined in: [WAProto/index.d.ts:25917](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25917)
+Defined in: [WAProto/index.d.ts:19244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19244)
 
 LiveLocationMessage degreesClockwiseFromMagneticNorth.
 
@@ -88,11 +88,11 @@ LiveLocationMessage degreesClockwiseFromMagneticNorth.
 
 ***
 
-### degreesLatitude?
+### degreesLatitude
 
-> `optional` **degreesLatitude**: `null` \| `number`
+> **degreesLatitude**: `number`
 
-Defined in: [WAProto/index.d.ts:25905](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25905)
+Defined in: [WAProto/index.d.ts:19232](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19232)
 
 LiveLocationMessage degreesLatitude.
 
@@ -102,11 +102,11 @@ LiveLocationMessage degreesLatitude.
 
 ***
 
-### degreesLongitude?
+### degreesLongitude
 
-> `optional` **degreesLongitude**: `null` \| `number`
+> **degreesLongitude**: `number`
 
-Defined in: [WAProto/index.d.ts:25908](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25908)
+Defined in: [WAProto/index.d.ts:19235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19235)
 
 LiveLocationMessage degreesLongitude.
 
@@ -116,11 +116,11 @@ LiveLocationMessage degreesLongitude.
 
 ***
 
-### jpegThumbnail?
+### jpegThumbnail
 
-> `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **jpegThumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:25929](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25929)
+Defined in: [WAProto/index.d.ts:19256](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19256)
 
 LiveLocationMessage jpegThumbnail.
 
@@ -130,11 +130,11 @@ LiveLocationMessage jpegThumbnail.
 
 ***
 
-### sequenceNumber?
+### sequenceNumber
 
-> `optional` **sequenceNumber**: `null` \| `number` \| `Long`
+> **sequenceNumber**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:25923](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25923)
+Defined in: [WAProto/index.d.ts:19250](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19250)
 
 LiveLocationMessage sequenceNumber.
 
@@ -144,11 +144,11 @@ LiveLocationMessage sequenceNumber.
 
 ***
 
-### speedInMps?
+### speedInMps
 
-> `optional` **speedInMps**: `null` \| `number`
+> **speedInMps**: `number`
 
-Defined in: [WAProto/index.d.ts:25914](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25914)
+Defined in: [WAProto/index.d.ts:19241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19241)
 
 LiveLocationMessage speedInMps.
 
@@ -158,11 +158,11 @@ LiveLocationMessage speedInMps.
 
 ***
 
-### timeOffset?
+### timeOffset
 
-> `optional` **timeOffset**: `null` \| `number`
+> **timeOffset**: `number`
 
-Defined in: [WAProto/index.d.ts:25926](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25926)
+Defined in: [WAProto/index.d.ts:19253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19253)
 
 LiveLocationMessage timeOffset.
 
@@ -176,7 +176,7 @@ LiveLocationMessage timeOffset.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26002](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26002)
+Defined in: [WAProto/index.d.ts:19329](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19329)
 
 Converts this LiveLocationMessage to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LiveLocationMessage`](LiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25939](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25939)
+Defined in: [WAProto/index.d.ts:19266](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19266)
 
 Creates a new LiveLocationMessage instance using the specified properties.
 
@@ -216,7 +216,7 @@ LiveLocationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`LiveLocationMessage`](LiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25965)
+Defined in: [WAProto/index.d.ts:19292](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19292)
 
 Decodes a LiveLocationMessage message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LiveLocationMessage`](LiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25974](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25974)
+Defined in: [WAProto/index.d.ts:19301](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19301)
 
 Decodes a LiveLocationMessage message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25947](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25947)
+Defined in: [WAProto/index.d.ts:19274](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19274)
 
 Encodes the specified LiveLocationMessage message. Does not implicitly [verify](LiveLocationMessage.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25955)
+Defined in: [WAProto/index.d.ts:19282](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19282)
 
 Encodes the specified LiveLocationMessage message, length delimited. Does not implicitly [verify](LiveLocationMessage.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LiveLocationMessage`](LiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25988](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25988)
+Defined in: [WAProto/index.d.ts:19315](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19315)
 
 Creates a LiveLocationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ LiveLocationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26009](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26009)
+Defined in: [WAProto/index.d.ts:19336](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19336)
 
 Gets the default type url for LiveLocationMessage
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25996](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25996)
+Defined in: [WAProto/index.d.ts:19323](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19323)
 
 Creates a plain object from a LiveLocationMessage message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25981)
+Defined in: [WAProto/index.d.ts:19308](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19308)
 
 Verifies a LiveLocationMessage message.
 

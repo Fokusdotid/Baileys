@@ -1,6 +1,6 @@
 # Class: InteractiveAnnotation
 
-Defined in: [WAProto/index.d.ts:15224](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15224)
+Defined in: [WAProto/index.d.ts:9182](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9182)
 
 Represents an InteractiveAnnotation.
 
@@ -14,7 +14,7 @@ Represents an InteractiveAnnotation.
 
 > **new InteractiveAnnotation**(`properties`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:15230](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15230)
+Defined in: [WAProto/index.d.ts:9188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9188)
 
 Constructs a new InteractiveAnnotation.
 
@@ -34,39 +34,11 @@ Properties to set
 
 ### action?
 
-> `optional` **action**: `"location"` \| `"newsletter"` \| `"embeddedAction"` \| `"tapAction"`
+> `optional` **action**: `"location"` \| `"newsletter"`
 
-Defined in: [WAProto/index.d.ts:15254](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15254)
+Defined in: [WAProto/index.d.ts:9203](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9203)
 
 InteractiveAnnotation action.
-
-***
-
-### embeddedAction?
-
-> `optional` **embeddedAction**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:15248](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15248)
-
-InteractiveAnnotation embeddedAction.
-
-#### Implementation of
-
-[`IInteractiveAnnotation`](../interfaces/IInteractiveAnnotation.md).[`embeddedAction`](../interfaces/IInteractiveAnnotation.md#embeddedaction)
-
-***
-
-### embeddedContent?
-
-> `optional` **embeddedContent**: `null` \| [`IEmbeddedContent`](../interfaces/IEmbeddedContent.md)
-
-Defined in: [WAProto/index.d.ts:15239](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15239)
-
-InteractiveAnnotation embeddedContent.
-
-#### Implementation of
-
-[`IInteractiveAnnotation`](../interfaces/IInteractiveAnnotation.md).[`embeddedContent`](../interfaces/IInteractiveAnnotation.md#embeddedcontent)
 
 ***
 
@@ -74,7 +46,7 @@ InteractiveAnnotation embeddedContent.
 
 > `optional` **location**: `null` \| [`ILocation`](../interfaces/ILocation.md)
 
-Defined in: [WAProto/index.d.ts:15242](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15242)
+Defined in: [WAProto/index.d.ts:9197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9197)
 
 InteractiveAnnotation location.
 
@@ -88,7 +60,7 @@ InteractiveAnnotation location.
 
 > `optional` **newsletter**: `null` \| [`IForwardedNewsletterMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:15245](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15245)
+Defined in: [WAProto/index.d.ts:9200](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9200)
 
 InteractiveAnnotation newsletter.
 
@@ -102,7 +74,7 @@ InteractiveAnnotation newsletter.
 
 > **polygonVertices**: [`IPoint`](../interfaces/IPoint.md)[]
 
-Defined in: [WAProto/index.d.ts:15233](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15233)
+Defined in: [WAProto/index.d.ts:9191](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9191)
 
 InteractiveAnnotation polygonVertices.
 
@@ -112,11 +84,11 @@ InteractiveAnnotation polygonVertices.
 
 ***
 
-### shouldSkipConfirmation?
+### shouldSkipConfirmation
 
-> `optional` **shouldSkipConfirmation**: `null` \| `boolean`
+> **shouldSkipConfirmation**: `boolean`
 
-Defined in: [WAProto/index.d.ts:15236](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15236)
+Defined in: [WAProto/index.d.ts:9194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9194)
 
 InteractiveAnnotation shouldSkipConfirmation.
 
@@ -124,27 +96,13 @@ InteractiveAnnotation shouldSkipConfirmation.
 
 [`IInteractiveAnnotation`](../interfaces/IInteractiveAnnotation.md).[`shouldSkipConfirmation`](../interfaces/IInteractiveAnnotation.md#shouldskipconfirmation)
 
-***
-
-### tapAction?
-
-> `optional` **tapAction**: `null` \| [`ITapLinkAction`](../interfaces/ITapLinkAction.md)
-
-Defined in: [WAProto/index.d.ts:15251](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15251)
-
-InteractiveAnnotation tapAction.
-
-#### Implementation of
-
-[`IInteractiveAnnotation`](../interfaces/IInteractiveAnnotation.md).[`tapAction`](../interfaces/IInteractiveAnnotation.md#tapaction)
-
 ## Methods
 
 ### toJSON()
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15324](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15324)
+Defined in: [WAProto/index.d.ts:9273](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9273)
 
 Converts this InteractiveAnnotation to JSON.
 
@@ -160,7 +118,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:15261](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15261)
+Defined in: [WAProto/index.d.ts:9210](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9210)
 
 Creates a new InteractiveAnnotation instance using the specified properties.
 
@@ -184,7 +142,7 @@ InteractiveAnnotation instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:15287](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15287)
+Defined in: [WAProto/index.d.ts:9236](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9236)
 
 Decodes an InteractiveAnnotation message from the specified reader or buffer.
 
@@ -222,7 +180,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:15296](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15296)
+Defined in: [WAProto/index.d.ts:9245](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9245)
 
 Decodes an InteractiveAnnotation message from the specified reader or buffer, length delimited.
 
@@ -254,7 +212,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15269)
+Defined in: [WAProto/index.d.ts:9218](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9218)
 
 Encodes the specified InteractiveAnnotation message. Does not implicitly [verify](InteractiveAnnotation.md#verify) messages.
 
@@ -284,7 +242,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15277](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15277)
+Defined in: [WAProto/index.d.ts:9226](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9226)
 
 Encodes the specified InteractiveAnnotation message, length delimited. Does not implicitly [verify](InteractiveAnnotation.md#verify) messages.
 
@@ -314,7 +272,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:15310](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15310)
+Defined in: [WAProto/index.d.ts:9259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9259)
 
 Creates an InteractiveAnnotation message from a plain object. Also converts values to their respective internal types.
 
@@ -336,7 +294,7 @@ InteractiveAnnotation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15331](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15331)
+Defined in: [WAProto/index.d.ts:9280](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9280)
 
 Gets the default type url for InteractiveAnnotation
 
@@ -360,7 +318,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15318](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15318)
+Defined in: [WAProto/index.d.ts:9267](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9267)
 
 Creates a plain object from an InteractiveAnnotation message. Also converts values to other types if specified.
 
@@ -390,7 +348,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15303](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15303)
+Defined in: [WAProto/index.d.ts:9252](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9252)
 
 Verifies an InteractiveAnnotation message.
 

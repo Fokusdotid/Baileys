@@ -1,6 +1,6 @@
 # Interface: IProtocolMessage
 
-Defined in: [WAProto/index.d.ts:29981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29981)
+Defined in: [WAProto/index.d.ts:22473](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22473)
 
 Properties of a ProtocolMessage.
 
@@ -10,7 +10,7 @@ Properties of a ProtocolMessage.
 
 > `optional` **appStateFatalExceptionNotification**: `null` \| [`IAppStateFatalExceptionNotification`](IAppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:30008](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30008)
+Defined in: [WAProto/index.d.ts:22500](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22500)
 
 ProtocolMessage appStateFatalExceptionNotification
 
@@ -20,7 +20,7 @@ ProtocolMessage appStateFatalExceptionNotification
 
 > `optional` **appStateSyncKeyRequest**: `null` \| [`IAppStateSyncKeyRequest`](IAppStateSyncKeyRequest.md)
 
-Defined in: [WAProto/index.d.ts:30002](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30002)
+Defined in: [WAProto/index.d.ts:22494](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22494)
 
 ProtocolMessage appStateSyncKeyRequest
 
@@ -30,7 +30,7 @@ ProtocolMessage appStateSyncKeyRequest
 
 > `optional` **appStateSyncKeyShare**: `null` \| [`IAppStateSyncKeyShare`](IAppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:29999](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29999)
+Defined in: [WAProto/index.d.ts:22491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22491)
 
 ProtocolMessage appStateSyncKeyShare
 
@@ -40,19 +40,9 @@ ProtocolMessage appStateSyncKeyShare
 
 > `optional` **botFeedbackMessage**: `null` \| [`IBotFeedbackMessage`](IBotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:30026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30026)
+Defined in: [WAProto/index.d.ts:22518](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22518)
 
 ProtocolMessage botFeedbackMessage
-
-***
-
-### cloudApiThreadControlNotification?
-
-> `optional` **cloudApiThreadControlNotification**: `null` \| [`ICloudAPIThreadControlNotification`](ICloudAPIThreadControlNotification.md)
-
-Defined in: [WAProto/index.d.ts:30038](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30038)
-
-ProtocolMessage cloudApiThreadControlNotification
 
 ***
 
@@ -60,7 +50,7 @@ ProtocolMessage cloudApiThreadControlNotification
 
 > `optional` **disappearingMode**: `null` \| [`IDisappearingMode`](../../../interfaces/IDisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:30011](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30011)
+Defined in: [WAProto/index.d.ts:22503](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22503)
 
 ProtocolMessage disappearingMode
 
@@ -70,7 +60,7 @@ ProtocolMessage disappearingMode
 
 > `optional` **editedMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:30014](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30014)
+Defined in: [WAProto/index.d.ts:22506](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22506)
 
 ProtocolMessage editedMessage
 
@@ -80,7 +70,7 @@ ProtocolMessage editedMessage
 
 > `optional` **ephemeralExpiration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:29990](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29990)
+Defined in: [WAProto/index.d.ts:22482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22482)
 
 ProtocolMessage ephemeralExpiration
 
@@ -90,7 +80,7 @@ ProtocolMessage ephemeralExpiration
 
 > `optional` **ephemeralSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29993](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29993)
+Defined in: [WAProto/index.d.ts:22485](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22485)
 
 ProtocolMessage ephemeralSettingTimestamp
 
@@ -100,7 +90,7 @@ ProtocolMessage ephemeralSettingTimestamp
 
 > `optional` **historySyncNotification**: `null` \| [`IHistorySyncNotification`](IHistorySyncNotification.md)
 
-Defined in: [WAProto/index.d.ts:29996](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29996)
+Defined in: [WAProto/index.d.ts:22488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22488)
 
 ProtocolMessage historySyncNotification
 
@@ -110,7 +100,7 @@ ProtocolMessage historySyncNotification
 
 > `optional` **initialSecurityNotificationSettingSync**: `null` \| [`IInitialSecurityNotificationSettingSync`](IInitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:30005](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30005)
+Defined in: [WAProto/index.d.ts:22497](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22497)
 
 ProtocolMessage initialSecurityNotificationSettingSync
 
@@ -120,7 +110,7 @@ ProtocolMessage initialSecurityNotificationSettingSync
 
 > `optional` **invokerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30029](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30029)
+Defined in: [WAProto/index.d.ts:22521](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22521)
 
 ProtocolMessage invokerJid
 
@@ -130,29 +120,9 @@ ProtocolMessage invokerJid
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:29984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29984)
+Defined in: [WAProto/index.d.ts:22476](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22476)
 
 ProtocolMessage key
-
-***
-
-### lidMigrationMappingSyncMessage?
-
-> `optional` **lidMigrationMappingSyncMessage**: `null` \| [`ILIDMigrationMappingSyncMessage`](../../../interfaces/ILIDMigrationMappingSyncMessage.md)
-
-Defined in: [WAProto/index.d.ts:30041](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30041)
-
-ProtocolMessage lidMigrationMappingSyncMessage
-
-***
-
-### limitSharing?
-
-> `optional` **limitSharing**: `null` \| [`ILimitSharing`](../../../interfaces/ILimitSharing.md)
-
-Defined in: [WAProto/index.d.ts:30044](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30044)
-
-ProtocolMessage limitSharing
 
 ***
 
@@ -160,7 +130,7 @@ ProtocolMessage limitSharing
 
 > `optional` **mediaNotifyMessage**: `null` \| [`IMediaNotifyMessage`](../../../interfaces/IMediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:30035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30035)
+Defined in: [WAProto/index.d.ts:22527](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22527)
 
 ProtocolMessage mediaNotifyMessage
 
@@ -170,7 +140,7 @@ ProtocolMessage mediaNotifyMessage
 
 > `optional` **peerDataOperationRequestMessage**: `null` \| [`IPeerDataOperationRequestMessage`](IPeerDataOperationRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:30020](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30020)
+Defined in: [WAProto/index.d.ts:22512](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22512)
 
 ProtocolMessage peerDataOperationRequestMessage
 
@@ -180,7 +150,7 @@ ProtocolMessage peerDataOperationRequestMessage
 
 > `optional` **peerDataOperationRequestResponseMessage**: `null` \| [`IPeerDataOperationRequestResponseMessage`](IPeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:30023](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30023)
+Defined in: [WAProto/index.d.ts:22515](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22515)
 
 ProtocolMessage peerDataOperationRequestResponseMessage
 
@@ -190,7 +160,7 @@ ProtocolMessage peerDataOperationRequestResponseMessage
 
 > `optional` **requestWelcomeMessageMetadata**: `null` \| [`IRequestWelcomeMessageMetadata`](IRequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30032](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30032)
+Defined in: [WAProto/index.d.ts:22524](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22524)
 
 ProtocolMessage requestWelcomeMessageMetadata
 
@@ -200,7 +170,7 @@ ProtocolMessage requestWelcomeMessageMetadata
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30017](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30017)
+Defined in: [WAProto/index.d.ts:22509](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22509)
 
 ProtocolMessage timestampMs
 
@@ -210,6 +180,6 @@ ProtocolMessage timestampMs
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/ProtocolMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:29987](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29987)
+Defined in: [WAProto/index.d.ts:22479](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22479)
 
 ProtocolMessage type

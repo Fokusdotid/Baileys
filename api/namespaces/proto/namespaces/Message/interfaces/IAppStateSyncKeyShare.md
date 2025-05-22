@@ -1,6 +1,6 @@
 # Interface: IAppStateSyncKeyShare
 
-Defined in: [WAProto/index.d.ts:18074](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18074)
+Defined in: [WAProto/index.d.ts:11720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11720)
 
 Properties of an AppStateSyncKeyShare.
 
@@ -10,6 +10,6 @@ Properties of an AppStateSyncKeyShare.
 
 > `optional` **keys**: `null` \| [`IAppStateSyncKey`](IAppStateSyncKey.md)[]
 
-Defined in: [WAProto/index.d.ts:18077](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18077)
+Defined in: [WAProto/index.d.ts:11723](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11723)
 
 AppStateSyncKeyShare keys

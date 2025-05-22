@@ -1,6 +1,6 @@
 # Class: LockChatAction
 
-Defined in: [WAProto/index.d.ts:43296](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43296)
+Defined in: [WAProto/index.d.ts:34220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34220)
 
 Represents a LockChatAction.
 
@@ -14,7 +14,7 @@ Represents a LockChatAction.
 
 > **new LockChatAction**(`properties`?): [`LockChatAction`](LockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43302](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43302)
+Defined in: [WAProto/index.d.ts:34226](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34226)
 
 Constructs a new LockChatAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### locked?
+### locked
 
-> `optional` **locked**: `null` \| `boolean`
+> **locked**: `boolean`
 
-Defined in: [WAProto/index.d.ts:43305](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43305)
+Defined in: [WAProto/index.d.ts:34229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34229)
 
 LockChatAction locked.
 
@@ -50,7 +50,7 @@ LockChatAction locked.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43375](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43375)
+Defined in: [WAProto/index.d.ts:34299](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34299)
 
 Converts this LockChatAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LockChatAction`](LockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43312](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43312)
+Defined in: [WAProto/index.d.ts:34236](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34236)
 
 Creates a new LockChatAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ LockChatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LockChatAction`](LockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43338](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43338)
+Defined in: [WAProto/index.d.ts:34262](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34262)
 
 Decodes a LockChatAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LockChatAction`](LockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43347](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43347)
+Defined in: [WAProto/index.d.ts:34271](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34271)
 
 Decodes a LockChatAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43320)
+Defined in: [WAProto/index.d.ts:34244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34244)
 
 Encodes the specified LockChatAction message. Does not implicitly [verify](LockChatAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43328](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43328)
+Defined in: [WAProto/index.d.ts:34252](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34252)
 
 Encodes the specified LockChatAction message, length delimited. Does not implicitly [verify](LockChatAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LockChatAction`](LockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43361](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43361)
+Defined in: [WAProto/index.d.ts:34285](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34285)
 
 Creates a LockChatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LockChatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43382](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43382)
+Defined in: [WAProto/index.d.ts:34306](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34306)
 
 Gets the default type url for LockChatAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43369](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43369)
+Defined in: [WAProto/index.d.ts:34293](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34293)
 
 Creates a plain object from a LockChatAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43354](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43354)
+Defined in: [WAProto/index.d.ts:34278](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34278)
 
 Verifies a LockChatAction message.
 

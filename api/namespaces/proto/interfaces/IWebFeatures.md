@@ -1,6 +1,6 @@
 # Interface: IWebFeatures
 
-Defined in: [WAProto/index.d.ts:49194](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49194)
+Defined in: [WAProto/index.d.ts:39356](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39356)
 
 Properties of a WebFeatures.
 
@@ -10,7 +10,7 @@ Properties of a WebFeatures.
 
 > `optional` **archiveV2**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49311](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49311)
+Defined in: [WAProto/index.d.ts:39473](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39473)
 
 WebFeatures archiveV2
 
@@ -20,7 +20,7 @@ WebFeatures archiveV2
 
 > `optional` **catalog**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49269](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49269)
+Defined in: [WAProto/index.d.ts:39431](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39431)
 
 WebFeatures catalog
 
@@ -30,7 +30,7 @@ WebFeatures catalog
 
 > `optional` **changeNumberV2**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49209](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49209)
+Defined in: [WAProto/index.d.ts:39371](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39371)
 
 WebFeatures changeNumberV2
 
@@ -40,7 +40,7 @@ WebFeatures changeNumberV2
 
 > `optional` **disappearingMode**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49323](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49323)
+Defined in: [WAProto/index.d.ts:39485](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39485)
 
 WebFeatures disappearingMode
 
@@ -50,7 +50,7 @@ WebFeatures disappearingMode
 
 > `optional` **e2ENotificationSync**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49287](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49287)
+Defined in: [WAProto/index.d.ts:39449](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39449)
 
 WebFeatures e2ENotificationSync
 
@@ -60,7 +60,7 @@ WebFeatures e2ENotificationSync
 
 > `optional` **ephemeral24HDuration**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49317](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49317)
+Defined in: [WAProto/index.d.ts:39479](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39479)
 
 WebFeatures ephemeral24HDuration
 
@@ -70,7 +70,7 @@ WebFeatures ephemeral24HDuration
 
 > `optional` **ephemeralAllowGroupMembers**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49314](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49314)
+Defined in: [WAProto/index.d.ts:39476](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39476)
 
 WebFeatures ephemeralAllowGroupMembers
 
@@ -80,7 +80,7 @@ WebFeatures ephemeralAllowGroupMembers
 
 > `optional` **ephemeralMessages**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49284](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49284)
+Defined in: [WAProto/index.d.ts:39446](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39446)
 
 WebFeatures ephemeralMessages
 
@@ -90,7 +90,7 @@ WebFeatures ephemeralMessages
 
 > `optional` **externalMdOptInAvailable**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49326)
+Defined in: [WAProto/index.d.ts:39488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39488)
 
 WebFeatures externalMdOptInAvailable
 
@@ -100,7 +100,7 @@ WebFeatures externalMdOptInAvailable
 
 > `optional` **frequentlyForwardedSetting**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49260](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49260)
+Defined in: [WAProto/index.d.ts:39422](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39422)
 
 WebFeatures frequentlyForwardedSetting
 
@@ -110,7 +110,7 @@ WebFeatures frequentlyForwardedSetting
 
 > `optional` **groupDogfoodingInternalOnly**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49305](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49305)
+Defined in: [WAProto/index.d.ts:39467](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39467)
 
 WebFeatures groupDogfoodingInternalOnly
 
@@ -120,7 +120,7 @@ WebFeatures groupDogfoodingInternalOnly
 
 > `optional` **groupsV3**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49203](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49203)
+Defined in: [WAProto/index.d.ts:39365](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39365)
 
 WebFeatures groupsV3
 
@@ -130,7 +130,7 @@ WebFeatures groupsV3
 
 > `optional` **groupsV3Create**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49206](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49206)
+Defined in: [WAProto/index.d.ts:39368](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39368)
 
 WebFeatures groupsV3Create
 
@@ -140,7 +140,7 @@ WebFeatures groupsV3Create
 
 > `optional` **groupsV4JoinPermission**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49263](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49263)
+Defined in: [WAProto/index.d.ts:39425](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39425)
 
 WebFeatures groupsV4JoinPermission
 
@@ -150,7 +150,7 @@ WebFeatures groupsV4JoinPermission
 
 > `optional` **groupUiiCleanup**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49302](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49302)
+Defined in: [WAProto/index.d.ts:39464](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39464)
 
 WebFeatures groupUiiCleanup
 
@@ -160,7 +160,7 @@ WebFeatures groupUiiCleanup
 
 > `optional` **labelsDisplay**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49197](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49197)
+Defined in: [WAProto/index.d.ts:39359](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39359)
 
 WebFeatures labelsDisplay
 
@@ -170,7 +170,7 @@ WebFeatures labelsDisplay
 
 > `optional` **labelsEdit**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49236](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49236)
+Defined in: [WAProto/index.d.ts:39398](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39398)
 
 WebFeatures labelsEdit
 
@@ -180,7 +180,7 @@ WebFeatures labelsEdit
 
 > `optional` **liveLocations**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49215](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49215)
+Defined in: [WAProto/index.d.ts:39377](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39377)
 
 WebFeatures liveLocations
 
@@ -190,7 +190,7 @@ WebFeatures liveLocations
 
 > `optional` **liveLocationsFinal**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49233](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49233)
+Defined in: [WAProto/index.d.ts:39395](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39395)
 
 WebFeatures liveLocationsFinal
 
@@ -200,7 +200,7 @@ WebFeatures liveLocationsFinal
 
 > `optional` **mdForceUpgrade**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49320](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49320)
+Defined in: [WAProto/index.d.ts:39482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39482)
 
 WebFeatures mdForceUpgrade
 
@@ -210,7 +210,7 @@ WebFeatures mdForceUpgrade
 
 > `optional` **mediaUpload**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49239](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49239)
+Defined in: [WAProto/index.d.ts:39401](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39401)
 
 WebFeatures mediaUpload
 
@@ -220,7 +220,7 @@ WebFeatures mediaUpload
 
 > `optional` **mediaUploadRichQuickReplies**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49242](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49242)
+Defined in: [WAProto/index.d.ts:39404](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39404)
 
 WebFeatures mediaUploadRichQuickReplies
 
@@ -230,7 +230,7 @@ WebFeatures mediaUploadRichQuickReplies
 
 > `optional` **noDeleteMessageTimeLimit**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49329](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49329)
+Defined in: [WAProto/index.d.ts:39491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39491)
 
 WebFeatures noDeleteMessageTimeLimit
 
@@ -240,7 +240,7 @@ WebFeatures noDeleteMessageTimeLimit
 
 > `optional` **payments**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49227](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49227)
+Defined in: [WAProto/index.d.ts:39389](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39389)
 
 WebFeatures payments
 
@@ -250,7 +250,7 @@ WebFeatures payments
 
 > `optional` **queryStatusV3Thumbnail**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49212](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49212)
+Defined in: [WAProto/index.d.ts:39374](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39374)
 
 WebFeatures queryStatusV3Thumbnail
 
@@ -260,7 +260,7 @@ WebFeatures queryStatusV3Thumbnail
 
 > `optional` **queryVname**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49218](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49218)
+Defined in: [WAProto/index.d.ts:39380](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39380)
 
 WebFeatures queryVname
 
@@ -270,7 +270,7 @@ WebFeatures queryVname
 
 > `optional` **quickRepliesQuery**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49224](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49224)
+Defined in: [WAProto/index.d.ts:39386](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39386)
 
 WebFeatures quickRepliesQuery
 
@@ -280,7 +280,7 @@ WebFeatures quickRepliesQuery
 
 > `optional` **recentStickers**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49266](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49266)
+Defined in: [WAProto/index.d.ts:39428](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39428)
 
 WebFeatures recentStickers
 
@@ -290,7 +290,7 @@ WebFeatures recentStickers
 
 > `optional` **recentStickersV2**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49290](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49290)
+Defined in: [WAProto/index.d.ts:39452](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39452)
 
 WebFeatures recentStickersV2
 
@@ -300,7 +300,7 @@ WebFeatures recentStickersV2
 
 > `optional` **recentStickersV3**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49293](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49293)
+Defined in: [WAProto/index.d.ts:39455](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39455)
 
 WebFeatures recentStickersV3
 
@@ -310,7 +310,7 @@ WebFeatures recentStickersV3
 
 > `optional` **settingsSync**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49308](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49308)
+Defined in: [WAProto/index.d.ts:39470](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39470)
 
 WebFeatures settingsSync
 
@@ -320,7 +320,7 @@ WebFeatures settingsSync
 
 > `optional` **starredStickers**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49272](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49272)
+Defined in: [WAProto/index.d.ts:39434](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39434)
 
 WebFeatures starredStickers
 
@@ -330,7 +330,7 @@ WebFeatures starredStickers
 
 > `optional` **statusRanking**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49251](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49251)
+Defined in: [WAProto/index.d.ts:39413](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39413)
 
 WebFeatures statusRanking
 
@@ -340,7 +340,7 @@ WebFeatures statusRanking
 
 > `optional` **stickerPackQuery**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49230](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49230)
+Defined in: [WAProto/index.d.ts:39392](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39392)
 
 WebFeatures stickerPackQuery
 
@@ -350,7 +350,7 @@ WebFeatures stickerPackQuery
 
 > `optional` **support**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49299](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49299)
+Defined in: [WAProto/index.d.ts:39461](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39461)
 
 WebFeatures support
 
@@ -360,7 +360,7 @@ WebFeatures support
 
 > `optional` **templateMessage**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49278](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49278)
+Defined in: [WAProto/index.d.ts:39440](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39440)
 
 WebFeatures templateMessage
 
@@ -370,7 +370,7 @@ WebFeatures templateMessage
 
 > `optional` **templateMessageInteractivity**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49281](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49281)
+Defined in: [WAProto/index.d.ts:39443](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39443)
 
 WebFeatures templateMessageInteractivity
 
@@ -380,7 +380,7 @@ WebFeatures templateMessageInteractivity
 
 > `optional` **thirdPartyStickers**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49257](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49257)
+Defined in: [WAProto/index.d.ts:39419](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39419)
 
 WebFeatures thirdPartyStickers
 
@@ -390,7 +390,7 @@ WebFeatures thirdPartyStickers
 
 > `optional` **userNotice**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49296](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49296)
+Defined in: [WAProto/index.d.ts:39458](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39458)
 
 WebFeatures userNotice
 
@@ -400,7 +400,7 @@ WebFeatures userNotice
 
 > `optional` **videoPlaybackUrl**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49248](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49248)
+Defined in: [WAProto/index.d.ts:39410](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39410)
 
 WebFeatures videoPlaybackUrl
 
@@ -410,7 +410,7 @@ WebFeatures videoPlaybackUrl
 
 > `optional` **vnameV2**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49245](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49245)
+Defined in: [WAProto/index.d.ts:39407](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39407)
 
 WebFeatures vnameV2
 
@@ -420,7 +420,7 @@ WebFeatures vnameV2
 
 > `optional` **voipGroupCall**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49275](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49275)
+Defined in: [WAProto/index.d.ts:39437](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39437)
 
 WebFeatures voipGroupCall
 
@@ -430,7 +430,7 @@ WebFeatures voipGroupCall
 
 > `optional` **voipIndividualIncoming**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49221](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49221)
+Defined in: [WAProto/index.d.ts:39383](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39383)
 
 WebFeatures voipIndividualIncoming
 
@@ -440,7 +440,7 @@ WebFeatures voipIndividualIncoming
 
 > `optional` **voipIndividualOutgoing**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49200](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49200)
+Defined in: [WAProto/index.d.ts:39362](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39362)
 
 WebFeatures voipIndividualOutgoing
 
@@ -450,6 +450,6 @@ WebFeatures voipIndividualOutgoing
 
 > `optional` **voipIndividualVideo**: `null` \| [`Flag`](../namespaces/WebFeatures/enumerations/Flag.md)
 
-Defined in: [WAProto/index.d.ts:49254](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L49254)
+Defined in: [WAProto/index.d.ts:39416](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L39416)
 
 WebFeatures voipIndividualVideo

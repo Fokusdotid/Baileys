@@ -2,7 +2,7 @@
 
 > **decodeSyncdMutations**(`msgMutations`, `initialState`, `getAppStateSyncKey`, `onMutation`, `validateMacs`): `Promise`\<\{ `hash`: `Buffer`\<`any`\>; `indexValueMap`: \{\}; \}\>
 
-Defined in: [src/Utils/chat-utils.ts:188](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/Utils/chat-utils.ts#L188)
+Defined in: [src/Utils/chat-utils.ts:188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/Utils/chat-utils.ts#L188)
 
 ## Parameters
 

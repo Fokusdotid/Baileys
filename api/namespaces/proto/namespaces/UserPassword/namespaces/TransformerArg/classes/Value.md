@@ -1,6 +1,6 @@
 # Class: Value
 
-Defined in: [WAProto/index.d.ts:48633](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48633)
+Defined in: [WAProto/index.d.ts:38795](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38795)
 
 Represents a Value.
 
@@ -14,7 +14,7 @@ Represents a Value.
 
 > **new Value**(`properties`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:48639](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48639)
+Defined in: [WAProto/index.d.ts:38801](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38801)
 
 Constructs a new Value.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **asBlob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48642](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48642)
+Defined in: [WAProto/index.d.ts:38804](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38804)
 
 Value asBlob.
 
@@ -50,7 +50,7 @@ Value asBlob.
 
 > `optional` **asUnsignedInteger**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48645)
+Defined in: [WAProto/index.d.ts:38807](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38807)
 
 Value asUnsignedInteger.
 
@@ -64,7 +64,7 @@ Value asUnsignedInteger.
 
 > `optional` **value**: `"asBlob"` \| `"asUnsignedInteger"`
 
-Defined in: [WAProto/index.d.ts:48648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48648)
+Defined in: [WAProto/index.d.ts:38810](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38810)
 
 Value value.
 
@@ -74,7 +74,7 @@ Value value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48718](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48718)
+Defined in: [WAProto/index.d.ts:38880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38880)
 
 Converts this Value to JSON.
 
@@ -90,7 +90,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:48655](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48655)
+Defined in: [WAProto/index.d.ts:38817](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38817)
 
 Creates a new Value instance using the specified properties.
 
@@ -114,7 +114,7 @@ Value instance
 
 > `static` **decode**(`reader`, `length`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:48681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48681)
+Defined in: [WAProto/index.d.ts:38843](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38843)
 
 Decodes a Value message from the specified reader or buffer.
 
@@ -152,7 +152,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:48690](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48690)
+Defined in: [WAProto/index.d.ts:38852](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38852)
 
 Decodes a Value message from the specified reader or buffer, length delimited.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48663](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48663)
+Defined in: [WAProto/index.d.ts:38825](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38825)
 
 Encodes the specified Value message. Does not implicitly [verify](Value.md#verify) messages.
 
@@ -214,7 +214,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48671](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48671)
+Defined in: [WAProto/index.d.ts:38833](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38833)
 
 Encodes the specified Value message, length delimited. Does not implicitly [verify](Value.md#verify) messages.
 
@@ -244,7 +244,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:48704](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48704)
+Defined in: [WAProto/index.d.ts:38866](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38866)
 
 Creates a Value message from a plain object. Also converts values to their respective internal types.
 
@@ -266,7 +266,7 @@ Value
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48725](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48725)
+Defined in: [WAProto/index.d.ts:38887](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38887)
 
 Gets the default type url for Value
 
@@ -290,7 +290,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48712](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48712)
+Defined in: [WAProto/index.d.ts:38874](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38874)
 
 Creates a plain object from a Value message. Also converts values to other types if specified.
 
@@ -320,7 +320,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48697](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L48697)
+Defined in: [WAProto/index.d.ts:38859](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L38859)
 
 Verifies a Value message.
 

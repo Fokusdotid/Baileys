@@ -1,6 +1,6 @@
 # Enumeration: OrderStatus
 
-Defined in: [WAProto/index.d.ts:26752](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26752)
+Defined in: [WAProto/index.d.ts:19946](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19946)
 
 OrderStatus enum.
 
@@ -10,7 +10,7 @@ OrderStatus enum.
 
 > **ACCEPTED**: `2`
 
-Defined in: [WAProto/index.d.ts:26754](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26754)
+Defined in: [WAProto/index.d.ts:19948](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19948)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:26754](https://github.com/Fokusdotid/Baileys/blo
 
 > **DECLINED**: `3`
 
-Defined in: [WAProto/index.d.ts:26755](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26755)
+Defined in: [WAProto/index.d.ts:19949](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19949)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:26755](https://github.com/Fokusdotid/Baileys/blo
 
 > **INQUIRY**: `1`
 
-Defined in: [WAProto/index.d.ts:26753](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26753)
+Defined in: [WAProto/index.d.ts:19947](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19947)

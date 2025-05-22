@@ -1,6 +1,6 @@
 # Class: PinAction
 
-Defined in: [WAProto/index.d.ts:44399](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44399)
+Defined in: [WAProto/index.d.ts:35091](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35091)
 
 Represents a PinAction.
 
@@ -14,7 +14,7 @@ Represents a PinAction.
 
 > **new PinAction**(`properties`?): [`PinAction`](PinAction.md)
 
-Defined in: [WAProto/index.d.ts:44405](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44405)
+Defined in: [WAProto/index.d.ts:35097](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35097)
 
 Constructs a new PinAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### pinned?
+### pinned
 
-> `optional` **pinned**: `null` \| `boolean`
+> **pinned**: `boolean`
 
-Defined in: [WAProto/index.d.ts:44408](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44408)
+Defined in: [WAProto/index.d.ts:35100](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35100)
 
 PinAction pinned.
 
@@ -50,7 +50,7 @@ PinAction pinned.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44478](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44478)
+Defined in: [WAProto/index.d.ts:35170](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35170)
 
 Converts this PinAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PinAction`](PinAction.md)
 
-Defined in: [WAProto/index.d.ts:44415](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44415)
+Defined in: [WAProto/index.d.ts:35107](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35107)
 
 Creates a new PinAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PinAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PinAction`](PinAction.md)
 
-Defined in: [WAProto/index.d.ts:44441](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44441)
+Defined in: [WAProto/index.d.ts:35133](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35133)
 
 Decodes a PinAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PinAction`](PinAction.md)
 
-Defined in: [WAProto/index.d.ts:44450](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44450)
+Defined in: [WAProto/index.d.ts:35142](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35142)
 
 Decodes a PinAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44423](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44423)
+Defined in: [WAProto/index.d.ts:35115](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35115)
 
 Encodes the specified PinAction message. Does not implicitly [verify](PinAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44431](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44431)
+Defined in: [WAProto/index.d.ts:35123](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35123)
 
 Encodes the specified PinAction message, length delimited. Does not implicitly [verify](PinAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PinAction`](PinAction.md)
 
-Defined in: [WAProto/index.d.ts:44464](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44464)
+Defined in: [WAProto/index.d.ts:35156](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35156)
 
 Creates a PinAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PinAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44485](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44485)
+Defined in: [WAProto/index.d.ts:35177](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35177)
 
 Gets the default type url for PinAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44472](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44472)
+Defined in: [WAProto/index.d.ts:35164](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35164)
 
 Creates a plain object from a PinAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44457](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44457)
+Defined in: [WAProto/index.d.ts:35149](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35149)
 
 Verifies a PinAction message.
 

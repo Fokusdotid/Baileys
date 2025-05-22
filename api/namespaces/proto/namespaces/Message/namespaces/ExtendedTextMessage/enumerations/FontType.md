@@ -1,6 +1,6 @@
 # Enumeration: FontType
 
-Defined in: [WAProto/index.d.ts:21556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21556)
+Defined in: [WAProto/index.d.ts:15008](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15008)
 
 FontType enum.
 
@@ -10,7 +10,7 @@ FontType enum.
 
 > **CALISTOGA\_REGULAR**: `8`
 
-Defined in: [WAProto/index.d.ts:21562](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21562)
+Defined in: [WAProto/index.d.ts:15014](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15014)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21562](https://github.com/Fokusdotid/Baileys/blo
 
 > **COURIERPRIME\_BOLD**: `10`
 
-Defined in: [WAProto/index.d.ts:21564](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21564)
+Defined in: [WAProto/index.d.ts:15016](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15016)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:21564](https://github.com/Fokusdotid/Baileys/blo
 
 > **EXO2\_EXTRABOLD**: `9`
 
-Defined in: [WAProto/index.d.ts:21563](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21563)
+Defined in: [WAProto/index.d.ts:15015](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15015)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:21563](https://github.com/Fokusdotid/Baileys/blo
 
 > **FB\_SCRIPT**: `2`
 
-Defined in: [WAProto/index.d.ts:21559](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21559)
+Defined in: [WAProto/index.d.ts:15011](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15011)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:21559](https://github.com/Fokusdotid/Baileys/blo
 
 > **MORNINGBREEZE\_REGULAR**: `7`
 
-Defined in: [WAProto/index.d.ts:21561](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21561)
+Defined in: [WAProto/index.d.ts:15013](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15013)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:21561](https://github.com/Fokusdotid/Baileys/blo
 
 > **SYSTEM**: `0`
 
-Defined in: [WAProto/index.d.ts:21557](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21557)
+Defined in: [WAProto/index.d.ts:15009](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15009)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:21557](https://github.com/Fokusdotid/Baileys/blo
 
 > **SYSTEM\_BOLD**: `6`
 
-Defined in: [WAProto/index.d.ts:21560](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21560)
+Defined in: [WAProto/index.d.ts:15012](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15012)
 
 ***
 
@@ -66,4 +66,4 @@ Defined in: [WAProto/index.d.ts:21560](https://github.com/Fokusdotid/Baileys/blo
 
 > **SYSTEM\_TEXT**: `1`
 
-Defined in: [WAProto/index.d.ts:21558](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21558)
+Defined in: [WAProto/index.d.ts:15010](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15010)

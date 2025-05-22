@@ -1,6 +1,6 @@
 # Interface: IAppVersion
 
-Defined in: [WAProto/index.d.ts:11883](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11883)
+Defined in: [WAProto/index.d.ts:6479](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6479)
 
 Properties of an AppVersion.
 
@@ -10,7 +10,7 @@ Properties of an AppVersion.
 
 > `optional` **primary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11886](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11886)
+Defined in: [WAProto/index.d.ts:6482](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6482)
 
 AppVersion primary
 
@@ -20,7 +20,7 @@ AppVersion primary
 
 > `optional` **quaternary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11895](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11895)
+Defined in: [WAProto/index.d.ts:6491](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6491)
 
 AppVersion quaternary
 
@@ -30,7 +30,7 @@ AppVersion quaternary
 
 > `optional` **quinary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11898](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11898)
+Defined in: [WAProto/index.d.ts:6494](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6494)
 
 AppVersion quinary
 
@@ -40,7 +40,7 @@ AppVersion quinary
 
 > `optional` **secondary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11889](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11889)
+Defined in: [WAProto/index.d.ts:6485](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6485)
 
 AppVersion secondary
 
@@ -50,6 +50,6 @@ AppVersion secondary
 
 > `optional` **tertiary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11892](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11892)
+Defined in: [WAProto/index.d.ts:6488](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6488)
 
 AppVersion tertiary

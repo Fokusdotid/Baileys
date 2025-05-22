@@ -1,6 +1,6 @@
 # Interface: IProductMessage
 
-Defined in: [WAProto/index.d.ts:29579](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29579)
+Defined in: [WAProto/index.d.ts:22077](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22077)
 
 Properties of a ProductMessage.
 
@@ -10,7 +10,7 @@ Properties of a ProductMessage.
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29591](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29591)
+Defined in: [WAProto/index.d.ts:22089](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22089)
 
 ProductMessage body
 
@@ -20,7 +20,7 @@ ProductMessage body
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29585](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29585)
+Defined in: [WAProto/index.d.ts:22083](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22083)
 
 ProductMessage businessOwnerJid
 
@@ -30,7 +30,7 @@ ProductMessage businessOwnerJid
 
 > `optional` **catalog**: `null` \| [`ICatalogSnapshot`](../namespaces/ProductMessage/interfaces/ICatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29588](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29588)
+Defined in: [WAProto/index.d.ts:22086](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22086)
 
 ProductMessage catalog
 
@@ -40,7 +40,7 @@ ProductMessage catalog
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:29597](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29597)
+Defined in: [WAProto/index.d.ts:22095](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22095)
 
 ProductMessage contextInfo
 
@@ -50,7 +50,7 @@ ProductMessage contextInfo
 
 > `optional` **footer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29594](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29594)
+Defined in: [WAProto/index.d.ts:22092](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22092)
 
 ProductMessage footer
 
@@ -60,6 +60,6 @@ ProductMessage footer
 
 > `optional` **product**: `null` \| [`IProductSnapshot`](../namespaces/ProductMessage/interfaces/IProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:29582](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L29582)
+Defined in: [WAProto/index.d.ts:22080](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22080)
 
 ProductMessage product

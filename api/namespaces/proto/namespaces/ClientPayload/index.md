@@ -12,7 +12,6 @@
 - [ConnectType](enumerations/ConnectType.md)
 - [IOSAppExtension](enumerations/IOSAppExtension.md)
 - [Product](enumerations/Product.md)
-- [TrafficAnonymization](enumerations/TrafficAnonymization.md)
 
 ## Classes
 

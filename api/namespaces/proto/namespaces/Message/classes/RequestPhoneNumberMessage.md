@@ -1,6 +1,6 @@
 # Class: RequestPhoneNumberMessage
 
-Defined in: [WAProto/index.d.ts:30483](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30483)
+Defined in: [WAProto/index.d.ts:22950](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22950)
 
 Represents a RequestPhoneNumberMessage.
 
@@ -14,7 +14,7 @@ Represents a RequestPhoneNumberMessage.
 
 > **new RequestPhoneNumberMessage**(`properties`?): [`RequestPhoneNumberMessage`](RequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:30489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30489)
+Defined in: [WAProto/index.d.ts:22956](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22956)
 
 Constructs a new RequestPhoneNumberMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:30492](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30492)
+Defined in: [WAProto/index.d.ts:22959](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22959)
 
 RequestPhoneNumberMessage contextInfo.
 
@@ -50,7 +50,7 @@ RequestPhoneNumberMessage contextInfo.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30562](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30562)
+Defined in: [WAProto/index.d.ts:23029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23029)
 
 Converts this RequestPhoneNumberMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RequestPhoneNumberMessage`](RequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:30499](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30499)
+Defined in: [WAProto/index.d.ts:22966](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22966)
 
 Creates a new RequestPhoneNumberMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ RequestPhoneNumberMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`RequestPhoneNumberMessage`](RequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:30525](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30525)
+Defined in: [WAProto/index.d.ts:22992](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22992)
 
 Decodes a RequestPhoneNumberMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RequestPhoneNumberMessage`](RequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:30534](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30534)
+Defined in: [WAProto/index.d.ts:23001](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23001)
 
 Decodes a RequestPhoneNumberMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30507](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30507)
+Defined in: [WAProto/index.d.ts:22974](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22974)
 
 Encodes the specified RequestPhoneNumberMessage message. Does not implicitly [verify](RequestPhoneNumberMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30515](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30515)
+Defined in: [WAProto/index.d.ts:22982](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L22982)
 
 Encodes the specified RequestPhoneNumberMessage message, length delimited. Does not implicitly [verify](RequestPhoneNumberMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RequestPhoneNumberMessage`](RequestPhoneNumberMessage.md)
 
-Defined in: [WAProto/index.d.ts:30548](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30548)
+Defined in: [WAProto/index.d.ts:23015](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23015)
 
 Creates a RequestPhoneNumberMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ RequestPhoneNumberMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30569](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30569)
+Defined in: [WAProto/index.d.ts:23036](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23036)
 
 Gets the default type url for RequestPhoneNumberMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30556)
+Defined in: [WAProto/index.d.ts:23023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23023)
 
 Creates a plain object from a RequestPhoneNumberMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30541](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30541)
+Defined in: [WAProto/index.d.ts:23008](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23008)
 
 Verifies a RequestPhoneNumberMessage message.
 

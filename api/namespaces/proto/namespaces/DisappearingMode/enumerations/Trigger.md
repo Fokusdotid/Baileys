@@ -1,6 +1,6 @@
 # Enumeration: Trigger
 
-Defined in: [WAProto/index.d.ts:12334](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12334)
+Defined in: [WAProto/index.d.ts:6904](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6904)
 
 Trigger enum.
 
@@ -10,7 +10,7 @@ Trigger enum.
 
 > **ACCOUNT\_SETTING**: `2`
 
-Defined in: [WAProto/index.d.ts:12337](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12337)
+Defined in: [WAProto/index.d.ts:6907](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6907)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12337](https://github.com/Fokusdotid/Baileys/blo
 
 > **BIZ\_SUPPORTS\_FB\_HOSTING**: `4`
 
-Defined in: [WAProto/index.d.ts:12339](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12339)
+Defined in: [WAProto/index.d.ts:6909](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6909)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:12339](https://github.com/Fokusdotid/Baileys/blo
 
 > **BULK\_CHANGE**: `3`
 
-Defined in: [WAProto/index.d.ts:12338](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12338)
+Defined in: [WAProto/index.d.ts:6908](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6908)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:12338](https://github.com/Fokusdotid/Baileys/blo
 
 > **CHAT\_SETTING**: `1`
 
-Defined in: [WAProto/index.d.ts:12336](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12336)
+Defined in: [WAProto/index.d.ts:6906](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6906)
 
 ***
 
@@ -42,12 +42,4 @@ Defined in: [WAProto/index.d.ts:12336](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:12335](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12335)
-
-***
-
-### UNKNOWN\_GROUPS
-
-> **UNKNOWN\_GROUPS**: `5`
-
-Defined in: [WAProto/index.d.ts:12340](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12340)
+Defined in: [WAProto/index.d.ts:6905](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6905)

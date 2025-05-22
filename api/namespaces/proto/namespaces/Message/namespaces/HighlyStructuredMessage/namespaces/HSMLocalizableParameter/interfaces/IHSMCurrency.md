@@ -1,6 +1,6 @@
 # Interface: IHSMCurrency
 
-Defined in: [WAProto/index.d.ts:22190](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22190)
+Defined in: [WAProto/index.d.ts:15543](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15543)
 
 Properties of a HSMCurrency.
 
@@ -10,7 +10,7 @@ Properties of a HSMCurrency.
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22196](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22196)
+Defined in: [WAProto/index.d.ts:15549](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15549)
 
 HSMCurrency amount1000
 
@@ -20,6 +20,6 @@ HSMCurrency amount1000
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22193](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22193)
+Defined in: [WAProto/index.d.ts:15546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15546)
 
 HSMCurrency currencyCode

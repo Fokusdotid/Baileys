@@ -1,6 +1,6 @@
 # Class: ScheduledCallCreationMessage
 
-Defined in: [WAProto/index.d.ts:30692](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30692)
+Defined in: [WAProto/index.d.ts:23159](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23159)
 
 Represents a ScheduledCallCreationMessage.
 
@@ -14,7 +14,7 @@ Represents a ScheduledCallCreationMessage.
 
 > **new ScheduledCallCreationMessage**(`properties`?): [`ScheduledCallCreationMessage`](ScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:30698](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30698)
+Defined in: [WAProto/index.d.ts:23165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23165)
 
 Constructs a new ScheduledCallCreationMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### callType?
+### callType
 
-> `optional` **callType**: `null` \| [`CallType`](../namespaces/ScheduledCallCreationMessage/enumerations/CallType.md)
+> **callType**: [`CallType`](../namespaces/ScheduledCallCreationMessage/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:30704](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30704)
+Defined in: [WAProto/index.d.ts:23171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23171)
 
 ScheduledCallCreationMessage callType.
 
@@ -46,11 +46,11 @@ ScheduledCallCreationMessage callType.
 
 ***
 
-### scheduledTimestampMs?
+### scheduledTimestampMs
 
-> `optional` **scheduledTimestampMs**: `null` \| `number` \| `Long`
+> **scheduledTimestampMs**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:30701](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30701)
+Defined in: [WAProto/index.d.ts:23168](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23168)
 
 ScheduledCallCreationMessage scheduledTimestampMs.
 
@@ -60,11 +60,11 @@ ScheduledCallCreationMessage scheduledTimestampMs.
 
 ***
 
-### title?
+### title
 
-> `optional` **title**: `null` \| `string`
+> **title**: `string`
 
-Defined in: [WAProto/index.d.ts:30707](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30707)
+Defined in: [WAProto/index.d.ts:23174](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23174)
 
 ScheduledCallCreationMessage title.
 
@@ -78,7 +78,7 @@ ScheduledCallCreationMessage title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30777)
+Defined in: [WAProto/index.d.ts:23244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23244)
 
 Converts this ScheduledCallCreationMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ScheduledCallCreationMessage`](ScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:30714](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30714)
+Defined in: [WAProto/index.d.ts:23181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23181)
 
 Creates a new ScheduledCallCreationMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ ScheduledCallCreationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ScheduledCallCreationMessage`](ScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:30740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30740)
+Defined in: [WAProto/index.d.ts:23207](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23207)
 
 Decodes a ScheduledCallCreationMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ScheduledCallCreationMessage`](ScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:30749](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30749)
+Defined in: [WAProto/index.d.ts:23216](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23216)
 
 Decodes a ScheduledCallCreationMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30722](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30722)
+Defined in: [WAProto/index.d.ts:23189](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23189)
 
 Encodes the specified ScheduledCallCreationMessage message. Does not implicitly [verify](ScheduledCallCreationMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30730](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30730)
+Defined in: [WAProto/index.d.ts:23197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23197)
 
 Encodes the specified ScheduledCallCreationMessage message, length delimited. Does not implicitly [verify](ScheduledCallCreationMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ScheduledCallCreationMessage`](ScheduledCallCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:30763](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30763)
+Defined in: [WAProto/index.d.ts:23230](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23230)
 
 Creates a ScheduledCallCreationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ScheduledCallCreationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30784](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30784)
+Defined in: [WAProto/index.d.ts:23251](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23251)
 
 Gets the default type url for ScheduledCallCreationMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30771)
+Defined in: [WAProto/index.d.ts:23238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23238)
 
 Creates a plain object from a ScheduledCallCreationMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30756)
+Defined in: [WAProto/index.d.ts:23223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23223)
 
 Verifies a ScheduledCallCreationMessage message.
 

@@ -1,6 +1,6 @@
 # Class: HighlyStructuredMessage
 
-Defined in: [WAProto/index.d.ts:21960](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21960)
+Defined in: [WAProto/index.d.ts:15313](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15313)
 
 Represents a HighlyStructuredMessage.
 
@@ -14,7 +14,7 @@ Represents a HighlyStructuredMessage.
 
 > **new HighlyStructuredMessage**(`properties`?): [`HighlyStructuredMessage`](HighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:21966](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21966)
+Defined in: [WAProto/index.d.ts:15319](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15319)
 
 Constructs a new HighlyStructuredMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### deterministicLc?
+### deterministicLc
 
-> `optional` **deterministicLc**: `null` \| `string`
+> **deterministicLc**: `string`
 
-Defined in: [WAProto/index.d.ts:21990](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21990)
+Defined in: [WAProto/index.d.ts:15343](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15343)
 
 HighlyStructuredMessage deterministicLc.
 
@@ -46,11 +46,11 @@ HighlyStructuredMessage deterministicLc.
 
 ***
 
-### deterministicLg?
+### deterministicLg
 
-> `optional` **deterministicLg**: `null` \| `string`
+> **deterministicLg**: `string`
 
-Defined in: [WAProto/index.d.ts:21987](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21987)
+Defined in: [WAProto/index.d.ts:15340](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15340)
 
 HighlyStructuredMessage deterministicLg.
 
@@ -60,11 +60,11 @@ HighlyStructuredMessage deterministicLg.
 
 ***
 
-### elementName?
+### elementName
 
-> `optional` **elementName**: `null` \| `string`
+> **elementName**: `string`
 
-Defined in: [WAProto/index.d.ts:21972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21972)
+Defined in: [WAProto/index.d.ts:15325](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15325)
 
 HighlyStructuredMessage elementName.
 
@@ -74,11 +74,11 @@ HighlyStructuredMessage elementName.
 
 ***
 
-### fallbackLc?
+### fallbackLc
 
-> `optional` **fallbackLc**: `null` \| `string`
+> **fallbackLc**: `string`
 
-Defined in: [WAProto/index.d.ts:21981](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21981)
+Defined in: [WAProto/index.d.ts:15334](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15334)
 
 HighlyStructuredMessage fallbackLc.
 
@@ -88,11 +88,11 @@ HighlyStructuredMessage fallbackLc.
 
 ***
 
-### fallbackLg?
+### fallbackLg
 
-> `optional` **fallbackLg**: `null` \| `string`
+> **fallbackLg**: `string`
 
-Defined in: [WAProto/index.d.ts:21978](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21978)
+Defined in: [WAProto/index.d.ts:15331](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15331)
 
 HighlyStructuredMessage fallbackLg.
 
@@ -106,7 +106,7 @@ HighlyStructuredMessage fallbackLg.
 
 > `optional` **hydratedHsm**: `null` \| [`ITemplateMessage`](../interfaces/ITemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:21993](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21993)
+Defined in: [WAProto/index.d.ts:15346](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15346)
 
 HighlyStructuredMessage hydratedHsm.
 
@@ -120,7 +120,7 @@ HighlyStructuredMessage hydratedHsm.
 
 > **localizableParams**: [`IHSMLocalizableParameter`](../namespaces/HighlyStructuredMessage/interfaces/IHSMLocalizableParameter.md)[]
 
-Defined in: [WAProto/index.d.ts:21984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21984)
+Defined in: [WAProto/index.d.ts:15337](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15337)
 
 HighlyStructuredMessage localizableParams.
 
@@ -130,11 +130,11 @@ HighlyStructuredMessage localizableParams.
 
 ***
 
-### namespace?
+### namespace
 
-> `optional` **namespace**: `null` \| `string`
+> **namespace**: `string`
 
-Defined in: [WAProto/index.d.ts:21969](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21969)
+Defined in: [WAProto/index.d.ts:15322](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15322)
 
 HighlyStructuredMessage namespace.
 
@@ -148,7 +148,7 @@ HighlyStructuredMessage namespace.
 
 > **params**: `string`[]
 
-Defined in: [WAProto/index.d.ts:21975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L21975)
+Defined in: [WAProto/index.d.ts:15328](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15328)
 
 HighlyStructuredMessage params.
 
@@ -162,7 +162,7 @@ HighlyStructuredMessage params.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22063](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22063)
+Defined in: [WAProto/index.d.ts:15416](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15416)
 
 Converts this HighlyStructuredMessage to JSON.
 
@@ -178,7 +178,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HighlyStructuredMessage`](HighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:22000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22000)
+Defined in: [WAProto/index.d.ts:15353](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15353)
 
 Creates a new HighlyStructuredMessage instance using the specified properties.
 
@@ -202,7 +202,7 @@ HighlyStructuredMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`HighlyStructuredMessage`](HighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:22026](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22026)
+Defined in: [WAProto/index.d.ts:15379](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15379)
 
 Decodes a HighlyStructuredMessage message from the specified reader or buffer.
 
@@ -240,7 +240,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HighlyStructuredMessage`](HighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:22035](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22035)
+Defined in: [WAProto/index.d.ts:15388](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15388)
 
 Decodes a HighlyStructuredMessage message from the specified reader or buffer, length delimited.
 
@@ -272,7 +272,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22008](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22008)
+Defined in: [WAProto/index.d.ts:15361](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15361)
 
 Encodes the specified HighlyStructuredMessage message. Does not implicitly [verify](HighlyStructuredMessage.md#verify) messages.
 
@@ -302,7 +302,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22016](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22016)
+Defined in: [WAProto/index.d.ts:15369](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15369)
 
 Encodes the specified HighlyStructuredMessage message, length delimited. Does not implicitly [verify](HighlyStructuredMessage.md#verify) messages.
 
@@ -332,7 +332,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HighlyStructuredMessage`](HighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:22049](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22049)
+Defined in: [WAProto/index.d.ts:15402](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15402)
 
 Creates a HighlyStructuredMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -354,7 +354,7 @@ HighlyStructuredMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22070](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22070)
+Defined in: [WAProto/index.d.ts:15423](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15423)
 
 Gets the default type url for HighlyStructuredMessage
 
@@ -378,7 +378,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22057](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22057)
+Defined in: [WAProto/index.d.ts:15410](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15410)
 
 Creates a plain object from a HighlyStructuredMessage message. Also converts values to other types if specified.
 
@@ -408,7 +408,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22042)
+Defined in: [WAProto/index.d.ts:15395](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15395)
 
 Verifies a HighlyStructuredMessage message.
 

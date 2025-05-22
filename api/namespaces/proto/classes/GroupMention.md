@@ -1,6 +1,6 @@
 # Class: GroupMention
 
-Defined in: [WAProto/index.d.ts:13695](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13695)
+Defined in: [WAProto/index.d.ts:7674](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7674)
 
 Represents a GroupMention.
 
@@ -14,7 +14,7 @@ Represents a GroupMention.
 
 > **new GroupMention**(`properties`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:13701](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13701)
+Defined in: [WAProto/index.d.ts:7680](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7680)
 
 Constructs a new GroupMention.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### groupJid?
+### groupJid
 
-> `optional` **groupJid**: `null` \| `string`
+> **groupJid**: `string`
 
-Defined in: [WAProto/index.d.ts:13704](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13704)
+Defined in: [WAProto/index.d.ts:7683](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7683)
 
 GroupMention groupJid.
 
@@ -46,11 +46,11 @@ GroupMention groupJid.
 
 ***
 
-### groupSubject?
+### groupSubject
 
-> `optional` **groupSubject**: `null` \| `string`
+> **groupSubject**: `string`
 
-Defined in: [WAProto/index.d.ts:13707](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13707)
+Defined in: [WAProto/index.d.ts:7686](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7686)
 
 GroupMention groupSubject.
 
@@ -64,7 +64,7 @@ GroupMention groupSubject.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13777)
+Defined in: [WAProto/index.d.ts:7756](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7756)
 
 Converts this GroupMention to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:13714](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13714)
+Defined in: [WAProto/index.d.ts:7693](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7693)
 
 Creates a new GroupMention instance using the specified properties.
 
@@ -104,7 +104,7 @@ GroupMention instance
 
 > `static` **decode**(`reader`, `length`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:13740](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13740)
+Defined in: [WAProto/index.d.ts:7719](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7719)
 
 Decodes a GroupMention message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:13749](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13749)
+Defined in: [WAProto/index.d.ts:7728](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7728)
 
 Decodes a GroupMention message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13722](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13722)
+Defined in: [WAProto/index.d.ts:7701](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7701)
 
 Encodes the specified GroupMention message. Does not implicitly [verify](GroupMention.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13730](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13730)
+Defined in: [WAProto/index.d.ts:7709](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7709)
 
 Encodes the specified GroupMention message, length delimited. Does not implicitly [verify](GroupMention.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:13763](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13763)
+Defined in: [WAProto/index.d.ts:7742](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7742)
 
 Creates a GroupMention message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ GroupMention
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13784](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13784)
+Defined in: [WAProto/index.d.ts:7763](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7763)
 
 Gets the default type url for GroupMention
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13771)
+Defined in: [WAProto/index.d.ts:7750](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7750)
 
 Creates a plain object from a GroupMention message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13756](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13756)
+Defined in: [WAProto/index.d.ts:7735](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7735)
 
 Verifies a GroupMention message.
 

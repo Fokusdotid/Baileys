@@ -1,6 +1,6 @@
 # Class: ButtonText
 
-Defined in: [WAProto/index.d.ts:18933](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18933)
+Defined in: [WAProto/index.d.ts:12559](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12559)
 
 Represents a ButtonText.
 
@@ -14,7 +14,7 @@ Represents a ButtonText.
 
 > **new ButtonText**(`properties`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18939](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18939)
+Defined in: [WAProto/index.d.ts:12565](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12565)
 
 Constructs a new ButtonText.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### displayText?
+### displayText
 
-> `optional` **displayText**: `null` \| `string`
+> **displayText**: `string`
 
-Defined in: [WAProto/index.d.ts:18942](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18942)
+Defined in: [WAProto/index.d.ts:12568](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12568)
 
 ButtonText displayText.
 
@@ -50,7 +50,7 @@ ButtonText displayText.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19012](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19012)
+Defined in: [WAProto/index.d.ts:12638](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12638)
 
 Converts this ButtonText to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18949)
+Defined in: [WAProto/index.d.ts:12575](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12575)
 
 Creates a new ButtonText instance using the specified properties.
 
@@ -90,7 +90,7 @@ ButtonText instance
 
 > `static` **decode**(`reader`, `length`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18975)
+Defined in: [WAProto/index.d.ts:12601](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12601)
 
 Decodes a ButtonText message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18984](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18984)
+Defined in: [WAProto/index.d.ts:12610](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12610)
 
 Decodes a ButtonText message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18957](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18957)
+Defined in: [WAProto/index.d.ts:12583](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12583)
 
 Encodes the specified ButtonText message. Does not implicitly [verify](ButtonText.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18965](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18965)
+Defined in: [WAProto/index.d.ts:12591](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12591)
 
 Encodes the specified ButtonText message, length delimited. Does not implicitly [verify](ButtonText.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:18998](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18998)
+Defined in: [WAProto/index.d.ts:12624](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12624)
 
 Creates a ButtonText message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ButtonText
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19019](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19019)
+Defined in: [WAProto/index.d.ts:12645](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12645)
 
 Gets the default type url for ButtonText
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19006](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19006)
+Defined in: [WAProto/index.d.ts:12632](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12632)
 
 Creates a plain object from a ButtonText message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18991)
+Defined in: [WAProto/index.d.ts:12617](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L12617)
 
 Verifies a ButtonText message.
 

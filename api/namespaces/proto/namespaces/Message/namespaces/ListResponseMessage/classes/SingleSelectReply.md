@@ -1,6 +1,6 @@
 # Class: SingleSelectReply
 
-Defined in: [WAProto/index.d.ts:25771](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25771)
+Defined in: [WAProto/index.d.ts:19098](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19098)
 
 Represents a SingleSelectReply.
 
@@ -14,7 +14,7 @@ Represents a SingleSelectReply.
 
 > **new SingleSelectReply**(`properties`?): [`SingleSelectReply`](SingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25777](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25777)
+Defined in: [WAProto/index.d.ts:19104](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19104)
 
 Constructs a new SingleSelectReply.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### selectedRowId?
+### selectedRowId
 
-> `optional` **selectedRowId**: `null` \| `string`
+> **selectedRowId**: `string`
 
-Defined in: [WAProto/index.d.ts:25780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25780)
+Defined in: [WAProto/index.d.ts:19107](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19107)
 
 SingleSelectReply selectedRowId.
 
@@ -50,7 +50,7 @@ SingleSelectReply selectedRowId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25850](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25850)
+Defined in: [WAProto/index.d.ts:19177](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19177)
 
 Converts this SingleSelectReply to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SingleSelectReply`](SingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25787](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25787)
+Defined in: [WAProto/index.d.ts:19114](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19114)
 
 Creates a new SingleSelectReply instance using the specified properties.
 
@@ -90,7 +90,7 @@ SingleSelectReply instance
 
 > `static` **decode**(`reader`, `length`?): [`SingleSelectReply`](SingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25813](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25813)
+Defined in: [WAProto/index.d.ts:19140](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19140)
 
 Decodes a SingleSelectReply message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SingleSelectReply`](SingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25822](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25822)
+Defined in: [WAProto/index.d.ts:19149](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19149)
 
 Decodes a SingleSelectReply message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25795](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25795)
+Defined in: [WAProto/index.d.ts:19122](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19122)
 
 Encodes the specified SingleSelectReply message. Does not implicitly [verify](SingleSelectReply.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25803](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25803)
+Defined in: [WAProto/index.d.ts:19130](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19130)
 
 Encodes the specified SingleSelectReply message, length delimited. Does not implicitly [verify](SingleSelectReply.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SingleSelectReply`](SingleSelectReply.md)
 
-Defined in: [WAProto/index.d.ts:25836](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25836)
+Defined in: [WAProto/index.d.ts:19163](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19163)
 
 Creates a SingleSelectReply message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SingleSelectReply
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25857](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25857)
+Defined in: [WAProto/index.d.ts:19184](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19184)
 
 Gets the default type url for SingleSelectReply
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25844](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25844)
+Defined in: [WAProto/index.d.ts:19171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19171)
 
 Creates a plain object from a SingleSelectReply message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25829](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L25829)
+Defined in: [WAProto/index.d.ts:19156](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L19156)
 
 Verifies a SingleSelectReply message.
 

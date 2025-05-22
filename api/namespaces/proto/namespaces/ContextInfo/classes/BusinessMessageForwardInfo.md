@@ -1,6 +1,6 @@
 # Class: BusinessMessageForwardInfo
 
-Defined in: [WAProto/index.d.ts:9876](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9876)
+Defined in: [WAProto/index.d.ts:5023](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5023)
 
 Represents a BusinessMessageForwardInfo.
 
@@ -14,7 +14,7 @@ Represents a BusinessMessageForwardInfo.
 
 > **new BusinessMessageForwardInfo**(`properties`?): [`BusinessMessageForwardInfo`](BusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:9882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9882)
+Defined in: [WAProto/index.d.ts:5029](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5029)
 
 Constructs a new BusinessMessageForwardInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### businessOwnerJid?
+### businessOwnerJid
 
-> `optional` **businessOwnerJid**: `null` \| `string`
+> **businessOwnerJid**: `string`
 
-Defined in: [WAProto/index.d.ts:9885](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9885)
+Defined in: [WAProto/index.d.ts:5032](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5032)
 
 BusinessMessageForwardInfo businessOwnerJid.
 
@@ -50,7 +50,7 @@ BusinessMessageForwardInfo businessOwnerJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9955)
+Defined in: [WAProto/index.d.ts:5102](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5102)
 
 Converts this BusinessMessageForwardInfo to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BusinessMessageForwardInfo`](BusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:9892](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9892)
+Defined in: [WAProto/index.d.ts:5039](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5039)
 
 Creates a new BusinessMessageForwardInfo instance using the specified properties.
 
@@ -90,7 +90,7 @@ BusinessMessageForwardInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`BusinessMessageForwardInfo`](BusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:9918](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9918)
+Defined in: [WAProto/index.d.ts:5065](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5065)
 
 Decodes a BusinessMessageForwardInfo message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BusinessMessageForwardInfo`](BusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:9927](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9927)
+Defined in: [WAProto/index.d.ts:5074](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5074)
 
 Decodes a BusinessMessageForwardInfo message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9900](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9900)
+Defined in: [WAProto/index.d.ts:5047](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5047)
 
 Encodes the specified BusinessMessageForwardInfo message. Does not implicitly [verify](BusinessMessageForwardInfo.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9908](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9908)
+Defined in: [WAProto/index.d.ts:5055](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5055)
 
 Encodes the specified BusinessMessageForwardInfo message, length delimited. Does not implicitly [verify](BusinessMessageForwardInfo.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BusinessMessageForwardInfo`](BusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:9941](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9941)
+Defined in: [WAProto/index.d.ts:5088](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5088)
 
 Creates a BusinessMessageForwardInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BusinessMessageForwardInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9962](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9962)
+Defined in: [WAProto/index.d.ts:5109](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5109)
 
 Gets the default type url for BusinessMessageForwardInfo
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9949)
+Defined in: [WAProto/index.d.ts:5096](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5096)
 
 Creates a plain object from a BusinessMessageForwardInfo message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9934](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9934)
+Defined in: [WAProto/index.d.ts:5081](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5081)
 
 Verifies a BusinessMessageForwardInfo message.
 

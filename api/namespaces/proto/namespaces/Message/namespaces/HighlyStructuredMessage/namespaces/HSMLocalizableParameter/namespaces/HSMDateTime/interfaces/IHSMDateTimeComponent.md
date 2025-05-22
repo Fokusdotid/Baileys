@@ -1,6 +1,6 @@
 # Interface: IHSMDateTimeComponent
 
-Defined in: [WAProto/index.d.ts:22401](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22401)
+Defined in: [WAProto/index.d.ts:15754](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15754)
 
 Properties of a HSMDateTimeComponent.
 
@@ -10,7 +10,7 @@ Properties of a HSMDateTimeComponent.
 
 > `optional` **calendar**: `null` \| [`CalendarType`](../namespaces/HSMDateTimeComponent/enumerations/CalendarType.md)
 
-Defined in: [WAProto/index.d.ts:22422](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22422)
+Defined in: [WAProto/index.d.ts:15775](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15775)
 
 HSMDateTimeComponent calendar
 
@@ -20,7 +20,7 @@ HSMDateTimeComponent calendar
 
 > `optional` **dayOfMonth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22413](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22413)
+Defined in: [WAProto/index.d.ts:15766](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15766)
 
 HSMDateTimeComponent dayOfMonth
 
@@ -30,7 +30,7 @@ HSMDateTimeComponent dayOfMonth
 
 > `optional` **dayOfWeek**: `null` \| [`DayOfWeekType`](../namespaces/HSMDateTimeComponent/enumerations/DayOfWeekType.md)
 
-Defined in: [WAProto/index.d.ts:22404](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22404)
+Defined in: [WAProto/index.d.ts:15757](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15757)
 
 HSMDateTimeComponent dayOfWeek
 
@@ -40,7 +40,7 @@ HSMDateTimeComponent dayOfWeek
 
 > `optional` **hour**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22416](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22416)
+Defined in: [WAProto/index.d.ts:15769](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15769)
 
 HSMDateTimeComponent hour
 
@@ -50,7 +50,7 @@ HSMDateTimeComponent hour
 
 > `optional` **minute**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22419](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22419)
+Defined in: [WAProto/index.d.ts:15772](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15772)
 
 HSMDateTimeComponent minute
 
@@ -60,7 +60,7 @@ HSMDateTimeComponent minute
 
 > `optional` **month**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22410](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22410)
+Defined in: [WAProto/index.d.ts:15763](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15763)
 
 HSMDateTimeComponent month
 
@@ -70,6 +70,6 @@ HSMDateTimeComponent month
 
 > `optional` **year**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22407](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L22407)
+Defined in: [WAProto/index.d.ts:15760](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L15760)
 
 HSMDateTimeComponent year

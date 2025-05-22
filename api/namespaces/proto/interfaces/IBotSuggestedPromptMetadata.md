@@ -1,36 +1,16 @@
 # Interface: IBotSuggestedPromptMetadata
 
-Defined in: [WAProto/index.d.ts:6047](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6047)
+Defined in: [WAProto/index.d.ts:1813](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1813)
 
 Properties of a BotSuggestedPromptMetadata.
 
 ## Properties
 
-### promptSuggestions?
-
-> `optional` **promptSuggestions**: `null` \| [`IBotPromptSuggestions`](IBotPromptSuggestions.md)
-
-Defined in: [WAProto/index.d.ts:6056](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6056)
-
-BotSuggestedPromptMetadata promptSuggestions
-
-***
-
-### selectedPromptId?
-
-> `optional` **selectedPromptId**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:6059](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6059)
-
-BotSuggestedPromptMetadata selectedPromptId
-
-***
-
 ### selectedPromptIndex?
 
 > `optional` **selectedPromptIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6053](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6053)
+Defined in: [WAProto/index.d.ts:1819](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1819)
 
 BotSuggestedPromptMetadata selectedPromptIndex
 
@@ -40,6 +20,6 @@ BotSuggestedPromptMetadata selectedPromptIndex
 
 > `optional` **suggestedPrompts**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:6050](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L6050)
+Defined in: [WAProto/index.d.ts:1816](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1816)
 
 BotSuggestedPromptMetadata suggestedPrompts

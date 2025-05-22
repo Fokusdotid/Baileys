@@ -1,6 +1,6 @@
 # Class: AdReplyInfo
 
-Defined in: [WAProto/index.d.ts:9760](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9760)
+Defined in: [WAProto/index.d.ts:4907](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4907)
 
 Represents an AdReplyInfo.
 
@@ -14,7 +14,7 @@ Represents an AdReplyInfo.
 
 > **new AdReplyInfo**(`properties`?): [`AdReplyInfo`](AdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:9766](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9766)
+Defined in: [WAProto/index.d.ts:4913](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4913)
 
 Constructs a new AdReplyInfo.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### advertiserName?
+### advertiserName
 
-> `optional` **advertiserName**: `null` \| `string`
+> **advertiserName**: `string`
 
-Defined in: [WAProto/index.d.ts:9769](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9769)
+Defined in: [WAProto/index.d.ts:4916](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4916)
 
 AdReplyInfo advertiserName.
 
@@ -46,11 +46,11 @@ AdReplyInfo advertiserName.
 
 ***
 
-### caption?
+### caption
 
-> `optional` **caption**: `null` \| `string`
+> **caption**: `string`
 
-Defined in: [WAProto/index.d.ts:9778](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9778)
+Defined in: [WAProto/index.d.ts:4925](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4925)
 
 AdReplyInfo caption.
 
@@ -60,11 +60,11 @@ AdReplyInfo caption.
 
 ***
 
-### jpegThumbnail?
+### jpegThumbnail
 
-> `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **jpegThumbnail**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:9775](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9775)
+Defined in: [WAProto/index.d.ts:4922](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4922)
 
 AdReplyInfo jpegThumbnail.
 
@@ -74,11 +74,11 @@ AdReplyInfo jpegThumbnail.
 
 ***
 
-### mediaType?
+### mediaType
 
-> `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/AdReplyInfo/enumerations/MediaType.md)
+> **mediaType**: [`MediaType`](../namespaces/AdReplyInfo/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:9772](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9772)
+Defined in: [WAProto/index.d.ts:4919](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4919)
 
 AdReplyInfo mediaType.
 
@@ -92,7 +92,7 @@ AdReplyInfo mediaType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9848](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9848)
+Defined in: [WAProto/index.d.ts:4995](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4995)
 
 Converts this AdReplyInfo to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AdReplyInfo`](AdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:9785](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9785)
+Defined in: [WAProto/index.d.ts:4932](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4932)
 
 Creates a new AdReplyInfo instance using the specified properties.
 
@@ -132,7 +132,7 @@ AdReplyInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`AdReplyInfo`](AdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:9811](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9811)
+Defined in: [WAProto/index.d.ts:4958](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4958)
 
 Decodes an AdReplyInfo message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AdReplyInfo`](AdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:9820](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9820)
+Defined in: [WAProto/index.d.ts:4967](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4967)
 
 Decodes an AdReplyInfo message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9793](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9793)
+Defined in: [WAProto/index.d.ts:4940](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4940)
 
 Encodes the specified AdReplyInfo message. Does not implicitly [verify](AdReplyInfo.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9801](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9801)
+Defined in: [WAProto/index.d.ts:4948](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4948)
 
 Encodes the specified AdReplyInfo message, length delimited. Does not implicitly [verify](AdReplyInfo.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AdReplyInfo`](AdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:9834](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9834)
+Defined in: [WAProto/index.d.ts:4981](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4981)
 
 Creates an AdReplyInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AdReplyInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9855](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9855)
+Defined in: [WAProto/index.d.ts:5002](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5002)
 
 Gets the default type url for AdReplyInfo
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9842](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9842)
+Defined in: [WAProto/index.d.ts:4989](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4989)
 
 Creates a plain object from an AdReplyInfo message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9827](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L9827)
+Defined in: [WAProto/index.d.ts:4974](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L4974)
 
 Verifies an AdReplyInfo message.
 

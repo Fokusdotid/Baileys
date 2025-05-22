@@ -1,38 +1,18 @@
 # Interface: IConversation
 
-Defined in: [WAProto/index.d.ts:10907](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10907)
+Defined in: [WAProto/index.d.ts:5630](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5630)
 
 Properties of a Conversation.
 
 ## Properties
 
-### accountLid?
-
-> `optional` **accountLid**: `null` \| `string`
-
-Defined in: [WAProto/index.d.ts:11054](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11054)
-
-Conversation accountLid
-
-***
-
 ### archived?
 
 > `optional` **archived**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10955)
+Defined in: [WAProto/index.d.ts:5678](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5678)
 
 Conversation archived
-
-***
-
-### capiCreatedGroup?
-
-> `optional` **capiCreatedGroup**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:11051](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11051)
-
-Conversation capiCreatedGroup
 
 ***
 
@@ -40,7 +20,7 @@ Conversation capiCreatedGroup
 
 > `optional` **commentsCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11042](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11042)
+Defined in: [WAProto/index.d.ts:5765](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5765)
 
 Conversation commentsCount
 
@@ -50,7 +30,7 @@ Conversation commentsCount
 
 > `optional` **contactPrimaryIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10976](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10976)
+Defined in: [WAProto/index.d.ts:5699](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5699)
 
 Conversation contactPrimaryIdentityKey
 
@@ -60,7 +40,7 @@ Conversation contactPrimaryIdentityKey
 
 > `optional` **conversationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10943](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10943)
+Defined in: [WAProto/index.d.ts:5666](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5666)
 
 Conversation conversationTimestamp
 
@@ -70,7 +50,7 @@ Conversation conversationTimestamp
 
 > `optional` **createdAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11000](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11000)
+Defined in: [WAProto/index.d.ts:5723](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5723)
 
 Conversation createdAt
 
@@ -80,7 +60,7 @@ Conversation createdAt
 
 > `optional` **createdBy**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11003](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11003)
+Defined in: [WAProto/index.d.ts:5726](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5726)
 
 Conversation createdBy
 
@@ -90,7 +70,7 @@ Conversation createdBy
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11006](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11006)
+Defined in: [WAProto/index.d.ts:5729](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5729)
 
 Conversation description
 
@@ -100,7 +80,7 @@ Conversation description
 
 > `optional` **disappearingMode**: `null` \| [`IDisappearingMode`](IDisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:10958](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10958)
+Defined in: [WAProto/index.d.ts:5681](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5681)
 
 Conversation disappearingMode
 
@@ -110,7 +90,7 @@ Conversation disappearingMode
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11021](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11021)
+Defined in: [WAProto/index.d.ts:5744](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5744)
 
 Conversation displayName
 
@@ -120,7 +100,7 @@ Conversation displayName
 
 > `optional` **endOfHistoryTransfer**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10931](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10931)
+Defined in: [WAProto/index.d.ts:5654](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5654)
 
 Conversation endOfHistoryTransfer
 
@@ -130,7 +110,7 @@ Conversation endOfHistoryTransfer
 
 > `optional` **endOfHistoryTransferType**: `null` \| [`EndOfHistoryTransferType`](../namespaces/Conversation/enumerations/EndOfHistoryTransferType.md)
 
-Defined in: [WAProto/index.d.ts:10940](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10940)
+Defined in: [WAProto/index.d.ts:5663](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5663)
 
 Conversation endOfHistoryTransferType
 
@@ -140,7 +120,7 @@ Conversation endOfHistoryTransferType
 
 > `optional` **ephemeralExpiration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10934](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10934)
+Defined in: [WAProto/index.d.ts:5657](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5657)
 
 Conversation ephemeralExpiration
 
@@ -150,7 +130,7 @@ Conversation ephemeralExpiration
 
 > `optional` **ephemeralSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10937](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10937)
+Defined in: [WAProto/index.d.ts:5660](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5660)
 
 Conversation ephemeralSettingTimestamp
 
@@ -160,7 +140,7 @@ Conversation ephemeralSettingTimestamp
 
 > **id**: `string`
 
-Defined in: [WAProto/index.d.ts:10910](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10910)
+Defined in: [WAProto/index.d.ts:5633](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5633)
 
 Conversation id
 
@@ -170,7 +150,7 @@ Conversation id
 
 > `optional` **isDefaultSubgroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11018](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11018)
+Defined in: [WAProto/index.d.ts:5741](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5741)
 
 Conversation isDefaultSubgroup
 
@@ -180,7 +160,7 @@ Conversation isDefaultSubgroup
 
 > `optional` **isParentGroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11012](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11012)
+Defined in: [WAProto/index.d.ts:5735](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5735)
 
 Conversation isParentGroup
 
@@ -190,7 +170,7 @@ Conversation isParentGroup
 
 > `optional` **lastMsgTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10922](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10922)
+Defined in: [WAProto/index.d.ts:5645](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5645)
 
 Conversation lastMsgTimestamp
 
@@ -200,7 +180,7 @@ Conversation lastMsgTimestamp
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11033](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11033)
+Defined in: [WAProto/index.d.ts:5756](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5756)
 
 Conversation lidJid
 
@@ -210,19 +190,9 @@ Conversation lidJid
 
 > `optional` **lidOriginType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11039](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11039)
+Defined in: [WAProto/index.d.ts:5762](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5762)
 
 Conversation lidOriginType
-
-***
-
-### limitSharing?
-
-> `optional` **limitSharing**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:11057](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11057)
-
-Conversation limitSharing
 
 ***
 
@@ -230,7 +200,7 @@ Conversation limitSharing
 
 > `optional` **locked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11045](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11045)
+Defined in: [WAProto/index.d.ts:5768](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5768)
 
 Conversation locked
 
@@ -240,7 +210,7 @@ Conversation locked
 
 > `optional` **markedAsUnread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10964](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10964)
+Defined in: [WAProto/index.d.ts:5687](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5687)
 
 Conversation markedAsUnread
 
@@ -250,7 +220,7 @@ Conversation markedAsUnread
 
 > `optional` **mediaVisibility**: `null` \| [`MediaVisibility`](../enumerations/MediaVisibility.md)
 
-Defined in: [WAProto/index.d.ts:10988](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10988)
+Defined in: [WAProto/index.d.ts:5711](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5711)
 
 Conversation mediaVisibility
 
@@ -260,7 +230,7 @@ Conversation mediaVisibility
 
 > `optional` **messages**: `null` \| [`IHistorySyncMsg`](IHistorySyncMsg.md)[]
 
-Defined in: [WAProto/index.d.ts:10913](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10913)
+Defined in: [WAProto/index.d.ts:5636](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5636)
 
 Conversation messages
 
@@ -270,7 +240,7 @@ Conversation messages
 
 > `optional` **muteEndTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10982](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10982)
+Defined in: [WAProto/index.d.ts:5705](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5705)
 
 Conversation muteEndTime
 
@@ -280,7 +250,7 @@ Conversation muteEndTime
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10946](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10946)
+Defined in: [WAProto/index.d.ts:5669](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5669)
 
 Conversation name
 
@@ -290,7 +260,7 @@ Conversation name
 
 > `optional` **newJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10916](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10916)
+Defined in: [WAProto/index.d.ts:5639](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5639)
 
 Conversation newJid
 
@@ -300,7 +270,7 @@ Conversation newJid
 
 > `optional` **notSpam**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10952](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10952)
+Defined in: [WAProto/index.d.ts:5675](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5675)
 
 Conversation notSpam
 
@@ -310,7 +280,7 @@ Conversation notSpam
 
 > `optional` **oldJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10919](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10919)
+Defined in: [WAProto/index.d.ts:5642](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5642)
 
 Conversation oldJid
 
@@ -320,7 +290,7 @@ Conversation oldJid
 
 > `optional` **parentGroupId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11015](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11015)
+Defined in: [WAProto/index.d.ts:5738](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5738)
 
 Conversation parentGroupId
 
@@ -330,7 +300,7 @@ Conversation parentGroupId
 
 > `optional` **participant**: `null` \| [`IGroupParticipant`](IGroupParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:10967](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10967)
+Defined in: [WAProto/index.d.ts:5690](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5690)
 
 Conversation participant
 
@@ -340,7 +310,7 @@ Conversation participant
 
 > `optional` **pHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10949)
+Defined in: [WAProto/index.d.ts:5672](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5672)
 
 Conversation pHash
 
@@ -350,7 +320,7 @@ Conversation pHash
 
 > `optional` **pinned**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10979](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10979)
+Defined in: [WAProto/index.d.ts:5702](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5702)
 
 Conversation pinned
 
@@ -360,7 +330,7 @@ Conversation pinned
 
 > `optional` **pnhDuplicateLidThread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11030](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11030)
+Defined in: [WAProto/index.d.ts:5753](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5753)
 
 Conversation pnhDuplicateLidThread
 
@@ -370,7 +340,7 @@ Conversation pnhDuplicateLidThread
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11024](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11024)
+Defined in: [WAProto/index.d.ts:5747](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5747)
 
 Conversation pnJid
 
@@ -380,7 +350,7 @@ Conversation pnJid
 
 > `optional` **readOnly**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10928](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10928)
+Defined in: [WAProto/index.d.ts:5651](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5651)
 
 Conversation readOnly
 
@@ -390,7 +360,7 @@ Conversation readOnly
 
 > `optional` **shareOwnPn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11027](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11027)
+Defined in: [WAProto/index.d.ts:5750](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5750)
 
 Conversation shareOwnPn
 
@@ -400,7 +370,7 @@ Conversation shareOwnPn
 
 > `optional` **support**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11009](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11009)
+Defined in: [WAProto/index.d.ts:5732](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5732)
 
 Conversation support
 
@@ -410,19 +380,9 @@ Conversation support
 
 > `optional` **suspended**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10994](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10994)
+Defined in: [WAProto/index.d.ts:5717](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5717)
 
 Conversation suspended
-
-***
-
-### systemMessageToInsert?
-
-> `optional` **systemMessageToInsert**: `null` \| [`PrivacySystemMessage`](../enumerations/PrivacySystemMessage.md)
-
-Defined in: [WAProto/index.d.ts:11048](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11048)
-
-Conversation systemMessageToInsert
 
 ***
 
@@ -430,7 +390,7 @@ Conversation systemMessageToInsert
 
 > `optional` **tcToken**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10970](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10970)
+Defined in: [WAProto/index.d.ts:5693](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5693)
 
 Conversation tcToken
 
@@ -440,7 +400,7 @@ Conversation tcToken
 
 > `optional` **tcTokenSenderTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10991](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10991)
+Defined in: [WAProto/index.d.ts:5714](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5714)
 
 Conversation tcTokenSenderTimestamp
 
@@ -450,7 +410,7 @@ Conversation tcTokenSenderTimestamp
 
 > `optional` **tcTokenTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10973](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10973)
+Defined in: [WAProto/index.d.ts:5696](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5696)
 
 Conversation tcTokenTimestamp
 
@@ -460,7 +420,7 @@ Conversation tcTokenTimestamp
 
 > `optional` **terminated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10997](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10997)
+Defined in: [WAProto/index.d.ts:5720](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5720)
 
 Conversation terminated
 
@@ -470,7 +430,7 @@ Conversation terminated
 
 > `optional` **unreadCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10925](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10925)
+Defined in: [WAProto/index.d.ts:5648](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5648)
 
 Conversation unreadCount
 
@@ -480,7 +440,7 @@ Conversation unreadCount
 
 > `optional` **unreadMentionCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10961](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10961)
+Defined in: [WAProto/index.d.ts:5684](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5684)
 
 Conversation unreadMentionCount
 
@@ -490,7 +450,7 @@ Conversation unreadMentionCount
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11036](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L11036)
+Defined in: [WAProto/index.d.ts:5759](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5759)
 
 Conversation username
 
@@ -500,6 +460,6 @@ Conversation username
 
 > `optional` **wallpaper**: `null` \| [`IWallpaperSettings`](IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:10985](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10985)
+Defined in: [WAProto/index.d.ts:5708](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5708)
 
 Conversation wallpaper

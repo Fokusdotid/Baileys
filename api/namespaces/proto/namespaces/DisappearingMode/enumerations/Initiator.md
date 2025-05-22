@@ -1,6 +1,6 @@
 # Enumeration: Initiator
 
-Defined in: [WAProto/index.d.ts:12326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12326)
+Defined in: [WAProto/index.d.ts:6896](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6896)
 
 Initiator enum.
 
@@ -10,7 +10,7 @@ Initiator enum.
 
 > **BIZ\_UPGRADE\_FB\_HOSTING**: `3`
 
-Defined in: [WAProto/index.d.ts:12330](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12330)
+Defined in: [WAProto/index.d.ts:6900](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6900)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12330](https://github.com/Fokusdotid/Baileys/blo
 
 > **CHANGED\_IN\_CHAT**: `0`
 
-Defined in: [WAProto/index.d.ts:12327](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12327)
+Defined in: [WAProto/index.d.ts:6897](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6897)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:12327](https://github.com/Fokusdotid/Baileys/blo
 
 > **INITIATED\_BY\_ME**: `1`
 
-Defined in: [WAProto/index.d.ts:12328](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12328)
+Defined in: [WAProto/index.d.ts:6898](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6898)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:12328](https://github.com/Fokusdotid/Baileys/blo
 
 > **INITIATED\_BY\_OTHER**: `2`
 
-Defined in: [WAProto/index.d.ts:12329](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L12329)
+Defined in: [WAProto/index.d.ts:6899](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L6899)

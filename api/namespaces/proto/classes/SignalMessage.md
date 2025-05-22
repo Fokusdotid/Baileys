@@ -1,6 +1,6 @@
 # Class: SignalMessage
 
-Defined in: [WAProto/index.d.ts:39819](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39819)
+Defined in: [WAProto/index.d.ts:31092](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31092)
 
 Represents a SignalMessage.
 
@@ -14,7 +14,7 @@ Represents a SignalMessage.
 
 > **new SignalMessage**(`properties`?): [`SignalMessage`](SignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39825](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39825)
+Defined in: [WAProto/index.d.ts:31098](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31098)
 
 Constructs a new SignalMessage.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### ciphertext?
+### ciphertext
 
-> `optional` **ciphertext**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **ciphertext**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39837](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39837)
+Defined in: [WAProto/index.d.ts:31110](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31110)
 
 SignalMessage ciphertext.
 
@@ -46,11 +46,11 @@ SignalMessage ciphertext.
 
 ***
 
-### counter?
+### counter
 
-> `optional` **counter**: `null` \| `number`
+> **counter**: `number`
 
-Defined in: [WAProto/index.d.ts:39831](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39831)
+Defined in: [WAProto/index.d.ts:31104](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31104)
 
 SignalMessage counter.
 
@@ -60,11 +60,11 @@ SignalMessage counter.
 
 ***
 
-### previousCounter?
+### previousCounter
 
-> `optional` **previousCounter**: `null` \| `number`
+> **previousCounter**: `number`
 
-Defined in: [WAProto/index.d.ts:39834](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39834)
+Defined in: [WAProto/index.d.ts:31107](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31107)
 
 SignalMessage previousCounter.
 
@@ -74,11 +74,11 @@ SignalMessage previousCounter.
 
 ***
 
-### ratchetKey?
+### ratchetKey
 
-> `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **ratchetKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:39828](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39828)
+Defined in: [WAProto/index.d.ts:31101](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31101)
 
 SignalMessage ratchetKey.
 
@@ -92,7 +92,7 @@ SignalMessage ratchetKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39907](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39907)
+Defined in: [WAProto/index.d.ts:31180](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31180)
 
 Converts this SignalMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SignalMessage`](SignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39844](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39844)
+Defined in: [WAProto/index.d.ts:31117](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31117)
 
 Creates a new SignalMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ SignalMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`SignalMessage`](SignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39870](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39870)
+Defined in: [WAProto/index.d.ts:31143](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31143)
 
 Decodes a SignalMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SignalMessage`](SignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39879](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39879)
+Defined in: [WAProto/index.d.ts:31152](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31152)
 
 Decodes a SignalMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39852](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39852)
+Defined in: [WAProto/index.d.ts:31125](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31125)
 
 Encodes the specified SignalMessage message. Does not implicitly [verify](SignalMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39860](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39860)
+Defined in: [WAProto/index.d.ts:31133](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31133)
 
 Encodes the specified SignalMessage message, length delimited. Does not implicitly [verify](SignalMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SignalMessage`](SignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39893](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39893)
+Defined in: [WAProto/index.d.ts:31166](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31166)
 
 Creates a SignalMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SignalMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39914](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39914)
+Defined in: [WAProto/index.d.ts:31187](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31187)
 
 Gets the default type url for SignalMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39901](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39901)
+Defined in: [WAProto/index.d.ts:31174](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31174)
 
 Creates a plain object from a SignalMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39886](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L39886)
+Defined in: [WAProto/index.d.ts:31159](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L31159)
 
 Verifies a SignalMessage message.
 

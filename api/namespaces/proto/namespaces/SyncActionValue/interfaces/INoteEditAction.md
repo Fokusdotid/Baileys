@@ -1,6 +1,6 @@
 # Interface: INoteEditAction
 
-Defined in: [WAProto/index.d.ts:43960](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43960)
+Defined in: [WAProto/index.d.ts:34760](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34760)
 
 Properties of a NoteEditAction.
 
@@ -10,7 +10,7 @@ Properties of a NoteEditAction.
 
 > `optional` **chatJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43966](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43966)
+Defined in: [WAProto/index.d.ts:34766](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34766)
 
 NoteEditAction chatJid
 
@@ -20,7 +20,7 @@ NoteEditAction chatJid
 
 > `optional` **createdAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43969](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43969)
+Defined in: [WAProto/index.d.ts:34769](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34769)
 
 NoteEditAction createdAt
 
@@ -30,7 +30,7 @@ NoteEditAction createdAt
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43972](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43972)
+Defined in: [WAProto/index.d.ts:34772](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34772)
 
 NoteEditAction deleted
 
@@ -40,7 +40,7 @@ NoteEditAction deleted
 
 > `optional` **type**: `null` \| [`NoteType`](../namespaces/NoteEditAction/enumerations/NoteType.md)
 
-Defined in: [WAProto/index.d.ts:43963](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43963)
+Defined in: [WAProto/index.d.ts:34763](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34763)
 
 NoteEditAction type
 
@@ -50,6 +50,6 @@ NoteEditAction type
 
 > `optional` **unstructuredContent**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43975](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43975)
+Defined in: [WAProto/index.d.ts:34775](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34775)
 
 NoteEditAction unstructuredContent

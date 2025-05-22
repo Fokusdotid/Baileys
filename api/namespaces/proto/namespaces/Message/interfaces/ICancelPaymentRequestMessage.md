@@ -1,6 +1,6 @@
 # Interface: ICancelPaymentRequestMessage
 
-Defined in: [WAProto/index.d.ts:19646](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19646)
+Defined in: [WAProto/index.d.ts:13260](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13260)
 
 Properties of a CancelPaymentRequestMessage.
 
@@ -10,6 +10,6 @@ Properties of a CancelPaymentRequestMessage.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:19649](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L19649)
+Defined in: [WAProto/index.d.ts:13263](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L13263)
 
 CancelPaymentRequestMessage key

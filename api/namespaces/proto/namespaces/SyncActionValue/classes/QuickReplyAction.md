@@ -1,6 +1,6 @@
 # Class: QuickReplyAction
 
-Defined in: [WAProto/index.d.ts:45090](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45090)
+Defined in: [WAProto/index.d.ts:35782](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35782)
 
 Represents a QuickReplyAction.
 
@@ -14,7 +14,7 @@ Represents a QuickReplyAction.
 
 > **new QuickReplyAction**(`properties`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:45096](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45096)
+Defined in: [WAProto/index.d.ts:35788](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35788)
 
 Constructs a new QuickReplyAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### count?
+### count
 
-> `optional` **count**: `null` \| `number`
+> **count**: `number`
 
-Defined in: [WAProto/index.d.ts:45108](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45108)
+Defined in: [WAProto/index.d.ts:35800](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35800)
 
 QuickReplyAction count.
 
@@ -46,11 +46,11 @@ QuickReplyAction count.
 
 ***
 
-### deleted?
+### deleted
 
-> `optional` **deleted**: `null` \| `boolean`
+> **deleted**: `boolean`
 
-Defined in: [WAProto/index.d.ts:45111](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45111)
+Defined in: [WAProto/index.d.ts:35803](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35803)
 
 QuickReplyAction deleted.
 
@@ -64,7 +64,7 @@ QuickReplyAction deleted.
 
 > **keywords**: `string`[]
 
-Defined in: [WAProto/index.d.ts:45105](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45105)
+Defined in: [WAProto/index.d.ts:35797](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35797)
 
 QuickReplyAction keywords.
 
@@ -74,11 +74,11 @@ QuickReplyAction keywords.
 
 ***
 
-### message?
+### message
 
-> `optional` **message**: `null` \| `string`
+> **message**: `string`
 
-Defined in: [WAProto/index.d.ts:45102](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45102)
+Defined in: [WAProto/index.d.ts:35794](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35794)
 
 QuickReplyAction message.
 
@@ -88,11 +88,11 @@ QuickReplyAction message.
 
 ***
 
-### shortcut?
+### shortcut
 
-> `optional` **shortcut**: `null` \| `string`
+> **shortcut**: `string`
 
-Defined in: [WAProto/index.d.ts:45099](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45099)
+Defined in: [WAProto/index.d.ts:35791](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35791)
 
 QuickReplyAction shortcut.
 
@@ -106,7 +106,7 @@ QuickReplyAction shortcut.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45181](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45181)
+Defined in: [WAProto/index.d.ts:35873](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35873)
 
 Converts this QuickReplyAction to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:45118](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45118)
+Defined in: [WAProto/index.d.ts:35810](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35810)
 
 Creates a new QuickReplyAction instance using the specified properties.
 
@@ -146,7 +146,7 @@ QuickReplyAction instance
 
 > `static` **decode**(`reader`, `length`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:45144](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45144)
+Defined in: [WAProto/index.d.ts:35836](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35836)
 
 Decodes a QuickReplyAction message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:45153](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45153)
+Defined in: [WAProto/index.d.ts:35845](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35845)
 
 Decodes a QuickReplyAction message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45126](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45126)
+Defined in: [WAProto/index.d.ts:35818](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35818)
 
 Encodes the specified QuickReplyAction message. Does not implicitly [verify](QuickReplyAction.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45134](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45134)
+Defined in: [WAProto/index.d.ts:35826](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35826)
 
 Encodes the specified QuickReplyAction message, length delimited. Does not implicitly [verify](QuickReplyAction.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:45167](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45167)
+Defined in: [WAProto/index.d.ts:35859](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35859)
 
 Creates a QuickReplyAction message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ QuickReplyAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45188](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45188)
+Defined in: [WAProto/index.d.ts:35880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35880)
 
 Gets the default type url for QuickReplyAction
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45175](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45175)
+Defined in: [WAProto/index.d.ts:35867](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35867)
 
 Creates a plain object from a QuickReplyAction message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45160](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L45160)
+Defined in: [WAProto/index.d.ts:35852](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35852)
 
 Verifies a QuickReplyAction message.
 

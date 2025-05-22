@@ -1,6 +1,6 @@
 # Interface: IMarketingMessageAction
 
-Defined in: [WAProto/index.d.ts:43489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43489)
+Defined in: [WAProto/index.d.ts:34413](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34413)
 
 Properties of a MarketingMessageAction.
 
@@ -10,7 +10,7 @@ Properties of a MarketingMessageAction.
 
 > `optional` **createdAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43501)
+Defined in: [WAProto/index.d.ts:34425](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34425)
 
 MarketingMessageAction createdAt
 
@@ -20,7 +20,7 @@ MarketingMessageAction createdAt
 
 > `optional` **isDeleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43507](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43507)
+Defined in: [WAProto/index.d.ts:34431](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34431)
 
 MarketingMessageAction isDeleted
 
@@ -30,7 +30,7 @@ MarketingMessageAction isDeleted
 
 > `optional` **lastSentAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43504](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43504)
+Defined in: [WAProto/index.d.ts:34428](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34428)
 
 MarketingMessageAction lastSentAt
 
@@ -40,7 +40,7 @@ MarketingMessageAction lastSentAt
 
 > `optional` **mediaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43510](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43510)
+Defined in: [WAProto/index.d.ts:34434](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34434)
 
 MarketingMessageAction mediaId
 
@@ -50,7 +50,7 @@ MarketingMessageAction mediaId
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43495](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43495)
+Defined in: [WAProto/index.d.ts:34419](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34419)
 
 MarketingMessageAction message
 
@@ -60,7 +60,7 @@ MarketingMessageAction message
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43492](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43492)
+Defined in: [WAProto/index.d.ts:34416](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34416)
 
 MarketingMessageAction name
 
@@ -70,6 +70,6 @@ MarketingMessageAction name
 
 > `optional` **type**: `null` \| [`PERSONALIZED`](../namespaces/MarketingMessageAction/enumerations/MarketingMessagePrototypeType.md#personalized)
 
-Defined in: [WAProto/index.d.ts:43498](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L43498)
+Defined in: [WAProto/index.d.ts:34422](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34422)
 
 MarketingMessageAction type

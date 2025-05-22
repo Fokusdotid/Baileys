@@ -1,6 +1,6 @@
 # Class: KeyId
 
-Defined in: [WAProto/index.d.ts:15597](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15597)
+Defined in: [WAProto/index.d.ts:9546](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9546)
 
 Represents a KeyId.
 
@@ -14,7 +14,7 @@ Represents a KeyId.
 
 > **new KeyId**(`properties`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:15603](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15603)
+Defined in: [WAProto/index.d.ts:9552](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9552)
 
 Constructs a new KeyId.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### id?
+### id
 
-> `optional` **id**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **id**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:15606](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15606)
+Defined in: [WAProto/index.d.ts:9555](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9555)
 
 KeyId id.
 
@@ -50,7 +50,7 @@ KeyId id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15676](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15676)
+Defined in: [WAProto/index.d.ts:9625](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9625)
 
 Converts this KeyId to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:15613](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15613)
+Defined in: [WAProto/index.d.ts:9562](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9562)
 
 Creates a new KeyId instance using the specified properties.
 
@@ -90,7 +90,7 @@ KeyId instance
 
 > `static` **decode**(`reader`, `length`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:15639](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15639)
+Defined in: [WAProto/index.d.ts:9588](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9588)
 
 Decodes a KeyId message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:15648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15648)
+Defined in: [WAProto/index.d.ts:9597](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9597)
 
 Decodes a KeyId message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15621](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15621)
+Defined in: [WAProto/index.d.ts:9570](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9570)
 
 Encodes the specified KeyId message. Does not implicitly [verify](KeyId.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15629](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15629)
+Defined in: [WAProto/index.d.ts:9578](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9578)
 
 Encodes the specified KeyId message, length delimited. Does not implicitly [verify](KeyId.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:15662](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15662)
+Defined in: [WAProto/index.d.ts:9611](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9611)
 
 Creates a KeyId message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ KeyId
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15683](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15683)
+Defined in: [WAProto/index.d.ts:9632](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9632)
 
 Gets the default type url for KeyId
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15670](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15670)
+Defined in: [WAProto/index.d.ts:9619](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9619)
 
 Creates a plain object from a KeyId message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15655](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L15655)
+Defined in: [WAProto/index.d.ts:9604](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L9604)
 
 Verifies a KeyId message.
 

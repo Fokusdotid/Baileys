@@ -1,6 +1,6 @@
 # Enumeration: ContentType
 
-Defined in: [WAProto/index.d.ts:10779](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10779)
+Defined in: [WAProto/index.d.ts:5518](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5518)
 
 ContentType enum.
 
@@ -10,7 +10,7 @@ ContentType enum.
 
 > **LINK\_CARD**: `3`
 
-Defined in: [WAProto/index.d.ts:10782](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10782)
+Defined in: [WAProto/index.d.ts:5521](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5521)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:10782](https://github.com/Fokusdotid/Baileys/blo
 
 > **UPDATE**: `1`
 
-Defined in: [WAProto/index.d.ts:10780](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10780)
+Defined in: [WAProto/index.d.ts:5519](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5519)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:10780](https://github.com/Fokusdotid/Baileys/blo
 
 > **UPDATE\_CARD**: `2`
 
-Defined in: [WAProto/index.d.ts:10781](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L10781)
+Defined in: [WAProto/index.d.ts:5520](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L5520)

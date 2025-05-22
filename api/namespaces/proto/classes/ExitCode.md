@@ -1,6 +1,6 @@
 # Class: ExitCode
 
-Defined in: [WAProto/index.d.ts:13139](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13139)
+Defined in: [WAProto/index.d.ts:7239](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7239)
 
 Represents an ExitCode.
 
@@ -14,7 +14,7 @@ Represents an ExitCode.
 
 > **new ExitCode**(`properties`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:13145](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13145)
+Defined in: [WAProto/index.d.ts:7245](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7245)
 
 Constructs a new ExitCode.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### code?
+### code
 
-> `optional` **code**: `null` \| `number` \| `Long`
+> **code**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13148](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13148)
+Defined in: [WAProto/index.d.ts:7248](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7248)
 
 ExitCode code.
 
@@ -46,11 +46,11 @@ ExitCode code.
 
 ***
 
-### text?
+### text
 
-> `optional` **text**: `null` \| `string`
+> **text**: `string`
 
-Defined in: [WAProto/index.d.ts:13151](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13151)
+Defined in: [WAProto/index.d.ts:7251](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7251)
 
 ExitCode text.
 
@@ -64,7 +64,7 @@ ExitCode text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13221](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13221)
+Defined in: [WAProto/index.d.ts:7321](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7321)
 
 Converts this ExitCode to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:13158](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13158)
+Defined in: [WAProto/index.d.ts:7258](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7258)
 
 Creates a new ExitCode instance using the specified properties.
 
@@ -104,7 +104,7 @@ ExitCode instance
 
 > `static` **decode**(`reader`, `length`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:13184](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13184)
+Defined in: [WAProto/index.d.ts:7284](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7284)
 
 Decodes an ExitCode message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:13193](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13193)
+Defined in: [WAProto/index.d.ts:7293](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7293)
 
 Decodes an ExitCode message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13166](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13166)
+Defined in: [WAProto/index.d.ts:7266](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7266)
 
 Encodes the specified ExitCode message. Does not implicitly [verify](ExitCode.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13174](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13174)
+Defined in: [WAProto/index.d.ts:7274](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7274)
 
 Encodes the specified ExitCode message, length delimited. Does not implicitly [verify](ExitCode.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:13207](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13207)
+Defined in: [WAProto/index.d.ts:7307](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7307)
 
 Creates an ExitCode message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ExitCode
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13228](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13228)
+Defined in: [WAProto/index.d.ts:7328](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7328)
 
 Gets the default type url for ExitCode
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13215](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13215)
+Defined in: [WAProto/index.d.ts:7315](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7315)
 
 Creates a plain object from an ExitCode message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13200](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L13200)
+Defined in: [WAProto/index.d.ts:7300](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L7300)
 
 Verifies an ExitCode message.
 

@@ -1,6 +1,6 @@
 # Class: CarouselMessage
 
-Defined in: [WAProto/index.d.ts:23474](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23474)
+Defined in: [WAProto/index.d.ts:16801](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16801)
 
 Represents a CarouselMessage.
 
@@ -14,7 +14,7 @@ Represents a CarouselMessage.
 
 > **new CarouselMessage**(`properties`?): [`CarouselMessage`](CarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23480](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23480)
+Defined in: [WAProto/index.d.ts:16807](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16807)
 
 Constructs a new CarouselMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **cards**: [`IInteractiveMessage`](../../../interfaces/IInteractiveMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:23483](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23483)
+Defined in: [WAProto/index.d.ts:16810](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16810)
 
 CarouselMessage cards.
 
@@ -46,11 +46,11 @@ CarouselMessage cards.
 
 ***
 
-### messageVersion?
+### messageVersion
 
-> `optional` **messageVersion**: `null` \| `number`
+> **messageVersion**: `number`
 
-Defined in: [WAProto/index.d.ts:23486](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23486)
+Defined in: [WAProto/index.d.ts:16813](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16813)
 
 CarouselMessage messageVersion.
 
@@ -64,7 +64,7 @@ CarouselMessage messageVersion.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23556](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23556)
+Defined in: [WAProto/index.d.ts:16883](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16883)
 
 Converts this CarouselMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CarouselMessage`](CarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23493](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23493)
+Defined in: [WAProto/index.d.ts:16820](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16820)
 
 Creates a new CarouselMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ CarouselMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CarouselMessage`](CarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23519](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23519)
+Defined in: [WAProto/index.d.ts:16846](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16846)
 
 Decodes a CarouselMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CarouselMessage`](CarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23528](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23528)
+Defined in: [WAProto/index.d.ts:16855](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16855)
 
 Decodes a CarouselMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23501)
+Defined in: [WAProto/index.d.ts:16828](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16828)
 
 Encodes the specified CarouselMessage message. Does not implicitly [verify](CarouselMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23509](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23509)
+Defined in: [WAProto/index.d.ts:16836](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16836)
 
 Encodes the specified CarouselMessage message, length delimited. Does not implicitly [verify](CarouselMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CarouselMessage`](CarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:23542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23542)
+Defined in: [WAProto/index.d.ts:16869](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16869)
 
 Creates a CarouselMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CarouselMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23563](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23563)
+Defined in: [WAProto/index.d.ts:16890](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16890)
 
 Gets the default type url for CarouselMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23550](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23550)
+Defined in: [WAProto/index.d.ts:16877](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16877)
 
 Creates a plain object from a CarouselMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23535](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23535)
+Defined in: [WAProto/index.d.ts:16862](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16862)
 
 Verifies a CarouselMessage message.
 

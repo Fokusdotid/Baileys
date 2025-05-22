@@ -1,6 +1,6 @@
 # Enumeration: NoteType
 
-Defined in: [WAProto/index.d.ts:44083](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44083)
+Defined in: [WAProto/index.d.ts:34883](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34883)
 
 NoteType enum.
 
@@ -10,7 +10,7 @@ NoteType enum.
 
 > **STRUCTURED**: `2`
 
-Defined in: [WAProto/index.d.ts:44085](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44085)
+Defined in: [WAProto/index.d.ts:34885](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34885)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:44085](https://github.com/Fokusdotid/Baileys/blo
 
 > **UNSTRUCTURED**: `1`
 
-Defined in: [WAProto/index.d.ts:44084](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44084)
+Defined in: [WAProto/index.d.ts:34884](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L34884)

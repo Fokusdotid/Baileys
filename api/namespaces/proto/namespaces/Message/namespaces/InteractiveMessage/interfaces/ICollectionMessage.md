@@ -1,6 +1,6 @@
 # Interface: ICollectionMessage
 
-Defined in: [WAProto/index.d.ts:23567](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23567)
+Defined in: [WAProto/index.d.ts:16894](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16894)
 
 Properties of a CollectionMessage.
 
@@ -10,7 +10,7 @@ Properties of a CollectionMessage.
 
 > `optional` **bizJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23570](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23570)
+Defined in: [WAProto/index.d.ts:16897](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16897)
 
 CollectionMessage bizJid
 
@@ -20,7 +20,7 @@ CollectionMessage bizJid
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23573](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23573)
+Defined in: [WAProto/index.d.ts:16900](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16900)
 
 CollectionMessage id
 
@@ -30,6 +30,6 @@ CollectionMessage id
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:23576](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23576)
+Defined in: [WAProto/index.d.ts:16903](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16903)
 
 CollectionMessage messageVersion

@@ -1,6 +1,6 @@
 # Interface: ILabelEditAction
 
-Defined in: [WAProto/index.d.ts:42949](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42949)
+Defined in: [WAProto/index.d.ts:33898](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33898)
 
 Properties of a LabelEditAction.
 
@@ -10,7 +10,7 @@ Properties of a LabelEditAction.
 
 > `optional` **color**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42955](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42955)
+Defined in: [WAProto/index.d.ts:33904](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33904)
 
 LabelEditAction color
 
@@ -20,19 +20,9 @@ LabelEditAction color
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:42961](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42961)
+Defined in: [WAProto/index.d.ts:33910](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33910)
 
 LabelEditAction deleted
-
-***
-
-### isActive?
-
-> `optional` **isActive**: `null` \| `boolean`
-
-Defined in: [WAProto/index.d.ts:42967](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42967)
-
-LabelEditAction isActive
 
 ***
 
@@ -40,7 +30,7 @@ LabelEditAction isActive
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42952](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42952)
+Defined in: [WAProto/index.d.ts:33901](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33901)
 
 LabelEditAction name
 
@@ -50,7 +40,7 @@ LabelEditAction name
 
 > `optional` **orderIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42964](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42964)
+Defined in: [WAProto/index.d.ts:33913](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33913)
 
 LabelEditAction orderIndex
 
@@ -60,16 +50,6 @@ LabelEditAction orderIndex
 
 > `optional` **predefinedId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42958](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42958)
+Defined in: [WAProto/index.d.ts:33907](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L33907)
 
 LabelEditAction predefinedId
-
-***
-
-### type?
-
-> `optional` **type**: `null` \| [`ListType`](../namespaces/LabelEditAction/enumerations/ListType.md)
-
-Defined in: [WAProto/index.d.ts:42970](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L42970)
-
-LabelEditAction type

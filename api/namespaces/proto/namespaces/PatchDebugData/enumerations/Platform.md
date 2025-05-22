@@ -1,6 +1,6 @@
 # Enumeration: Platform
 
-Defined in: [WAProto/index.d.ts:35566](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35566)
+Defined in: [WAProto/index.d.ts:26878](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26878)
 
 Platform enum.
 
@@ -10,7 +10,7 @@ Platform enum.
 
 > **ANDROID**: `0`
 
-Defined in: [WAProto/index.d.ts:35567](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35567)
+Defined in: [WAProto/index.d.ts:26879](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26879)
 
 ***
 
@@ -18,15 +18,7 @@ Defined in: [WAProto/index.d.ts:35567](https://github.com/Fokusdotid/Baileys/blo
 
 > **DARWIN**: `6`
 
-Defined in: [WAProto/index.d.ts:35573](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35573)
-
-***
-
-### IPAD
-
-> **IPAD**: `7`
-
-Defined in: [WAProto/index.d.ts:35574](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35574)
+Defined in: [WAProto/index.d.ts:26885](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26885)
 
 ***
 
@@ -34,7 +26,7 @@ Defined in: [WAProto/index.d.ts:35574](https://github.com/Fokusdotid/Baileys/blo
 
 > **IPHONE**: `2`
 
-Defined in: [WAProto/index.d.ts:35569](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35569)
+Defined in: [WAProto/index.d.ts:26881](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26881)
 
 ***
 
@@ -42,7 +34,7 @@ Defined in: [WAProto/index.d.ts:35569](https://github.com/Fokusdotid/Baileys/blo
 
 > **SMBA**: `1`
 
-Defined in: [WAProto/index.d.ts:35568](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35568)
+Defined in: [WAProto/index.d.ts:26880](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26880)
 
 ***
 
@@ -50,7 +42,7 @@ Defined in: [WAProto/index.d.ts:35568](https://github.com/Fokusdotid/Baileys/blo
 
 > **SMBI**: `3`
 
-Defined in: [WAProto/index.d.ts:35570](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35570)
+Defined in: [WAProto/index.d.ts:26882](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26882)
 
 ***
 
@@ -58,15 +50,7 @@ Defined in: [WAProto/index.d.ts:35570](https://github.com/Fokusdotid/Baileys/blo
 
 > **UWP**: `5`
 
-Defined in: [WAProto/index.d.ts:35572](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35572)
-
-***
-
-### WEAROS
-
-> **WEAROS**: `8`
-
-Defined in: [WAProto/index.d.ts:35575](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35575)
+Defined in: [WAProto/index.d.ts:26884](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26884)
 
 ***
 
@@ -74,4 +58,4 @@ Defined in: [WAProto/index.d.ts:35575](https://github.com/Fokusdotid/Baileys/blo
 
 > **WEB**: `4`
 
-Defined in: [WAProto/index.d.ts:35571](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L35571)
+Defined in: [WAProto/index.d.ts:26883](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L26883)

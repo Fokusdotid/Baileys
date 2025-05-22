@@ -1,6 +1,6 @@
 # Class: AudioMessage
 
-Defined in: [WAProto/index.d.ts:18223](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18223)
+Defined in: [WAProto/index.d.ts:11866](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11866)
 
 Represents an AudioMessage.
 
@@ -14,7 +14,7 @@ Represents an AudioMessage.
 
 > **new AudioMessage**(`properties`?): [`AudioMessage`](AudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:18229](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18229)
+Defined in: [WAProto/index.d.ts:11872](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11872)
 
 Constructs a new AudioMessage.
 
@@ -32,25 +32,11 @@ Properties to set
 
 ## Properties
 
-### accessibilityLabel?
+### backgroundArgb
 
-> `optional` **accessibilityLabel**: `null` \| `string`
+> **backgroundArgb**: `number`
 
-Defined in: [WAProto/index.d.ts:18277](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18277)
-
-AudioMessage accessibilityLabel.
-
-#### Implementation of
-
-[`IAudioMessage`](../interfaces/IAudioMessage.md).[`accessibilityLabel`](../interfaces/IAudioMessage.md#accessibilitylabel)
-
-***
-
-### backgroundArgb?
-
-> `optional` **backgroundArgb**: `null` \| `number`
-
-Defined in: [WAProto/index.d.ts:18271](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18271)
+Defined in: [WAProto/index.d.ts:11914](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11914)
 
 AudioMessage backgroundArgb.
 
@@ -64,7 +50,7 @@ AudioMessage backgroundArgb.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:18262](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18262)
+Defined in: [WAProto/index.d.ts:11905](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11905)
 
 AudioMessage contextInfo.
 
@@ -74,11 +60,11 @@ AudioMessage contextInfo.
 
 ***
 
-### directPath?
+### directPath
 
-> `optional` **directPath**: `null` \| `string`
+> **directPath**: `string`
 
-Defined in: [WAProto/index.d.ts:18256](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18256)
+Defined in: [WAProto/index.d.ts:11899](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11899)
 
 AudioMessage directPath.
 
@@ -88,11 +74,11 @@ AudioMessage directPath.
 
 ***
 
-### fileEncSha256?
+### fileEncSha256
 
-> `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileEncSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18253](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18253)
+Defined in: [WAProto/index.d.ts:11896](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11896)
 
 AudioMessage fileEncSha256.
 
@@ -102,11 +88,11 @@ AudioMessage fileEncSha256.
 
 ***
 
-### fileLength?
+### fileLength
 
-> `optional` **fileLength**: `null` \| `number` \| `Long`
+> **fileLength**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18241](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18241)
+Defined in: [WAProto/index.d.ts:11884](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11884)
 
 AudioMessage fileLength.
 
@@ -116,11 +102,11 @@ AudioMessage fileLength.
 
 ***
 
-### fileSha256?
+### fileSha256
 
-> `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **fileSha256**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18238](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18238)
+Defined in: [WAProto/index.d.ts:11881](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11881)
 
 AudioMessage fileSha256.
 
@@ -130,11 +116,11 @@ AudioMessage fileSha256.
 
 ***
 
-### mediaKey?
+### mediaKey
 
-> `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **mediaKey**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18250](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18250)
+Defined in: [WAProto/index.d.ts:11893](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11893)
 
 AudioMessage mediaKey.
 
@@ -144,11 +130,11 @@ AudioMessage mediaKey.
 
 ***
 
-### mediaKeyTimestamp?
+### mediaKeyTimestamp
 
-> `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
+> **mediaKeyTimestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18259](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18259)
+Defined in: [WAProto/index.d.ts:11902](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11902)
 
 AudioMessage mediaKeyTimestamp.
 
@@ -158,11 +144,11 @@ AudioMessage mediaKeyTimestamp.
 
 ***
 
-### mimetype?
+### mimetype
 
-> `optional` **mimetype**: `null` \| `string`
+> **mimetype**: `string`
 
-Defined in: [WAProto/index.d.ts:18235](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18235)
+Defined in: [WAProto/index.d.ts:11878](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11878)
 
 AudioMessage mimetype.
 
@@ -172,11 +158,11 @@ AudioMessage mimetype.
 
 ***
 
-### ptt?
+### ptt
 
-> `optional` **ptt**: `null` \| `boolean`
+> **ptt**: `boolean`
 
-Defined in: [WAProto/index.d.ts:18247](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18247)
+Defined in: [WAProto/index.d.ts:11890](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11890)
 
 AudioMessage ptt.
 
@@ -186,11 +172,11 @@ AudioMessage ptt.
 
 ***
 
-### seconds?
+### seconds
 
-> `optional` **seconds**: `null` \| `number`
+> **seconds**: `number`
 
-Defined in: [WAProto/index.d.ts:18244](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18244)
+Defined in: [WAProto/index.d.ts:11887](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11887)
 
 AudioMessage seconds.
 
@@ -200,11 +186,11 @@ AudioMessage seconds.
 
 ***
 
-### streamingSidecar?
+### streamingSidecar
 
-> `optional` **streamingSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **streamingSidecar**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18265](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18265)
+Defined in: [WAProto/index.d.ts:11908](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11908)
 
 AudioMessage streamingSidecar.
 
@@ -214,11 +200,11 @@ AudioMessage streamingSidecar.
 
 ***
 
-### url?
+### url
 
-> `optional` **url**: `null` \| `string`
+> **url**: `string`
 
-Defined in: [WAProto/index.d.ts:18232](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18232)
+Defined in: [WAProto/index.d.ts:11875](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11875)
 
 AudioMessage url.
 
@@ -228,11 +214,11 @@ AudioMessage url.
 
 ***
 
-### viewOnce?
+### viewOnce
 
-> `optional` **viewOnce**: `null` \| `boolean`
+> **viewOnce**: `boolean`
 
-Defined in: [WAProto/index.d.ts:18274](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18274)
+Defined in: [WAProto/index.d.ts:11917](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11917)
 
 AudioMessage viewOnce.
 
@@ -242,11 +228,11 @@ AudioMessage viewOnce.
 
 ***
 
-### waveform?
+### waveform
 
-> `optional` **waveform**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
+> **waveform**: `Uint8Array`
 
-Defined in: [WAProto/index.d.ts:18268](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18268)
+Defined in: [WAProto/index.d.ts:11911](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11911)
 
 AudioMessage waveform.
 
@@ -260,7 +246,7 @@ AudioMessage waveform.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18347](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18347)
+Defined in: [WAProto/index.d.ts:11987](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11987)
 
 Converts this AudioMessage to JSON.
 
@@ -276,7 +262,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AudioMessage`](AudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:18284](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18284)
+Defined in: [WAProto/index.d.ts:11924](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11924)
 
 Creates a new AudioMessage instance using the specified properties.
 
@@ -300,7 +286,7 @@ AudioMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`AudioMessage`](AudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:18310](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18310)
+Defined in: [WAProto/index.d.ts:11950](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11950)
 
 Decodes an AudioMessage message from the specified reader or buffer.
 
@@ -338,7 +324,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AudioMessage`](AudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:18319](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18319)
+Defined in: [WAProto/index.d.ts:11959](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11959)
 
 Decodes an AudioMessage message from the specified reader or buffer, length delimited.
 
@@ -370,7 +356,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18292](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18292)
+Defined in: [WAProto/index.d.ts:11932](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11932)
 
 Encodes the specified AudioMessage message. Does not implicitly [verify](AudioMessage.md#verify) messages.
 
@@ -400,7 +386,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18300](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18300)
+Defined in: [WAProto/index.d.ts:11940](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11940)
 
 Encodes the specified AudioMessage message, length delimited. Does not implicitly [verify](AudioMessage.md#verify) messages.
 
@@ -430,7 +416,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AudioMessage`](AudioMessage.md)
 
-Defined in: [WAProto/index.d.ts:18333](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18333)
+Defined in: [WAProto/index.d.ts:11973](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11973)
 
 Creates an AudioMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -452,7 +438,7 @@ AudioMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18354](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18354)
+Defined in: [WAProto/index.d.ts:11994](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11994)
 
 Gets the default type url for AudioMessage
 
@@ -476,7 +462,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18341](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18341)
+Defined in: [WAProto/index.d.ts:11981](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11981)
 
 Creates a plain object from an AudioMessage message. Also converts values to other types if specified.
 
@@ -506,7 +492,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18326](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L18326)
+Defined in: [WAProto/index.d.ts:11966](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11966)
 
 Verifies an AudioMessage message.
 

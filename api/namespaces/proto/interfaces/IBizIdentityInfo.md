@@ -1,6 +1,6 @@
 # Interface: IBizIdentityInfo
 
-Defined in: [WAProto/index.d.ts:3216](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3216)
+Defined in: [WAProto/index.d.ts:1147](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1147)
 
 Properties of a BizIdentityInfo.
 
@@ -10,7 +10,7 @@ Properties of a BizIdentityInfo.
 
 > `optional` **actualActors**: `null` \| [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
 
-Defined in: [WAProto/index.d.ts:3234](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3234)
+Defined in: [WAProto/index.d.ts:1165](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1165)
 
 BizIdentityInfo actualActors
 
@@ -20,7 +20,7 @@ BizIdentityInfo actualActors
 
 > `optional` **featureControls**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3240](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3240)
+Defined in: [WAProto/index.d.ts:1171](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1171)
 
 BizIdentityInfo featureControls
 
@@ -30,7 +30,7 @@ BizIdentityInfo featureControls
 
 > `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3231](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3231)
+Defined in: [WAProto/index.d.ts:1162](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1162)
 
 BizIdentityInfo hostStorage
 
@@ -40,7 +40,7 @@ BizIdentityInfo hostStorage
 
 > `optional` **privacyModeTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3237](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3237)
+Defined in: [WAProto/index.d.ts:1168](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1168)
 
 BizIdentityInfo privacyModeTs
 
@@ -50,7 +50,7 @@ BizIdentityInfo privacyModeTs
 
 > `optional` **revoked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3228](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3228)
+Defined in: [WAProto/index.d.ts:1159](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1159)
 
 BizIdentityInfo revoked
 
@@ -60,7 +60,7 @@ BizIdentityInfo revoked
 
 > `optional` **signed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3225](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3225)
+Defined in: [WAProto/index.d.ts:1156](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1156)
 
 BizIdentityInfo signed
 
@@ -70,7 +70,7 @@ BizIdentityInfo signed
 
 > `optional` **vlevel**: `null` \| [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
 
-Defined in: [WAProto/index.d.ts:3219](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3219)
+Defined in: [WAProto/index.d.ts:1150](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1150)
 
 BizIdentityInfo vlevel
 
@@ -80,6 +80,6 @@ BizIdentityInfo vlevel
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3222](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L3222)
+Defined in: [WAProto/index.d.ts:1153](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L1153)
 
 BizIdentityInfo vnameCert

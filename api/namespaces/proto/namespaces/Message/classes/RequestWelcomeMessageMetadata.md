@@ -1,6 +1,6 @@
 # Class: RequestWelcomeMessageMetadata
 
-Defined in: [WAProto/index.d.ts:30580](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30580)
+Defined in: [WAProto/index.d.ts:23047](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23047)
 
 Represents a RequestWelcomeMessageMetadata.
 
@@ -14,7 +14,7 @@ Represents a RequestWelcomeMessageMetadata.
 
 > **new RequestWelcomeMessageMetadata**(`properties`?): [`RequestWelcomeMessageMetadata`](RequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30586](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30586)
+Defined in: [WAProto/index.d.ts:23053](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23053)
 
 Constructs a new RequestWelcomeMessageMetadata.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### localChatState?
+### localChatState
 
-> `optional` **localChatState**: `null` \| [`LocalChatState`](../namespaces/RequestWelcomeMessageMetadata/enumerations/LocalChatState.md)
+> **localChatState**: [`LocalChatState`](../namespaces/RequestWelcomeMessageMetadata/enumerations/LocalChatState.md)
 
-Defined in: [WAProto/index.d.ts:30589](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30589)
+Defined in: [WAProto/index.d.ts:23056](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23056)
 
 RequestWelcomeMessageMetadata localChatState.
 
@@ -50,7 +50,7 @@ RequestWelcomeMessageMetadata localChatState.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30659](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30659)
+Defined in: [WAProto/index.d.ts:23126](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23126)
 
 Converts this RequestWelcomeMessageMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RequestWelcomeMessageMetadata`](RequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30596](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30596)
+Defined in: [WAProto/index.d.ts:23063](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23063)
 
 Creates a new RequestWelcomeMessageMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ RequestWelcomeMessageMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`RequestWelcomeMessageMetadata`](RequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30622](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30622)
+Defined in: [WAProto/index.d.ts:23089](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23089)
 
 Decodes a RequestWelcomeMessageMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RequestWelcomeMessageMetadata`](RequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30631](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30631)
+Defined in: [WAProto/index.d.ts:23098](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23098)
 
 Decodes a RequestWelcomeMessageMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30604](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30604)
+Defined in: [WAProto/index.d.ts:23071](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23071)
 
 Encodes the specified RequestWelcomeMessageMetadata message. Does not implicitly [verify](RequestWelcomeMessageMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30612](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30612)
+Defined in: [WAProto/index.d.ts:23079](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23079)
 
 Encodes the specified RequestWelcomeMessageMetadata message, length delimited. Does not implicitly [verify](RequestWelcomeMessageMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RequestWelcomeMessageMetadata`](RequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:30645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30645)
+Defined in: [WAProto/index.d.ts:23112](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23112)
 
 Creates a RequestWelcomeMessageMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ RequestWelcomeMessageMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30666](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30666)
+Defined in: [WAProto/index.d.ts:23133](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23133)
 
 Gets the default type url for RequestWelcomeMessageMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30653](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30653)
+Defined in: [WAProto/index.d.ts:23120](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23120)
 
 Creates a plain object from a RequestWelcomeMessageMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30638](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30638)
+Defined in: [WAProto/index.d.ts:23105](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23105)
 
 Verifies a RequestWelcomeMessageMetadata message.
 

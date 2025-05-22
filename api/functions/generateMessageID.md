@@ -2,7 +2,7 @@
 
 > **generateMessageID**(): `string`
 
-Defined in: [src/Utils/generics.ts:205](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/src/Utils/generics.ts#L205)
+Defined in: [src/Utils/generics.ts:205](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/src/Utils/generics.ts#L205)
 
 ## Returns
 

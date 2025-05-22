@@ -1,6 +1,6 @@
 # Interface: IScheduledCallEditMessage
 
-Defined in: [WAProto/index.d.ts:30798](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30798)
+Defined in: [WAProto/index.d.ts:23265](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23265)
 
 Properties of a ScheduledCallEditMessage.
 
@@ -10,7 +10,7 @@ Properties of a ScheduledCallEditMessage.
 
 > `optional` **editType**: `null` \| [`EditType`](../namespaces/ScheduledCallEditMessage/enumerations/EditType.md)
 
-Defined in: [WAProto/index.d.ts:30804](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30804)
+Defined in: [WAProto/index.d.ts:23271](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23271)
 
 ScheduledCallEditMessage editType
 
@@ -20,6 +20,6 @@ ScheduledCallEditMessage editType
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:30801](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L30801)
+Defined in: [WAProto/index.d.ts:23268](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L23268)
 
 ScheduledCallEditMessage key

@@ -1,6 +1,6 @@
 # Interface: IClientPayload
 
-Defined in: [WAProto/index.d.ts:7645](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7645)
+Defined in: [WAProto/index.d.ts:3181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3181)
 
 Properties of a ClientPayload.
 
@@ -10,7 +10,7 @@ Properties of a ClientPayload.
 
 > `optional` **connectAttemptCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7681](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7681)
+Defined in: [WAProto/index.d.ts:3217](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3217)
 
 ClientPayload connectAttemptCount
 
@@ -20,7 +20,7 @@ ClientPayload connectAttemptCount
 
 > `optional` **connectReason**: `null` \| [`ConnectReason`](../namespaces/ClientPayload/enumerations/ConnectReason.md)
 
-Defined in: [WAProto/index.d.ts:7672](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7672)
+Defined in: [WAProto/index.d.ts:3208](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3208)
 
 ClientPayload connectReason
 
@@ -30,7 +30,7 @@ ClientPayload connectReason
 
 > `optional` **connectType**: `null` \| [`ConnectType`](../namespaces/ClientPayload/enumerations/ConnectType.md)
 
-Defined in: [WAProto/index.d.ts:7669](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7669)
+Defined in: [WAProto/index.d.ts:3205](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3205)
 
 ClientPayload connectType
 
@@ -40,7 +40,7 @@ ClientPayload connectType
 
 > `optional` **device**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7684](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7684)
+Defined in: [WAProto/index.d.ts:3220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3220)
 
 ClientPayload device
 
@@ -50,7 +50,7 @@ ClientPayload device
 
 > `optional` **devicePairingData**: `null` \| [`IDevicePairingRegistrationData`](../namespaces/ClientPayload/interfaces/IDevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:7687](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7687)
+Defined in: [WAProto/index.d.ts:3223](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3223)
 
 ClientPayload devicePairingData
 
@@ -60,7 +60,7 @@ ClientPayload devicePairingData
 
 > `optional` **dnsSource**: `null` \| [`IDNSSource`](../namespaces/ClientPayload/interfaces/IDNSSource.md)
 
-Defined in: [WAProto/index.d.ts:7678](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7678)
+Defined in: [WAProto/index.d.ts:3214](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3214)
 
 ClientPayload dnsSource
 
@@ -70,7 +70,7 @@ ClientPayload dnsSource
 
 > `optional` **fbAppId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:7708](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7708)
+Defined in: [WAProto/index.d.ts:3244](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3244)
 
 ClientPayload fbAppId
 
@@ -80,7 +80,7 @@ ClientPayload fbAppId
 
 > `optional` **fbCat**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7693](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7693)
+Defined in: [WAProto/index.d.ts:3229](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3229)
 
 ClientPayload fbCat
 
@@ -90,7 +90,7 @@ ClientPayload fbCat
 
 > `optional` **fbDeviceId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7711](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7711)
+Defined in: [WAProto/index.d.ts:3247](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3247)
 
 ClientPayload fbDeviceId
 
@@ -100,7 +100,7 @@ ClientPayload fbDeviceId
 
 > `optional` **fbUserAgent**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7696](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7696)
+Defined in: [WAProto/index.d.ts:3232](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3232)
 
 ClientPayload fbUserAgent
 
@@ -110,7 +110,7 @@ ClientPayload fbUserAgent
 
 > `optional` **interopData**: `null` \| [`IInteropData`](../namespaces/ClientPayload/interfaces/IInteropData.md)
 
-Defined in: [WAProto/index.d.ts:7726](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7726)
+Defined in: [WAProto/index.d.ts:3262](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3262)
 
 ClientPayload interopData
 
@@ -120,7 +120,7 @@ ClientPayload interopData
 
 > `optional` **iosAppExtension**: `null` \| [`IOSAppExtension`](../namespaces/ClientPayload/enumerations/IOSAppExtension.md)
 
-Defined in: [WAProto/index.d.ts:7705](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7705)
+Defined in: [WAProto/index.d.ts:3241](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3241)
 
 ClientPayload iosAppExtension
 
@@ -130,7 +130,7 @@ ClientPayload iosAppExtension
 
 > `optional` **lc**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7702](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7702)
+Defined in: [WAProto/index.d.ts:3238](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3238)
 
 ClientPayload lc
 
@@ -140,7 +140,7 @@ ClientPayload lc
 
 > `optional` **memClass**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7723](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7723)
+Defined in: [WAProto/index.d.ts:3259](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3259)
 
 ClientPayload memClass
 
@@ -150,7 +150,7 @@ ClientPayload memClass
 
 > `optional` **oc**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7699](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7699)
+Defined in: [WAProto/index.d.ts:3235](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3235)
 
 ClientPayload oc
 
@@ -160,7 +160,7 @@ ClientPayload oc
 
 > `optional` **paddingBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7717](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7717)
+Defined in: [WAProto/index.d.ts:3253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3253)
 
 ClientPayload paddingBytes
 
@@ -170,7 +170,7 @@ ClientPayload paddingBytes
 
 > `optional` **passive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7651](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7651)
+Defined in: [WAProto/index.d.ts:3187](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3187)
 
 ClientPayload passive
 
@@ -180,7 +180,7 @@ ClientPayload passive
 
 > `optional` **product**: `null` \| [`Product`](../namespaces/ClientPayload/enumerations/Product.md)
 
-Defined in: [WAProto/index.d.ts:7690](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7690)
+Defined in: [WAProto/index.d.ts:3226](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3226)
 
 ClientPayload product
 
@@ -190,7 +190,7 @@ ClientPayload product
 
 > `optional` **pull**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7714](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7714)
+Defined in: [WAProto/index.d.ts:3250](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3250)
 
 ClientPayload pull
 
@@ -200,7 +200,7 @@ ClientPayload pull
 
 > `optional` **pushName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7660](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7660)
+Defined in: [WAProto/index.d.ts:3196](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3196)
 
 ClientPayload pushName
 
@@ -210,7 +210,7 @@ ClientPayload pushName
 
 > `optional` **sessionId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7663](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7663)
+Defined in: [WAProto/index.d.ts:3199](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3199)
 
 ClientPayload sessionId
 
@@ -220,7 +220,7 @@ ClientPayload sessionId
 
 > `optional` **shards**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:7675](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7675)
+Defined in: [WAProto/index.d.ts:3211](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3211)
 
 ClientPayload shards
 
@@ -230,19 +230,9 @@ ClientPayload shards
 
 > `optional` **shortConnect**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:7666](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7666)
+Defined in: [WAProto/index.d.ts:3202](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3202)
 
 ClientPayload shortConnect
-
-***
-
-### trafficAnonymization?
-
-> `optional` **trafficAnonymization**: `null` \| [`TrafficAnonymization`](../namespaces/ClientPayload/enumerations/TrafficAnonymization.md)
-
-Defined in: [WAProto/index.d.ts:7729](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7729)
-
-ClientPayload trafficAnonymization
 
 ***
 
@@ -250,7 +240,7 @@ ClientPayload trafficAnonymization
 
 > `optional` **userAgent**: `null` \| [`IUserAgent`](../namespaces/ClientPayload/interfaces/IUserAgent.md)
 
-Defined in: [WAProto/index.d.ts:7654](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7654)
+Defined in: [WAProto/index.d.ts:3190](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3190)
 
 ClientPayload userAgent
 
@@ -260,7 +250,7 @@ ClientPayload userAgent
 
 > `optional` **username**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:7648](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7648)
+Defined in: [WAProto/index.d.ts:3184](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3184)
 
 ClientPayload username
 
@@ -270,7 +260,7 @@ ClientPayload username
 
 > `optional` **webInfo**: `null` \| [`IWebInfo`](../namespaces/ClientPayload/interfaces/IWebInfo.md)
 
-Defined in: [WAProto/index.d.ts:7657](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7657)
+Defined in: [WAProto/index.d.ts:3193](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3193)
 
 ClientPayload webInfo
 
@@ -280,6 +270,6 @@ ClientPayload webInfo
 
 > `optional` **yearClass**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7720](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L7720)
+Defined in: [WAProto/index.d.ts:3256](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L3256)
 
 ClientPayload yearClass

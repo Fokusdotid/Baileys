@@ -1,6 +1,6 @@
 # Class: PnForLidChatAction
 
-Defined in: [WAProto/index.d.ts:44496](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44496)
+Defined in: [WAProto/index.d.ts:35188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35188)
 
 Represents a PnForLidChatAction.
 
@@ -14,7 +14,7 @@ Represents a PnForLidChatAction.
 
 > **new PnForLidChatAction**(`properties`?): [`PnForLidChatAction`](PnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:44502](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44502)
+Defined in: [WAProto/index.d.ts:35194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35194)
 
 Constructs a new PnForLidChatAction.
 
@@ -32,11 +32,11 @@ Properties to set
 
 ## Properties
 
-### pnJid?
+### pnJid
 
-> `optional` **pnJid**: `null` \| `string`
+> **pnJid**: `string`
 
-Defined in: [WAProto/index.d.ts:44505](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44505)
+Defined in: [WAProto/index.d.ts:35197](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35197)
 
 PnForLidChatAction pnJid.
 
@@ -50,7 +50,7 @@ PnForLidChatAction pnJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44575](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44575)
+Defined in: [WAProto/index.d.ts:35267](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35267)
 
 Converts this PnForLidChatAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PnForLidChatAction`](PnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:44512](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44512)
+Defined in: [WAProto/index.d.ts:35204](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35204)
 
 Creates a new PnForLidChatAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PnForLidChatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PnForLidChatAction`](PnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:44538](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44538)
+Defined in: [WAProto/index.d.ts:35230](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35230)
 
 Decodes a PnForLidChatAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PnForLidChatAction`](PnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:44547](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44547)
+Defined in: [WAProto/index.d.ts:35239](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35239)
 
 Decodes a PnForLidChatAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44520](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44520)
+Defined in: [WAProto/index.d.ts:35212](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35212)
 
 Encodes the specified PnForLidChatAction message. Does not implicitly [verify](PnForLidChatAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44528](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44528)
+Defined in: [WAProto/index.d.ts:35220](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35220)
 
 Encodes the specified PnForLidChatAction message, length delimited. Does not implicitly [verify](PnForLidChatAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PnForLidChatAction`](PnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:44561](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44561)
+Defined in: [WAProto/index.d.ts:35253](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35253)
 
 Creates a PnForLidChatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PnForLidChatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44582](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44582)
+Defined in: [WAProto/index.d.ts:35274](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35274)
 
 Gets the default type url for PnForLidChatAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44569](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44569)
+Defined in: [WAProto/index.d.ts:35261](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35261)
 
 Creates a plain object from a PnForLidChatAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44554](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44554)
+Defined in: [WAProto/index.d.ts:35246](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35246)
 
 Verifies a PnForLidChatAction message.
 

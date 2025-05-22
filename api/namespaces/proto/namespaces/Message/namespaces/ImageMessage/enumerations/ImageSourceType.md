@@ -1,6 +1,6 @@
 # Enumeration: ImageSourceType
 
-Defined in: [WAProto/index.d.ts:23111](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23111)
+Defined in: [WAProto/index.d.ts:16445](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16445)
 
 ImageSourceType enum.
 
@@ -10,7 +10,7 @@ ImageSourceType enum.
 
 > **AI\_GENERATED**: `1`
 
-Defined in: [WAProto/index.d.ts:23113](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23113)
+Defined in: [WAProto/index.d.ts:16447](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16447)
 
 ***
 
@@ -18,15 +18,7 @@ Defined in: [WAProto/index.d.ts:23113](https://github.com/Fokusdotid/Baileys/blo
 
 > **AI\_MODIFIED**: `2`
 
-Defined in: [WAProto/index.d.ts:23114](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23114)
-
-***
-
-### RASTERIZED\_TEXT\_STATUS
-
-> **RASTERIZED\_TEXT\_STATUS**: `3`
-
-Defined in: [WAProto/index.d.ts:23115](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23115)
+Defined in: [WAProto/index.d.ts:16448](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16448)
 
 ***
 
@@ -34,4 +26,4 @@ Defined in: [WAProto/index.d.ts:23115](https://github.com/Fokusdotid/Baileys/blo
 
 > **USER\_IMAGE**: `0`
 
-Defined in: [WAProto/index.d.ts:23112](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L23112)
+Defined in: [WAProto/index.d.ts:16446](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L16446)

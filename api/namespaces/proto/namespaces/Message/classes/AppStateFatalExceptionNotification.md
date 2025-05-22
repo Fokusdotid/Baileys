@@ -1,6 +1,6 @@
 # Class: AppStateFatalExceptionNotification
 
-Defined in: [WAProto/index.d.ts:17466](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17466)
+Defined in: [WAProto/index.d.ts:11112](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11112)
 
 Represents an AppStateFatalExceptionNotification.
 
@@ -14,7 +14,7 @@ Represents an AppStateFatalExceptionNotification.
 
 > **new AppStateFatalExceptionNotification**(`properties`?): [`AppStateFatalExceptionNotification`](AppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:17472](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17472)
+Defined in: [WAProto/index.d.ts:11118](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11118)
 
 Constructs a new AppStateFatalExceptionNotification.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **collectionNames**: `string`[]
 
-Defined in: [WAProto/index.d.ts:17475](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17475)
+Defined in: [WAProto/index.d.ts:11121](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11121)
 
 AppStateFatalExceptionNotification collectionNames.
 
@@ -46,11 +46,11 @@ AppStateFatalExceptionNotification collectionNames.
 
 ***
 
-### timestamp?
+### timestamp
 
-> `optional` **timestamp**: `null` \| `number` \| `Long`
+> **timestamp**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17478](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17478)
+Defined in: [WAProto/index.d.ts:11124](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11124)
 
 AppStateFatalExceptionNotification timestamp.
 
@@ -64,7 +64,7 @@ AppStateFatalExceptionNotification timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17548](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17548)
+Defined in: [WAProto/index.d.ts:11194](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11194)
 
 Converts this AppStateFatalExceptionNotification to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppStateFatalExceptionNotification`](AppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:17485](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17485)
+Defined in: [WAProto/index.d.ts:11131](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11131)
 
 Creates a new AppStateFatalExceptionNotification instance using the specified properties.
 
@@ -104,7 +104,7 @@ AppStateFatalExceptionNotification instance
 
 > `static` **decode**(`reader`, `length`?): [`AppStateFatalExceptionNotification`](AppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:17511](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17511)
+Defined in: [WAProto/index.d.ts:11157](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11157)
 
 Decodes an AppStateFatalExceptionNotification message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppStateFatalExceptionNotification`](AppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:17520](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17520)
+Defined in: [WAProto/index.d.ts:11166](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11166)
 
 Decodes an AppStateFatalExceptionNotification message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17493](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17493)
+Defined in: [WAProto/index.d.ts:11139](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11139)
 
 Encodes the specified AppStateFatalExceptionNotification message. Does not implicitly [verify](AppStateFatalExceptionNotification.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17501](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17501)
+Defined in: [WAProto/index.d.ts:11147](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11147)
 
 Encodes the specified AppStateFatalExceptionNotification message, length delimited. Does not implicitly [verify](AppStateFatalExceptionNotification.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppStateFatalExceptionNotification`](AppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:17534](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17534)
+Defined in: [WAProto/index.d.ts:11180](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11180)
 
 Creates an AppStateFatalExceptionNotification message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AppStateFatalExceptionNotification
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17555](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17555)
+Defined in: [WAProto/index.d.ts:11201](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11201)
 
 Gets the default type url for AppStateFatalExceptionNotification
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17542](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17542)
+Defined in: [WAProto/index.d.ts:11188](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11188)
 
 Creates a plain object from an AppStateFatalExceptionNotification message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17527](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L17527)
+Defined in: [WAProto/index.d.ts:11173](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L11173)
 
 Verifies an AppStateFatalExceptionNotification message.
 

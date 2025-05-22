@@ -1,26 +1,16 @@
 # Interface: IPeerDataOperationRequestMessage
 
-Defined in: [WAProto/index.d.ts:26879](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26879)
+Defined in: [WAProto/index.d.ts:20073](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20073)
 
 Properties of a PeerDataOperationRequestMessage.
 
 ## Properties
 
-### fullHistorySyncOnDemandRequest?
-
-> `optional` **fullHistorySyncOnDemandRequest**: `null` \| [`IFullHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IFullHistorySyncOnDemandRequest.md)
-
-Defined in: [WAProto/index.d.ts:26897](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26897)
-
-PeerDataOperationRequestMessage fullHistorySyncOnDemandRequest
-
-***
-
 ### historySyncOnDemandRequest?
 
 > `optional` **historySyncOnDemandRequest**: `null` \| [`IHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:26891](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26891)
+Defined in: [WAProto/index.d.ts:20085](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20085)
 
 PeerDataOperationRequestMessage historySyncOnDemandRequest
 
@@ -30,7 +20,7 @@ PeerDataOperationRequestMessage historySyncOnDemandRequest
 
 > `optional` **peerDataOperationRequestType**: `null` \| [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
 
-Defined in: [WAProto/index.d.ts:26882](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26882)
+Defined in: [WAProto/index.d.ts:20076](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20076)
 
 PeerDataOperationRequestMessage peerDataOperationRequestType
 
@@ -40,7 +30,7 @@ PeerDataOperationRequestMessage peerDataOperationRequestType
 
 > `optional` **placeholderMessageResendRequest**: `null` \| [`IPlaceholderMessageResendRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IPlaceholderMessageResendRequest.md)[]
 
-Defined in: [WAProto/index.d.ts:26894](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26894)
+Defined in: [WAProto/index.d.ts:20088](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20088)
 
 PeerDataOperationRequestMessage placeholderMessageResendRequest
 
@@ -50,7 +40,7 @@ PeerDataOperationRequestMessage placeholderMessageResendRequest
 
 > `optional` **requestStickerReupload**: `null` \| [`IRequestStickerReupload`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestStickerReupload.md)[]
 
-Defined in: [WAProto/index.d.ts:26885](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26885)
+Defined in: [WAProto/index.d.ts:20079](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20079)
 
 PeerDataOperationRequestMessage requestStickerReupload
 
@@ -60,6 +50,6 @@ PeerDataOperationRequestMessage requestStickerReupload
 
 > `optional` **requestUrlPreview**: `null` \| [`IRequestUrlPreview`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestUrlPreview.md)[]
 
-Defined in: [WAProto/index.d.ts:26888](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L26888)
+Defined in: [WAProto/index.d.ts:20082](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L20082)
 
 PeerDataOperationRequestMessage requestUrlPreview

@@ -1,6 +1,6 @@
 # Interface: IPnForLidChatAction
 
-Defined in: [WAProto/index.d.ts:44489](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44489)
+Defined in: [WAProto/index.d.ts:35181](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35181)
 
 Properties of a PnForLidChatAction.
 
@@ -10,6 +10,6 @@ Properties of a PnForLidChatAction.
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44492](https://github.com/Fokusdotid/Baileys/blob/deec6cc75a88a82eaeedf16b76aa9218b2c772e3/WAProto/index.d.ts#L44492)
+Defined in: [WAProto/index.d.ts:35184](https://github.com/Fokusdotid/Baileys/blob/982cc5b3c62bfc7b56d2f8f8427b6c1a2dda856f/WAProto/index.d.ts#L35184)
 
 PnForLidChatAction pnJid
