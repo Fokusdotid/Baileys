@@ -58,6 +58,7 @@ export const useMultiFileAuthState = async(folder: string): Promise<{ state: Aut
 					release()
 				}
 			})
+		// eslint-disable-next-line @typescript-eslint/no-unused-vars
 		} catch(error) {
 			return null
 		}

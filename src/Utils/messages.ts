@@ -229,6 +229,7 @@ export const prepareWAMessageMedia = async(
 					}
 
 					logger?.debug('removed tmp file')
+				// eslint-disable-next-line @typescript-eslint/no-unused-vars
 				} catch(error) {
 					logger?.warn('failed to remove tmp file')
 				}
@@ -526,9 +527,9 @@ export const generateWAMessageContent = async(
 
 	if('buttons' in message && !!message.buttons) {
 		const buttonsMessage: proto.Message.IButtonsMessage = {
-			buttons: message.buttons!.map(b => ({ ...b, type: proto.Message.ButtonsMessage.Button.Type.RESPONSE }))
+			buttons: message.buttons.map(b => ({ ...b, type: proto.Message.ButtonsMessage.Button.Type.RESPONSE }))
 		}
-		
+
 		if('text' in message) {
 			buttonsMessage.contentText = message.text
 			buttonsMessage.headerType = proto.Message.ButtonsMessage.HeaderType.EMPTY
@@ -536,37 +537,37 @@ export const generateWAMessageContent = async(
 			if('caption' in message && !!message.caption) {
 				buttonsMessage.contentText = message.caption
 			}
-			
+
 			const type = Object.keys(m)[0].replace('Message', '').toUpperCase()
 			buttonsMessage.headerType = proto.Message.ButtonsMessage.HeaderType[type]
-			
+
 			Object.assign(buttonsMessage, m)
 		}
-		
+
 		if('footer' in message && !!message.footer) {
 			buttonsMessage.footerText = message.footer
 		}
-		
+
 		m = { buttonsMessage }
 	} else if('templateButtons' in message && !!message.templateButtons) {
 		const msg: proto.Message.TemplateMessage.IHydratedFourRowTemplate = {
 			hydratedButtons: message.templateButtons
 		}
-		
+
 		if('text' in message) {
 			msg.hydratedContentText = message.text
 		} else {
 			if('caption' in message) {
 				msg.hydratedContentText = message.caption
 			}
-			
+
 			Object.assign(msg, m)
 		}
-		
+
 		if('footer' in message && !!message.footer) {
 			msg.hydratedFooterText = message.footer
 		}
-		
+
 		m = {
 			templateMessage: {
 				fourRowTemplate: msg,
@@ -574,13 +575,13 @@ export const generateWAMessageContent = async(
 			}
 		}
 	}
-	
+
 	if('interactiveButtons' in message && !!message.interactiveButtons) {
 		const interactiveMessage: proto.Message.IInteractiveMessage = {
 			nativeFlowMessage: WAProto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
 				buttons: message.interactiveButtons
 			})
-		};
+		}
 
 		if('text' in message) {
 			interactiveMessage.body = { text: message.text }
@@ -597,11 +598,11 @@ export const generateWAMessageContent = async(
 
 			Object.assign(interactiveMessage.header, m)
 		}
-		
+
 		if('footer' in message && !!message.footer) {
 			interactiveMessage.footer = { text: message.footer }
 		}
-		
+
 		m = { interactiveMessage }
 	}
 
@@ -614,7 +615,7 @@ export const generateWAMessageContent = async(
 			description: message.text,
 			listType: proto.Message.ListMessage.ListType.SINGLE_SELECT
 		}
-		
+
 		m = { listMessage }
 	}
 

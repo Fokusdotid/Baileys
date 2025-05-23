@@ -33,6 +33,7 @@ export const Curve = {
 		try {
 			libsignal.curve.verifySignature(generateSignalPubKey(pubKey), message, signature)
 			return true
+		// eslint-disable-next-line @typescript-eslint/no-unused-vars
 		} catch(error) {
 			return false
 		}

@@ -4,7 +4,7 @@ import { Boom } from '@hapi/boom'
 import { proto } from '../../WAProto'
 import { DEFAULT_CACHE_TTLS, WA_DEFAULT_EPHEMERAL } from '../Defaults'
 import { AnyMessageContent, MediaConnInfo, MessageReceiptType, MessageRelayOptions, MiscMessageGenerationOptions, SocketConfig, WAMessageKey } from '../Types'
-import { aggregateMessageKeysNotFromMe, assertMediaContent, bindWaitForEvent, decryptMediaRetryData, encodeSignedDeviceIdentity, encodeWAMessage, encryptMediaRetryRequest, extractDeviceJids, generateMessageIDV2, generateWAMessage, getStatusCodeForMediaRetry, getUrlFromDirectPath, getWAUploadToServer, normalizeMessageContent, getContentType, parseAndInjectE2ESessions, unixTimestampSeconds } from '../Utils'
+import { aggregateMessageKeysNotFromMe, assertMediaContent, bindWaitForEvent, decryptMediaRetryData, encodeSignedDeviceIdentity, encodeWAMessage, encryptMediaRetryRequest, extractDeviceJids, generateMessageIDV2, generateWAMessage, getContentType, getStatusCodeForMediaRetry, getUrlFromDirectPath, getWAUploadToServer, normalizeMessageContent, parseAndInjectE2ESessions, unixTimestampSeconds } from '../Utils'
 import { getUrlInfo } from '../Utils/link-preview'
 import { areJidsSameUser, BinaryNode, BinaryNodeAttributes, getBinaryNodeChild, getBinaryNodeChildren, isJidGroup, isJidUser, jidDecode, jidEncode, jidNormalizedUser, JidWithDevice, S_WHATSAPP_NET } from '../WABinary'
 import { USyncQuery, USyncUser } from '../WAUSync'
@@ -607,7 +607,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 					const botNode = {
 						tag: 'bot',
 						attrs: {
-							biz_bot: '1'
+							'biz_bot': '1'
 						}
 					}
 
@@ -641,29 +641,29 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 
 		return msgId
 	}
-	
+
 	const getNativeNode = (content) => {
 		if(Array.isArray(content)) {
-			return content!.filter(item => {
-				if(item!.tag === 'biz' && (item!.content && item.content!.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1'))) {
-					return !1;
+			return content.filter(item => {
+				if(item!.tag === 'biz' && item!.content?.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1')) {
+					return !1
 				}
-				
-				return !0;
+
+				return !0
 			})
 		} else {
 			return content
 		}
 	}
-	
+
 	const getBotNode = (content) => {
 		if(Array.isArray(content)) {
-			return content!.filter(item => {
-				if(item!.tag === 'biz' && (item!.content && item.content!.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1'))) {
-					return !1;
+			return content.filter(item => {
+				if(item!.tag === 'biz' && item!.content?.filter(tag => tag!.tag === 'interactive' && tag!.attrs && tag.attrs!.type === 'native_flow' && tag.attrs!.v === '1')) {
+					return !1
 				}
-				
-				return !0;
+
+				return !0
 			})
 		} else {
 			return content
@@ -683,7 +683,9 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 	const getMediaType = (message: proto.IMessage) => {
 		if(message.viewOnceMessage) {
 			return getMediaType(message.viewOnceMessage.message!)
-		} if(message.imageMessage) {
+		}
+
+		if(message.imageMessage) {
 			return 'image'
 		} else if(message.videoMessage) {
 			return message.videoMessage.gifPlayback ? 'gif' : 'video'
@@ -809,15 +811,15 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 								try {
 									const media = await decryptMediaRetryData(result.media!, mediaKey, result.key.id!)
 									if(media.result !== proto.MediaRetryNotification.ResultType.SUCCESS) {
-										const resultStr = proto.MediaRetryNotification.ResultType[media.result!]
+										const resultStr = proto.MediaRetryNotification.ResultType[media.result]
 										throw new Boom(
 											`Media re-upload failed by device (${resultStr})`,
-											{ data: media, statusCode: getStatusCodeForMediaRetry(media.result!) || 404 }
+											{ data: media, statusCode: getStatusCodeForMediaRetry(media.result) || 404 }
 										)
 									}
 
 									content.directPath = media.directPath
-									content.url = getUrlFromDirectPath(content.directPath!)
+									content.url = getUrlFromDirectPath(content.directPath)
 
 									logger.debug({ directPath: media.directPath, key: result.key }, 'media update successful')
 								} catch(err) {
@@ -888,7 +890,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 						...options,
 					}
 				)
-	
+
 				// Custom By Fokus ID
 				const isAiMsg = 'ai' in content && !!content.ai
 				const isDeleteMsg = 'delete' in content && !!content.delete
@@ -920,7 +922,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 					additionalNodes.push({
 						tag: 'bot',
 						attrs: {
-							biz_bot: '1'
+							'biz_bot': '1'
 						}
 					} as BinaryNode)
 				}
@@ -928,7 +930,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 				if('cachedGroupMetadata' in options) {
 					console.warn('cachedGroupMetadata in sendMessage are deprecated, now cachedGroupMetadata is part of the socket config.')
 				}
-				
+
 				if('additionalNodes' in options && options.additionalNodes) {
 					additionalNodes.push({ ...options.additionalNodes } as BinaryNode)
 				}

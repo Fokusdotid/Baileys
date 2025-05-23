@@ -345,16 +345,16 @@ export const encryptedStream = async(
 
 	const mediaKey = Crypto.randomBytes(32)
 	const { cipherKey, iv, macKey } = await getMediaKeys(mediaKey, mediaType)
-	
+
 	const encFilePath = join(
 		getTmpFilesDirectory(),
 		mediaType + generateMessageIDV2() + '-enc'
 	)
 	const encFileWriteStream = createWriteStream(encFilePath)
-	
+
 	let originalFileStream: WriteStream | undefined
 	let originalFilePath: string | undefined
-	
+
 	if(saveOriginalFileIfRequired) {
 		originalFilePath = join(
 			getTmpFilesDirectory(),
@@ -368,7 +368,7 @@ export const encryptedStream = async(
 	const hmac = Crypto.createHmac('sha256', macKey!).update(iv)
 	const sha256Plain = Crypto.createHash('sha256')
 	const sha256Enc = Crypto.createHash('sha256')
-	
+
 	const onChunk = (buff: Buffer) => {
 		sha256Enc.update(buff)
 		hmac.update(buff)
@@ -443,7 +443,7 @@ export const encryptedStream = async(
 				await fs.unlink(originalFilePath)
 			}
 		} catch(err) {
-				logger?.error({ err }, 'failed to save to tmp path')
+			logger?.error({ err }, 'failed to save to tmp path')
 		}
 
 		throw error

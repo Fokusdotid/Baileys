@@ -200,6 +200,7 @@ export const makeSocket = (config: SocketConfig) => {
 				},
 			)
 
+			// eslint-disable-next-line @typescript-eslint/no-explicit-any
 			return result as any
 		} finally {
 			ws.off(`TAG:${msgId}`, onRecv!)
@@ -490,13 +491,13 @@ export const makeSocket = (config: SocketConfig) => {
 	const requestPairingCode = async(phoneNumber: string, customCode?: string): Promise<string> => {
 		authState.creds.pairingCode = bytesToCrockford(randomBytes(5))
 
-		if (customCode) {
-			if (!/^[a-zA-Z0-9]{8}$/.test(customCode)) {
+		if(customCode) {
+			if(!/^[a-zA-Z0-9]{8}$/.test(customCode)) {
 				logger.warn('❌ Invalid custom pairing code. It must be exactly 8 alphanumeric characters.')
 				logger.warn('⚠️ Regenerating new code..')
-				customCode = bytesToCrockford(randomBytes(5));
+				customCode = bytesToCrockford(randomBytes(5))
 			}
-			
+
 			authState.creds.pairingCode = customCode
 		}
 

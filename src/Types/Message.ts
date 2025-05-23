@@ -87,10 +87,10 @@ type Buttonable = {
 type Listable = {
 	/** Sections of the List */
 	sections?: proto.Message.ListMessage.ISection[]
-	
+
 	/** Title of a List Message only */
 	title?: string
-	
+
 	/** Text of the bnutton on the list (required) */
 	buttonText?: string
 }

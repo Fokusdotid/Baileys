@@ -165,6 +165,7 @@ export const addTransactionCapability = (
 								await state.set(mutations)
 								logger.trace({ dbQueriesInTransaction }, 'committed transaction')
 								break
+							// eslint-disable-next-line @typescript-eslint/no-unused-vars
 							} catch(error) {
 								logger.warn(`failed to commit ${Object.keys(mutations).length} mutations, tries left=${tries}`)
 								await delay(delayBetweenTriesMs)

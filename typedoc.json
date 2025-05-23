@@ -4,6 +4,5 @@
   "excludePrivate": true,
   "excludeProtected": true,
   "excludeExternals": true,
-  "includeVersion": false,
-  "gaID": "G-WBY63HR4VS"
+  "includeVersion": false
 }
